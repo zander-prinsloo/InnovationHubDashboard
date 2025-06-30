@@ -7,6 +7,8 @@ Description: PKG_DESC.
 License: What license is it under?
 Imports: 
     config,
+    fastverse,
+    ggplot2,
     golem,
     scrollytell,
     shiny
