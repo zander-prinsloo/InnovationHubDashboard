@@ -31,8 +31,10 @@ plot_country_method_default <-
            subtitle_use,
            caption_use) {
 
-    d[variable          == "headcount_default" &
-        reporting_level == "national"] |>
+    d <- d |>
+      fsubset(variable        == "headcount_default" &
+              reporting_level == "national")
+    d |>
     ggplot(mapping = aes(x = year,
                          y = value)) +
 
@@ -56,7 +58,7 @@ plot_country_method_default <-
       scale_y_continuous(expand = expansion(mult = c(0,
                                                      0.05))) +
       labs(title    = main_title,
-           subtitle = paste0(substitle_use),
+           subtitle = paste0(subtitle_use),
            caption  = caption_use,
            x        = NULL,
            y        = "Headcount (%)") +
@@ -66,7 +68,7 @@ plot_country_method_default <-
                                      headcount_estimate = "#D55E00")) +
       scale_shape_manual(values  = c(headcount_default  = 16,
                                      headcount_estimate = 17)) +
-      scale_x_continuous(breaks  = sort(unique(d_step2$year))) +
+      scale_x_continuous(breaks  = sort(unique(d$year))) +
       scale_y_continuous(limits  = c(min(d$value) - 1,
                                      max(d$value) + 1),
                          expand  = expansion(mult = c(0,
@@ -180,7 +182,7 @@ plot_country_method_alloc <-
                                                      .02))) +
       labs(title    = paste0(main_title,
                              " using different household consumption allocation rules"),
-           subtitle = paste0(substitle_use),
+           subtitle = paste0(subtitle_use),
            caption  = caption_use,
            x        = NULL,
            y        = "Headcount (%)",
@@ -296,7 +298,7 @@ plot_country_method_consc <-
                          expand = expansion(mult = c(0, .02))) +
       labs(title    = paste0(main_title,
                              " by converting income distributions to consumption distributions"),
-           subtitle = paste0(substitle_use),
+           subtitle = paste0(subtitle_use),
            caption  = caption_use,
            x        = NULL,
            y        = "Headcount (%)",
@@ -336,7 +338,7 @@ plot_country_method_rurb1 <-
 
     # single row just holding the min / max of the alternatives
     range_2015  <- d_step4 |>                        # every alt-method for 2015
-      fsubset(year     == 2015,
+      fsubset(year     == 2015 &
               variable == "headcount_estimate") |>
       fsummarise(year = 2015,
                  ymin = min(value),
@@ -413,7 +415,7 @@ plot_country_method_rurb1 <-
                          expand = expansion(mult = c(0, .02))) +
       labs(title    = paste0(main_title,
                              " using the Degree of Urbanization (DOU) approach for consistent subnational measurements"),
-           subtitle = paste0(substitle_use),
+           subtitle = paste0(subtitle_use),
            caption  = caption_use,
            x = NULL,
            y = "Headcount (%)",
@@ -453,7 +455,7 @@ plot_country_method_rurb2 <-
 
     # single row just holding the min / max of the alternatives
     range_2015b  <- d_step4b |>                        # every alt-method for 2015
-      fsubset(year == 2015,
+      fsubset(year == 2015 &
               variable == "headcount_estimate") |>
       fsummarise(year = 2015,
                  ymin = min(value),
@@ -521,7 +523,7 @@ plot_country_method_rurb2 <-
                          expand = expansion(mult = c(0, .02))) +
       labs(title    = paste0(main_title,
                              " using the Dartboard (DB) approach for consistent subnational measurements"),
-           subtitle = paste0(substitle_use),
+           subtitle = paste0(subtitle_use),
            caption  = caption_use,
            x = NULL,
            y = "Headcount (%)",

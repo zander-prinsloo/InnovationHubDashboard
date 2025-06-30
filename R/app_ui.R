@@ -6,11 +6,12 @@
 #' @noRd
 app_ui <- function(request) {
   tagList(
-    # Leave this function for adding external resources
+    # 1. Leave this function for adding external resources
     golem_add_external_resources(),
-    # Your application UI logic
+    # 2. My UI –
     fluidPage(
-      golem::golem_welcome_page() # Remove this line to start building your UI
+      # full-width, no sidebar for now
+      mod_country_deepdives_multiple_methods_ui("dd_col")
     )
   )
 }
