@@ -1,3 +1,12 @@
+#' Wrapper for scrolly plots that do a deepdive on all methods
+#'
+#' @param step  one of "s1" … "s5"
+#' @param plots named list created by `plot_country_deepdives_multiple_methods()`
+#' @return a ggplot object
+#' @export
+country_dd_plot <- function(step, plots) {
+  plots[[step]]
+}
 
 
 plot_country_deepdives_multiple_methods <-
