@@ -19,11 +19,11 @@ mod_country_deepdives_multiple_methods_ui <- function(id) {
       ),
 
       scrollytell::scrolly_sections(
-        scrollytell::scrolly_section(id = "s1", h3("Default PIP methodology")),
-        scrollytell::scrolly_section(id = "s2", h3("Household allocation rules (2019)")),
-        scrollytell::scrolly_section(id = "s3", h3("Income → consumption conversion (2022)")),
-        scrollytell::scrolly_section(id = "s4", h3("DOU sub-national approach (2015)")),
-        scrollytell::scrolly_section(id = "s5", h3("Dartboard sub-national approach (2015)"))
+        scrollytell::scrolly_section(id = "s1"),
+        scrollytell::scrolly_section(id = "s2"),
+        scrollytell::scrolly_section(id = "s3"),
+        scrollytell::scrolly_section(id = "s4"),
+        scrollytell::scrolly_section(id = "s5")
       )
     )
   )
