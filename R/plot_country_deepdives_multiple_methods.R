@@ -18,10 +18,14 @@ plot_country_deepdives_multiple_methods <-
 
   # return one of the five ggplot objects
   list("s1" = plot_default,
-       "s2" = plot_alloc,
-       "s3" = plot_cons,
-       "s4" = plot_rurb1,
-       "s5" = plot_rurb2)
+       "s2"   = plot_alloc,
+       "s3"    = plot_cons,
+       "s4"   = plot_rurb1,
+       "s4a"  = plot_rurb1,
+       "s5"   = plot_rurb2,
+       "s5a"  = plot_rurb2,
+       "s5b"  = plot_rurb2,
+       "s5c"  = plot_rurb2 )
 }
 
 

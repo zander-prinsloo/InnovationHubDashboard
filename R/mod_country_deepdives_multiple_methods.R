@@ -13,9 +13,25 @@ mod_country_deepdives_multiple_methods_ui <- function(id, md_dir) {
   dirmd <- fs::path("inst",
                     "app")
   ## read the markdown *once* when the UI is built ---------
-  md1 <- includeMarkdown(fs::path(dir, "stettehbaah_2024-08-16.md"))
-  md2 <- includeMarkdown(fs::path(dir, "dmahler_2024-08-15.md"))
-  md3 <- includeMarkdown(fs::path(dir, "snakamura2_2024-08-30.md"))
+  intro <- includeMarkdown(fs::path(dirmd,
+                                    "paper_descriptions",
+                                    "scrolly_intro_text.md"))
+  md1   <- includeMarkdown(fs::path(dirmd,
+                                    "paper_descriptions",
+                                    "stettehbaah_2024-08-16.md"))
+  md2   <- includeMarkdown(fs::path(dirmd,
+                                    "paper_descriptions",
+                                    "dmahler_2024-08-15.md"))
+  #md3   <- includeMarkdown(fs::path(dir, "snakamura2_2024-08-30.md"))
+  md3a   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "snakamura2_cleaned_intro.md"))
+  md3b   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "snakamura2_cleaned_1.md"))
+  md3c   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "snakamura2_cleaned_2.md"))
   metadata1 <- readxl::read_excel(path = fs::path(dirmd,
                                                "metadata",
                                                "stettehbaah_2024-08-16.xlsx"))
@@ -38,11 +54,16 @@ mod_country_deepdives_multiple_methods_ui <- function(id, md_dir) {
       ),
 
       scrollytell::scrolly_sections(
-        scrollytell::scrolly_section("paper 1", id = "s1"),
+        scrollytell::scrolly_section(intro, id = "s1"),
         scrollytell::scrolly_section(briefdesc1, id = "s2"),
-        scrollytell::scrolly_section(briefdesc2, id = "s3"),
+        scrollytell::scrolly_section(md2, id = "s3"),
         scrollytell::scrolly_section(briefdesc3, id = "s4"),
-        scrollytell::scrolly_section(briefdesc3, id = "s5")
+        #scrollytell::scrolly_section("testing", id = "s4a"),
+        scrollytell::scrolly_section(md3a, id = "s5"),
+        scrollytell::scrolly_section(md3b, id = "s5a"),
+        scrollytell::scrolly_section("testing", id = "s5b"),
+        scrollytell::scrolly_section("testing", id = "s5b"),
+        scrollytell::scrolly_section(md3c, id = "s5c")
       )
       # scrollytell::scrolly_sections(
       #   scrollytell::scrolly_section(id = "s1", h1("Plot A")),
@@ -78,8 +99,7 @@ mod_country_deepdives_multiple_methods_server <- function(id,
 
     ## ---------- 2. build plots (unchanged) -----------------------
 
-
-    plots <- reactiveVal({
+    plots <-
       plot_country_deepdives_multiple_methods(
         plot_default = plot_country_method_default(d            = d_all,
                                                    main_title   = titles$main_title,
@@ -102,19 +122,32 @@ mod_country_deepdives_multiple_methods_server <- function(id,
                                                  subtitle_use = titles$subtitle_use,
                                                  caption_use  = titles$caption_use)
       )
-    })
+
     scrl_num <- reactive({
-      input$scr
+      scr <- input$scr
+      if (is.null(scr)) {
+        return(NULL)
+      }
+
+      ## scrollytell sometimes returns a numeric index
+      ## normalise to our "s1" … "s5" convention
+      if (is.numeric(scr)) {
+        scr <- paste0("s", scr)
+      }
+
+      as.character(scr)
     })
 
     ## 2b.  Render the one that matches the scroll section -------
     output$deepdive_plot <- renderPlot({
       req(input$scr)                               # "s1" … "s5"
-      country_dd_plot(scrl_num(), plots())
+      country_dd_plot(scrl_num(), plots)
     })
 
     ## 2c.  Keep scrollama in sync --------------------------------
-    output$scr <- scrollytell::renderScrollytell(scrollytell::scrollytell())
+    output$scr <- scrollytell::renderScrollytell(
+      scrollytell::scrollytell()
+    )
 
   })
 }

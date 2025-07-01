@@ -1,0 +1,3 @@
+This paper by Nakamura et al. (2023) aims to provide new evidence on poverty distributions within and between countries based on globally consistent urban and rural poverty measurements. They use approaches by Combes et al. (2023) to consistently delineate urban areas across countries using two different approaches: the Degree of Urbanization (DOU) and Dartboard (DB) approaches. 
+
+The DOU approach classifies cells in a gridded population layer into different urban and rural categories by applying uniform population and population density thresholds to all countries. Meanwhile, the DB approach also classifies gridded population cells but distinguishes different urban and rural categories based on each country’s own population density distribution. 
