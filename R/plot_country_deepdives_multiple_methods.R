@@ -31,6 +31,8 @@ plot_country_method_default <-
            subtitle_use,
            caption_use) {
 
+    dmin <- min(d$value)
+    dmax <- max(d$value)
     d <- d |>
       fsubset(variable        == "headcount_default" &
               reporting_level == "national")
@@ -69,8 +71,8 @@ plot_country_method_default <-
       scale_shape_manual(values  = c(headcount_default  = 16,
                                      headcount_estimate = 17)) +
       scale_x_continuous(breaks  = sort(unique(d$year))) +
-      scale_y_continuous(limits  = c(min(d$value) - 1,
-                                     max(d$value) + 1),
+      scale_y_continuous(limits  = c(dmin - 1,
+                                     dmax + 1),
                          expand  = expansion(mult = c(0,
                                                       .02))) +
 
