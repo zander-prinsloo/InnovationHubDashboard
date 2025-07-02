@@ -3,3 +3,13 @@
   min-height: 70vh;      /* 70 % of viewport height */
   padding-top: 1rem;
 }
+/* css/scrolly.scss */
+.scrolly-step        {max-width:36rem; margin-inline:auto; line-height:1.45;}
+.scrolly-step p      {font-weight:300;}
+.is-active .stephead {color:#111;}
+.stephead            {color:#888; transition:color .3s;}
+/* progress bar */
+#progressDots {position:fixed; right:1rem; top:40%; z-index:10;}
+#progressDots li     {width:.5rem; height:.5rem; border-radius:50%;
+                      background:#bbb; margin:.4rem 0;}
+#progressDots li.on  {background:#0072B2;}
