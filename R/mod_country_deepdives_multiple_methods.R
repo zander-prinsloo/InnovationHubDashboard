@@ -16,12 +16,33 @@ mod_country_deepdives_multiple_methods_ui <- function(id, md_dir) {
   intro <- includeMarkdown(fs::path(dirmd,
                                     "paper_descriptions",
                                     "scrolly_intro_text.md"))
-  md1   <- includeMarkdown(fs::path(dirmd,
-                                    "paper_descriptions",
-                                    "stettehbaah_2024-08-16.md"))
-  md2   <- includeMarkdown(fs::path(dirmd,
-                                    "paper_descriptions",
-                                    "dmahler_2024-08-15.md"))
+  md1a   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "stettehbaah_1.md"))
+  md1b   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "stettehbaah_2.md"))
+  md1c   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "stettehbaah_3.md"))
+  md2a   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "dmahler_1.md"))
+  md2ab   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "dmahler_1b.md"))
+  md2b   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "dmahler_2.md"))
+  md2c   <- includeMarkdown(fs::path(dirmd,
+                                     "paper_descriptions",
+                                     "dmahler_3.md"))
+  # md1   <- includeMarkdown(fs::path(dirmd,
+  #                                   "paper_descriptions",
+  #                                   "stettehbaah_2024-08-16.md"))
+  # md2   <- includeMarkdown(fs::path(dirmd,
+  #                                   "paper_descriptions",
+  #                                   "dmahler_2024-08-15.md"))
   #md3   <- includeMarkdown(fs::path(dir, "snakamura2_2024-08-30.md"))
   md3a   <- includeMarkdown(fs::path(dirmd,
                                      "paper_descriptions",
@@ -55,23 +76,21 @@ mod_country_deepdives_multiple_methods_ui <- function(id, md_dir) {
 
       scrollytell::scrolly_sections(
         scrollytell::scrolly_section(intro, id = "s1"),
-        scrollytell::scrolly_section(briefdesc1, id = "s2"),
-        scrollytell::scrolly_section(md2, id = "s3"),
-        scrollytell::scrolly_section(briefdesc3, id = "s4"),
-        #scrollytell::scrolly_section("testing", id = "s4a"),
+        scrollytell::scrolly_section(md1a, id = "s2a"),
+        scrollytell::scrolly_section(md1b, id = "s2b"),
+        scrollytell::scrolly_section(md1c, id = "s2c"),
+        scrollytell::scrolly_section(md2a, id = "s3a"),
+        scrollytell::scrolly_section(md2ab, id = "s3a"),
+        scrollytell::scrolly_section(md2b, id = "s3b"),
+        scrollytell::scrolly_section(md2c, id = "s3c"),
+        # scrollytell::scrolly_section(md2, id = "s3"),
+        scrollytell::scrolly_section(md3a, id = "s4"),
         scrollytell::scrolly_section(md3a, id = "s5"),
         scrollytell::scrolly_section(md3b, id = "s5a"),
         scrollytell::scrolly_section("testing", id = "s5b"),
         scrollytell::scrolly_section("testing", id = "s5b"),
         scrollytell::scrolly_section(md3c, id = "s5c")
       )
-      # scrollytell::scrolly_sections(
-      #   scrollytell::scrolly_section(id = "s1", h1("Plot A")),
-      #   scrollytell::scrolly_section(id = "s2", h1("Plot B")),
-      #   scrollytell::scrolly_section(id = "s3", h1("Plot C")),
-      #   scrollytell::scrolly_section(id = "s4", h1("Plot D")),
-      #   scrollytell::scrolly_section(id = "s5", h1("Plot E"))
-      # )
     )
   )
 }
@@ -105,11 +124,27 @@ mod_country_deepdives_multiple_methods_server <- function(id,
                                                    main_title   = titles$main_title,
                                                    subtitle_use = titles$subtitle_use,
                                                    caption_use  = titles$caption_use),
+        plot_alloc_init = plot_country_method_alloc_init(d            = d_all,
+                                                      main_title   = titles$main_title,
+                                                      subtitle_use = titles$subtitle_use,
+                                                      caption_use  = titles$caption_use),
+        plot_alloc_second = plot_country_method_alloc_secondary(d            = d_all,
+                                                           main_title   = titles$main_title,
+                                                           subtitle_use = titles$subtitle_use,
+                                                           caption_use  = titles$caption_use),
         plot_alloc   = plot_country_method_alloc(d            = d_all,
                                                  main_title   = titles$main_title,
                                                  subtitle_use = titles$subtitle_use,
                                                  caption_use  = titles$caption_use),
-        plot_cons    = plot_country_method_consc(d            = d_all,
+        plot_cons_init = plot_country_method_consc_init(d            = d_all,
+                                                         main_title   = titles$main_title,
+                                                         subtitle_use = titles$subtitle_use,
+                                                         caption_use  = titles$caption_use),
+        plot_cons_second = plot_country_method_consc_secondary(d            = d_all,
+                                                                main_title   = titles$main_title,
+                                                                subtitle_use = titles$subtitle_use,
+                                                                caption_use  = titles$caption_use),
+        plot_cons   = plot_country_method_consc(d            = d_all,
                                                  main_title   = titles$main_title,
                                                  subtitle_use = titles$subtitle_use,
                                                  caption_use  = titles$caption_use),

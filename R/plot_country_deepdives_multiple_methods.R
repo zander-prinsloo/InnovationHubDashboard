@@ -11,15 +11,23 @@ country_dd_plot <- function(step, plots) {
 
 plot_country_deepdives_multiple_methods <-
   function(plot_default,
+           plot_alloc_init,
+           plot_alloc_second,
            plot_alloc,
+           plot_cons_init,
+           plot_cons_second,
            plot_cons,
            plot_rurb1,
            plot_rurb2) {
 
   # return one of the five ggplot objects
   list("s1" = plot_default,
-       "s2"   = plot_alloc,
-       "s3"    = plot_cons,
+       "s2a"   = plot_alloc_init,
+       "s2b"   = plot_alloc_second,
+       "s2c"   = plot_alloc,
+       "s3a"   = plot_cons_init,
+       "s3b"   = plot_cons_second,
+       "s3c"   = plot_cons,
        "s4"   = plot_rurb1,
        "s4a"  = plot_rurb1,
        "s5"   = plot_rurb2,
@@ -85,6 +93,183 @@ plot_country_method_default <-
       theme(panel.grid.minor   = element_blank(),
             panel.grid.major.x = element_blank(),
             legend.position    = "none")
+
+  }
+
+
+plot_country_method_alloc_init <-
+  function(d,
+           main_title,
+           subtitle_use,
+           caption_use) {
+
+    d_step2 <- d |>
+      fsubset(variable        == "headcount_default" &
+                reporting_level == "national")
+
+    #–– Plot –––––––––––––––––––––––––––––––––––––––––––
+    ggplot() +
+
+      ## Points
+      geom_point(d_step2 |>
+                   fsubset(year == 2019),
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_point(d_step2 |>
+                   fsubset(!year == 2019),
+                 alpha = 0.4,
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_text_repel(d_step2 |>
+                        fsubset(year == 2019),
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label),
+                      nudge_x = 0.15,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      geom_text_repel(d_step2 |>
+                        fsubset(!year == 2019),
+                      alpha = 0.4,
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label_not),
+                      nudge_x = 0.15,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      scale_colour_manual(values = c(
+        headcount_default  = "#0072B2",  # blue
+        headcount_estimate = "#D55E00"   # orange
+      )) +
+      scale_shape_manual(values = c(
+        headcount_default  = 16,         # solid circle
+        headcount_estimate = 17          # triangle
+      )) +
+
+      scale_x_continuous(breaks = sort(unique(d_step2$year))) +
+      scale_y_continuous(limits = c(min(d$value) - 1,
+                                    max(d$value) + 1),
+                         expand = expansion(mult = c(0,
+                                                     .02))) +
+      labs(title    = paste0(main_title,
+                             " using different household consumption allocation rules"),
+           subtitle = paste0(subtitle_use),
+           caption  = caption_use,
+           x        = NULL,
+           y        = "Headcount (%)",
+           colour   = NULL,
+           shape    = NULL) +
+
+      theme_minimal(base_size = 11) +
+      theme(
+        panel.grid.minor   = element_blank(),
+        panel.grid.major.x = element_blank(),
+        legend.position    = "none")
+
+
+
+  }
+
+
+plot_country_method_alloc_secondary <-
+  function(d,
+           main_title,
+           subtitle_use,
+           caption_use) {
+
+    d_step2 <- d |>
+      fsubset(!(year %in% c(2015, 2022)
+                & variable == "headcount_estimate"))
+
+
+    #–– Plot –––––––––––––––––––––––––––––––––––––––––––
+    ggplot() +
+
+      ## Points
+      geom_point(d_step2 |>
+                   fsubset(year == 2019),
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_point(d_step2 |>
+                   fsubset(!year == 2019),
+                 alpha = 0.4,
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_text_repel(d_step2 |>
+                        fsubset(year == 2019),
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label),
+                      nudge_x = 0.15,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      geom_text_repel(d_step2 |>
+                        fsubset(!year == 2019),
+                      alpha = 0.4,
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label_not),
+                      nudge_x = 0.15,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      scale_colour_manual(values = c(
+        headcount_default  = "#0072B2",  # blue
+        headcount_estimate = "#D55E00"   # orange
+      )) +
+      scale_shape_manual(values = c(
+        headcount_default  = 16,         # solid circle
+        headcount_estimate = 17          # triangle
+      )) +
+
+      scale_x_continuous(breaks = sort(unique(d_step2$year))) +
+      scale_y_continuous(limits = c(min(d$value) - 1,
+                                    max(d$value) + 1),
+                         expand = expansion(mult = c(0,
+                                                     .02))) +
+      labs(title    = paste0(main_title,
+                             " using different household consumption allocation rules"),
+           subtitle = paste0(subtitle_use),
+           caption  = caption_use,
+           x        = NULL,
+           y        = "Headcount (%)",
+           colour   = NULL,
+           shape    = NULL) +
+
+      theme_minimal(base_size = 11) +
+      theme(
+        panel.grid.minor   = element_blank(),
+        panel.grid.major.x = element_blank(),
+        legend.position    = "none")
+
+
 
   }
 
@@ -204,6 +389,197 @@ plot_country_method_alloc <-
 
 
   }
+
+
+
+
+plot_country_method_consc_init <-
+  function(d,
+           main_title,
+           subtitle_use,
+           caption_use) {
+
+    #–– 1.  Data for this step ––––––––––––––––––––––––––––––
+    d_step3 <- d |>
+      fsubset(!(year %in% c(2015, 2022)
+                & variable == "headcount_estimate"))
+
+    #–– 3.  Plot –––––––––––––––––––––––––––––––––––––––––––
+    ggplot() +
+
+      geom_point(d_step3 |>
+                   fsubset(year == 2022),
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_point(d_step3 |>
+                   fsubset(!year == 2022),
+                 alpha = 0.4,
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_text_repel(d_step3 |>
+                        fsubset(year == 2022),
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label),
+                      nudge_x = 0.15,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      geom_text_repel(d_step3 |>
+                        fsubset(!year == 2022),
+                      alpha = 0.4,
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label_not),
+                      nudge_x = 0.3,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      scale_colour_manual(values = c(
+        headcount_default  = "#0072B2",  # blue
+        headcount_estimate = "#D55E00"   # orange
+      )) +
+      scale_shape_manual(values = c(
+        headcount_default  = 16,         # solid circle
+        headcount_estimate = 17          # triangle
+      )) +
+
+      scale_x_continuous(breaks = sort(unique(d_step3$year))) +
+      scale_y_continuous(limits = c(min(d$value) - 1, max(d$value) + 1),
+                         expand = expansion(mult = c(0, .02))) +
+      labs(title    = paste0(main_title,
+                             " by converting income distributions to consumption distributions"),
+           subtitle = paste0(subtitle_use),
+           caption  = caption_use,
+           x        = NULL,
+           y        = "Headcount (%)",
+           colour   = NULL,
+           shape    = NULL) +
+
+
+      theme_minimal(base_size = 11) +
+      theme(
+        panel.grid.minor   = element_blank(),
+        panel.grid.major.x = element_blank(),
+        legend.position    = "none"
+      )
+
+
+
+
+  }
+
+
+
+plot_country_method_consc_secondary <-
+  function(d,
+           main_title,
+           subtitle_use,
+           caption_use) {
+
+    #–– 1.  Data for this step ––––––––––––––––––––––––––––––
+    d_step3 <- d |>
+      fsubset(!(year       == 2015 &
+                  variable == "headcount_estimate"))
+
+    #–– 3.  Plot –––––––––––––––––––––––––––––––––––––––––––
+    ggplot() +
+
+      geom_point(d_step3 |>
+                   fsubset(year == 2022),
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_point(d_step3 |>
+                   fsubset(!year == 2022),
+                 alpha = 0.4,
+                 mapping = aes(x = year,
+                               y = value,
+                               colour = variable,
+                               shape = variable),
+                 size = 3) +
+
+      geom_text_repel(d_step3 |>
+                        fsubset(year == 2022),
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label),
+                      nudge_x = 0.15,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      geom_text_repel(d_step3 |>
+                        fsubset(!year == 2022),
+                      alpha = 0.4,
+                      mapping = aes(x = year,
+                                    y = value,
+                                    colour = variable,
+                                    shape = variable,
+                                    label = label_not),
+                      nudge_x = 0.3,
+                      size    = 5,
+                      show.legend = FALSE) +
+
+      scale_colour_manual(values = c(
+        headcount_default  = "#0072B2",  # blue
+        headcount_estimate = "#D55E00"   # orange
+      )) +
+      scale_shape_manual(values = c(
+        headcount_default  = 16,         # solid circle
+        headcount_estimate = 17          # triangle
+      )) +
+
+      scale_x_continuous(breaks = sort(unique(d_step3$year))) +
+      scale_y_continuous(limits = c(min(d$value) - 1, max(d$value) + 1),
+                         expand = expansion(mult = c(0, .02))) +
+      labs(title    = paste0(main_title,
+                             " by converting income distributions to consumption distributions"),
+           subtitle = paste0(subtitle_use),
+           caption  = caption_use,
+           x        = NULL,
+           y        = "Headcount (%)",
+           colour   = NULL,
+           shape    = NULL) +
+
+
+      theme_minimal(base_size = 11) +
+      theme(
+        panel.grid.minor   = element_blank(),
+        panel.grid.major.x = element_blank(),
+        legend.position    = "none"
+      )
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
 plot_country_method_consc <-
   function(d,
            main_title,
@@ -211,6 +587,9 @@ plot_country_method_consc <-
            caption_use) {
 
     #–– 1.  Data for this step ––––––––––––––––––––––––––––––
+    d_step3 <- d |>
+      fsubset(!(year %in% c(2015, 2022)
+                & variable == "headcount_estimate"))
     d_step3 <- d |>
       fsubset(!(year       == 2015 &
                   variable == "headcount_estimate"))
@@ -323,6 +702,8 @@ plot_country_method_consc <-
 
 
   }
+
+
 plot_country_method_rurb1 <-
   function(d,
            main_title,
