@@ -14,7 +14,6 @@ mod_interactive_dashboard_ui <- function(id) {
         selectInput(
           inputId = ns("select_method"),
           label   = "Select Method:",
-          # you can hard‐code or override in the server with updateSelectInput()
           choices = c("Welfare conversion", "Household allocation"),
           selected = "Welfare conversion"
         ),
@@ -23,7 +22,7 @@ mod_interactive_dashboard_ui <- function(id) {
         selectInput(
           inputId = ns("select_economy"),
           label   = "Select Economy:",
-          choices = NULL,           # we’ll populate this in server
+          choices = NULL,
           selected = NULL
         ),
 
@@ -34,6 +33,7 @@ mod_interactive_dashboard_ui <- function(id) {
         # 4 learn‐more button
         actionButton(ns("learn_more"), "Learn more", class = "btn btn-primary")
       ),
+
       column(
         width = 6,
         plotOutput(
@@ -46,57 +46,48 @@ mod_interactive_dashboard_ui <- function(id) {
 
     br(),
 
-    ## 2nd row: dark‐blue infoblock ----
-    fluidRow(
-      column(
-        12,
-        tags$div(
-          style = "
-            background-color: #003f5c;
-            color: #ffffff;
-            padding: 20px;
-            border-radius: 4px;
-          ",
-          p("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer volutpat justo elit, vel placerat lectus tempus in..."),
-          p("Donec rhoncus eget metus maximus vehicula. Aenean id nulla porttitor, rhoncus nisi at, condimentum odio...")
-        )
-      )
-    ),
+    ## Wrap the *entire* lower section in dark‐blue ----
+    tags$div(
+      style = "
+        background-color: #003f5c;
+        color: #ffffff;
+        padding: 20px;
+        border-radius: 4px;
+      ",
 
-    br(),
-
-    ## 3rd row: toggle buttons ----
-    fluidRow(
-      column(
-        width = 4, align = "center",
-        actionButton(ns("btn_rankings"),  "Rankings",   class = "btn btn-outline-primary")
-      ),
-      column(
-        width = 4, align = "center",
-        actionButton(ns("btn_changes"),   "Changes",    class = "btn btn-outline-primary")
-      ),
-      column(
-        width = 4, align = "center",
-        actionButton(ns("btn_scatter"),   "Scatterplot",class = "btn btn-outline-primary")
-      )
-    ),
-
-    br(),
-
-    ## 4th row: bottom chart + side note ----
-    fluidRow(
-      column(
-        width = 10,
-        plotOutput(
-          outputId = ns("bottom_chart"),
-          height   = "350px"
+      ## 2nd row: toggle buttons ----
+      fluidRow(
+        column(
+          width = 4, align = "center",
+          actionButton(ns("btn_rankings"),  "Rankings",   class = "btn btn-outline-light")
+        ),
+        column(
+          width = 4, align = "center",
+          actionButton(ns("btn_changes"),   "Changes",    class = "btn btn-outline-light")
+        ),
+        column(
+          width = 4, align = "center",
+          actionButton(ns("btn_scatter"),   "Scatterplot",class = "btn btn-outline-light")
         )
       ),
-      column(
-        width = 2,
-        tags$p(
-          "Click on any economy to deep dive above.",
-          style = "color: #ff7f0e; font-weight: bold; padding-top: 80px;"
+
+      br(),
+
+      ## 3rd row: bottom chart + side note ----
+      fluidRow(
+        column(
+          width = 10,
+          plotOutput(
+            outputId = ns("bottom_chart"),
+            height   = "500px"
+          )
+        ),
+        column(
+          width = 2,
+          tags$p(
+            "Click on any economy to deep dive above.",
+            style = "color: #ff7f0e; font-weight: bold; padding-top: 80px;"
+          )
         )
       )
     )
