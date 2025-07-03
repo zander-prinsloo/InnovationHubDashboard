@@ -111,6 +111,7 @@ mod_interactive_dashboard_ui <- function(id) {
 #' @param data  a data.table (or data.frame) containing your economy‐level data
 #' @noRd
 # R/mod_interactive_dashboard.R
+
 mod_interactive_dashboard_server <- function(
     id,
     data_dm,
@@ -121,13 +122,16 @@ mod_interactive_dashboard_server <- function(
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
 
-    # ─── Reactive dataset based on method ────────────────────────────────────────────
+    # ─── 1) Reactive dataset based on method ─────────────────────────────────────────
     dataset <- reactive({
-      if (input$select_method == "Welfare conversion") data_dm
-      else                                      data_stb
+      if (input$select_method == "Welfare conversion") {
+        data_dm
+      } else {
+        data_stb
+      }
     })
 
-    # ─── Whenever the dataset changes (and at startup), repopulate the economy picker ──
+    # ─── 2) Whenever the dataset changes (and at startup), repopulate economy picker ──
     observeEvent(dataset(), {
       countries <- sort(unique(dataset()$country_name))
       updateSelectInput(
@@ -138,13 +142,12 @@ mod_interactive_dashboard_server <- function(
       )
     }, ignoreInit = FALSE)
 
-    # ─── Capture the current selections ────────────────────────────────────────────────
+    # ─── 3) Capture the current selections ─────────────────────────────────────────────
     selected_method  <- reactive(input$select_method)
     selected_economy <- reactive(input$select_economy)
     current_tab      <- reactiveVal("rankings")
 
-
-    # ─── Top chart ─────────────────────────────────────────────────────────────────────
+    # ─── 4) Top chart ─────────────────────────────────────────────────────────────────
     output$top_chart <- renderPlot({
       plot_single_country(
         data           = dataset(),
@@ -153,32 +156,26 @@ mod_interactive_dashboard_server <- function(
       )
     })
 
-
-    # ─── Left‐hand panel: now with metadata descriptions ──────────────────────────────
+    # ─── 5) Left-hand panel: metadata description ─────────────────────────────────────
     output$method_panel <- renderUI({
       econ <- selected_economy()
       meth <- selected_method()
-
-      # pick the right description column
       desc_text <- if (meth == "Welfare conversion") {
-        # assume dm_metadata has a column `description`
         dm_metadata$description
       } else {
         stb_metadata$description
       }
-
       tagList(
-        p(strong("Method:"),  meth),
-        p(strong("Economy:"), econ),
+        p(strong("Method:"),   meth),
+        p(strong("Economy:"),  econ),
         p(desc_text)
       )
     })
 
-
-    # ─── Bottom‐chart toggles ──────────────────────────────────────────────────────────
-    observeEvent(input$btn_rankings, current_tab("rankings"))
-    observeEvent(input$btn_changes,  current_tab("changes"))
-    observeEvent(input$btn_scatter,  current_tab("scatter"))
+    # ─── 6) Bottom-chart toggles ──────────────────────────────────────────────────────
+    observeEvent(input$btn_rankings,  current_tab("rankings"))
+    observeEvent(input$btn_changes,   current_tab("changes"))
+    observeEvent(input$btn_scatter,   current_tab("scatter"))
 
     output$bottom_chart <- renderPlot({
       switch(
@@ -189,19 +186,40 @@ mod_interactive_dashboard_server <- function(
       )
     })
 
-
-    # ─── Learn‐more modal ─────────────────────────────────────────────────────────────
+    # ─── 7) Learn-more modal ──────────────────────────────────────────────────────────
     observeEvent(input$learn_more, {
-      showModal(modalDialog(
-        title = glue::glue("More on {selected_economy()}"),
-        shiny::HTML(glue::glue(
-          "<b>{selected_method()}</b> in <b>{selected_economy()}</b>:<br>",
-          desc_text
-        )),
-        easyClose = TRUE
-      ))
+      md_file <- switch(
+        input$select_method,
+        "Welfare conversion"   = "dm_full_description.md",
+        "Household allocation" = "stb_full_description.md",
+        NULL
+      )
+      if (is.null(md_file)) {
+        shiny::showNotification(
+          paste("No full-description available for method:", input$select_method),
+          type = "error"
+        )
+        return()
+      }
+
+      md_path <- file.path("data", md_file)
+      if (!file.exists(md_path)) {
+        shiny::showNotification(
+          paste("Markdown file not found:", md_path),
+          type = "error"
+        )
+        return()
+      }
+
+      shiny::showModal(
+        shiny::modalDialog(
+          title     = glue::glue("More on the {tolower(input$select_method)} method"),
+          shiny::includeMarkdown(md_path),
+          easyClose = TRUE,
+          size      = "l"
+        )
+      )
     })
 
-  }) # end moduleServer
-}
-
+  })  # end moduleServer
+}    # end mod_interactive_dashboard_server
