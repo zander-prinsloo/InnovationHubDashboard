@@ -24,7 +24,7 @@ golem::add_module(name = "interactive_dashboard", with_test = TRUE) # Name of th
 
 ## Add helper functions ----
 ## Creates fct_* and utils_*
-golem::add_fct("helpers", with_test = TRUE)
+golem::add_fct("plot_interactive_dashboard", with_test = TRUE)
 golem::add_utils("helpers", with_test = TRUE)
 
 ## External resources
@@ -34,6 +34,12 @@ golem::add_js_handler("handlers")
 golem::add_css_file("custom")
 golem::add_sass_file("custom")
 golem::add_any_file("file.json")
+
+## Add packages
+usethis::use_package("fastverse")
+usethis::use_package("ggplot2")
+usethis::use_package("dplyr")
+
 
 ## Add internal datasets ----
 ## If you have data in your package
