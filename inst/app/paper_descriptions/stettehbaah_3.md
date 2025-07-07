@@ -1,0 +1,1 @@
+This approach suggests a slightly higher extreme poverty rate of 6.17% in Colombia in 2019.

@@ -1,0 +1,3 @@
+In other words, the DOU is an absolute measure of urbanization, while the DB is a relative measure. These new measures suggest that official urban definitions tend to underestimate urban population shares in Sub-Saharan Africa. 
+
+For Colombia...
