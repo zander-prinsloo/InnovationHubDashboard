@@ -8,6 +8,7 @@ app_server <- function(input, output, session) {
   # 1a) load each dataset
   load("data/d_dm.rda")   # creates object d_dm
   load("data/d_stb.rda")  # creates object d_stb
+  load("data/d_sn.rda")  # creates object d_stb
 
   dm_metadata  <- readxl::read_excel("data/dm_metadata.xlsx")
   stb_metadata <- readxl::read_excel("data/stb_metadata.xlsx")

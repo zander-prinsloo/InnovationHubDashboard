@@ -46,6 +46,7 @@ usethis::use_package("dplyr")
 usethis::use_data_raw(name = "dcol", open = FALSE)
 usethis::use_data_raw(name = "d_dm", open = FALSE)
 usethis::use_data_raw(name = "d_stb", open = FALSE)
+usethis::use_data_raw(name = "d_sn", open = FALSE)
 
 ## Tests ----
 ## Add one line by test you want to create
