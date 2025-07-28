@@ -172,7 +172,10 @@ mod_interactive_dashboard_server <- function(
       switch(
         current_tab(),
         rankings = plot_rankings(dataset()),
-        changes  = plot_changes(dataset()),
+        changes  = plot_changes(
+          data           = dataset(),
+          select_country = selected_economy(),
+          select_method  = selected_method()),
         scatter  = plot_scatter(dataset())
       )
     })

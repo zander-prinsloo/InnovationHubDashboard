@@ -98,3 +98,170 @@ plot_single_country <- function(data,
   return(plot)
 
 }
+
+
+
+
+
+prep_changes <- function(data, select_country = NULL) {
+
+  select_code <- data |>
+    filter(country_name == select_country)
+  select_code <- select_code$code |>
+    unique()
+  dt_db <- data |>
+    select(country_name,
+           code,
+           poverty_line,
+           region_code,
+           headcount_default,
+           headcount_estimate) |>
+    mutate(poverty_line = factor(poverty_line,
+                                 levels = c("$2.15",
+                                            "$3.65",
+                                            "$6.85"))) |>
+    mutate(diff = round(abs(headcount_default - headcount_estimate),
+                        1))
+  countries_keep <-
+    dt_db |>
+    group_by(code) |>
+    summarise(mean_diff = mean(diff)) |>
+    ungroup() |>
+    arrange(desc(mean_diff)) |>
+    slice_max(order_by = mean_diff,
+              n        = 25) |>
+    ungroup()
+  countries_keep <- countries_keep$code |>
+    unique()
+  if (is.null(select_country)) {
+    countries_keep <- c(countries_keep)
+  } else {
+    countries_keep <- c(countries_keep, select_code)
+  }
+  dt_db <- dt_db |>
+    fsubset(code %in% countries_keep)
+
+  # Order countries within each facet
+  dt_db <- dt_db |>
+    group_by(poverty_line) |>
+    mutate(country_name = fct_reorder(country_name,
+                                      headcount_default)) |>
+    ungroup() |>
+    group_by(code, poverty_line) |>
+    mutate(minpov = min(headcount_default,
+                        headcount_estimate)) |>
+    arrange(desc(minpov)) |>
+    mutate(highlight = ifelse(code == select_code, T, F))
+
+  dt_db
+}
+
+plot_changes <- function(data,
+                         select_country = NULL,
+                         select_method  = c("Household allocation")) {
+
+  select_method <- tolower(select_method)
+  data <- prep_changes(data, select_country)
+
+  # Make plot
+  plot <- ggplot(data,
+                 aes(y = country_name)) +
+    geom_dumbbell(
+      aes(x    = headcount_default,
+          xend = headcount_estimate),
+      size        = 1.2,
+      size_x      = 3,
+      size_xend   = 3,
+      colour      = "gray70",
+      colour_x    = "black",
+      colour_xend = "steelblue"
+    )
+  if (is.null(select_country)) {
+    plot <- plot +
+      geom_text(
+        aes(x     = pmax(headcount_default,
+                         headcount_estimate) + 1.5,
+            label = paste0(diff, " pp")),
+        size  = 3,
+        hjust = 0,
+        color = "gray30"
+      )
+  } else {
+    plot <- plot +
+      # grey labels for all the non–highlighted countries
+      geom_text(
+        data = subset(data, !highlight),
+        aes(x     = pmax(headcount_default,
+                         headcount_estimate) + 1.5,
+            label = paste0(diff, " pp")),
+        size  = 3,
+        hjust = 0,
+        color = "gray30"
+      ) +
+
+      # big red label for the one highlighted country
+      geom_text(
+        data = subset(data, highlight),
+        aes(x     = pmax(headcount_default,
+                         headcount_estimate) + 1.5,
+            label = paste0(diff, " pp")),
+        size  = 5,      # larger
+        hjust = 0,
+        color = "red"   # red
+      )
+  }
+
+  plot <- plot +
+    facet_grid(region_code ~ poverty_line,
+               scales = "free_y",
+               space = "free_y",
+               switch = "y") +
+    scale_x_continuous(
+      labels = label_percent(scale = 1),
+      expand = expansion(mult = c(0, 0.25))
+    ) +
+    labs(
+      title    = glue("Absolute difference in poverty rate at three poverty lines when changing the {select_method} "),
+      subtitle = glue("Top 25 countries with the biggest difference by region, highlighting {select_country}"),
+      x        = "Poverty rate (%)",
+      y        = NULL,
+      caption  = "Values are rounded percentages. Data supplied by authors."
+    ) +
+    theme_minimal(base_size = 13) +
+    theme(
+      panel.grid.major.y = element_blank(),
+      panel.grid.minor   = element_blank(),
+      panel.spacing      = unit(1.5,
+                                "lines"),
+      strip.placement    = "outside",
+      strip.text.y.left  = element_text(angle = 0,
+                                        face  = "bold",
+                                        size  = 12,
+                                        hjust = 1),
+      strip.background.y = element_rect(fill  = "#f0f0f0",
+                                        color = NA),
+      strip.text.x       = element_text(size = 11,
+                                        face = "bold"),
+      plot.title         = element_text(size = 16,
+                                        face = "bold"),
+      plot.subtitle      = element_text(size = 12),
+      axis.text.y        = element_text(size = 9),
+      axis.title.x       = element_text(face = "bold"),
+      legend.position    = "none",
+      plot.caption       = element_text(size  = 9,
+                                        color = "grey30"))
+
+  plot
+
+}
+
+
+
+
+
+
+
+
+
+
+
