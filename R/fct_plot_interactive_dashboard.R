@@ -29,8 +29,8 @@ plot_single_country <- function(data,
                         values_to = "headcount") |>
     fmutate(
       method = dplyr::recode(method,
-                             headcount_default = "Default",
-                             headcount_estimate = "New"),
+                             headcount_default = "PIP",
+                             headcount_estimate = "Alternative"),
       poverty_line = factor(poverty_line, levels = poverty_levels),
       x            = poverty_line_positions[as.character(poverty_line)],
       label        = paste0(round(headcount, 1), "%"))
@@ -54,8 +54,8 @@ plot_single_country <- function(data,
     geom_segment(data = dt_arrows,
                  aes(x    = x,
                      xend = x,
-                     y    = Default,
-                     yend = New),
+                     y    = PIP,
+                     yend = Alternative),
                  inherit.aes = FALSE,
                  arrow = arrow(length = unit(0.25, "cm")),
                  color = "#5A91C1",
@@ -63,20 +63,20 @@ plot_single_country <- function(data,
     geom_line(linewidth = 1.2) +
     geom_point(size = 3.5, stroke = 0.5, shape = 21, fill = "white") +
     geom_text(aes(label = label,
-                  vjust = ifelse(method == "Default", -1.2, 2)),
+                  vjust = ifelse(method == "PIP", -1.2, 2)),
               size = 3.5,
               show.legend = FALSE) +
     scale_x_continuous(breaks = 1:3, labels = poverty_levels) +
     scale_y_continuous(labels = label_number(suffix = "%"),
                        #limits = c(0, 105),
-                       expand = expansion(mult = c(0, 0.05))) +
-    scale_color_manual(values = c("Default" = "grey40", "New" = "#0070BB"),
-                       labels = c("Default methodology", "New methodology")) +
+                       expand = expansion(mult = c(0.12, 0.12))) +
+    scale_color_manual(values = c("PIP" = "grey40", "Alternative" = "#0070BB"),
+                       labels = c("PIP methodology", "Alternative methodology")) +
     labs(
       title = glue(
-        "Poverty Headcount in <b style='color:#2c7fb8'>{select_country}</b> by <span style='color:#2c7fb8;'>New</span> vs <span style='color:grey40;'>Default</span> Methodology"
+        "Comparison of poverty estimates using different approaches to {tolower(select_method)}"
       ),
-      subtitle = glue("New methodology uses {tolower(select_method)} and is compared to default approach in PIP, all in 2017 $PPP."),
+      subtitle = glue("{select_country} in {select_year} using 2017 $PPP"),
       x = "Poverty Line",
       y = "Poverty Headcount (%)",
       color = "Methodology",
