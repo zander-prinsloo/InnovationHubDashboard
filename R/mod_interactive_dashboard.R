@@ -31,7 +31,12 @@ mod_interactive_dashboard_ui <- function(id) {
         br(),
 
         # 4 learn‐more button
-        actionButton(ns("learn_more"), "Learn more", class = "btn btn-primary")
+        actionButton(ns("learn_more"), "Learn more", class = "btn btn-primary"),
+        br(),
+        br(),
+        
+        # 5 download data button
+        downloadButton(ns("download_data"), "Download data", class = "btn btn-secondary")
       ),
 
       column(
@@ -552,6 +557,17 @@ mod_interactive_dashboard_server <- function(
         )
       )
     })
+    
+    # ─── 9) Download data handler ──────────────────────────────────────────────────────
+    output$download_data <- downloadHandler(
+      filename = function() {
+        method_name <- tolower(gsub(" ", "_", input$select_method))
+        paste0("innovation_hub_", method_name, "_data.csv")
+      },
+      content = function(file) {
+        write.csv(dataset(), file, row.names = FALSE)
+      }
+    )
 
   })  # end moduleServer
 }    # end mod_interactive_dashboard_server
