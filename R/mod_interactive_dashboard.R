@@ -36,10 +36,9 @@ mod_interactive_dashboard_ui <- function(id) {
 
       column(
         width = 6,
-        plotOutput(
+        plotly::plotlyOutput(
           outputId = ns("top_chart"),
-          height   = "300px",
-          click    = ns("top_click")
+          height   = "300px"
         )
       )
     ),
@@ -59,7 +58,7 @@ mod_interactive_dashboard_ui <- function(id) {
       fluidRow(
         column(
           width = 4, align = "center",
-          actionButton(ns("btn_rankings"),  "Rankings",   class = "btn btn-outline-light")
+          actionButton(ns("btn_rankings"),  "Differences",   class = "btn btn-outline-light")
         ),
         column(
           width = 4, align = "center",
@@ -138,7 +137,7 @@ mod_interactive_dashboard_server <- function(
     })
 
     # ─── 4) Top chart ─────────────────────────────────────────────────────────────────
-    output$top_chart <- renderPlot({
+    output$top_chart <- plotly::renderPlotly({
       plot_single_country(
         data           = dataset(),
         select_country = selected_economy(),
@@ -167,19 +166,25 @@ mod_interactive_dashboard_server <- function(
     observeEvent(input$btn_changes,   current_tab("changes"))
     observeEvent(input$btn_scatter,   current_tab("scatter"))
 
-    # Dynamic UI for scatter controls (left panel)
+    # Dynamic UI for scatter/rankings controls (left panel)
     output$scatter_controls_ui <- renderUI({
-      if (current_tab() == "scatter") {
+      if (current_tab() %in% c("scatter", "rankings")) {
         column(
           width = 3,
           tags$div(
             style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
             h5("Plot Controls", style = "color: white; margin-bottom: 15px;"),
-            checkboxInput(
-              inputId = ns("log_scale"),
-              label = "Log scale (both axes)",
-              value = FALSE
-            ),
+            
+            # Log scale toggle (scatter only)
+            if (current_tab() == "scatter") {
+              checkboxInput(
+                inputId = ns("log_scale"),
+                label = "Log scale (both axes)",
+                value = FALSE
+              )
+            },
+            
+            # Poverty line filter (both scatter and rankings)
             selectInput(
               inputId = ns("poverty_line_filter"),
               label = "Poverty Line:",
@@ -191,7 +196,13 @@ mod_interactive_dashboard_server <- function(
             ),
             hr(style = "border-color: rgba(255, 255, 255, 0.3);"),
             h5("Statistics", style = "color: white; margin-bottom: 15px;"),
-            uiOutput(ns("scatter_stats"))
+            
+            # Show appropriate statistics based on current tab
+            if (current_tab() == "scatter") {
+              uiOutput(ns("scatter_stats"))
+            } else if (current_tab() == "rankings") {
+              uiOutput(ns("rankings_stats"))
+            }
           )
         )
       } else {
@@ -201,11 +212,11 @@ mod_interactive_dashboard_server <- function(
     
     # Dynamic UI for bottom chart column width
     output$bottom_chart_column_ui <- renderUI({
-      chart_width <- if (current_tab() == "scatter") 9 else 12
+      chart_width <- if (current_tab() %in% c("scatter", "rankings")) 9 else 12
       
       column(
         width = chart_width,
-        if (current_tab() == "scatter") {
+        if (current_tab() %in% c("scatter", "rankings")) {
           plotly::plotlyOutput(
             outputId = ns("bottom_chart_plotly"),
             height   = "500px"
@@ -223,21 +234,18 @@ mod_interactive_dashboard_server <- function(
     # Update log scale reactive values
     observeEvent(input$log_scale, { log_scale(input$log_scale) })
 
-    # Regular ggplot outputs (rankings and changes)
+    # Regular ggplot outputs (changes only now)
     output$bottom_chart <- renderPlot({
-      switch(
-        current_tab(),
-        rankings = plot_rankings(dataset()),
-        changes  = plot_changes(
+      if (current_tab() == "changes") {
+        plot_changes(
           data           = dataset(),
           select_country = selected_economy(),
           select_method  = selected_method()
-        ),
-        NULL  # scatter is handled separately
-      )
+        )
+      }
     })
 
-    # Plotly output for scatter
+    # Plotly output for scatter and rankings
     output$bottom_chart_plotly <- plotly::renderPlotly({
       if (current_tab() == "scatter") {
         plot_scatter(
@@ -245,6 +253,12 @@ mod_interactive_dashboard_server <- function(
           select_year        = NULL,
           log_x              = log_scale(),
           log_y              = log_scale(),
+          poverty_line_filter = poverty_line_filter()
+        )
+      } else if (current_tab() == "rankings") {
+        plot_rankings(
+          data                = dataset(),
+          select_country      = selected_economy(),
           poverty_line_filter = poverty_line_filter()
         )
       }
@@ -316,7 +330,80 @@ mod_interactive_dashboard_server <- function(
       )
     })
     
-    # ─── 7) Click handler for Changes chart ──────────────────────────────────────────────
+    # Render rankings statistics panel
+    output$rankings_stats <- renderUI({
+      if (current_tab() != "rankings") return(NULL)
+      
+      # Calculate statistics from the data
+      dt <- dataset()
+      if (is.null(dt)) return(NULL)
+      
+      # Filter to complete cases
+      dt_complete <- dt |>
+        dplyr::filter(!is.na(headcount_default) & !is.na(headcount_estimate))
+      
+      # Filter by poverty line if needed
+      if (poverty_line_filter() != "all") {
+        dt_complete <- dt_complete |>
+          dplyr::filter(poverty_line == poverty_line_filter())
+      }
+      
+      if (nrow(dt_complete) == 0) return(NULL)
+      
+      # Calculate Bland-Altman statistics
+      # Note: diff_pp is PIP minus Alternative
+      diff_pp <- dt_complete$headcount_default - dt_complete$headcount_estimate
+      abs_diff_pp <- abs(diff_pp)
+      
+      # Count unique economies, not points
+      n_economies <- length(unique(dt_complete$country_name))
+      n_points <- nrow(dt_complete)
+      
+      bias <- mean(diff_pp, na.rm = TRUE)
+      sd_diff <- sd(diff_pp, na.rm = TRUE)
+      loa_lower <- bias - 1.96 * sd_diff
+      loa_upper <- bias + 1.96 * sd_diff
+      within_3pp <- sum(abs_diff_pp <= 3, na.rm = TRUE)
+      pct_within_3pp <- (within_3pp / n_points) * 100
+      
+      # Render statistics
+      tagList(
+        tags$div(
+          style = "color: white; font-size: 13px;",
+          p(
+            strong("Number of economies:"),
+            br(),
+            sprintf("%d", n_economies)
+          ),
+          p(
+            strong("Mean difference:"),
+            br(),
+            sprintf("%.2f pp", bias)
+          ),
+          p(
+            strong("Standard Deviation:"),
+            br(),
+            sprintf("%.2f pp", sd_diff)
+          ),
+          p(
+            strong("Limits of Agreement*:"),
+            br(),
+            sprintf("[%.2f, %.2f] pp", loa_lower, loa_upper)
+          ),
+          p(
+            strong("Within ±3pp:"),
+            br(),
+            sprintf("%d/%d (%.1f%%)", within_3pp, n_points, pct_within_3pp)
+          ),
+          p(
+            style = "font-size: 11px; color: #cccccc; margin-top: 10px;",
+            "*Limits of Agreement: Mean ± 1.96×SD, indicating the range within which 95% of differences are expected to fall."
+          )
+        )
+      )
+    })
+    
+    # ─── 7) Click handler for Changes chart ────────────────────────────────────────────────────
     observeEvent(input$bottom_chart_click, {
       # Only handle clicks when on Changes tab
       if (current_tab() != "changes") return()

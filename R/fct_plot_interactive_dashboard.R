@@ -9,94 +9,211 @@ plot_single_country <- function(data,
                                 select_country,
                                 select_method) {
   # Define poverty line levels
-  poverty_levels <- c("$2.15",
-                      "$3.65",
-                      "$6.85")
+  poverty_levels <- c("$2.15", "$3.65", "$6.85")
+  poverty_line_positions <- setNames(1:3, poverty_levels)
 
-  poverty_line_positions <- setNames(1:3,
-                                     poverty_levels)
-
-  select_year <- fifelse(select_method == "Welfare conversion",
-                         2022,
-                         2019)
-  sltmethod <- tolower(select_method)
+  select_year <- fifelse(select_method == "Welfare conversion", 2022, 2019)
+  
   # Prepare tidy data
   dt_country <- data |>
     fsubset(year == select_year) |>
     fsubset(country_name == select_country) |>
-    tidyr::pivot_longer(cols      = c(headcount_default, headcount_estimate),
-                        names_to  = "method",
+    tidyr::pivot_longer(cols = c(headcount_default, headcount_estimate),
+                        names_to = "method",
                         values_to = "headcount") |>
-    fmutate(
+    as.data.frame()  # Convert to data.frame to ensure compatibility
+  
+  # Now use dplyr for the mutations to ensure compatibility
+  dt_country <- dt_country |>
+    dplyr::mutate(
       method = dplyr::recode(method,
                              headcount_default = "PIP",
                              headcount_estimate = "Alternative"),
       poverty_line = factor(poverty_line, levels = poverty_levels),
-      x            = poverty_line_positions[as.character(poverty_line)],
-      label        = paste0(round(headcount, 1), "%"))
+      x = poverty_line_positions[as.character(poverty_line)],
+      label = paste0(round(headcount, 1), "%"),
+      tooltip_text = paste0(
+        "<b>", method, " methodology</b><br>",
+        "Poverty line: ", poverty_line, "<br>",
+        "Headcount: ", round(headcount, 1), "%"
+      )
+    )
 
-  # Prepare arrow data
+  # Prepare arrow data - pivot wider FIRST, then mutate
   dt_arrows <- dt_country |>
-    fselect(x,
-            poverty_line,
-            method,
-            headcount) |>
-    tidyr::pivot_wider(names_from  = method,
-                       values_from = headcount) |>
-    fmutate(x = x + 0.06)
-
-  # Create plot
-  plot <- ggplot(dt_country,
-                 aes(x     = x,
-                     y     = headcount,
-                     group = method,
-                     color = method)) +
-    geom_segment(data = dt_arrows,
-                 aes(x    = x,
-                     xend = x,
-                     y    = PIP,
-                     yend = Alternative),
-                 inherit.aes = FALSE,
-                 arrow = arrow(length = unit(0.25, "cm")),
-                 color = "#5A91C1",
-                 size = 1) +
-    geom_line(linewidth = 1.2) +
-    geom_point(size = 3.5, stroke = 0.5, shape = 21, fill = "white") +
-    geom_text(aes(label = label,
-                  vjust = ifelse(method == "PIP", -1.2, 2)),
-              size = 3.5,
-              show.legend = FALSE) +
-    scale_x_continuous(breaks = 1:3, labels = poverty_levels) +
-    scale_y_continuous(labels = label_number(suffix = "%"),
-                       #limits = c(0, 105),
-                       expand = expansion(mult = c(0.12, 0.12))) +
-    scale_color_manual(values = c("PIP" = "grey40", "Alternative" = "#0070BB"),
-                       labels = c("PIP methodology", "Alternative methodology")) +
-    labs(
-      title = glue(
-        "Comparison of poverty estimates using different approaches to {tolower(select_method)}"
+    dplyr::select(x, poverty_line, method, headcount) |>
+    tidyr::pivot_wider(names_from = method, values_from = headcount) |>
+    as.data.frame()
+  
+  # Only process arrows if we have data
+  if (nrow(dt_arrows) > 0) {
+    # Ensure PIP and Alternative are numeric vectors
+    dt_arrows$PIP <- as.numeric(dt_arrows$PIP)
+    dt_arrows$Alternative <- as.numeric(dt_arrows$Alternative)
+    
+    # Now add derived columns after the pivot using base R/dplyr
+    dt_arrows$x_pos <- dt_arrows$x + 0.06
+    dt_arrows$diff <- dt_arrows$Alternative - dt_arrows$PIP
+    dt_arrows$tooltip_arrow <- paste0(
+      "<b>", as.character(dt_arrows$poverty_line), "</b><br>",
+      "PIP: ", round(dt_arrows$PIP, 1), "%<br>",
+      "Alternative: ", round(dt_arrows$Alternative, 1), "%<br>",
+      "Difference: ", ifelse(dt_arrows$diff >= 0, "+", ""), round(dt_arrows$diff, 1), " pp"
+    )
+  }
+  
+  # Determine y-axis range with padding
+  # Make sure headcount column exists and has values
+  if (!"headcount" %in% names(dt_country) || all(is.na(dt_country$headcount))) {
+    # Fallback to default range if no data
+    y_limits <- c(-5, 100)
+  } else {
+    y_min <- min(dt_country$headcount, na.rm = TRUE)
+    y_max <- max(dt_country$headcount, na.rm = TRUE)
+    
+    # Add extra space above for the difference labels (approximately 3-4 units)
+    # and ensure bottom has space for markers at 0%
+    y_range_calc <- y_max - y_min
+    y_padding_bottom <- max(3, y_range_calc * 0.12)  # At least 3% padding at bottom for full markers
+    y_padding_top <- max(5, y_range_calc * 0.15)     # At least 5% padding at top for labels
+    
+    y_limits <- c(max(0, y_min - y_padding_bottom), y_max + y_padding_top)
+    
+  }
+  
+  y_limits[1] <- y_limits[1] - 0.5
+  # ─── Build plotly figure ────────────────────────────────────────────────
+  
+  pp <- plotly::plot_ly()
+  
+  # Add arrows first (as segments with annotations)
+  for (i in seq_len(nrow(dt_arrows))) {
+    arrow_row <- dt_arrows[i, ]
+    
+    pp <- pp |>
+      plotly::add_segments(
+        x = arrow_row$x_pos,
+        xend = arrow_row$x_pos,
+        y = arrow_row$PIP,
+        yend = arrow_row$Alternative,
+        line = list(color = "#5A91C1", width = 2),
+        showlegend = FALSE,
+        hoverinfo = "text",
+        text = arrow_row$tooltip_arrow
+      ) |>
+      plotly::add_annotations(
+        x = arrow_row$x_pos,
+        y = arrow_row$Alternative,
+        ax = arrow_row$x_pos,
+        ay = arrow_row$PIP,
+        xref = "x", yref = "y",
+        axref = "x", ayref = "y",
+        showarrow = TRUE,
+        arrowhead = 2,
+        arrowsize = 1,
+        arrowwidth = 2,
+        arrowcolor = "#5A91C1",
+        text = ""
+      )
+  }
+  
+  # Add lines and points by method
+  methods <- c("PIP", "Alternative")
+  method_colors <- c("PIP" = "grey40", "Alternative" = "#0070BB")
+  
+  for (meth in methods) {
+    dt_method <- dt_country |>
+      dplyr::filter(method == meth)
+    
+    # Add line
+    pp <- pp |>
+      plotly::add_trace(
+        data = dt_method,
+        x = ~x,
+        y = ~headcount,
+        type = "scatter",
+        mode = "lines+markers",
+        line = list(color = method_colors[meth], width = 2.5),
+        marker = list(
+          size = 10,
+          color = method_colors[meth],
+          line = list(color = "white", width = 1.5)
+        ),
+        text = ~tooltip_text,
+        hovertemplate = "%{text}<extra></extra>",
+        name = paste0(meth, " methodology"),
+        legendgroup = meth,
+        showlegend = TRUE
+      )
+  }
+  
+  # Add difference labels above the higher point
+  if (nrow(dt_arrows) > 0) {
+    for (i in seq_len(nrow(dt_arrows))) {
+      arrow_row <- dt_arrows[i, ]
+      # Place label slightly above the higher of the two points
+      label_y <- max(arrow_row$PIP, arrow_row$Alternative) + 1.5
+      
+      pp <- pp |>
+        plotly::add_annotations(
+          x = arrow_row$x_pos,
+          y = label_y,
+          text = paste0(ifelse(arrow_row$diff >= 0, "+", ""), round(arrow_row$diff, 1), " pp"),
+          showarrow = FALSE,
+          font = list(size = 10, color = "#5A91C1")
+        )
+    }
+  }
+  
+  # ─── Layout configuration ────────────────────────────────────────────
+  
+  title_text <- paste0(
+    "<b>Poverty rates using different approaches to ",
+    tolower(select_method),
+    "</b>"
+  )
+  
+  subtitle_text <- paste0(
+    select_country, " in ", select_year, " using 2017 $PPP"
+  )
+  
+  pp <- pp |>
+    plotly::layout(
+      title = list(
+        text = paste0(title_text, "<br><span style='font-size:11px; font-weight:normal;'>", 
+                      subtitle_text, "</span>"),
+        font = list(size = 15)
       ),
-      subtitle = glue("{select_country} in {select_year} using 2017 $PPP"),
-      x = "Poverty Line",
-      y = "Poverty Headcount (%)",
-      color = "Methodology",
-      caption = glue("Values are rounded percentages. Data supplied by authors.")
-    ) +
-    theme_minimal(base_size = 13) +
-    theme(
-      panel.grid.major.x  = element_blank(),
-      axis.title.x        = element_text(face = "bold", margin = margin(t = 10)),
-      axis.title.y        = element_text(face = "bold", margin = margin(r = 10)),
-      plot.title          = element_markdown(size = 15, face = "bold"),
-      plot.subtitle       = element_text(size = 11),
-      plot.caption        = element_text(size = 9, color = "grey40"),
-      legend.position     = "bottom",
-      plot.title.position = "plot"
-    ) +
-    guides(color = guide_legend(override.aes = list(size = 4)))
-
-  return(plot)
-
+      xaxis = list(
+        title = "<b>Poverty Line</b>",
+        tickmode = "array",
+        tickvals = 1:3,
+        ticktext = poverty_levels,
+        range = c(0.5, 3.5),
+        gridcolor = "rgba(200,200,200,0.3)",
+        zeroline = FALSE
+      ),
+      yaxis = list(
+        title = "<b>Poverty Headcount (%)</b>",
+        ticksuffix = "%",
+        range = y_limits,
+        gridcolor = "rgba(200,200,200,0.3)",
+        zeroline = FALSE
+      ),
+      legend = list(
+        orientation = "h",
+        x = 0.5,
+        y = -0.15,
+        xanchor = "center",
+        yanchor = "top"
+      ),
+      hovermode = "closest",
+      plot_bgcolor = "white",
+      paper_bgcolor = "white",
+      margin = list(l = 80, r = 80, t = 100, b = 100)
+    )
+  
+  return(pp)
 }
 
 
@@ -546,30 +663,331 @@ plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE,
 }
 
 
-#' Plot rankings (placeholder)
+#' Plot rankings (Bland-Altman diagnostic)
 #'
-#' @description Placeholder function for rankings plot
+#' @description Creates a Bland-Altman diagnostic plot comparing two poverty 
+#'   headcount methodologies. Shows signed differences vs mean headcount across
+#'   three poverty lines, with bias lines, limits of agreement, and smooth trends.
 #'
-#' @param data A data.table or data.frame containing poverty estimates
+#' @param data A data.table or data.frame containing poverty estimates with columns:
+#'   - country_name, code (country identifiers)
+#'   - region_code, region_name (regional grouping)
+#'   - year (survey year)
+#'   - poverty_line (one of "$2.15", "$3.65", "$6.85")
+#'   - headcount_default (PIP methodology, in percent 0-100)
+#'   - headcount_estimate (Alternative methodology, in percent 0-100)
+#' @param select_country Character, optional country name to highlight
+#' @param poverty_line_filter Character, either "all" or specific poverty line
 #'
-#' @return A ggplot object
+#' @return A plotly object
+#'
+#' @details
+#' The Bland-Altman plot is a diagnostic tool that separates:
+#' - Average bias: whether Alternative is systematically above/below PIP
+#' - Scale effects: whether disagreement grows with poverty level
+#' - Outliers: countries where differences are unusually large
+#' - Line-specific behavior: whether bias differs by poverty line
+#'
+#' Each point represents a country at a specific poverty line.
+#' - Y-axis: Signed difference (Alternative - PIP) in percentage points
+#' - X-axis: Mean headcount across both methods (%)
+#' - Colors: Region
+#' - Reference lines: Bias (mean difference) and Limits of Agreement (mean ± 1.96*SD)
 #'
 #' @noRd
-plot_rankings <- function(data) {
-  # Simple placeholder plot
-  ggplot2::ggplot(data.frame(x = 1, y = 1), ggplot2::aes(x, y)) +
-    ggplot2::geom_text(label = "Rankings plot\nComing soon...", size = 8) +
-    ggplot2::theme_void() +
-    ggplot2::labs(title = "Rankings Plot")
+plot_rankings <- function(data, select_country = NULL, poverty_line_filter = "all") {
+  
+  # ─── 1) Data preparation ────────────────────────────────────────────────────────────
+  
+  # Filter to complete cases only
+  dt_plot <- data |>
+    collapse::fsubset(!is.na(headcount_default) & !is.na(headcount_estimate))
+  
+  # Filter by poverty line if specified
+  if (poverty_line_filter != "all") {
+    dt_plot <- dt_plot |>
+      collapse::fsubset(poverty_line == poverty_line_filter)
+  }
+  
+  if (nrow(dt_plot) == 0) {
+    return(
+      plotly::plot_ly() |>
+        plotly::add_annotations(
+          text = "No data available",
+          x = 0.5, y = 0.5,
+          showarrow = FALSE,
+          font = list(size = 20)
+        ) |>
+        plotly::layout(
+          xaxis = list(visible = FALSE),
+          yaxis = list(visible = FALSE)
+        )
+    )
+  }
+  
+  # Compute derived variables (assuming data is in percent 0-100)
+  dt_plot <- dt_plot |>
+    collapse::fmutate(
+      mean_headcount = (headcount_default + headcount_estimate) / 2,
+      diff_pp = headcount_default - headcount_estimate,  # PIP minus Alternative
+      abs_diff_pp = abs(diff_pp)
+    )
+  
+  # Ensure poverty_line is a factor with correct order
+  poverty_levels <- c("$2.15", "$3.65", "$6.85")
+  dt_plot <- dt_plot |>
+    collapse::fmutate(
+      poverty_line = factor(poverty_line, levels = poverty_levels, ordered = TRUE)
+    )
+  
+  # Standardize region column if needed
+  if (!"region_name" %in% names(dt_plot) && "region_code" %in% names(dt_plot)) {
+    dt_plot <- dt_plot |>
+      collapse::fmutate(region_name = region_code)
+  }
+  
+  # Mark selected country for highlighting
+  if (!is.null(select_country)) {
+    dt_plot <- dt_plot |>
+      collapse::fmutate(
+        is_selected = country_name == select_country
+      )
+  } else {
+    dt_plot <- dt_plot |>
+      collapse::fmutate(is_selected = FALSE)
+  }
+  
+  # Create tooltip text
+  dt_plot <- dt_plot |>
+    collapse::fmutate(
+      tooltip_text = paste0(
+        "<b>", country_name, "</b> (", code, ")<br>",
+        "Region: ", region_name, "<br>",
+        "Poverty line: ", poverty_line, "<br>",
+        "PIP headcount: ", sprintf("%.1f%%", headcount_default), "<br>",
+        "Alternative headcount: ", sprintf("%.1f%%", headcount_estimate), "<br>",
+        "Mean headcount: ", sprintf("%.1f%%", mean_headcount), "<br>",
+        "Difference (PIP - Alt): ", sprintf("%.1f pp", diff_pp), "<br>",
+        "Absolute difference: ", sprintf("%.1f pp", abs_diff_pp)
+      )
+    )
+  
+  # ─── 2) Compute statistics ────────────────────────────────────────────────────────────
+  
+  # These are computed but will be displayed in the sidebar, not on plot
+  bias <- mean(dt_plot$diff_pp, na.rm = TRUE)
+  sd_diff <- sd(dt_plot$diff_pp, na.rm = TRUE)
+  loa_lower <- bias - 1.96 * sd_diff
+  loa_upper <- bias + 1.96 * sd_diff
+  
+  # ─── 3) Determine axis limits ─────────────────────────────────────────────────────────────────
+  
+  # Y-axis: responsive to actual data range (not symmetric)
+  y_min_data <- min(dt_plot$diff_pp, na.rm = TRUE)
+  y_max_data <- max(dt_plot$diff_pp, na.rm = TRUE)
+  
+  # Add padding (about 10% on each side, minimum 2pp)
+  y_range <- y_max_data - y_min_data
+  y_padding <- max(2, y_range * 0.1)
+  
+  y_limits <- c(y_min_data - y_padding, y_max_data + y_padding)
+  
+  # X-axis: dynamic based on data, with some padding
+  x_min <- max(0, min(dt_plot$mean_headcount, na.rm = TRUE) - 5)
+  x_max <- min(100, max(dt_plot$mean_headcount, na.rm = TRUE) + 5)
+  x_range <- c(x_min, x_max)
+  
+  # ─── 4) Color palette ────────────────────────────────────────────────────────────
+  
+  region_colors <- c(
+    "OHI" = "#34A7F2",
+    "SSA" = "#FF9800",
+    "MNA" = "#664AB6",
+    "SAS" = "#4EC2C0",
+    "EAS" = "#F3578E",
+    "LAC" = "#0C7C68",
+    "ECA" = "#AA0000",
+    "WLD" = "#081079"
+  )
+  
+  # ─── 5) Build plotly figure ────────────────────────────────────────────────────────────
+  
+  pp <- plotly::plot_ly()
+  
+  # Add reference line at y = 0
+  pp <- pp |>
+    plotly::add_segments(
+      x = 0, xend = 100,
+      y = 0, yend = 0,
+      line = list(color = "black", width = 2),
+      showlegend = FALSE,
+      hoverinfo = "skip"
+    )
+  
+  # Add bias line
+  pp <- pp |>
+    plotly::add_segments(
+      x = 0, xend = 100,
+      y = bias, yend = bias,
+      line = list(color = "#0070BB", width = 2),
+      showlegend = FALSE,
+      hoverinfo = "skip"
+    )
+  
+  # Add LoA lines
+  pp <- pp |>
+    plotly::add_segments(
+      x = 0, xend = 100,
+      y = loa_upper, yend = loa_upper,
+      line = list(color = "#0070BB", width = 1.5, dash = "dash"),
+      showlegend = FALSE,
+      hoverinfo = "skip"
+    ) |>
+    plotly::add_segments(
+      x = 0, xend = 100,
+      y = loa_lower, yend = loa_lower,
+      line = list(color = "#0070BB", width = 1.5, dash = "dash"),
+      showlegend = FALSE,
+      hoverinfo = "skip"
+    )
+  
+  # Add text annotations for the reference lines (on right side)
+  pp <- pp |>
+    plotly::add_annotations(
+      x = x_max - 2,
+      y = bias,
+      text = sprintf("Mean diff: %.1f pp", bias),
+      showarrow = FALSE,
+      xanchor = "right",
+      yanchor = "bottom",
+      font = list(size = 10, color = "#0070BB")
+    ) |>
+    plotly::add_annotations(
+      x = x_max - 2,
+      y = loa_upper,
+      text = sprintf("Upper LoA: %.1f pp", loa_upper),
+      showarrow = FALSE,
+      xanchor = "right",
+      yanchor = "bottom",
+      font = list(size = 10, color = "#0070BB")
+    ) |>
+    plotly::add_annotations(
+      x = x_max - 2,
+      y = loa_lower,
+      text = sprintf("Lower LoA: %.1f pp", loa_lower),
+      showarrow = FALSE,
+      xanchor = "right",
+      yanchor = "bottom",
+      font = list(size = 10, color = "#0070BB")
+    )
+  
+  # Add scatter points by region
+  regions <- unique(dt_plot$region_name)
+  
+  for (region in regions) {
+    # Regular points for this region
+    dt_region <- dt_plot |>
+      collapse::fsubset(region_name == region & !is_selected)
+    
+    if (nrow(dt_region) > 0) {
+      color <- region_colors[region]
+      if (is.na(color)) color <- "#7f7f7f"
+      
+      pp <- pp |>
+        plotly::add_trace(
+          data = dt_region,
+          x = ~mean_headcount,
+          y = ~diff_pp,
+          type = "scatter",
+          mode = "markers",
+          marker = list(
+            size = 8,
+            color = color,
+            opacity = 0.7,
+            line = list(color = "white", width = 0.5)
+          ),
+          text = ~tooltip_text,
+          hovertemplate = "%{text}<extra></extra>",
+          name = region,
+          legendgroup = region,
+          showlegend = TRUE
+        )
+    }
+    
+    # Highlighted points for selected country in this region
+    dt_selected_region <- dt_plot |>
+      collapse::fsubset(region_name == region & is_selected)
+    
+    if (nrow(dt_selected_region) > 0) {
+      color <- region_colors[region]
+      if (is.na(color)) color <- "#7f7f7f"
+      
+      pp <- pp |>
+        plotly::add_trace(
+          data = dt_selected_region,
+          x = ~mean_headcount,
+          y = ~diff_pp,
+          type = "scatter",
+          mode = "markers",
+          marker = list(
+            size = 14,
+            color = color,
+            symbol = "circle",
+            line = list(color = "black", width = 2)
+          ),
+          text = ~tooltip_text,
+          hovertemplate = "%{text}<extra></extra>",
+          name = region,
+          legendgroup = region,
+          showlegend = FALSE
+        )
+    }
+  }
+  
+  # ─── 6) Layout configuration ────────────────────────────────────────────────────────────
+  
+  # Create title with optional subtitle for selected country
+  title_text <- "<b>Difference plot of PIP vs Alternative poverty headcount</b>"
+  if (!is.null(select_country) && any(dt_plot$is_selected)) {
+    title_text <- paste0(
+      title_text,
+      "<br><span style='font-size:12px; font-weight:normal;'>Points for ",
+      select_country,
+      " are shown in bold</span>"
+    )
+  }
+  
+  pp <- pp |>
+    plotly::layout(
+      title = list(
+        text = title_text,
+        font = list(size = 15)
+      ),
+      xaxis = list(
+        title = "<b>Mean headcount across methods (%)</b>",
+        range = x_range,
+        gridcolor = "rgba(200,200,200,0.3)",
+        zeroline = FALSE
+      ),
+      yaxis = list(
+        title = "<b>Difference (PIP − Alternative) (pp)</b>",
+        range = y_limits,
+        gridcolor = "rgba(200,200,200,0.3)",
+        zeroline = FALSE
+      ),
+      legend = list(
+        orientation = "v",
+        x = 1.02,
+        y = 1,
+        xanchor = "left",
+        yanchor = "top",
+        title = list(text = "<b>Region</b>")
+      ),
+      hovermode = "closest",
+      plot_bgcolor = "white",
+      paper_bgcolor = "white",
+      margin = list(l = 80, r = 150, t = 100, b = 80)
+    )
+  
+  return(pp)
 }
-
-
-
-
-
-
-
-
-
-
-
