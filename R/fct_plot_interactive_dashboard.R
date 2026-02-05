@@ -351,7 +351,7 @@ plot_changes <- function(data,
       expand = expansion(mult = c(0, 0.25))
     ) +
     labs(
-      title    = glue("Absolute difference in poverty rate at three poverty lines when changing the {select_method} "),
+      title    = glue("Difference between the <span style='color:black;'>**PIP**</span> and <span style='color:steelblue;'>**alternative**</span> estimates when changing the {select_method}"),
       subtitle = glue("Top 25 countries with the biggest difference, highlighting {select_country}"),
       x        = "Poverty rate (%)",
       y        = NULL,
@@ -365,8 +365,7 @@ plot_changes <- function(data,
                                 "lines"),
       strip.text.x       = element_text(size = 11,
                                         face = "bold"),
-      plot.title         = element_text(size = 16,
-                                        face = "bold"),
+      plot.title         = ggtext::element_markdown(size = 16),
       plot.subtitle      = element_text(size = 12),
       axis.text.y        = element_text(size = 9),
       axis.title.x       = element_text(face = "bold"),
