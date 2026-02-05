@@ -84,9 +84,18 @@ golem_add_external_resources <- function() {
     "www",
     app_sys("app/www")
   )
+  
+  add_resource_path(
+    "designs",
+    app_sys("app/designs")
+  )
 
   tags$head(
-    favicon(),
+    tags$link(
+      rel = "icon",
+      type = "image/png",
+      href = "designs/pip-logos/favicon-PIP.png"
+    ),
     bundle_resources(
       path = app_sys("app/www"),
       app_title = "InnovationHubDashboard"
