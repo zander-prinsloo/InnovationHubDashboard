@@ -22,12 +22,24 @@
 .pip-header-logo {
   display: flex;
   align-items: center;
+  flex: 0 0 auto;
 }
 
 .pip-header-logo img {
   height: 45px;
   width: auto;
   display: block;
+}
+
+/* Title styling */
+.pip-header-title {
+  flex: 1;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: #044368;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0.5px;
 }
 
 /* Navigation menu */
@@ -38,6 +50,7 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  flex: 0 0 auto;
 }
 
 .pip-header-nav-item {
@@ -88,6 +101,10 @@
     height: 35px;
   }
   
+  .pip-header-title {
+    font-size: 24px;
+  }
+  
   .pip-header-nav {
     gap: 20px;
     flex-wrap: wrap;
@@ -101,6 +118,10 @@
 }
 
 @media (max-width: 480px) {
+  .pip-header-title {
+    font-size: 20px;
+  }
+  
   .pip-header-nav {
     flex-direction: column;
     gap: 10px;

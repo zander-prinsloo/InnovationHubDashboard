@@ -21,6 +21,12 @@ app_ui <- function(request) {
         )
       ),
       
+      # Title in the middle
+      tags$div(
+        class = "pip-header-title",
+        "Innovation Hub"
+      ),
+      
       # Navigation menu on the right
       tags$nav(
         tags$ul(
