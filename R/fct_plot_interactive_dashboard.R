@@ -292,18 +292,26 @@ plot_changes <- function(data,
     "WLD" = "#081079"
   )
 
-  # Make plot
-  plot <- ggplot(data,
-                 aes(y = country_name)) +
-    geom_dumbbell(
-      aes(x      = headcount_default,
-          xend   = headcount_estimate,
+  # Make plot - using manual dumbbell construction instead of ggalt::geom_dumbbell
+  plot <- ggplot(data, aes(y = country_name)) +
+    # Line segments connecting the points (colored by region)
+    geom_segment(
+      aes(x = headcount_default,
+          xend = headcount_estimate,
           colour = region_code),
-      size        = 1.2,
-      size_x      = 3,
-      size_xend   = 3,
-      colour_x    = "black",
-      colour_xend = "steelblue"
+      linewidth = 1.2
+    ) +
+    # Left point (PIP/black)
+    geom_point(
+      aes(x = headcount_default),
+      size = 3,
+      color = "black"
+    ) +
+    # Right point (Alternative/steelblue)
+    geom_point(
+      aes(x = headcount_estimate),
+      size = 3,
+      color = "steelblue"
     ) +
     scale_colour_manual(
       name = "Region",

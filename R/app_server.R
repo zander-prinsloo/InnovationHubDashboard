@@ -20,7 +20,7 @@ app_server <- function(input, output, session) {
   library(ggtext)
   library(ggrepel)
   #library(viridis)
-  library(ggalt)  # for geom_dumbbell
+  #library(ggalt)  # for geom_dumbbell
   library(scales)
   library(glue)
   library(grid)
