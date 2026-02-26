@@ -72,6 +72,7 @@ mod_interactive_dashboard_server <- function(
     data_dm,
     data_stb,
     data_sn,
+    data_sn_cross,
     dm_metadata,
     stb_metadata,
     sn_metadata
@@ -132,6 +133,24 @@ mod_interactive_dashboard_server <- function(
     poverty_line_filter <- reactive({
       if (is.null(input$poverty_line_filter)) "all" else input$poverty_line_filter
     })
+    
+    # SN reporting level selection
+    sn_reporting_level <- reactive({
+      if (is.null(input$sn_reporting_level)) "national" else input$sn_reporting_level
+    })
+    
+    # Cross-country data reactive: returns appropriate data for bottom charts
+    cross_country_data <- reactive({
+      if (selected_method() == "Subnational definition") {
+        data_sn_cross |>
+          collapse::fsubset(reporting_level == sn_reporting_level())
+      } else {
+        dataset()
+      }
+    })
+    
+    # Whether the current method is SN (used for title overrides)
+    is_sn <- reactive(selected_method() == "Subnational definition")
 
     # ─── 4) Top chart ─────────────────────────────────────────────────────────────────
     output$top_chart <- plotly::renderPlotly({
@@ -189,33 +208,12 @@ mod_interactive_dashboard_server <- function(
       )
     })
 
-    # ─── 6) Bottom section: dark-blue charts or "coming soon" ────────────────────────
+    # ─── 6) Bottom section: dark-blue charts ────────────────────────────────────────
     output$bottom_section_ui <- renderUI({
       req(input$select_method)
       
-      if (input$select_method == "Subnational definition") {
-        # Coming soon placeholder
-        tags$div(
-          style = "
-            background-color: #003f5c;
-            color: #ffffff;
-            padding: 40px 20px;
-            border-radius: 4px;
-            text-align: center;
-          ",
-          tags$h4(
-            style = "color: #ffffff; margin-bottom: 10px;",
-            icon("chart-bar", style = "margin-right: 8px;"),
-            "Cross-economy visualizations"
-          ),
-          tags$p(
-            style = "color: #cccccc; font-size: 14px;",
-            "Coming soon \u2014 cross-economy comparison charts for the subnational definition method are under development."
-          )
-        )
-      } else {
-        # Standard bottom section with toggle buttons + charts
-        tags$div(
+      # All methods now get the standard bottom section with toggle buttons + charts
+      tags$div(
           style = "
             background-color: #003f5c;
             color: #ffffff;
@@ -247,7 +245,6 @@ mod_interactive_dashboard_server <- function(
             uiOutput(ns("bottom_chart_column_ui"))
           )
         )
-      }
     })
 
     # ─── 7) Bottom-chart toggles ──────────────────────────────────────────────────────
@@ -263,6 +260,18 @@ mod_interactive_dashboard_server <- function(
           tags$div(
             style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
             h5("Plot Controls", style = "color: white; margin-bottom: 15px;"),
+            
+            # Reporting level filter (SN only)
+            if (is_sn()) {
+              selectInput(
+                inputId = ns("sn_reporting_level"),
+                label = "Reporting Level:",
+                choices = c("National" = "national",
+                           "Urban" = "urban",
+                           "Rural" = "rural"),
+                selected = sn_reporting_level()
+              )
+            },
             
             # Log scale toggle (scatter only)
             if (current_tab() == "scatter") {
@@ -294,6 +303,23 @@ mod_interactive_dashboard_server <- function(
             }
           )
         )
+      } else if (is_sn()) {
+        # Show reporting level filter for Changes tab when SN is selected
+        column(
+          width = 3,
+          tags$div(
+            style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
+            h5("Plot Controls", style = "color: white; margin-bottom: 15px;"),
+            selectInput(
+              inputId = ns("sn_reporting_level"),
+              label = "Reporting Level:",
+              choices = c("National" = "national",
+                         "Urban" = "urban",
+                         "Rural" = "rural"),
+              selected = sn_reporting_level()
+            )
+          )
+        )
       } else {
         NULL
       }
@@ -301,7 +327,9 @@ mod_interactive_dashboard_server <- function(
     
     # Dynamic UI for bottom chart column width
     output$bottom_chart_column_ui <- renderUI({
-      chart_width <- if (current_tab() %in% c("scatter", "rankings")) 9 else 12
+      has_controls <- current_tab() %in% c("scatter", "rankings") ||
+                      (current_tab() == "changes" && is_sn())
+      chart_width <- if (has_controls) 9 else 12
       
       column(
         width = chart_width,
@@ -326,10 +354,18 @@ mod_interactive_dashboard_server <- function(
     # Regular ggplot outputs (changes only now)
     output$bottom_chart <- renderPlot({
       if (current_tab() == "changes") {
+        sn_title <- if (is_sn()) {
+          glue::glue(
+            "Difference between the <span style='color:#FF9800;'>**DB**</span> and <span style='color:#4EC2C0;'>**DOU**</span> estimates for the subnational definition"
+          )
+        } else {
+          NULL
+        }
         plot_changes(
-          data           = dataset(),
+          data           = cross_country_data(),
           select_country = selected_economy(),
-          select_method  = selected_method()
+          select_method  = selected_method(),
+          title          = sn_title
         )
       }
     })
@@ -338,17 +374,23 @@ mod_interactive_dashboard_server <- function(
     output$bottom_chart_plotly <- plotly::renderPlotly({
       if (current_tab() == "scatter") {
         plot_scatter(
-          data               = dataset(),
-          select_year        = NULL,
-          log_x              = log_scale(),
-          log_y              = log_scale(),
-          poverty_line_filter = poverty_line_filter()
+          data                = cross_country_data(),
+          select_year         = NULL,
+          log_x               = log_scale(),
+          log_y               = log_scale(),
+          poverty_line_filter = poverty_line_filter(),
+          title   = if (is_sn()) "DB vs DOU Poverty Headcount Estimates" else NULL,
+          x_label = if (is_sn()) "DB Method Headcount (%)" else NULL,
+          y_label = if (is_sn()) "DOU Method Headcount (%)" else NULL
         )
       } else if (current_tab() == "rankings") {
         plot_rankings(
-          data                = dataset(),
+          data                = cross_country_data(),
           select_country      = selected_economy(),
-          poverty_line_filter = poverty_line_filter()
+          poverty_line_filter = poverty_line_filter(),
+          title   = if (is_sn()) "Difference plot of DB vs DOU poverty headcount" else NULL,
+          x_label = if (is_sn()) "Mean headcount across methods (%)" else NULL,
+          y_label = if (is_sn()) "Difference (DB \u2212 DOU) (pp)" else NULL
         )
       }
     })
@@ -358,7 +400,7 @@ mod_interactive_dashboard_server <- function(
       if (current_tab() != "scatter") return(NULL)
       
       # Calculate statistics from the data
-      dt <- dataset()
+      dt <- cross_country_data()
       if (is.null(dt)) return(NULL)
       
       # Filter by poverty line if needed
@@ -424,7 +466,7 @@ mod_interactive_dashboard_server <- function(
       if (current_tab() != "rankings") return(NULL)
       
       # Calculate statistics from the data
-      dt <- dataset()
+      dt <- cross_country_data()
       if (is.null(dt)) return(NULL)
       
       # Filter to complete cases
@@ -501,7 +543,7 @@ mod_interactive_dashboard_server <- function(
       if (is.null(click)) return()
       
       # Get the prepared data used in the plot
-      plot_data <- prep_changes(dataset(), selected_economy())
+      plot_data <- prep_changes(cross_country_data(), selected_economy())
       
       # Now the plot has only poverty_line as column facets (no region rows)
       # Determine which poverty line based on click$panelvar1

@@ -39,7 +39,24 @@ app_server <- function(input, output, session) {
     fselect(-c(headcount_default, population_share_default, welfare_type)) |>
     merge(country_lookup, by = "code", all.x = TRUE)
 
-  # 1c) combine, dropping the unwanted cols
+  # 1c) create cross-country SN dataset: pivot DB→headcount_default, DOU→headcount_estimate
+  data_sn_cross <- d_sn |>
+    fsubset(sub_level == "" & method %in% c("db", "dou")) |>
+    fselect(code, region_code, year, reporting_level, poverty_line, method, headcount_estimate) |>
+    tidyr::pivot_wider(
+      names_from  = method,
+      values_from = headcount_estimate,
+      names_prefix = "hc_"
+    ) |>
+    dplyr::mutate(
+      headcount_default  = hc_db  * 100,
+      headcount_estimate = hc_dou * 100
+    ) |>
+    dplyr::select(-hc_db, -hc_dou) |>
+    merge(country_lookup, by = "code", all.x = TRUE) |>
+    as.data.frame()
+
+  # 1d) combine, dropping the unwanted cols
   data_cntry_plot <- rowbind(d_stb |>
                                fselect(-c(pip_vintage,
                                           welfare_type)),
@@ -48,15 +65,16 @@ app_server <- function(input, output, session) {
                                           gini_default,
                                           gini_estimate)))
 
-  # 1d) call your module, passing it the combined data
+  # 1e) call your module, passing it the combined data
   mod_interactive_dashboard_server(
-    id           = "interactive_dashboard_1",
-    data_dm      = d_dm,
-    data_stb     = d_stb,
-    data_sn      = data_sn,
-    dm_metadata  = dm_metadata,
-    stb_metadata = stb_metadata,
-    sn_metadata  = sn_metadata
+    id            = "interactive_dashboard_1",
+    data_dm       = d_dm,
+    data_stb      = d_stb,
+    data_sn       = data_sn,
+    data_sn_cross = data_sn_cross,
+    dm_metadata   = dm_metadata,
+    stb_metadata  = stb_metadata,
+    sn_metadata   = sn_metadata
   )
 }
 

@@ -275,7 +275,8 @@ prep_changes <- function(data, select_country = NULL) {
 
 plot_changes <- function(data,
                          select_country = NULL,
-                         select_method  = c("Household allocation")) {
+                         select_method  = c("Household allocation"),
+                         title          = NULL) {
 
   select_method <- tolower(select_method)
   data <- prep_changes(data, select_country)
@@ -289,7 +290,8 @@ plot_changes <- function(data,
     "EAS" = "#F3578E",
     "LAC" = "#0C7C68",
     "ECA" = "#AA0000",
-    "WLD" = "#081079"
+    "WLD" = "#081079",
+    "SN"  = "#888888"
   )
 
   # Make plot - using manual dumbbell construction instead of ggalt::geom_dumbbell
@@ -352,6 +354,11 @@ plot_changes <- function(data,
       )
   }
 
+  # Build title: use override if provided, else default
+  if (is.null(title)) {
+    title <- glue("Difference between the <span style='color:black;'>**PIP**</span> and <span style='color:steelblue;'>**alternative**</span> estimates when changing the {select_method}")
+  }
+
   plot <- plot +
     facet_grid(. ~ poverty_line) +
     scale_x_continuous(
@@ -359,7 +366,7 @@ plot_changes <- function(data,
       expand = expansion(mult = c(0, 0.25))
     ) +
     labs(
-      title    = glue("Difference between the <span style='color:black;'>**PIP**</span> and <span style='color:steelblue;'>**alternative**</span> estimates when changing the {select_method}"),
+      title    = title,
       subtitle = glue("Top 25 countries with the biggest difference, highlighting {select_country}"),
       x        = "Poverty rate (%)",
       y        = NULL,
@@ -404,22 +411,39 @@ plot_changes <- function(data,
 #' @return A plotly object with interactive scatter plot
 #'
 #' @noRd
-plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE, poverty_line_filter = "all") {
+plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE, poverty_line_filter = "all",
+                         title = NULL, x_label = NULL, y_label = NULL) {
   
   # ─── 1) Data preparation ────────────────────────────────────────────────────
   
   # Filter to specified year, or use most common year if not specified
-  if (is.null(select_year)) {
-    # Determine the most common year in the dataset
-    year_counts <- data |>
-      collapse::fcount(year)
-    # Order by count descending and get most common year
-    select_year <- year_counts$year[which.max(year_counts$N)]
+  # If all rows share the same year (or each country has only one year), skip year filtering
+  n_unique_years <- length(unique(data$year))
+  if (is.null(select_year) && n_unique_years > 1) {
+    # Check if it's "one year per country" (e.g. SN data) vs "one year for all"
+    years_per_country <- data |>
+      collapse::fcount(code, year) |>
+      collapse::fcount(code)
+    if (all(years_per_country$N == 1)) {
+      # Each country has only one year — keep all rows, no year filter
+      select_year <- NULL
+    } else {
+      # Multiple years per country — pick most common
+      year_counts <- data |>
+        collapse::fcount(year)
+      select_year <- year_counts$year[which.max(year_counts$N)]
+    }
+  } else if (n_unique_years == 1) {
+    select_year <- unique(data$year)
   }
   
-  # Filter data to selected year and remove any missing values
-  dt_plot <- data |>
-    collapse::fsubset(year == select_year) |>
+  # Filter data to selected year (if applicable) and remove any missing values
+  dt_plot <- data
+  if (!is.null(select_year)) {
+    dt_plot <- dt_plot |>
+      collapse::fsubset(year == select_year)
+  }
+  dt_plot <- dt_plot |>
     collapse::fsubset(!is.na(headcount_default) & !is.na(headcount_estimate))
   
   # Filter by poverty line if specified
@@ -483,7 +507,8 @@ plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE,
     "EAS" = "#F3578E",  # East Asia & Pacific
     "LAC" = "#0C7C68",  # Latin America & Caribbean
     "ECA" = "#AA0000",  # Europe & Central Asia
-    "WLD" = "#081079"   # World
+    "WLD" = "#081079",  # World
+    "SN"  = "#888888"   # Subnational
   )
   
   # Define shape symbols for poverty lines (plotly symbol codes)
@@ -605,8 +630,13 @@ plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE,
   # ─── 5) Configure layout ───────────────────────────────────────────────────
   
   # Configure axis settings based on log scale options
+  # Apply label overrides (or use defaults)
+  scatter_title   <- if (!is.null(title))   paste0("<b>", title, "</b>")   else "<b>Default vs Alternative Poverty Headcount Estimates</b>"
+  scatter_x_label <- if (!is.null(x_label)) paste0("<b>", x_label, "</b>") else "<b>Default Methodology Headcount (%)</b>"
+  scatter_y_label <- if (!is.null(y_label)) paste0("<b>", y_label, "</b>") else "<b>Alternative Methodology Headcount (%)</b>"
+
   xaxis_config <- list(
-    title = "<b>Default Methodology Headcount (%)</b>",
+    title = scatter_x_label,
     ticksuffix = "%",
     scaleanchor = "y",
     scaleratio = 1,
@@ -617,7 +647,7 @@ plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE,
   )
   
   yaxis_config <- list(
-    title = "<b>Alternative Methodology Headcount (%)</b>",
+    title = scatter_y_label,
     ticksuffix = "%",
     gridcolor = "rgba(200,200,200,0.3)",
     zeroline = FALSE,
@@ -647,7 +677,7 @@ plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE,
   pp <- pp |>
     plotly::layout(
       title = list(
-        text = "<b>Default vs Alternative Poverty Headcount Estimates</b>",
+        text = scatter_title,
         font = list(size = 15)
       ),
       xaxis = xaxis_config,
@@ -702,7 +732,8 @@ plot_scatter <- function(data, select_year = NULL, log_x = FALSE, log_y = FALSE,
 #' - Reference lines: Bias (mean difference) and Limits of Agreement (mean ± 1.96*SD)
 #'
 #' @noRd
-plot_rankings <- function(data, select_country = NULL, poverty_line_filter = "all") {
+plot_rankings <- function(data, select_country = NULL, poverty_line_filter = "all",
+                          title = NULL, x_label = NULL, y_label = NULL) {
   
   # ─── 1) Data preparation ────────────────────────────────────────────────────────────
   
@@ -814,7 +845,8 @@ plot_rankings <- function(data, select_country = NULL, poverty_line_filter = "al
     "EAS" = "#F3578E",
     "LAC" = "#0C7C68",
     "ECA" = "#AA0000",
-    "WLD" = "#081079"
+    "WLD" = "#081079",
+    "SN"  = "#888888"
   )
   
   # ─── 5) Build plotly figure ────────────────────────────────────────────────────────────
@@ -953,8 +985,13 @@ plot_rankings <- function(data, select_country = NULL, poverty_line_filter = "al
   
   # ─── 6) Layout configuration ────────────────────────────────────────────────────────────
   
+  # Apply label overrides (or use defaults)
+  rankings_title   <- if (!is.null(title))   paste0("<b>", title, "</b>")   else "<b>Difference plot of PIP vs Alternative poverty headcount</b>"
+  rankings_x_label <- if (!is.null(x_label)) paste0("<b>", x_label, "</b>") else "<b>Mean headcount across methods (%)</b>"
+  rankings_y_label <- if (!is.null(y_label)) paste0("<b>", y_label, "</b>") else "<b>Difference (PIP \u2212 Alternative) (pp)</b>"
+
   # Create title with optional subtitle for selected country
-  title_text <- "<b>Difference plot of PIP vs Alternative poverty headcount</b>"
+  title_text <- rankings_title
   if (!is.null(select_country) && any(dt_plot$is_selected)) {
     title_text <- paste0(
       title_text,
@@ -971,13 +1008,13 @@ plot_rankings <- function(data, select_country = NULL, poverty_line_filter = "al
         font = list(size = 15)
       ),
       xaxis = list(
-        title = "<b>Mean headcount across methods (%)</b>",
+        title = rankings_x_label,
         range = x_range,
         gridcolor = "rgba(200,200,200,0.3)",
         zeroline = FALSE
       ),
       yaxis = list(
-        title = "<b>Difference (PIP − Alternative) (pp)</b>",
+        title = rankings_y_label,
         range = y_limits,
         gridcolor = "rgba(200,200,200,0.3)",
         zeroline = FALSE
