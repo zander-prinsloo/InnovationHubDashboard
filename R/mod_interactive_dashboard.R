@@ -14,7 +14,7 @@ mod_interactive_dashboard_ui <- function(id) {
         selectInput(
           inputId = ns("select_method"),
           label   = "Select Method:",
-          choices = c("Welfare conversion", "Household allocation"),
+          choices = c("Welfare conversion", "Household allocation", "Subnational definition"),
           selected = "Welfare conversion"
         ),
 
@@ -25,6 +25,9 @@ mod_interactive_dashboard_ui <- function(id) {
           choices = NULL,
           selected = NULL
         ),
+
+        # 2b SN-specific controls (poverty line + granular toggle)
+        uiOutput(ns("sn_controls")),
 
         # 3 dynamic text panel
         uiOutput(ns("method_panel")),
@@ -43,49 +46,15 @@ mod_interactive_dashboard_ui <- function(id) {
         width = 6,
         plotly::plotlyOutput(
           outputId = ns("top_chart"),
-          height   = "300px"
+          height   = "500px"
         )
       )
     ),
 
     br(),
 
-    ## Wrap the *entire* lower section in dark‐blue ----
-    tags$div(
-      style = "
-        background-color: #003f5c;
-        color: #ffffff;
-        padding: 20px;
-        border-radius: 4px;
-      ",
-
-      ## 2nd row: toggle buttons ----
-      fluidRow(
-        column(
-          width = 4, align = "center",
-          actionButton(ns("btn_rankings"),  "Differences",   class = "btn btn-outline-light")
-        ),
-        column(
-          width = 4, align = "center",
-          actionButton(ns("btn_changes"),   "Changes",    class = "btn btn-outline-light")
-        ),
-        column(
-          width = 4, align = "center",
-          actionButton(ns("btn_scatter"),   "Scatterplot",class = "btn btn-outline-light")
-        )
-      ),
-
-      br(),
-
-      ## 3rd row: bottom chart + side note ----
-      fluidRow(
-        # Conditional left panel for scatter plot controls
-        uiOutput(ns("scatter_controls_ui")),
-        
-        # Main chart area
-        uiOutput(ns("bottom_chart_column_ui"))
-      )
-    )
+    ## Bottom section: conditionally rendered ----
+    uiOutput(ns("bottom_section_ui"))
 
   )
 }
@@ -102,8 +71,10 @@ mod_interactive_dashboard_server <- function(
     id,
     data_dm,
     data_stb,
+    data_sn,
     dm_metadata,
-    stb_metadata
+    stb_metadata,
+    sn_metadata
 ) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
@@ -112,8 +83,10 @@ mod_interactive_dashboard_server <- function(
     dataset <- reactive({
       if (input$select_method == "Welfare conversion") {
         data_dm
-      } else {
+      } else if (input$select_method == "Household allocation") {
         data_stb
+      } else {
+        data_sn
       }
     })
 
@@ -133,6 +106,25 @@ mod_interactive_dashboard_server <- function(
     selected_economy <- reactive(input$select_economy)
     current_tab      <- reactiveVal("rankings")
     
+    # ─── SN-specific controls ─────────────────────────────────────────────────────
+    output$sn_controls <- renderUI({
+      req(input$select_method)
+      if (input$select_method != "Subnational definition") return(NULL)
+      tagList(
+        selectInput(
+          inputId  = ns("sn_poverty_line"),
+          label    = "Select Poverty Line:",
+          choices  = c("$2.15", "$3.65", "$6.85"),
+          selected = "$2.15"
+        ),
+        checkboxInput(
+          inputId = ns("sn_granular"),
+          label   = "Show granular rural/urban classifications",
+          value   = FALSE
+        )
+      )
+    })
+    
     # Log scale toggle for scatter plot (both axes)
     log_scale <- reactiveVal(FALSE)
     
@@ -143,11 +135,40 @@ mod_interactive_dashboard_server <- function(
 
     # ─── 4) Top chart ─────────────────────────────────────────────────────────────────
     output$top_chart <- plotly::renderPlotly({
-      plot_single_country(
-        data           = dataset(),
-        select_country = selected_economy(),
-        select_method  = selected_method()
-      )
+      req(selected_economy())
+      
+      if (selected_method() == "Subnational definition") {
+        # Look up the ISO3 code for the selected economy name
+        econ_code <- data_sn |>
+          collapse::fsubset(country_name == selected_economy()) |>
+          collapse::funique(cols = "code")
+        econ_code <- econ_code$code[1]
+        
+        sn_pline <- if (is.null(input$sn_poverty_line)) "$2.15" else input$sn_poverty_line
+        show_granular <- if (is.null(input$sn_granular)) FALSE else input$sn_granular
+        
+        if (show_granular) {
+          plot_sn_range_bars(
+            data                = data_sn,
+            country_code        = econ_code,
+            country_name        = selected_economy(),
+            selected_poverty_line = sn_pline
+          )
+        } else {
+          plot_sn_dumbbell(
+            data                = data_sn,
+            country_code        = econ_code,
+            country_name        = selected_economy(),
+            selected_poverty_line = sn_pline
+          )
+        }
+      } else {
+        plot_single_country(
+          data           = dataset(),
+          select_country = selected_economy(),
+          select_method  = selected_method()
+        )
+      }
     })
 
     # ─── 5) Left-hand panel: metadata description ─────────────────────────────────────
@@ -156,8 +177,10 @@ mod_interactive_dashboard_server <- function(
       meth <- selected_method()
       desc_text <- if (meth == "Welfare conversion") {
         dm_metadata$description
-      } else {
+      } else if (meth == "Household allocation") {
         stb_metadata$description
+      } else {
+        sn_metadata$description
       }
       tagList(
         p(strong("Method:"),   meth),
@@ -166,7 +189,68 @@ mod_interactive_dashboard_server <- function(
       )
     })
 
-    # ─── 6) Bottom-chart toggles ──────────────────────────────────────────────────────
+    # ─── 6) Bottom section: dark-blue charts or "coming soon" ────────────────────────
+    output$bottom_section_ui <- renderUI({
+      req(input$select_method)
+      
+      if (input$select_method == "Subnational definition") {
+        # Coming soon placeholder
+        tags$div(
+          style = "
+            background-color: #003f5c;
+            color: #ffffff;
+            padding: 40px 20px;
+            border-radius: 4px;
+            text-align: center;
+          ",
+          tags$h4(
+            style = "color: #ffffff; margin-bottom: 10px;",
+            icon("chart-bar", style = "margin-right: 8px;"),
+            "Cross-economy visualizations"
+          ),
+          tags$p(
+            style = "color: #cccccc; font-size: 14px;",
+            "Coming soon \u2014 cross-economy comparison charts for the subnational definition method are under development."
+          )
+        )
+      } else {
+        # Standard bottom section with toggle buttons + charts
+        tags$div(
+          style = "
+            background-color: #003f5c;
+            color: #ffffff;
+            padding: 20px;
+            border-radius: 4px;
+          ",
+          
+          ## Toggle buttons
+          fluidRow(
+            column(
+              width = 4, align = "center",
+              actionButton(ns("btn_rankings"), "Differences", class = "btn btn-outline-light")
+            ),
+            column(
+              width = 4, align = "center",
+              actionButton(ns("btn_changes"), "Changes", class = "btn btn-outline-light")
+            ),
+            column(
+              width = 4, align = "center",
+              actionButton(ns("btn_scatter"), "Scatterplot", class = "btn btn-outline-light")
+            )
+          ),
+          
+          br(),
+          
+          ## Bottom chart area
+          fluidRow(
+            uiOutput(ns("scatter_controls_ui")),
+            uiOutput(ns("bottom_chart_column_ui"))
+          )
+        )
+      }
+    })
+
+    # ─── 7) Bottom-chart toggles ──────────────────────────────────────────────────────
     observeEvent(input$btn_rankings,  current_tab("rankings"))
     observeEvent(input$btn_changes,   current_tab("changes"))
     observeEvent(input$btn_scatter,   current_tab("scatter"))
@@ -527,8 +611,9 @@ mod_interactive_dashboard_server <- function(
     observeEvent(input$learn_more, {
       md_file <- switch(
         input$select_method,
-        "Welfare conversion"   = "dm_full_description.md",
-        "Household allocation" = "stb_full_description.md",
+        "Welfare conversion"     = "dm_full_description.md",
+        "Household allocation"   = "stb_full_description.md",
+        "Subnational definition" = "sn_full_description.md",
         NULL
       )
       if (is.null(md_file)) {
