@@ -75,10 +75,19 @@ mod_interactive_dashboard_server <- function(
     data_sn_cross,
     dm_metadata,
     stb_metadata,
-    sn_metadata
+    sn_metadata,
+    method_override = NULL
 ) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
+
+    # ─── 0) External method override from Home page ───────────────────────────────────
+    if (!is.null(method_override) && is.reactive(method_override)) {
+      observeEvent(method_override(), {
+        req(method_override())
+        updateSelectInput(session, "select_method", selected = method_override())
+      }, ignoreInit = TRUE)
+    }
 
     # ─── 1) Reactive dataset based on method ─────────────────────────────────────────
     dataset <- reactive({

@@ -7,11 +7,12 @@
 app_ui <- function(request) {
   tagList(
     golem_add_external_resources(),
-    
+    shinyjs::useShinyjs(),
+
     # ---- PIP Header ----
     tags$header(
       class = "pip-header",
-      
+
       # Logo on the left
       tags$div(
         class = "pip-header-logo",
@@ -20,36 +21,36 @@ app_ui <- function(request) {
           alt = "World Bank Poverty and Inequality Platform Logo"
         )
       ),
-      
+
       # Title in the middle
       tags$div(
         class = "pip-header-title",
         "Innovation Hub"
       ),
-      
+
       # Navigation menu on the right
       tags$nav(
         tags$ul(
           class = "pip-header-nav",
-          
+
           tags$li(
             class = "pip-header-nav-item",
-            tags$a(
-              href = "https://pip.worldbank.org/home",
-              class = "pip-header-nav-link",
-              target = "_blank",
-              "PIP Home"
+            actionLink(
+              inputId = "nav_home",
+              label   = "Home",
+              class   = "pip-header-nav-link active"
             )
           ),
-          
+
           tags$li(
             class = "pip-header-nav-item",
-            tags$span(
-              class = "pip-header-nav-link active",
-              "Deep Dives"
+            actionLink(
+              inputId = "nav_deep_dives",
+              label   = "Deep Dives",
+              class   = "pip-header-nav-link"
             )
           ),
-          
+
           tags$li(
             class = "pip-header-nav-item",
             tags$a(
@@ -58,14 +59,37 @@ app_ui <- function(request) {
               target = "_blank",
               "Research Repository"
             )
+          ),
+
+          tags$li(
+            class = "pip-header-nav-item",
+            tags$a(
+              href = "https://pip.worldbank.org/home",
+              class = "pip-header-nav-link",
+              target = "_blank",
+              "Return to PIP"
+            )
           )
         )
       )
     ),
-    
-    # ---- Main dashboard content ----
-    fluidPage(
-      mod_interactive_dashboard_ui("interactive_dashboard_1")
+
+    # ---- Main content: hidden tab panels ----
+    tabsetPanel(
+      id   = "main_tabs",
+      type = "hidden",
+
+      tabPanelBody(
+        value = "home",
+        mod_home_ui("home_1")
+      ),
+
+      tabPanelBody(
+        value = "deep_dives",
+        fluidPage(
+          mod_interactive_dashboard_ui("interactive_dashboard_1")
+        )
+      )
     )
   )
 }

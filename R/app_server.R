@@ -65,16 +65,57 @@ app_server <- function(input, output, session) {
                                           gini_default,
                                           gini_estimate)))
 
-  # 1e) call your module, passing it the combined data
+  # ── Navigation: tab switching ────────────────────────────────────────────
+  # Reactive to pass method override into Deep Dives module
+  method_override <- reactiveVal(NULL)
+
+  # Helper to switch active nav styling
+  switch_nav <- function(active_tab) {
+    shinyjs::removeClass(id = "nav_home",       class = "active")
+    shinyjs::removeClass(id = "nav_deep_dives", class = "active")
+    shinyjs::addClass(id = active_tab, class = "active")
+  }
+
+  # Header nav: Home
+  observeEvent(input$nav_home, {
+    updateTabsetPanel(session, "main_tabs", selected = "home")
+    switch_nav("nav_home")
+  })
+
+  # Header nav: Deep Dives
+  observeEvent(input$nav_deep_dives, {
+    updateTabsetPanel(session, "main_tabs", selected = "deep_dives")
+    switch_nav("nav_deep_dives")
+  })
+
+  # ── Home page module ─────────────────────────────────────────────────────
+  home_nav <- mod_home_server(
+    id           = "home_1",
+    dm_metadata  = dm_metadata,
+    stb_metadata = stb_metadata,
+    sn_metadata  = sn_metadata
+  )
+
+  # When a card image or banner Deep Dives link is clicked, go to Deep Dives
+  observeEvent(home_nav$counter(), {
+    updateTabsetPanel(session, "main_tabs", selected = "deep_dives")
+    switch_nav("nav_deep_dives")
+    if (!is.null(home_nav$method())) {
+      method_override(home_nav$method())
+    }
+  }, ignoreInit = TRUE)
+
+  # ── Deep Dives module ────────────────────────────────────────────────────
   mod_interactive_dashboard_server(
-    id            = "interactive_dashboard_1",
-    data_dm       = d_dm,
-    data_stb      = d_stb,
-    data_sn       = data_sn,
-    data_sn_cross = data_sn_cross,
-    dm_metadata   = dm_metadata,
-    stb_metadata  = stb_metadata,
-    sn_metadata   = sn_metadata
+    id              = "interactive_dashboard_1",
+    data_dm         = d_dm,
+    data_stb        = d_stb,
+    data_sn         = data_sn,
+    data_sn_cross   = data_sn_cross,
+    dm_metadata     = dm_metadata,
+    stb_metadata    = stb_metadata,
+    sn_metadata     = sn_metadata,
+    method_override = method_override
   )
 }
 
