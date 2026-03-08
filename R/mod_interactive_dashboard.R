@@ -1,3 +1,7 @@
+#' Reporting-level choices used in multiple SN controls
+#' @noRd
+SN_REPORTING_LEVELS <- c("National" = "national", "Urban" = "urban", "Rural" = "rural")
+
 #' interactive_dashboard UI Function
 #'
 #' @noRd
@@ -14,7 +18,12 @@ mod_interactive_dashboard_ui <- function(id) {
         selectInput(
           inputId = ns("select_method"),
           label   = "Select Method:",
-          choices = c("Welfare conversion", "Household allocation", "Subnational definition"),
+          choices = c(
+            "Welfare conversion",
+            "Household allocation",
+            "Subnational definition",
+            "NA\u2013Survey gap adjustment"
+          ),
           selected = "Welfare conversion"
         ),
 
@@ -28,6 +37,9 @@ mod_interactive_dashboard_ui <- function(id) {
 
         # 2b SN-specific controls (poverty line + granular toggle)
         uiOutput(ns("sn_controls")),
+
+        # 2c MTG-specific controls (NA type + PPP vintage + all-years toggle)
+        uiOutput(ns("mtg_controls")),
 
         # 3 dynamic text panel
         uiOutput(ns("method_panel")),
@@ -63,7 +75,18 @@ mod_interactive_dashboard_ui <- function(id) {
 #' interactive_dashboard Server Functions
 #'
 #' @param id    module id
-#' @param data  a data.table (or data.frame) containing your economy‐level data
+#' @param data_dm   data.table for Welfare conversion (DM) method.
+#' @param data_stb  data.table for Household allocation (STB) method.
+#' @param data_sn   data.table for Subnational definition (SN) method.
+#' @param data_sn_cross  Cross-country data for SN method.
+#' @param data_yk   data.table for NA–Survey gap adjustment (MTG) method,
+#'   produced by `data-raw/d_yk.R`.
+#' @param dm_metadata   Metadata tibble for DM method.
+#' @param stb_metadata  Metadata tibble for STB method.
+#' @param sn_metadata   Metadata tibble for SN method.
+#' @param yk_metadata   Metadata tibble for MTG method.
+#' @param method_override  An optional reactive that, when non-NULL, overrides
+#'   the selected method (used by the Home page to navigate directly to a method).
 #' @noRd
 # R/mod_interactive_dashboard.R
 
@@ -73,9 +96,11 @@ mod_interactive_dashboard_server <- function(
     data_stb,
     data_sn,
     data_sn_cross,
+    data_yk,
     dm_metadata,
     stb_metadata,
     sn_metadata,
+    yk_metadata,
     method_override = NULL
 ) {
   moduleServer(id, function(input, output, session) {
@@ -95,14 +120,33 @@ mod_interactive_dashboard_server <- function(
         data_dm
       } else if (input$select_method == "Household allocation") {
         data_stb
-      } else {
+      } else if (input$select_method == "Subnational definition") {
         data_sn
+      } else {
+        # NA–Survey gap adjustment: return only is_latest rows for economy picker
+        data_yk
       }
     })
 
+    # MTG-specific reactive values (sidebar controls for Chart 1)
+    mtg_na_type   <- reactiveVal("hfce")
+    mtg_ppp       <- reactiveVal("2021")
+    mtg_all_years <- reactiveVal(FALSE)
+
+    # MTG-specific reactive values (Chart 2 / Gini controls — independent of sidebar)
+    mtg_gini_na_type   <- reactiveVal("hfce")
+    mtg_gini_latest    <- reactiveVal(FALSE)
+
     # ─── 2) Whenever the dataset changes (and at startup), repopulate economy picker ──
     observeEvent(dataset(), {
-      countries <- sort(unique(dataset()$country_name))
+      if (input$select_method == "NA\u2013Survey gap adjustment") {
+        # For MTG use country_name from is_latest rows (non-NA names only)
+        countries <- sort(unique(
+          data_yk$country_name[data_yk$is_latest & !is.na(data_yk$country_name)]
+        ))
+      } else {
+        countries <- sort(unique(dataset()$country_name))
+      }
       updateSelectInput(
         session,
         "select_economy",
@@ -116,6 +160,9 @@ mod_interactive_dashboard_server <- function(
     selected_economy <- reactive(input$select_economy)
     current_tab      <- reactiveVal("rankings")
     
+    # Convenience flag for MTG method
+    is_mtg <- reactive(selected_method() == "NA\u2013Survey gap adjustment")
+
     # ─── SN-specific controls ─────────────────────────────────────────────────────
     output$sn_controls <- renderUI({
       req(input$select_method)
@@ -135,6 +182,40 @@ mod_interactive_dashboard_server <- function(
       )
     })
     
+    # ─── MTG-specific controls ─────────────────────────────────────────────────
+    output$mtg_controls <- renderUI({
+      req(input$select_method)
+      if (input$select_method != "NA\u2013Survey gap adjustment") return(NULL)
+      tagList(
+        selectInput(
+          inputId  = ns("mtg_na_type"),
+          label    = "National accounts aggregate:",
+          choices  = c("HFCE" = "hfce", "GDP" = "gdp"),
+          selected = "hfce"
+        ),
+        selectInput(
+          inputId  = ns("mtg_ppp"),
+          label    = "PPP vintage:",
+          choices  = c("2021 PPP" = "2021", "2017 PPP" = "2017"),
+          selected = "2021"
+        ),
+        checkboxInput(
+          inputId = ns("mtg_all_years"),
+          label   = "Show all survey years (not only latest)",
+          value   = FALSE
+        )
+      )
+    })
+
+    # Keep MTG sidebar toggle reactives in sync with UI inputs
+    observeEvent(input$mtg_na_type,   mtg_na_type(input$mtg_na_type))
+    observeEvent(input$mtg_ppp,       mtg_ppp(input$mtg_ppp))
+    observeEvent(input$mtg_all_years, mtg_all_years(input$mtg_all_years))
+
+    # Keep MTG Gini chart controls in sync with UI inputs
+    observeEvent(input$mtg_gini_na_type, mtg_gini_na_type(input$mtg_gini_na_type))
+    observeEvent(input$mtg_gini_latest,  mtg_gini_latest(input$mtg_gini_latest))
+
     # Log scale toggle for scatter plot (both axes)
     log_scale <- reactiveVal(FALSE)
     
@@ -164,8 +245,16 @@ mod_interactive_dashboard_server <- function(
     # ─── 4) Top chart ─────────────────────────────────────────────────────────────────
     output$top_chart <- plotly::renderPlotly({
       req(selected_economy())
-      
-      if (selected_method() == "Subnational definition") {
+
+      if (is_mtg()) {
+        plot_mtg_gap_gdppc(
+          data           = data_yk,
+          select_country = selected_economy(),
+          na_type        = mtg_na_type(),
+          ppp_vintage    = mtg_ppp(),
+          show_all_years = mtg_all_years()
+        )
+      } else if (selected_method() == "Subnational definition") {
         # Look up the ISO3 code for the selected economy name
         econ_code <- data_sn |>
           collapse::fsubset(country_name == selected_economy()) |>
@@ -207,8 +296,10 @@ mod_interactive_dashboard_server <- function(
         dm_metadata$description
       } else if (meth == "Household allocation") {
         stb_metadata$description
-      } else {
+      } else if (meth == "Subnational definition") {
         sn_metadata$description
+      } else {
+        yk_metadata$description
       }
       tagList(
         p(strong("Method:"),   meth),
@@ -234,15 +325,32 @@ mod_interactive_dashboard_server <- function(
           fluidRow(
             column(
               width = 4, align = "center",
-              actionButton(ns("btn_rankings"), "Differences", class = "btn btn-outline-light")
+              # Disabled for MTG (no cross-country differences chart)
+              if (input$select_method == "NA\u2013Survey gap adjustment") {
+                actionButton(ns("btn_rankings"), "Differences",
+                             class = "btn btn-outline-light", disabled = TRUE)
+              } else {
+                actionButton(ns("btn_rankings"), "Differences", class = "btn btn-outline-light")
+              }
             ),
             column(
               width = 4, align = "center",
-              actionButton(ns("btn_changes"), "Changes", class = "btn btn-outline-light")
+              # Disabled for MTG
+              if (input$select_method == "NA\u2013Survey gap adjustment") {
+                actionButton(ns("btn_changes"), "Changes",
+                             class = "btn btn-outline-light", disabled = TRUE)
+              } else {
+                actionButton(ns("btn_changes"), "Changes", class = "btn btn-outline-light")
+              }
             ),
             column(
               width = 4, align = "center",
-              actionButton(ns("btn_scatter"), "Scatterplot", class = "btn btn-outline-light")
+              # Renamed to 'Gini comparison' for MTG
+              actionButton(
+                ns("btn_scatter"),
+                if (input$select_method == "NA\u2013Survey gap adjustment") "Gini comparison" else "Scatterplot",
+                class = "btn btn-outline-light"
+              )
             )
           ),
           
@@ -257,31 +365,51 @@ mod_interactive_dashboard_server <- function(
     })
 
     # ─── 7) Bottom-chart toggles ──────────────────────────────────────────────────────
-    observeEvent(input$btn_rankings,  current_tab("rankings"))
-    observeEvent(input$btn_changes,   current_tab("changes"))
+    observeEvent(input$btn_rankings,  { if (!is_mtg()) current_tab("rankings") })
+    observeEvent(input$btn_changes,   { if (!is_mtg()) current_tab("changes")  })
     observeEvent(input$btn_scatter,   current_tab("scatter"))
+
+    # When switching to MTG, force 'scatter' tab (Gini comparison)
+    observeEvent(input$select_method, {
+      if (input$select_method == "NA\u2013Survey gap adjustment") {
+        current_tab("scatter")
+      }
+    })
 
     # Dynamic UI for scatter/rankings controls (left panel)
     output$scatter_controls_ui <- renderUI({
       if (current_tab() %in% c("scatter", "rankings")) {
+
+        # MTG method gets its own Gini-specific controls — no statistics,
+        # no poverty line, no log scale.
+        if (is_mtg()) {
+          return(column(
+            width = 3,
+            tags$div(
+              style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
+              h5("Gini Chart Controls", style = "color: white; margin-bottom: 15px;"),
+              checkboxInput(
+                inputId = ns("mtg_gini_latest"),
+                label   = "Show latest year only",
+                value   = FALSE
+              ),
+              selectInput(
+                inputId  = ns("mtg_gini_na_type"),
+                label    = "National accounts aggregate:",
+                choices  = c("HFCE" = "hfce", "GDP" = "gdp"),
+                selected = "hfce"
+              )
+            )
+          ))
+        }
+
+        # Standard controls for all other methods
         column(
           width = 3,
           tags$div(
             style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
             h5("Plot Controls", style = "color: white; margin-bottom: 15px;"),
-            
-            # Reporting level filter (SN only)
-            if (is_sn()) {
-              selectInput(
-                inputId = ns("sn_reporting_level"),
-                label = "Reporting Level:",
-                choices = c("National" = "national",
-                           "Urban" = "urban",
-                           "Rural" = "rural"),
-                selected = sn_reporting_level()
-              )
-            },
-            
+
             # Log scale toggle (scatter only)
             if (current_tab() == "scatter") {
               checkboxInput(
@@ -290,12 +418,12 @@ mod_interactive_dashboard_server <- function(
                 value = FALSE
               )
             },
-            
+
             # Poverty line filter (both scatter and rankings)
             selectInput(
               inputId = ns("poverty_line_filter"),
               label = "Poverty Line:",
-              choices = c("All poverty lines" = "all", 
+              choices = c("All poverty lines" = "all",
                          "$2.15 only" = "$2.15",
                          "$3.65 only" = "$3.65",
                          "$6.85 only" = "$6.85"),
@@ -303,7 +431,7 @@ mod_interactive_dashboard_server <- function(
             ),
             hr(style = "border-color: rgba(255, 255, 255, 0.3);"),
             h5("Statistics", style = "color: white; margin-bottom: 15px;"),
-            
+
             # Show appropriate statistics based on current tab
             if (current_tab() == "scatter") {
               uiOutput(ns("scatter_stats"))
@@ -322,9 +450,7 @@ mod_interactive_dashboard_server <- function(
             selectInput(
               inputId = ns("sn_reporting_level"),
               label = "Reporting Level:",
-              choices = c("National" = "national",
-                         "Urban" = "urban",
-                         "Rural" = "rural"),
+              choices = SN_REPORTING_LEVELS,
               selected = sn_reporting_level()
             )
           )
@@ -381,7 +507,15 @@ mod_interactive_dashboard_server <- function(
 
     # Plotly output for scatter and rankings
     output$bottom_chart_plotly <- plotly::renderPlotly({
-      if (current_tab() == "scatter") {
+      if (current_tab() == "scatter" && is_mtg()) {
+        plot_mtg_gini_sensitivity(
+          data             = data_yk,
+          select_country   = selected_economy(),
+          na_type          = mtg_gini_na_type(),
+          ppp_vintage      = mtg_ppp(),
+          show_latest_only = mtg_gini_latest()
+        )
+      } else if (current_tab() == "scatter") {
         plot_scatter(
           data                = cross_country_data(),
           select_year         = NULL,
@@ -392,7 +526,7 @@ mod_interactive_dashboard_server <- function(
           x_label = if (is_sn()) "DB Method Headcount (%)" else NULL,
           y_label = if (is_sn()) "DOU Method Headcount (%)" else NULL
         )
-      } else if (current_tab() == "rankings") {
+      } else if (current_tab() == "rankings" && !is_mtg()) {
         plot_rankings(
           data                = cross_country_data(),
           select_country      = selected_economy(),
@@ -662,9 +796,10 @@ mod_interactive_dashboard_server <- function(
     observeEvent(input$learn_more, {
       md_file <- switch(
         input$select_method,
-        "Welfare conversion"     = "dm_full_description.md",
-        "Household allocation"   = "stb_full_description.md",
-        "Subnational definition" = "sn_full_description.md",
+        "Welfare conversion"          = "dm_full_description.md",
+        "Household allocation"        = "stb_full_description.md",
+        "Subnational definition"      = "sn_full_description.md",
+        "NA\u2013Survey gap adjustment" = "yk_full_description.md",
         NULL
       )
       if (is.null(md_file)) {
@@ -697,11 +832,15 @@ mod_interactive_dashboard_server <- function(
     # ─── 9) Download data handler ──────────────────────────────────────────────────────
     output$download_data <- downloadHandler(
       filename = function() {
-        method_name <- tolower(gsub(" ", "_", input$select_method))
+        method_name <- gsub("[^a-z0-9]+", "_", tolower(input$select_method))
         paste0("innovation_hub_", method_name, "_data.csv")
       },
       content = function(file) {
-        write.csv(dataset(), file, row.names = FALSE)
+        if (is_mtg()) {
+          write.csv(data_yk, file, row.names = FALSE)
+        } else {
+          write.csv(dataset(), file, row.names = FALSE)
+        }
       }
     )
 

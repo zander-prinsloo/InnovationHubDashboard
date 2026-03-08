@@ -9,21 +9,23 @@ app_server <- function(input, output, session) {
   load("data/d_dm.rda")   # creates object d_dm
   load("data/d_stb.rda")  # creates object d_stb
   load("data/d_sn.rda")   # creates object d_sn
+  load("data/d_yk.rda")   # creates object d_yk
 
   dm_metadata  <- readxl::read_excel("data/dm_metadata.xlsx")
   stb_metadata <- readxl::read_excel("data/stb_metadata.xlsx")
   sn_metadata  <- readxl::read_excel("data/sn_metadata.xlsx")
+  yk_metadata  <- readxl::read_excel("data/yk_metadata.xlsx")
 
-  library(fastverse)
-  #library(fst)
-  library(tidyverse)
-  library(ggtext)
-  library(ggrepel)
-  #library(viridis)
-  #library(ggalt)  # for geom_dumbbell
-  library(scales)
-  library(glue)
-  library(grid)
+  # NOTE: packages below are loaded at runtime because the golem app
+  # relies on their side-effects (e.g. tidyverse attaching dplyr/ggplot2).
+  # A future refactor should replace these with explicit namespace calls.
+  require(fastverse, quietly = TRUE)
+  require(tidyverse, quietly = TRUE)
+  require(ggtext, quietly = TRUE)
+  require(ggrepel, quietly = TRUE)
+  require(scales, quietly = TRUE)
+  require(glue, quietly = TRUE)
+  require(grid, quietly = TRUE)
 
   # 1b) preprocess d_sn: remove default method, drop unneeded cols, join country_name
   country_lookup <- data.frame(
@@ -93,7 +95,8 @@ app_server <- function(input, output, session) {
     id           = "home_1",
     dm_metadata  = dm_metadata,
     stb_metadata = stb_metadata,
-    sn_metadata  = sn_metadata
+    sn_metadata  = sn_metadata,
+    yk_metadata  = yk_metadata
   )
 
   # When a card image or banner Deep Dives link is clicked, go to Deep Dives
@@ -112,9 +115,11 @@ app_server <- function(input, output, session) {
     data_stb        = d_stb,
     data_sn         = data_sn,
     data_sn_cross   = data_sn_cross,
+    data_yk         = d_yk,
     dm_metadata     = dm_metadata,
     stb_metadata    = stb_metadata,
     sn_metadata     = sn_metadata,
+    yk_metadata     = yk_metadata,
     method_override = method_override
   )
 }

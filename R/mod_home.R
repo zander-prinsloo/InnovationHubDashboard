@@ -4,7 +4,8 @@
 #'   and 2x2 grid of method preview cards.
 #'
 #' @param id Module ID
-#' @param dm_metadata,stb_metadata,sn_metadata Metadata data frames
+#' @param dm_metadata,stb_metadata,sn_metadata,yk_metadata One-row data frames
+#'   with columns \code{title}, \code{citation}, and \code{paper_url}.
 #'
 #' @noRd
 mod_home_ui <- function(id) {
@@ -35,14 +36,11 @@ mod_home_ui <- function(id) {
 
       tags$h3(class = "method-grid-title", "Methods featured in the deep dives:"),
 
-      # Top row: placeholder + DM
+      # Top row: YK + DM
       fluidRow(
         column(
           width = 6,
-          tags$div(
-            class = "placeholder-card",
-            tags$span(class = "placeholder-card-text", "Coming Soon")
-          )
+          uiOutput(ns("card_yk"))
         ),
         column(
           width = 6,
@@ -70,7 +68,8 @@ mod_home_ui <- function(id) {
 mod_home_server <- function(id,
                             dm_metadata,
                             stb_metadata,
-                            sn_metadata) {
+                            sn_metadata,
+                            yk_metadata) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
 
@@ -110,6 +109,16 @@ mod_home_server <- function(id,
     }
 
     # ── Render cards ────────────────────────────────────────────────────────
+    output$card_yk <- renderUI({
+      build_card(
+        image_src = "www/landing_yk.png",
+        title     = yk_metadata$title,
+        citation  = yk_metadata$citation,
+        paper_url = yk_metadata$paper_url,
+        click_id  = ns("click_yk")
+      )
+    })
+
     output$card_dm <- renderUI({
       build_card(
         image_src = "www/landing_dm.png",
@@ -159,6 +168,11 @@ mod_home_server <- function(id,
 
     observeEvent(input$click_dm, {
       nav_event$method  <- "Welfare conversion"
+      nav_event$counter <- nav_event$counter + 1
+    })
+
+    observeEvent(input$click_yk, {
+      nav_event$method  <- "NA\u2013Survey gap adjustment"
       nav_event$counter <- nav_event$counter + 1
     })
 

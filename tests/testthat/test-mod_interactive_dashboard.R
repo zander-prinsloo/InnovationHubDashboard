@@ -35,4 +35,30 @@ test_that("module ui works", {
     expect_true(i %in% names(fmls))
   }
 })
- 
+
+# ── MTG method integration tests ─────────────────────────────────────────────
+
+test_that("mod_interactive_dashboard_server accepts data_yk and yk_metadata args", {
+  fmls <- formals(mod_interactive_dashboard_server)
+  expect_true("data_yk"     %in% names(fmls))
+  expect_true("yk_metadata" %in% names(fmls))
+})
+
+test_that("UI contains 'NA-Survey gap adjustment' in method choices", {
+  ui <- mod_interactive_dashboard_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("gap adjustment", ui_str, fixed = FALSE))
+})
+
+test_that("UI contains mtg_controls uiOutput placeholder", {
+  ui <- mod_interactive_dashboard_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("mtg_controls", ui_str))
+})
+
+test_that("mod_interactive_dashboard_server has mtg_gini_latest and mtg_gini_na_type in formals or body", {
+  # Confirm the server function references both new reactive inputs in its body
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("mtg_gini_latest",  body_str, fixed = TRUE))
+  expect_true(grepl("mtg_gini_na_type", body_str, fixed = TRUE))
+})
