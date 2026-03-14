@@ -216,6 +216,63 @@ mod_interactive_dashboard_server <- function(
     observeEvent(input$mtg_gini_na_type, mtg_gini_na_type(input$mtg_gini_na_type))
     observeEvent(input$mtg_gini_latest,  mtg_gini_latest(input$mtg_gini_latest))
 
+    # ─── Lorenz comparison: file lookup and reactive values ──────────────────────
+    lorenz_file_lookup <- mtg_scan_cumulative_files()
+
+    # Build country choices for Lorenz picker: iso3 → country_name from data_yk
+    # Returns an empty named vector when no fst files are found, which causes
+    # selectInput to render with no choices rather than crashing.
+    lorenz_country_choices <- {
+      if (nrow(lorenz_file_lookup) == 0L) {
+        stats::setNames(character(0L), character(0L))
+      } else {
+        yk_names <- unique(data_yk[, c("country_code", "country_name")])
+        avail    <- lorenz_file_lookup[, .(iso3, year)]
+        merged   <- merge(avail, yk_names,
+                          by.x = "iso3", by.y = "country_code", all.x = TRUE)
+        choices  <- stats::setNames(merged$iso3, merged$country_name)
+        choices[order(names(choices))]
+      }
+    }
+
+    # Pre-built reverse lookup: iso3 code → display name (avoids linear scan
+    # on every country-change event)
+    lorenz_name_lookup <- stats::setNames(
+      names(lorenz_country_choices),
+      lorenz_country_choices
+    )
+
+    # Helper: load one country's fst data and update lorenz reactives
+    load_lorenz_country <- function(iso3_sel) {
+      file_row <- lorenz_file_lookup[iso3 == iso3_sel]
+      if (nrow(file_row) == 0L) {
+        lorenz_data(NULL)
+        lorenz_meta(list(iso3 = iso3_sel, year = NA, country_name = iso3_sel))
+        return()
+      }
+      dt    <- mtg_read_cumulative(iso3_sel, file_row$year[1L])
+      cname <- lorenz_name_lookup[[iso3_sel]]
+      if (is.null(cname) || is.na(cname)) cname <- iso3_sel
+      lorenz_data(dt)
+      lorenz_meta(list(iso3 = iso3_sel, year = file_row$year[1L],
+                       country_name = cname))
+    }
+
+    # Reactive: currently loaded Lorenz data (one country at a time)
+    lorenz_data <- reactiveVal(NULL)
+    lorenz_meta <- reactiveVal(list(iso3 = NULL, year = NULL, country_name = NULL))
+
+    # Pre-load first country so the chart is not blank when the tab opens
+    if (length(lorenz_country_choices) > 0L) {
+      load_lorenz_country(lorenz_country_choices[[1L]])
+    }
+
+    # Load Lorenz data when country selection changes
+    observeEvent(input$lorenz_country, {
+      req(input$lorenz_country)
+      load_lorenz_country(input$lorenz_country)
+    }, ignoreInit = TRUE)
+
     # Log scale toggle for scatter plot (both axes)
     log_scale <- reactiveVal(FALSE)
     
@@ -335,10 +392,10 @@ mod_interactive_dashboard_server <- function(
             ),
             column(
               width = 4, align = "center",
-              # Disabled for MTG
+              # For MTG: "Lorenz comparisons" (enabled); others: "Changes"
               if (input$select_method == "NA\u2013Survey gap adjustment") {
-                actionButton(ns("btn_changes"), "Changes",
-                             class = "btn btn-outline-light", disabled = TRUE)
+                actionButton(ns("btn_changes"), "Lorenz comparisons",
+                             class = "btn btn-outline-light")
               } else {
                 actionButton(ns("btn_changes"), "Changes", class = "btn btn-outline-light")
               }
@@ -366,7 +423,13 @@ mod_interactive_dashboard_server <- function(
 
     # ─── 7) Bottom-chart toggles ──────────────────────────────────────────────────────
     observeEvent(input$btn_rankings,  { if (!is_mtg()) current_tab("rankings") })
-    observeEvent(input$btn_changes,   { if (!is_mtg()) current_tab("changes")  })
+    observeEvent(input$btn_changes, {
+      if (is_mtg()) {
+        current_tab("lorenz")
+      } else {
+        current_tab("changes")
+      }
+    })
     observeEvent(input$btn_scatter,   current_tab("scatter"))
 
     # When switching to MTG, force 'scatter' tab (Gini comparison)
@@ -378,6 +441,32 @@ mod_interactive_dashboard_server <- function(
 
     # Dynamic UI for scatter/rankings controls (left panel)
     output$scatter_controls_ui <- renderUI({
+      # Lorenz tab: controls on the LEFT (country + gap share slider)
+      if (current_tab() == "lorenz" && is_mtg()) {
+        return(column(
+          width = 3,
+          tags$div(
+            style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
+            h5("Lorenz Curve Controls", style = "color: white; margin-bottom: 15px;"),
+            selectInput(
+              inputId  = ns("lorenz_country"),
+              label    = "Select Economy:",
+              choices  = lorenz_country_choices,
+              selected = lorenz_country_choices[1]
+            ),
+            sliderInput(
+              inputId = ns("lorenz_gap_share"),
+              label   = "HFCE gap share (%):",
+              min     = 5L,
+              max     = 100L,
+              value   = 50L,
+              step    = 5L,
+              post    = "%"
+            )
+          )
+        ))
+      }
+
       if (current_tab() %in% c("scatter", "rankings")) {
 
         # MTG method gets its own Gini-specific controls — no statistics,
@@ -462,6 +551,23 @@ mod_interactive_dashboard_server <- function(
     
     # Dynamic UI for bottom chart column width
     output$bottom_chart_column_ui <- renderUI({
+      # Lorenz tab: controls(3) + chart(6) + stats(3)
+      if (current_tab() == "lorenz" && is_mtg()) {
+        return(tagList(
+          column(
+            width = 6,
+            plotly::plotlyOutput(
+              outputId = ns("bottom_chart_plotly"),
+              height   = "500px"
+            )
+          ),
+          column(
+            width = 3,
+            uiOutput(ns("lorenz_stats_ui"))
+          )
+        ))
+      }
+
       has_controls <- current_tab() %in% c("scatter", "rankings") ||
                       (current_tab() == "changes" && is_sn())
       chart_width <- if (has_controls) 9 else 12
@@ -505,9 +611,20 @@ mod_interactive_dashboard_server <- function(
       }
     })
 
-    # Plotly output for scatter and rankings
+    # Plotly output for scatter, rankings, and lorenz
     output$bottom_chart_plotly <- plotly::renderPlotly({
-      if (current_tab() == "scatter" && is_mtg()) {
+      if (current_tab() == "lorenz" && is_mtg()) {
+        req(lorenz_data())
+        meta <- lorenz_meta()
+        gap  <- if (is.null(input$lorenz_gap_share)) 50L else input$lorenz_gap_share
+        plot_mtg_lorenz_comparison(
+          data         = lorenz_data(),
+          country_name = meta$country_name,
+          country_code = meta$iso3,
+          survey_year  = meta$year,
+          gap_share    = gap
+        )
+      } else if (current_tab() == "scatter" && is_mtg()) {
         plot_mtg_gini_sensitivity(
           data             = data_yk,
           select_country   = selected_economy(),
@@ -538,6 +655,63 @@ mod_interactive_dashboard_server <- function(
       }
     })
     
+    # Render Lorenz statistics panel (right side of chart)
+    output$lorenz_stats_ui <- renderUI({
+      if (current_tab() != "lorenz" || !is_mtg()) return(NULL)
+      req(lorenz_data())
+
+      gap <- if (is.null(input$lorenz_gap_share)) 50L else input$lorenz_gap_share
+      stats <- compute_lorenz_stats(lorenz_data(), gap)
+      meta  <- lorenz_meta()
+
+      tags$div(
+        style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px; margin-top: 0px;",
+        h5("Distribution Statistics", style = "color: white; margin-bottom: 15px;"),
+        tags$div(
+          style = "color: white; font-size: 13px;",
+          p(
+            strong("Country:"),
+            br(),
+            paste0(meta$country_name, " (", meta$iso3, ")")
+          ),
+          p(
+            strong("Survey year:"),
+            br(),
+            meta$year
+          ),
+          p(
+            strong("Gap share:"),
+            br(),
+            paste0(gap, "%")
+          ),
+          hr(style = "border-color: rgba(255, 255, 255, 0.3);"),
+          p(
+            strong("Gini (survey):"),
+            br(),
+            if (!is.na(stats$gini_std)) sprintf("%.4f", stats$gini_std) else "N/A"
+          ),
+          p(
+            strong("Gini (HFCE-adjusted):"),
+            br(),
+            if (!is.na(stats$gini_adj)) sprintf("%.4f", stats$gini_adj) else "N/A"
+          ),
+          p(
+            strong("Gini change:"),
+            br(),
+            if (!is.na(stats$gini_change)) {
+              change_col <- if (stats$gini_change > 0) "#FF9800" else "#4EC2C0"
+              tags$span(
+                style = paste0("color: ", change_col, ";"),
+                sprintf("%+.4f", stats$gini_change)
+              )
+            } else {
+              "N/A"
+            }
+          ),
+        )
+      )
+    })
+
     # Render statistics panel
     output$scatter_stats <- renderUI({
       if (current_tab() != "scatter") return(NULL)

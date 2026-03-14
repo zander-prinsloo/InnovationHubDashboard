@@ -5,9 +5,10 @@
 \title{Plot functions for the MTG (NA–Survey Gap Adjustment) method}
 \description{
 Chart functions for Method 4 of the Innovation Hub Deep Dives.
-  Shows (1) the NA–survey welfare gap as a function of GDP per capita, and
+  Shows (1) the NA–survey welfare gap as a function of GDP per capita,
   (2) the sensitivity of the Gini coefficient to different assumptions about
-  how much of the gap is allocated to the top tail.
+  how much of the gap is allocated to the top tail, and (3) a Lorenz curve
+  comparison between the standard and HFCE-adjusted distributions.
 }
 \section{Region colour palette}{
 

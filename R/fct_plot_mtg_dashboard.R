@@ -1,9 +1,10 @@
 #' Plot functions for the MTG (NA–Survey Gap Adjustment) method
 #'
 #' @description Chart functions for Method 4 of the Innovation Hub Deep Dives.
-#'   Shows (1) the NA–survey welfare gap as a function of GDP per capita, and
+#'   Shows (1) the NA–survey welfare gap as a function of GDP per capita,
 #'   (2) the sensitivity of the Gini coefficient to different assumptions about
-#'   how much of the gap is allocated to the top tail.
+#'   how much of the gap is allocated to the top tail, and (3) a Lorenz curve
+#'   comparison between the standard and HFCE-adjusted distributions.
 #'
 #' @section Region colour palette:
 #'   MTG charts use WDI region codes as keys (SSF, ECS, MEA, LCN, EAS, SAS, NAC).
@@ -615,4 +616,337 @@ plot_mtg_gini_sensitivity <- function(data,
       paper_bgcolor = "white",
       margin        = list(l = 80, r = 150, t = 80, b = 90)
     )
+}
+
+
+# ---------------------------------------------------------------------------
+# Constants: Lorenz chart directory
+# ---------------------------------------------------------------------------
+
+#' Path to the directory containing cumulative distribution fst files
+#' @noRd
+MTG_CUMULATIVE_DIR <- "C:/Users/wb612474/OneDrive - WBG/innovation_hub/mind_the_gap/output_fst/2021PPP/cumulative_latest"
+
+
+# ---------------------------------------------------------------------------
+# Helper: scan cumulative fst directory
+# ---------------------------------------------------------------------------
+
+#' Build a lookup table of available countries and their fst filenames
+#'
+#' Scans the cumulative_latest directory for files matching
+#' `{iso3}_{year}_cumulative.fst` and returns a data.table with columns
+#' `iso3`, `year`, and `filename`.
+#'
+#' @param dir Character. Path to the directory containing the fst files.
+#'
+#' @return A [data.table::data.table] with columns `iso3` (upper-case),
+#'   `year` (integer), and `filename` (basename only, no path).
+#'
+#' @examples
+#' \dontrun{
+#' lookup <- mtg_scan_cumulative_files()
+#' head(lookup)
+#' }
+#'
+#' @importFrom data.table data.table
+#' @noRd
+mtg_scan_cumulative_files <- function(dir = MTG_CUMULATIVE_DIR) {
+  files <- list.files(dir, pattern = "^[a-z]{3}_\\d{4}_cumulative\\.fst$",
+                      full.names = FALSE)
+  if (length(files) == 0L) {
+    return(data.table::data.table(iso3 = character(), year = integer(),
+                                  filename = character()))
+  }
+  data.table::data.table(
+    iso3     = toupper(sub("^([a-z]{3})_.*", "\\1", files)),
+    year     = as.integer(sub("^[a-z]{3}_(\\d{4})_.*", "\\1", files)),
+    filename = files
+  )
+}
+
+
+#' Read a single cumulative distribution fst file
+#'
+#' @param iso3 Character. Upper-case ISO3 country code.
+#' @param year Integer. Survey year.
+#' @param dir  Character. Path to the cumulative_latest directory.
+#'
+#' @return A [data.table::data.table] with the distribution data, or `NULL`
+#'   if the file does not exist.
+#'
+#' @noRd
+mtg_read_cumulative <- function(iso3, year, dir = MTG_CUMULATIVE_DIR) {
+  fname <- paste0(tolower(iso3), "_", year, "_cumulative.fst")
+  fpath <- file.path(dir, fname)
+  if (!file.exists(fpath)) {
+    return(NULL)
+  }
+  fst::read_fst(fpath, as.data.table = TRUE)
+}
+
+
+#' Compute the Gini coefficient from a Lorenz curve
+#'
+#' Uses the trapezoidal rule: Gini = 1 - 2 * area under Lorenz curve.
+#' Assumes p and l are sorted in ascending order and start from (0,0).
+#'
+#' @param p Numeric vector of cumulative population shares (0 to 1).
+#' @param l Numeric vector of cumulative welfare shares (0 to 1).
+#'
+#' @return Numeric scalar Gini coefficient, or `NA_real_` if inputs are
+#'   insufficient.
+#'
+#' @examples
+#' # Perfect equality
+#' compute_gini_from_lorenz(seq(0, 1, 0.1), seq(0, 1, 0.1))
+#'
+#' @noRd
+compute_gini_from_lorenz <- function(p, l) {
+  ok <- !is.na(p) & !is.na(l)
+  p  <- p[ok]
+  l  <- l[ok]
+  if (length(p) < 2L) return(NA_real_)
+
+  # Prepend origin if not present
+  if (p[1] != 0) {
+    p <- c(0, p)
+    l <- c(0, l)
+  }
+
+  # Trapezoidal area under the Lorenz curve
+  n    <- length(p)
+  area <- sum((p[2:n] - p[1:(n - 1)]) * (l[2:n] + l[1:(n - 1)])) / 2
+  gini <- 1 - 2 * area
+  return(gini)
+}
+
+
+# ---------------------------------------------------------------------------
+# Chart 3: Lorenz curve comparison
+# ---------------------------------------------------------------------------
+
+#' Plot Lorenz curve comparison: standard vs HFCE-adjusted distribution
+#'
+#' @description Interactive plotly chart showing two Lorenz curves for a single
+#'   country: the standard survey distribution and an HFCE-adjusted distribution
+#'   at a user-selected gap share percentage. A 45-degree line of equality is
+#'   included as a dotted reference.
+#'
+#' @param data A [data.table::data.table] read from one of the cumulative fst
+#'   files. Must contain columns `p`, `l`, and the pair
+#'   `p_hfce_adj_{gap_share}` / `l_hfce_adj_{gap_share}`.
+#' @param country_name Character. Country name for the chart title.
+#' @param country_code Character. ISO3 country code.
+#' @param survey_year  Integer. Survey year for the chart title.
+#' @param gap_share    Integer. Gap share percentage (5, 10, ..., 100).
+#'
+#' @return A [plotly::plot_ly()] object.
+#'
+#' @examples
+#' \dontrun{
+#' dt <- mtg_read_cumulative("ALB", 2020)
+#' plot_mtg_lorenz_comparison(dt, "Albania", "ALB", 2020, gap_share = 50)
+#' }
+#'
+#' @importFrom plotly plot_ly add_trace add_segments layout
+#' @noRd
+plot_mtg_lorenz_comparison <- function(data,
+                                       country_name,
+                                       country_code,
+                                       survey_year,
+                                       gap_share = 50L) {
+
+  # -- Column names for the adjusted distribution --------------------------
+
+  p_adj_col <- paste0("p_hfce_adj_", gap_share)
+  l_adj_col <- paste0("l_hfce_adj_", gap_share)
+
+  # Validate columns exist
+  if (!all(c("p", "l", p_adj_col, l_adj_col) %in% names(data))) {
+    return(
+      plotly::plot_ly() |>
+        plotly::add_annotations(
+          text      = "Required columns not found in data.",
+          x = 0.5, y = 0.5, showarrow = FALSE,
+          font = list(size = 16, color = "grey50")
+        ) |>
+        plotly::layout(xaxis = list(visible = FALSE),
+                       yaxis = list(visible = FALSE))
+    )
+  }
+
+  # -- Extract standard distribution (non-NA only) -------------------------
+  p_std <- data[["p"]]
+  l_std <- data[["l"]]
+  ok_std <- !is.na(p_std) & !is.na(l_std)
+  p_std  <- p_std[ok_std]
+  l_std  <- l_std[ok_std]
+
+  # -- Extract adjusted distribution (non-NA only) -------------------------
+  p_adj <- data[[p_adj_col]]
+  l_adj <- data[[l_adj_col]]
+  ok_adj <- !is.na(p_adj) & !is.na(l_adj)
+  p_adj  <- p_adj[ok_adj]
+  l_adj  <- l_adj[ok_adj]
+
+  has_std <- length(p_std) >= 2L
+  has_adj <- length(p_adj) >= 2L
+
+  if (!has_std && !has_adj) {
+    return(
+      plotly::plot_ly() |>
+        plotly::add_annotations(
+          text      = "No distribution data available for this country.",
+          x = 0.5, y = 0.5, showarrow = FALSE,
+          font = list(size = 16, color = "grey50")
+        ) |>
+        plotly::layout(xaxis = list(visible = FALSE),
+                       yaxis = list(visible = FALSE))
+    )
+  }
+
+  # -- Build plot ----------------------------------------------------------
+  pp <- plotly::plot_ly()
+
+  # 45-degree line of equality (dotted)
+  pp <- pp |>
+    plotly::add_trace(
+      x    = c(0, 1),
+      y    = c(0, 1),
+      type = "scatter",
+      mode = "lines",
+      line = list(color = "grey60", width = 1.5, dash = "dot"),
+      name = "Line of equality",
+      hoverinfo = "skip",
+      showlegend = TRUE
+    )
+
+  # Standard Lorenz curve
+  if (has_std) {
+    tooltip_std <- paste0(
+      "Cum. population: ", round(p_std * 100, 1), "%<br>",
+      "Cum. welfare: ", round(l_std * 100, 1), "%"
+    )
+    pp <- pp |>
+      plotly::add_trace(
+        x    = p_std,
+        y    = l_std,
+        type = "scatter",
+        mode = "lines",
+        line = list(color = "#0072B2", width = 2.5),
+        name = "Survey distribution",
+        text = tooltip_std,
+        hovertemplate = "<b>Survey</b><br>%{text}<extra></extra>"
+      )
+  }
+
+  # HFCE-adjusted Lorenz curve
+  if (has_adj) {
+    tooltip_adj <- paste0(
+      "Cum. population: ", round(p_adj * 100, 1), "%<br>",
+      "Cum. welfare: ", round(l_adj * 100, 1), "%"
+    )
+    pp <- pp |>
+      plotly::add_trace(
+        x    = p_adj,
+        y    = l_adj,
+        type = "scatter",
+        mode = "lines",
+        line = list(color = "#D55E00", width = 2.5),
+        name = paste0("HFCE-adjusted (", gap_share, "%)"),
+        text = tooltip_adj,
+        hovertemplate = paste0(
+          "<b>HFCE-adjusted (", gap_share, "%)</b><br>",
+          "%{text}<extra></extra>"
+        )
+      )
+  }
+
+  # -- Layout --------------------------------------------------------------
+  pp |>
+    plotly::layout(
+      title = list(
+        text = paste0(
+          "<b>Lorenz Curve Comparison</b><br>",
+          "<span style='font-size:12px; font-weight:normal;'>",
+          country_name, " (", country_code, "), ", survey_year,
+          " \u2014 HFCE gap share: ", gap_share, "%</span>"
+        ),
+        font = list(size = 15)
+      ),
+      xaxis = list(
+        title     = "<b>Cumulative population share</b>",
+        range     = c(0, 1),
+        dtick     = 0.2,
+        gridcolor = "rgba(200,200,200,0.3)",
+        zeroline  = FALSE
+      ),
+      yaxis = list(
+        title       = "<b>Cumulative welfare share</b>",
+        range       = c(0, 1),
+        dtick       = 0.2,
+        scaleanchor = "x",
+        scaleratio  = 1,
+        gridcolor   = "rgba(200,200,200,0.3)",
+        zeroline    = FALSE
+      ),
+      legend = list(
+        orientation = "h",
+        x = 0.5, y = -0.15,
+        xanchor = "center", yanchor = "top"
+      ),
+      hovermode     = "closest",
+      plot_bgcolor  = "white",
+      paper_bgcolor = "white",
+      margin        = list(l = 60, r = 30, t = 80, b = 80)
+    )
+}
+
+
+#' Compute summary statistics for the Lorenz comparison panel
+#'
+#' @param data A data.table from a cumulative fst file.
+#' @param gap_share Integer. Gap share percentage (5–100).
+#'
+#' @return A named list with elements `gini_std`, `gini_adj`, `gini_change`.
+#'
+#' @noRd
+compute_lorenz_stats <- function(data, gap_share) {
+  valid_shares <- seq(5L, 100L, by = 5L)
+  if (!gap_share %in% valid_shares) {
+    rlang::abort(paste0(
+      "`gap_share` must be one of: ",
+      paste(valid_shares, collapse = ", "),
+      ". Got: ", gap_share
+    ))
+  }
+
+  p_adj_col <- paste0("p_hfce_adj_", gap_share)
+  l_adj_col <- paste0("l_hfce_adj_", gap_share)
+
+  p_std  <- data[["p"]]
+  l_std  <- data[["l"]]
+  ok_std <- !is.na(p_std) & !is.na(l_std)
+
+  # Guard: only extract adjusted columns when they exist in the data
+  adj_cols_present <- p_adj_col %in% names(data) && l_adj_col %in% names(data)
+  if (adj_cols_present) {
+    p_adj  <- data[[p_adj_col]]
+    l_adj  <- data[[l_adj_col]]
+    ok_adj <- !is.na(p_adj) & !is.na(l_adj)
+  } else {
+    p_adj  <- numeric(0L)
+    l_adj  <- numeric(0L)
+    ok_adj <- logical(0L)
+  }
+
+  gini_std <- compute_gini_from_lorenz(p_std[ok_std], l_std[ok_std])
+  gini_adj <- compute_gini_from_lorenz(p_adj[ok_adj], l_adj[ok_adj])
+
+  list(
+    gini_std    = gini_std,
+    gini_adj    = gini_adj,
+    gini_change = if (!is.na(gini_std) && !is.na(gini_adj)) gini_adj - gini_std else NA_real_
+  )
 }
