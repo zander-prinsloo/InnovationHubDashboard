@@ -1,1 +1,17 @@
 .Rproj.user
+rsconnect/
+
+# Compound GPID managed items (junctions + copied file + knowledge base - do not commit)
+.github/prompts/
+.github/skills/
+.github/agents/
+.github/instructions/
+.github/copilot-instructions.md
+.cg-docs/
+
+# Raw binary data files (large, not diffable, regenerated from data-raw/)
+data/initial_data*.dta
+data/*.xlsx
+
+# Compound GPID local config (user-specific, never commit)
+compound-gpid.local.md
