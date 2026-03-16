@@ -1,0 +1,3 @@
+Jolliffe and Tetteh-Baah (2024) incorporate economies of scale in household consumption into the estimation of global poverty. They use a constant-elasticity scale adjustment that divides total household welfare (or household resources) by the square-root of household size, the so-called square-root approach. The square-root approach is expected to be more consistent with household consumption patterns, as household public goods such as housing and consumer durables are shared among household members at limited or no marginal cost.
+
+Because the per-capita approach is used in the setting of the international poverty line, Jolliffe and Tetteh-Baah (2024) also had to re-estimate equivalent extreme poverty lines.

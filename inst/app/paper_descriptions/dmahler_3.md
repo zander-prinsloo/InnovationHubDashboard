@@ -1,0 +1,1 @@
+For Colombia in 2022, the consumption conversion implies a large reduction in the estimated extreme poverty rate. The consumption-based estimate is less than half that of the income-based estimate.

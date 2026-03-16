@@ -1,0 +1,1 @@
+PIP relies on a mix of inequality and poverty estimates from consumption distributions and income distributions. The reason for this is that richer countries often do not collect detailed consumption data while incomes are hard and less meaningful to measure in poorer countries, where subsistence farming, which rarely is associated with a formal income, is widespread. 

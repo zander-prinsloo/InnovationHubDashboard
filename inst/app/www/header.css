@@ -1,0 +1,377 @@
+/* ============================================================================
+   PIP Innovation Hub Dashboard Header Styles
+   ========================================================================= */
+
+/* Header container */
+.pip-header {
+  width: 100%;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 12px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  margin-bottom: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Logo styling */
+.pip-header-logo {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.pip-header-logo img {
+  height: 45px;
+  width: auto;
+  display: block;
+}
+
+/* Title styling */
+.pip-header-title {
+  flex: 1;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: #044368;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+/* Navigation menu */
+.pip-header-nav {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 0 0 auto;
+}
+
+.pip-header-nav-item {
+  margin: 0;
+  padding: 0;
+}
+
+.pip-header-nav-link {
+  color: #333333;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  display: inline-block;
+}
+
+.pip-header-nav-link:hover {
+  background-color: #f5f5f5;
+  color: #0071bc;
+  text-decoration: none;
+}
+
+/* Active/current page styling */
+.pip-header-nav-link.active {
+  color: #0071bc;
+  background-color: #e6f3ff;
+  font-weight: 600;
+  cursor: default;
+}
+
+.pip-header-nav-link.active:hover {
+  background-color: #e6f3ff;
+  color: #0071bc;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .pip-header {
+    flex-direction: column;
+    padding: 15px 20px;
+    gap: 15px;
+  }
+  
+  .pip-header-logo img {
+    height: 35px;
+  }
+  
+  .pip-header-title {
+    font-size: 24px;
+  }
+  
+  .pip-header-nav {
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .pip-header-nav-link {
+    font-size: 14px;
+    padding: 6px 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .pip-header-title {
+    font-size: 20px;
+  }
+  
+  .pip-header-nav {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
+  
+  .pip-header-nav-item {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .pip-header-nav-link {
+    display: block;
+    width: 100%;
+  }
+}
+
+/* ============================================================================
+   Research Repository — iframe container
+   ========================================================================= */
+
+.research-repo-container {
+  width: 100%;
+  /* Fill viewport height minus the sticky header (~75px) */
+  height: calc(100vh - 75px);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Placeholder — empty by default, ready for a future banner */
+.research-repo-banner {
+  flex: 0 0 auto;
+}
+
+.research-repo-container iframe {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+/* ============================================================================
+   Home Page Styles
+   ========================================================================= */
+
+/* Make nav action links look like regular links (remove Shiny btn styling) */
+.pip-header-nav-link.action-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: inherit;
+  font-weight: inherit;
+  font-family: inherit;
+  color: inherit;
+  padding: 8px 12px;
+}
+
+/* Banner */
+.home-banner {
+  background-color: #003f5c;
+  color: #ffffff;
+  padding: 50px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.home-banner-title {
+  font-size: 36px;
+  font-weight: 700;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  flex: 0 0 auto;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.home-banner-text {
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 550px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.home-banner-text a,
+.home-banner-text .action-button {
+  color: #7fc8f8;
+  text-decoration: underline;
+  font-weight: 600;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: inherit;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.home-banner-text a:hover,
+.home-banner-text .action-button:hover {
+  color: #ffffff;
+}
+
+/* Method grid */
+.method-grid {
+  padding: 0 40px 40px 40px;
+}
+
+.method-grid-title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+  color: #044368;
+  margin-bottom: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.method-grid .row {
+  margin-bottom: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.method-grid .row > [class*="col-"] {
+  display: flex;
+}
+
+.method-card,
+.placeholder-card {
+  width: 100%;
+}
+
+/* Method cards */
+.method-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%;
+}
+
+.method-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.method-card-image {
+  width: 100%;
+  display: block;
+  cursor: pointer;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.method-card-body {
+  padding: 15px;
+  text-align: center;
+}
+
+.method-card-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #044368;
+  margin-bottom: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.method-card-title a {
+  color: #044368;
+  text-decoration: none;
+}
+
+.method-card-title a:hover {
+  color: #0071bc;
+  text-decoration: underline;
+}
+
+.method-card-desc {
+  font-size: 14px;
+  font-style: italic;
+  color: #555555;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.method-card-desc a {
+  color: #555555;
+  text-decoration: none;
+}
+
+.method-card-desc a:hover {
+  color: #0071bc;
+  text-decoration: underline;
+}
+
+.method-card-citation {
+  font-size: 9px;
+  color: #888888;
+  line-height: 1.3;
+}
+
+.method-card-citation a {
+  color: #888888;
+  text-decoration: none;
+}
+
+.method-card-citation a:hover {
+  color: #0071bc;
+  text-decoration: underline;
+}
+
+/* Placeholder card */
+.placeholder-card {
+  background-color: #f5f5f5;
+  border: 2px dashed #cccccc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  height: 100%;
+}
+
+.placeholder-card-text {
+  font-size: 20px;
+  font-weight: 600;
+  color: #aaaaaa;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Responsive: Home page */
+@media (max-width: 768px) {
+  .home-banner {
+    flex-direction: column;
+    padding: 30px 20px;
+    text-align: center;
+  }
+
+  .home-banner-title {
+    font-size: 28px;
+  }
+
+  .home-banner-text {
+    max-width: 100%;
+  }
+
+  .method-grid {
+    padding: 0 15px 20px 15px;
+  }
+}
