@@ -73,8 +73,9 @@ app_server <- function(input, output, session) {
 
   # Helper to switch active nav styling
   switch_nav <- function(active_tab) {
-    shinyjs::removeClass(id = "nav_home",       class = "active")
-    shinyjs::removeClass(id = "nav_deep_dives", class = "active")
+    shinyjs::removeClass(id = "nav_home",          class = "active")
+    shinyjs::removeClass(id = "nav_deep_dives",    class = "active")
+    shinyjs::removeClass(id = "nav_research_repo", class = "active")
     shinyjs::addClass(id = active_tab, class = "active")
   }
 
@@ -88,6 +89,12 @@ app_server <- function(input, output, session) {
   observeEvent(input$nav_deep_dives, {
     updateTabsetPanel(session, "main_tabs", selected = "deep_dives")
     switch_nav("nav_deep_dives")
+  })
+
+  # Header nav: Research Repository
+  observeEvent(input$nav_research_repo, {
+    updateTabsetPanel(session, "main_tabs", selected = "research_repo")
+    switch_nav("nav_research_repo")
   })
 
   # ── Home page module ─────────────────────────────────────────────────────

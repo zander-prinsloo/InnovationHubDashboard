@@ -53,11 +53,10 @@ app_ui <- function(request) {
 
           tags$li(
             class = "pip-header-nav-item",
-            tags$a(
-              href = "https://avsolatorio.github.io/ai-for-data-blog/semantic-search/ids-doc.html",
-              class = "pip-header-nav-link",
-              target = "_blank",
-              "Research Repository"
+            actionLink(
+              inputId = "nav_research_repo",
+              label   = "Research Repository",
+              class   = "pip-header-nav-link"
             )
           ),
 
@@ -88,6 +87,22 @@ app_ui <- function(request) {
         value = "deep_dives",
         fluidPage(
           mod_interactive_dashboard_ui("interactive_dashboard_1")
+        )
+      ),
+
+      # ---- Research Repository: Vue/Vuetify semantic search app in iframe ----
+      tabPanelBody(
+        value = "research_repo",
+        tags$div(
+          class = "research-repo-container",
+          # Placeholder div — add banner content here in a future iteration
+          tags$div(class = "research-repo-banner"),
+          tags$iframe(
+            src    = "www/research_repo/ids-doc.html",
+            width  = "100%",
+            style  = "border: none; display: block;",
+            allow  = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
+          )
         )
       )
     )
