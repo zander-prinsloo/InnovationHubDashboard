@@ -20,14 +20,11 @@ attachment::att_amend_desc()
 
 ## Add modules ----
 ## Create a module infrastructure in R/
-golem::add_module(name      = "country_deepdives_multiple_methods",
-                  with_test = TRUE) # Name of the module
-golem::add_module(name      = "name_of_module2",
-                  with_test = TRUE) # Name of the module
+golem::add_module(name = "interactive_dashboard", with_test = TRUE) # Name of the module
 
 ## Add helper functions ----
 ## Creates fct_* and utils_*
-golem::add_fct("helpers", with_test = TRUE)
+golem::add_fct("plot_interactive_dashboard", with_test = TRUE)
 golem::add_utils("helpers", with_test = TRUE)
 
 ## External resources
@@ -40,9 +37,18 @@ golem::add_js_file("fade")
 #golem::add_sass_file("custom")
 #golem::add_any_file("file.json")
 
+## Add packages
+usethis::use_package("fastverse")
+usethis::use_package("ggplot2")
+usethis::use_package("dplyr")
+
+
 ## Add internal datasets ----
 ## If you have data in your package
-usethis::use_data_raw(name = "my_dataset", open = FALSE)
+usethis::use_data_raw(name = "dcol", open = FALSE)
+usethis::use_data_raw(name = "d_dm", open = FALSE)
+usethis::use_data_raw(name = "d_stb", open = FALSE)
+usethis::use_data_raw(name = "d_sn", open = FALSE)
 
 ## Tests ----
 ## Add one line by test you want to create
