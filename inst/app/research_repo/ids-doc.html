@@ -57,15 +57,7 @@
       rel="stylesheet"
     />
 
-    <script
-      type="text/javascript"
-      src="https://pym.nprapps.org/pym.v1.min.js"
-    ></script>
-    <script>
-      window.onload = function () {
-        var pymChild = new pym.Child({ polling: 500 });
-      };
-    </script>
+    <!-- pym.js removed: no pym.Parent in the Shiny host page, CDN blocked on WBG network -->
 
     <!-- <style>
     html, body, #app {
@@ -1545,13 +1537,20 @@
               loadingModel.value = true;
               loadingMessage.value = "Loading AI model...";
 
-              extractor.value = await pipeline(
-                "feature-extraction",
-                `${hf_organization}/${model_name}`,
-                // { device: "webgpu", progress_callback: loadModelCallback }
-                { device: "webgpu" }
-              );
-              // loadingModelText.value = "Loading AI model..."
+              try {
+                extractor.value = await pipeline(
+                  "feature-extraction",
+                  `${hf_organization}/${model_name}`,
+                  { device: "webgpu", progress_callback: loadModelCallback }
+                );
+              } catch (e) {
+                console.warn("WebGPU unavailable, falling back to WASM:", e);
+                extractor.value = await pipeline(
+                  "feature-extraction",
+                  `${hf_organization}/${model_name}`,
+                  { device: "wasm", progress_callback: loadModelCallback }
+                );
+              }
               loadingModel.value = false;
             }
           };
@@ -1720,10 +1719,17 @@
             fetch(
               `data/${hf_organization}__${model_name}__004__doc_embeddings.json`
             )
-              .then((res) => res.json())
+              .then((res) => {
+                if (!res.ok) throw new Error(`HTTP ${res.status} fetching embeddings`);
+                return res.json();
+              })
               .then((data) => {
                 dataEmbeddings.value = data;
                 submit();
+              })
+              .catch((err) => {
+                console.error("loadJSON failed:", err);
+                pageLoading.value = false;
               });
           };
 
