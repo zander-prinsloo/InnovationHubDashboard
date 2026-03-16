@@ -98,8 +98,9 @@ app_ui <- function(request) {
           # Placeholder div — add banner content here in a future iteration
           tags$div(class = "research-repo-banner"),
           tags$iframe(
-            src    = "www/research_repo/ids-doc.html",
+            src    = "research_repo/ids-doc.html",
             width  = "100%",
+            height = "100%",
             style  = "border: none; display: block;",
             allow  = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
           )
@@ -115,6 +116,11 @@ app_ui <- function(request) {
 #' This function is internally used to add external
 #' resources inside the Shiny application.
 #'
+#' Note: `research_repo` is registered as a separate resource path (not under
+#' `www/`) so that `bundle_resources()` does not inject the Vuetify CSS files
+#' from the Research Repository into the parent Shiny app, which would cause
+#' style bleed into other tabs (e.g. dark overlays in Deep Dives).
+#'
 #' @import shiny
 #' @importFrom golem add_resource_path activate_js favicon bundle_resources
 #' @noRd
@@ -123,10 +129,18 @@ golem_add_external_resources <- function() {
     "www",
     app_sys("app/www")
   )
-  
+
   add_resource_path(
     "designs",
     app_sys("app/designs")
+  )
+
+  # research_repo is intentionally kept separate from www/ so that
+  # bundle_resources() does not bundle the Vuetify CSS into the parent app,
+  # which would bleed into and distort other tabs (Deep Dives etc.).
+  add_resource_path(
+    "research_repo",
+    app_sys("app/research_repo")
   )
 
   tags$head(
