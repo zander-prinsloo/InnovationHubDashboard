@@ -507,6 +507,29 @@
       ],
       "Hash": "7eb1e342eee7e0a7449c49cdaa526d39"
     },
+    "fst": {
+      "Package": "fst",
+      "Version": "0.9.8",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "Rcpp",
+        "fstcore"
+      ],
+      "Hash": "34637e000c63c3de8d8aafceb82fd082"
+    },
+    "fstcore": {
+      "Package": "fstcore",
+      "Version": "0.10.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "Rcpp"
+      ],
+      "Hash": "cadf9fe02c318c5dc3a782c8c98c9e1c"
+    },
     "gargle": {
       "Package": "gargle",
       "Version": "1.6.1",
@@ -1797,6 +1820,27 @@
         "withr"
       ],
       "Hash": "255cb6f090718455ff89cbc28cb5eea7"
+    },
+    "wbstats": {
+      "Package": "wbstats",
+      "Version": "1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "dplyr",
+        "httr",
+        "jsonlite",
+        "lubridate",
+        "magrittr",
+        "readr",
+        "rlang",
+        "stringr",
+        "tibble",
+        "tidyr",
+        "tidyselect"
+      ],
+      "Hash": "fd085e7743150f50ea5f0cbe9513e068"
     },
     "withr": {
       "Package": "withr",
