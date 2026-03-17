@@ -4,70 +4,115 @@ SN_REPORTING_LEVELS <- c("National" = "national", "Urban" = "urban", "Rural" = "
 
 #' interactive_dashboard UI Function
 #'
+#' @description Full UI for the Deep Dives page. Renders:
+#'   \enumerate{
+#'     \item A dark-navy introductory banner with page title and brief description.
+#'     \item A two-column content area: a styled controls card on the left and
+#'           a chart card on the right.
+#'     \item A lower \dQuote{Additional Analysis} section with a clean tab bar
+#'           and consistent card-based panels.
+#'   }
+#'
+#' @param id Module ID.
+#'
 #' @noRd
 mod_interactive_dashboard_ui <- function(id) {
   ns <- NS(id)
   tagList(
 
-    ## 1st row: method text on left, interactive chart on the right ----
-    fluidRow(
-      column(
-        width = 6,
-
-        # 1 Method picker
-        selectInput(
-          inputId = ns("select_method"),
-          label   = "Select Method:",
-          choices = c(
-            "Welfare conversion",
-            "Household allocation",
-            "Subnational definition",
-            "NA\u2013Survey gap adjustment"
-          ),
-          selected = "Welfare conversion"
-        ),
-
-        # 2 Economy picker
-        selectInput(
-          inputId = ns("select_economy"),
-          label   = "Select Economy:",
-          choices = NULL,
-          selected = NULL
-        ),
-
-        # 2b SN-specific controls (poverty line + granular toggle)
-        uiOutput(ns("sn_controls")),
-
-        # 2c MTG-specific controls (NA type + PPP vintage + all-years toggle)
-        uiOutput(ns("mtg_controls")),
-
-        # 3 dynamic text panel
-        uiOutput(ns("method_panel")),
-        br(),
-
-        # 4 learn‐more button
-        actionButton(ns("learn_more"), "Learn more", class = "btn btn-primary"),
-        br(),
-        br(),
-        
-        # 5 download data button
-        downloadButton(ns("download_data"), "Download data", class = "btn btn-secondary")
-      ),
-
-      column(
-        width = 6,
-        plotly::plotlyOutput(
-          outputId = ns("top_chart"),
-          height   = "500px"
+    # ── 1. Page banner ────────────────────────────────────────────────────
+    tags$section(
+      class = "pip-dd-banner",
+      tags$div(
+        class = "pip-dd-banner__inner",
+        tags$h1(class = "pip-dd-banner__title", "Deep Dives"),
+        tags$p(
+          class = "pip-dd-banner__text",
+          "Select a peer-reviewed method and investigate poverty and ",
+          "inequality estimates."
         )
       )
     ),
 
-    br(),
+    # ── 2. Two-column layout: controls left, chart right ─────────────────
+    tags$div(
+      class = "pip-dd-body",
 
-    ## Bottom section: conditionally rendered ----
+      tags$div(
+        class = "pip-dd-layout",
+
+        # ── Left: controls card ──────────────────────────────────────────
+        tags$div(
+          class = "pip-dd-layout__controls",
+          tags$div(
+            class = "pip-card",
+
+            tags$h3(class = "pip-card__heading", "Choose inputs"),
+
+            # Method picker
+            selectInput(
+              inputId = ns("select_method"),
+              label   = "Method",
+              choices = c(
+                "Welfare conversion",
+                "Household allocation",
+                "Subnational definition",
+                "NA\u2013Survey gap adjustment"
+              ),
+              selected = "Welfare conversion"
+            ),
+
+            # Economy picker
+            selectInput(
+              inputId  = ns("select_economy"),
+              label    = "Economy",
+              choices  = NULL,
+              selected = NULL
+            ),
+
+            # SN-specific controls (poverty line + granular toggle)
+            uiOutput(ns("sn_controls")),
+
+            # MTG-specific controls (all-years toggle)
+            uiOutput(ns("mtg_controls")),
+
+            tags$hr(class = "pip-card__divider"),
+
+            # Method description
+            uiOutput(ns("method_panel")),
+
+            # Action buttons
+            tags$div(
+              class = "pip-card__actions",
+              actionButton(
+                ns("learn_more"),
+                "Learn more",
+                class = "btn btn-primary"
+              ),
+              downloadButton(
+                ns("download_data"),
+                "Download data"
+              )
+            )
+          )
+        ),
+
+        # ── Right: chart card ────────────────────────────────────────────
+        tags$div(
+          class = "pip-dd-layout__chart",
+          tags$div(
+            class = "pip-card",
+            plotly::plotlyOutput(
+              outputId = ns("top_chart"),
+              height   = "480px"
+            )
+          )
+        )
+      )
+    ),
+
+    # ── 3. Additional analysis section (rendered by server) ───────────────
     uiOutput(ns("bottom_section_ui"))
-
   )
 }
 
@@ -348,60 +393,81 @@ mod_interactive_dashboard_server <- function(
       p(desc_text)
     })
 
-    # ─── 6) Bottom section: dark-blue charts ────────────────────────────────────────
+    # ─── 6) Bottom section: Additional Analysis ──────────────────────────────────────
     output$bottom_section_ui <- renderUI({
       req(input$select_method)
-      
-      # All methods now get the standard bottom section with toggle buttons + charts
-      tags$div(
-          style = "
-            background-color: #003f5c;
-            color: #ffffff;
-            padding: 20px;
-            border-radius: 4px;
-          ",
-          
-          ## Toggle buttons
-          fluidRow(
-            column(
-              width = 4, align = "center",
-              # Disabled for MTG (no cross-country differences chart)
-              if (input$select_method == "NA\u2013Survey gap adjustment") {
-                actionButton(ns("btn_rankings"), "Differences",
-                             class = "btn btn-outline-light", disabled = TRUE)
-              } else {
-                actionButton(ns("btn_rankings"), "Differences", class = "btn btn-outline-light")
-              }
-            ),
-            column(
-              width = 4, align = "center",
-              # For MTG: "Lorenz comparisons" (enabled); others: "Changes"
-              if (input$select_method == "NA\u2013Survey gap adjustment") {
-                actionButton(ns("btn_changes"), "Lorenz comparisons",
-                             class = "btn btn-outline-light")
-              } else {
-                actionButton(ns("btn_changes"), "Changes", class = "btn btn-outline-light")
-              }
-            ),
-            column(
-              width = 4, align = "center",
-              # Renamed to 'Gini comparison' for MTG
+
+      # Determine tab button labels based on active method
+      rankings_label <- "Differences"
+      changes_label  <- if (input$select_method == "NA\u2013Survey gap adjustment") {
+        "Lorenz comparisons"
+      } else {
+        "Changes"
+      }
+      scatter_label  <- if (input$select_method == "NA\u2013Survey gap adjustment") {
+        "Gini comparison"
+      } else {
+        "Scatterplot"
+      }
+
+      # Active tab CSS classes
+      is_rankings <- current_tab() == "rankings"
+      is_changes  <- current_tab() %in% c("changes", "lorenz")
+      is_scatter  <- current_tab() == "scatter"
+
+      tags$section(
+        class = "pip-analysis-section",
+        tags$div(
+          class = "pip-analysis-section__inner",
+
+          # Section heading
+          tags$h2(
+            class = "pip-analysis-section__heading",
+            "Additional Analysis"
+          ),
+
+          # ── Tab bar ───────────────────────────────────────────────────
+          tags$div(
+            class = "pip-tabs",
+
+            # Differences tab (disabled for MTG)
+            if (input$select_method == "NA\u2013Survey gap adjustment") {
               actionButton(
-                ns("btn_scatter"),
-                if (input$select_method == "NA\u2013Survey gap adjustment") "Gini comparison" else "Scatterplot",
-                class = "btn btn-outline-light"
+                ns("btn_rankings"),
+                rankings_label,
+                class    = "pip-tab",
+                disabled = TRUE
               )
+            } else {
+              actionButton(
+                ns("btn_rankings"),
+                rankings_label,
+                class = if (is_rankings) "pip-tab pip-tab--active" else "pip-tab"
+              )
+            },
+
+            # Changes / Lorenz tab
+            actionButton(
+              ns("btn_changes"),
+              changes_label,
+              class = if (is_changes) "pip-tab pip-tab--active" else "pip-tab"
+            ),
+
+            # Scatterplot / Gini tab
+            actionButton(
+              ns("btn_scatter"),
+              scatter_label,
+              class = if (is_scatter) "pip-tab pip-tab--active" else "pip-tab"
             )
           ),
-          
-          br(),
-          
-          ## Bottom chart area
+
+          # ── Chart + controls area ─────────────────────────────────────
           fluidRow(
             uiOutput(ns("scatter_controls_ui")),
             uiOutput(ns("bottom_chart_column_ui"))
           )
         )
+      )
     })
 
     # ─── 7) Bottom-chart toggles ──────────────────────────────────────────────────────
@@ -429,11 +495,11 @@ mod_interactive_dashboard_server <- function(
         return(column(
           width = 3,
           tags$div(
-            style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
-            h5("Lorenz Curve Controls", style = "color: white; margin-bottom: 15px;"),
+            class = "pip-card",
+            tags$h5(class = "pip-card__subheading", "Lorenz Curve Controls"),
             selectInput(
               inputId  = ns("lorenz_country"),
-              label    = "Select Economy:",
+              label    = "Economy",
               choices  = lorenz_country_choices,
               selected = lorenz_country_choices[1]
             ),
@@ -452,52 +518,53 @@ mod_interactive_dashboard_server <- function(
 
       if (current_tab() %in% c("scatter", "rankings")) {
 
-        # MTG method gets its own Gini-specific controls — no statistics,
-          # no poverty line, no log scale.
-          # NA type is hardcoded to HFCE; only the latest-year toggle is shown.
-          if (is_mtg()) {
-            return(column(
-              width = 3,
-              tags$div(
-                style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
-                h5("Gini Chart Controls", style = "color: white; margin-bottom: 15px;"),
-                checkboxInput(
-                  inputId = ns("mtg_gini_latest"),
-                  label   = "Show latest year only",
-                  value   = FALSE
-                )
+        # MTG method: Gini-specific controls only
+        if (is_mtg()) {
+          return(column(
+            width = 3,
+            tags$div(
+              class = "pip-card",
+              tags$h5(class = "pip-card__subheading", "Gini Chart Controls"),
+              checkboxInput(
+                inputId = ns("mtg_gini_latest"),
+                label   = "Show latest year only",
+                value   = FALSE
               )
-            ))
-          }        # Standard controls for all other methods
+            )
+          ))
+        }
+
+        # Standard controls for all other methods
         column(
           width = 3,
           tags$div(
-            style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
-            h5("Plot Controls", style = "color: white; margin-bottom: 15px;"),
+            class = "pip-card",
+            tags$h5(class = "pip-card__subheading", "Plot Controls"),
 
             # Log scale toggle (scatter only)
             if (current_tab() == "scatter") {
               checkboxInput(
                 inputId = ns("log_scale"),
-                label = "Log scale (both axes)",
-                value = FALSE
+                label   = "Log scale (both axes)",
+                value   = FALSE
               )
             },
 
-            # Poverty line filter (both scatter and rankings)
+            # Poverty line filter
             selectInput(
-              inputId = ns("poverty_line_filter"),
-              label = "Poverty Line:",
-              choices = c("All poverty lines" = "all",
-                         "$2.15 only" = "$2.15",
-                         "$3.65 only" = "$3.65",
-                         "$6.85 only" = "$6.85"),
+              inputId  = ns("poverty_line_filter"),
+              label    = "Poverty Line",
+              choices  = c(
+                "All poverty lines" = "all",
+                "$2.15 only"        = "$2.15",
+                "$3.65 only"        = "$3.65",
+                "$6.85 only"        = "$6.85"
+              ),
               selected = "all"
             ),
-            hr(style = "border-color: rgba(255, 255, 255, 0.3);"),
-            h5("Statistics", style = "color: white; margin-bottom: 15px;"),
+            tags$hr(class = "pip-card__divider"),
+            tags$h5(class = "pip-card__subheading", "Statistics"),
 
-            # Show appropriate statistics based on current tab
             if (current_tab() == "scatter") {
               uiOutput(ns("scatter_stats"))
             } else if (current_tab() == "rankings") {
@@ -505,17 +572,18 @@ mod_interactive_dashboard_server <- function(
             }
           )
         )
+
       } else if (is_sn()) {
-        # Show reporting level filter for Changes tab when SN is selected
+        # SN Changes tab: reporting level filter
         column(
           width = 3,
           tags$div(
-            style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
-            h5("Plot Controls", style = "color: white; margin-bottom: 15px;"),
+            class = "pip-card",
+            tags$h5(class = "pip-card__subheading", "Plot Controls"),
             selectInput(
-              inputId = ns("sn_reporting_level"),
-              label = "Reporting Level:",
-              choices = SN_REPORTING_LEVELS,
+              inputId  = ns("sn_reporting_level"),
+              label    = "Reporting Level",
+              choices  = SN_REPORTING_LEVELS,
               selected = sn_reporting_level()
             )
           )
@@ -573,7 +641,7 @@ mod_interactive_dashboard_server <- function(
       if (current_tab() == "changes") {
         sn_title <- if (is_sn()) {
           glue::glue(
-            "Difference between the <span style='color:#FF9800;'>**DB**</span> and <span style='color:#4EC2C0;'>**DOU**</span> estimates for the subnational definition"
+            "Difference between the <span class='pip-stat--db'>**DB**</span> and <span class='pip-stat--dou'>**DOU**</span> estimates for the subnational definition"
           )
         } else {
           NULL
@@ -636,54 +704,35 @@ mod_interactive_dashboard_server <- function(
       if (current_tab() != "lorenz" || !is_mtg()) return(NULL)
       req(lorenz_data())
 
-      gap <- if (is.null(input$lorenz_gap_share)) 50L else input$lorenz_gap_share
+      gap   <- if (is.null(input$lorenz_gap_share)) 50L else input$lorenz_gap_share
       stats <- compute_lorenz_stats(lorenz_data(), gap)
       meta  <- lorenz_meta()
 
       tags$div(
-        style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px; margin-top: 0px;",
-        h5("Distribution Statistics", style = "color: white; margin-bottom: 15px;"),
+        class = "pip-card",
+        tags$h5(class = "pip-card__subheading", "Distribution Statistics"),
         tags$div(
-          style = "color: white; font-size: 13px;",
-          p(
-            strong("Country:"),
-            br(),
-            paste0(meta$country_name, " (", meta$iso3, ")")
-          ),
-          p(
-            strong("Survey year:"),
-            br(),
-            meta$year
-          ),
-          p(
-            strong("Gap share:"),
-            br(),
-            paste0(gap, "%")
-          ),
-          hr(style = "border-color: rgba(255, 255, 255, 0.3);"),
-          p(
-            strong("Gini (survey):"),
-            br(),
-            if (!is.na(stats$gini_std)) sprintf("%.4f", stats$gini_std) else "N/A"
-          ),
-          p(
-            strong("Gini (HFCE-adjusted):"),
-            br(),
-            if (!is.na(stats$gini_adj)) sprintf("%.4f", stats$gini_adj) else "N/A"
-          ),
-          p(
-            strong("Gini change:"),
-            br(),
+          class = "pip-lorenz-stats",
+          tags$p(tags$strong("Country:"), tags$br(),
+                 paste0(meta$country_name, " (", meta$iso3, ")")),
+          tags$p(tags$strong("Survey year:"), tags$br(), meta$year),
+          tags$p(tags$strong("Gap share:"), tags$br(), paste0(gap, "%")),
+          tags$hr(),
+          tags$p(tags$strong("Gini (survey):"), tags$br(),
+                 if (!is.na(stats$gini_std)) sprintf("%.4f", stats$gini_std) else "N/A"),
+          tags$p(tags$strong("Gini (HFCE-adjusted):"), tags$br(),
+                 if (!is.na(stats$gini_adj)) sprintf("%.4f", stats$gini_adj) else "N/A"),
+          tags$p(
+            tags$strong("Gini change:"), tags$br(),
             if (!is.na(stats$gini_change)) {
-              change_col <- if (stats$gini_change > 0) "#FF9800" else "#4EC2C0"
               tags$span(
-                style = paste0("color: ", change_col, ";"),
+                class = if (stats$gini_change > 0) "pip-stat--positive" else "pip-stat--negative",
                 sprintf("%+.4f", stats$gini_change)
               )
             } else {
               "N/A"
             }
-          ),
+          )
         )
       )
     })
@@ -691,138 +740,91 @@ mod_interactive_dashboard_server <- function(
     # Render statistics panel
     output$scatter_stats <- renderUI({
       if (current_tab() != "scatter") return(NULL)
-      
-      # Calculate statistics from the data
+
       dt <- cross_country_data()
       if (is.null(dt)) return(NULL)
-      
-      # Filter by poverty line if needed
+
       if (poverty_line_filter() != "all") {
-        dt <- dt |>
-          dplyr::filter(poverty_line == poverty_line_filter())
+        dt <- dt |> dplyr::filter(poverty_line == poverty_line_filter())
       }
-      
-      # Filter to data with both values
+
       dt_complete <- dt |>
         dplyr::filter(!is.na(headcount_default) & !is.na(headcount_estimate))
-      
+
       if (nrow(dt_complete) == 0) return(NULL)
-      
-      # Calculate statistics
-      correlation <- cor(dt_complete$headcount_default, 
-                        dt_complete$headcount_estimate,
-                        use = "complete.obs")
-      
-      mean_abs_diff <- mean(abs(dt_complete$headcount_estimate - 
+
+      correlation   <- cor(dt_complete$headcount_default,
+                           dt_complete$headcount_estimate,
+                           use = "complete.obs")
+      mean_abs_diff <- mean(abs(dt_complete$headcount_estimate -
                                   dt_complete$headcount_default),
-                           na.rm = TRUE)
-      
-      within_tolerance <- sum(abs(dt_complete$headcount_estimate - 
-                                    dt_complete$headcount_default) <= 3,
-                             na.rm = TRUE)
+                            na.rm = TRUE)
+      within_tolerance <- sum(
+        abs(dt_complete$headcount_estimate - dt_complete$headcount_default) <= 3,
+        na.rm = TRUE
+      )
       pct_within <- (within_tolerance / nrow(dt_complete)) * 100
-      
-      rmse <- sqrt(mean((dt_complete$headcount_estimate - 
-                        dt_complete$headcount_default)^2,
-                       na.rm = TRUE))
-      
-      # Render statistics
-      tagList(
-        tags$div(
-          style = "color: white; font-size: 13px;",
-          p(
-            strong("Correlation:"),
-            br(),
-            sprintf("%.3f", correlation)
-          ),
-          p(
-            strong("Mean Absolute Difference:"),
-            br(),
-            sprintf("%.2f pp", mean_abs_diff)
-          ),
-          p(
-            strong("Within ±3pp bands:"),
-            br(),
-            sprintf("%d/%d (%.1f%%)", within_tolerance, nrow(dt_complete), pct_within)
-          ),
-          p(
-            strong("RMSE:"),
-            br(),
-            sprintf("%.2f pp", rmse)
-          )
-        )
+      rmse       <- sqrt(mean(
+        (dt_complete$headcount_estimate - dt_complete$headcount_default)^2,
+        na.rm = TRUE
+      ))
+
+      tags$div(
+        class = "pip-analysis-stats",
+        tags$p(tags$strong("Correlation:"), tags$br(),
+               sprintf("%.3f", correlation)),
+        tags$p(tags$strong("Mean Absolute Difference:"), tags$br(),
+               sprintf("%.2f pp", mean_abs_diff)),
+        tags$p(tags$strong("Within \u00b13pp bands:"), tags$br(),
+               sprintf("%d/%d (%.1f%%)", within_tolerance, nrow(dt_complete), pct_within)),
+        tags$p(tags$strong("RMSE:"), tags$br(),
+               sprintf("%.2f pp", rmse))
       )
     })
     
     # Render rankings statistics panel
     output$rankings_stats <- renderUI({
       if (current_tab() != "rankings") return(NULL)
-      
-      # Calculate statistics from the data
+
       dt <- cross_country_data()
       if (is.null(dt)) return(NULL)
-      
-      # Filter to complete cases
+
       dt_complete <- dt |>
         dplyr::filter(!is.na(headcount_default) & !is.na(headcount_estimate))
-      
-      # Filter by poverty line if needed
+
       if (poverty_line_filter() != "all") {
         dt_complete <- dt_complete |>
           dplyr::filter(poverty_line == poverty_line_filter())
       }
-      
+
       if (nrow(dt_complete) == 0) return(NULL)
-      
-      # Calculate Bland-Altman statistics
-      # Note: diff_pp is PIP minus Alternative
-      diff_pp <- dt_complete$headcount_default - dt_complete$headcount_estimate
+
+      diff_pp     <- dt_complete$headcount_default - dt_complete$headcount_estimate
       abs_diff_pp <- abs(diff_pp)
-      
-      # Count unique economies, not points
       n_economies <- length(unique(dt_complete$country_name))
-      n_points <- nrow(dt_complete)
-      
-      bias <- mean(diff_pp, na.rm = TRUE)
-      sd_diff <- sd(diff_pp, na.rm = TRUE)
-      loa_lower <- bias - 1.96 * sd_diff
-      loa_upper <- bias + 1.96 * sd_diff
-      within_3pp <- sum(abs_diff_pp <= 3, na.rm = TRUE)
-      pct_within_3pp <- (within_3pp / n_points) * 100
-      
-      # Render statistics
-      tagList(
-        tags$div(
-          style = "color: white; font-size: 13px;",
-          p(
-            strong("Number of economies:"),
-            br(),
-            sprintf("%d", n_economies)
-          ),
-          p(
-            strong("Mean difference:"),
-            br(),
-            sprintf("%.2f pp", bias)
-          ),
-          p(
-            strong("Standard Deviation:"),
-            br(),
-            sprintf("%.2f pp", sd_diff)
-          ),
-          p(
-            strong("Limits of Agreement*:"),
-            br(),
-            sprintf("[%.2f, %.2f] pp", loa_lower, loa_upper)
-          ),
-          p(
-            strong("Within ±3pp:"),
-            br(),
-            sprintf("%d/%d (%.1f%%)", within_3pp, n_points, pct_within_3pp)
-          ),
-          p(
-            style = "font-size: 11px; color: #cccccc; margin-top: 10px;",
-            "*Limits of Agreement: Mean ± 1.96×SD, indicating the range within which 95% of differences are expected to fall."
-          )
+      n_points    <- nrow(dt_complete)
+      bias        <- mean(diff_pp, na.rm = TRUE)
+      sd_diff     <- sd(diff_pp, na.rm = TRUE)
+      loa_lower   <- bias - 1.96 * sd_diff
+      loa_upper   <- bias + 1.96 * sd_diff
+      within_3pp  <- sum(abs_diff_pp <= 3, na.rm = TRUE)
+      pct_within  <- (within_3pp / n_points) * 100
+
+      tags$div(
+        class = "pip-analysis-stats",
+        tags$p(tags$strong("Number of economies:"), tags$br(),
+               sprintf("%d", n_economies)),
+        tags$p(tags$strong("Mean difference:"), tags$br(),
+               sprintf("%.2f pp", bias)),
+        tags$p(tags$strong("Standard Deviation:"), tags$br(),
+               sprintf("%.2f pp", sd_diff)),
+        tags$p(tags$strong("Limits of Agreement*:"), tags$br(),
+               sprintf("[%.2f, %.2f] pp", loa_lower, loa_upper)),
+        tags$p(tags$strong("Within \u00b13pp:"), tags$br(),
+               sprintf("%d/%d (%.1f%%)", within_3pp, n_points, pct_within)),
+        tags$p(
+          class = "pip-analysis-stats__note",
+          "*Limits of Agreement: Mean \u00b1 1.96\u00d7SD, indicating the range within which 95% of differences are expected to fall."
         )
       )
     })
@@ -879,7 +881,7 @@ mod_interactive_dashboard_server <- function(
       
       # Create detailed modal content
       modal_content <- tagList(
-        h4(style = "color: #0071bc;", clicked_country),
+        h4(class = "pip-modal__country-title", clicked_country),
         p(strong("Country Code: "), country_code),
         p(strong("Region: "), region),
         p(strong("Method: "), selected_method()),
@@ -917,10 +919,11 @@ mod_interactive_dashboard_server <- function(
                            style = "text-align: right;")
                   ),
                   tags$tr(
+                    class = "pip-modal__diff-row",
                     tags$td(strong("Absolute Difference")),
                     tags$td(
-                      strong(paste0(round(pline_data$diff, 1), " pp")),
-                      style = "text-align: right; color: #d62728;"
+                      class = "pip-modal__diff-value",
+                      strong(paste0(round(pline_data$diff, 1), " pp"))
                     )
                   )
                 )
@@ -960,7 +963,7 @@ mod_interactive_dashboard_server <- function(
         return()
       }
 
-      md_path <- file.path("data", md_file)
+      md_path <- app_sys("app/data", md_file)
       if (!file.exists(md_path)) {
         shiny::showNotification(
           paste("Markdown file not found:", md_path),

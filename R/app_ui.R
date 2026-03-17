@@ -13,19 +13,21 @@ app_ui <- function(request) {
     tags$header(
       class = "pip-header",
 
-      # Logo on the left
+      # Brand group: logo + divider + identity text
       tags$div(
-        class = "pip-header-logo",
-        tags$img(
-          src = "www/pip-logo.png",
-          alt = "World Bank Poverty and Inequality Platform Logo"
+        class = "pip-header__brand",
+        tags$div(
+          class = "pip-header-logo",
+          tags$img(
+            src = "www/pip-logo.png",
+            alt = "World Bank Poverty and Inequality Platform Logo"
+          )
+        ),
+        tags$span(class = "pip-header__brand-divider"),
+        tags$span(
+          class = "pip-header-identity",
+          "Innovation Hub"
         )
-      ),
-
-      # Title in the middle
-      tags$div(
-        class = "pip-header-title",
-        "Innovation Hub"
       ),
 
       # Navigation menu on the right
@@ -38,7 +40,7 @@ app_ui <- function(request) {
             actionLink(
               inputId = "nav_home",
               label   = "Home",
-              class   = "pip-header-nav-link active"
+              class   = "pip-header-nav-link pip-header-nav-link--active"
             )
           ),
 
@@ -63,8 +65,8 @@ app_ui <- function(request) {
           tags$li(
             class = "pip-header-nav-item",
             tags$a(
-              href = "https://pip.worldbank.org/home",
-              class = "pip-header-nav-link",
+              href   = "https://pip.worldbank.org/home",
+              class  = "pip-header-nav-link",
               target = "_blank",
               "Return to PIP"
             )
@@ -98,11 +100,10 @@ app_ui <- function(request) {
           # Placeholder div — add banner content here in a future iteration
           tags$div(class = "research-repo-banner"),
           tags$iframe(
-            src    = "research_repo/ids-doc.html",
-            width  = "100%",
+            src   = "research_repo/ids-doc.html",
+            width = "100%",
             height = "100%",
-            style  = "border: none; display: block;",
-            allow  = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
+            allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
           )
         )
       )
@@ -153,11 +154,11 @@ golem_add_external_resources <- function() {
       path = app_sys("app/www"),
       app_title = "InnovationHubDashboard"
     ),
-    # Load header CSS
+    # Load PIP redesign CSS (replaces header.css)
     tags$link(
-      rel = "stylesheet",
+      rel  = "stylesheet",
       type = "text/css",
-      href = "www/header.css"
+      href = "www/pip-redesign.css"
     )
     # Add here other external resources
     # for example, you can add shinyalert::useShinyalert()

@@ -23,7 +23,10 @@ Imports:
     ggtext, 
     ggrepel,
     haven,
-    wbstats
+    wbstats,
+    scales,
+    glue,
+    grid
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3

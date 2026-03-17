@@ -1,0 +1,1430 @@
+/* ============================================================================
+   PIP Innovation Hub — Design System
+   pip-redesign.css
+
+   Sections:
+     1.  CSS Custom Properties (design tokens)
+     2.  Base resets
+     3.  Header & Navigation
+     4.  Hero / Banner
+     5.  Deep Dives Banner
+     6.  Section wrappers
+     7.  Large feature tiles (pip-tile-large)
+     8.  Small method tiles (pip-tile-small)
+     9.  Grid layouts
+    9b. Featured Methods Banner
+    10.  Card system
+    11.  Deep Dives two-column layout
+    12.  Tab bar (Additional Analysis)
+    13.  Button system
+    14.  Form control overrides
+    15.  Research Repository container
+    16.  Responsive breakpoints
+   ========================================================================= */
+
+
+/* ============================================================================
+   1. CSS Custom Properties
+   ========================================================================= */
+
+:root {
+  /* ── Colour palette ─────────────────────────────────────────── */
+  --pip-navy:           #002244;
+  --pip-navy-mid:       #003366;
+  --pip-blue-gray:      #2c3e5a;
+  --pip-blue-accent:    #0071bc;
+  --pip-blue-accent-dark: #005a96;  /* hover state for primary buttons */
+  --pip-tile-featured:  #243c56;    /* Featured Methods tile background */
+  --pip-color-positive: #FF9800;    /* Gini increase / DB subnational */
+  --pip-color-negative: #4EC2C0;    /* Gini decrease / DOU subnational */
+  --pip-color-diff:     #d62728;    /* Absolute difference value in modal */
+  --pip-blue-light:     #e8f0f8;
+  --pip-white:          #ffffff;
+  --pip-light-gray:     #f7f8fa;
+  --pip-mid-gray:       #e4e8ed;
+  --pip-border:         #d8dde3;
+  --pip-text-primary:   #1a2533;
+  --pip-text-secondary: #4a5568;
+  --pip-text-muted:     #718096;
+  --pip-text-on-dark:   #ffffff;
+  --pip-text-on-dark-secondary: rgba(255, 255, 255, 0.78);
+
+  /* ── Typography ────────────────────────────────────────────── */
+  --pip-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+              "Helvetica Neue", Arial, sans-serif;
+  --pip-font-size-xs:   12px;
+  --pip-font-size-sm:   13px;
+  --pip-font-size-base: 15px;
+  --pip-font-size-md:   17px;
+  --pip-font-size-lg:   20px;
+  --pip-font-size-xl:   24px;
+  --pip-font-size-2xl:  32px;
+  --pip-font-size-3xl:  44px;
+  --pip-line-height:    1.6;
+
+  /* ── Spacing scale ─────────────────────────────────────────── */
+  --pip-space-1:  4px;
+  --pip-space-2:  8px;
+  --pip-space-3:  12px;
+  --pip-space-4:  16px;
+  --pip-space-5:  24px;
+  --pip-space-6:  32px;
+  --pip-space-7:  48px;
+  --pip-space-8:  64px;
+  --pip-space-9:  80px;
+  --pip-space-10: 100px;
+
+  /* ── Layout ────────────────────────────────────────────────── */
+  --pip-content-max-width: 1200px;
+  --pip-content-padding:   0 48px;
+  --pip-header-height:     68px;
+
+  /* ── Borders & shadows ─────────────────────────────────────── */
+  --pip-radius-sm:  4px;
+  --pip-radius-md:  6px;
+  --pip-radius-lg:  10px;
+  --pip-shadow-sm:  0 1px 3px rgba(0, 0, 0, 0.08);
+  --pip-shadow-md:  0 4px 12px rgba(0, 0, 0, 0.10);
+  --pip-shadow-lg:  0 8px 24px rgba(0, 0, 0, 0.12);
+
+  /* ── Transitions ────────────────────────────────────────────── */
+  --pip-transition: 0.18s ease;
+}
+
+
+/* ============================================================================
+   2. Base Resets
+   ========================================================================= */
+
+/* Remove Shiny's default body padding that pushes content down */
+body {
+  margin: 0;
+  padding: 0 !important;
+  font-family: var(--pip-font);
+  font-size: var(--pip-font-size-base);
+  color: var(--pip-text-primary);
+  background-color: var(--pip-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Remove default container gutters that Shiny adds to fluidPage */
+.tab-content,
+.tab-content > .tab-pane {
+  padding: 0 !important;
+}
+
+
+/* ============================================================================
+   3. Header & Navigation
+   ========================================================================= */
+
+.pip-header {
+  width: 100%;
+  height: var(--pip-header-height);
+  background-color: var(--pip-white);
+  border-bottom: 1px solid var(--pip-border);
+  box-shadow: var(--pip-shadow-sm);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--pip-space-8);
+  box-sizing: border-box;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  gap: var(--pip-space-5);
+}
+
+/* Left: logo + identity grouped together */
+.pip-header__brand {
+  display: flex;
+  align-items: center;
+  gap: var(--pip-space-3);
+  flex: 0 0 auto;
+  text-decoration: none;
+}
+
+.pip-header-logo img {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+/* Divider between logo and identity text */
+.pip-header__brand-divider {
+  width: 1px;
+  height: 28px;
+  background-color: var(--pip-border);
+  flex-shrink: 0;
+}
+
+.pip-header-identity {
+  font-size: var(--pip-font-size-md);
+  font-weight: 600;
+  color: var(--pip-navy);
+  font-family: var(--pip-font);
+  letter-spacing: 0.1px;
+  white-space: nowrap;
+}
+
+/* Right: navigation */
+.pip-header-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--pip-space-1);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 0 0 auto;
+}
+
+.pip-header-nav-item {
+  margin: 0;
+  padding: 0;
+}
+
+/* Base nav link — works for both <a> and shiny actionLink <button> */
+.pip-header-nav-link,
+a.pip-header-nav-link,
+button.pip-header-nav-link {
+  display: inline-flex;
+  align-items: center;
+  height: var(--pip-header-height);
+  padding: 0 var(--pip-space-4);
+  color: var(--pip-text-secondary);
+  font-size: var(--pip-font-size-base);
+  font-weight: 500;
+  font-family: var(--pip-font);
+  text-decoration: none;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  transition: color var(--pip-transition), border-color var(--pip-transition);
+  white-space: nowrap;
+  box-sizing: border-box;
+  /* Override Shiny's btn styling */
+  border-radius: 0;
+  outline: none;
+  box-shadow: none;
+}
+
+.pip-header-nav-link:hover,
+a.pip-header-nav-link:hover,
+button.pip-header-nav-link:hover {
+  color: var(--pip-blue-accent);
+  text-decoration: none;
+  background: none;
+}
+
+/* Active state: underline indicator */
+.pip-header-nav-link--active,
+a.pip-header-nav-link--active,
+button.pip-header-nav-link--active {
+  color: var(--pip-blue-accent);
+  border-bottom-color: var(--pip-blue-accent);
+  font-weight: 600;
+}
+
+.pip-header-nav-link--active:hover {
+  color: var(--pip-blue-accent);
+  background: none;
+}
+
+/* Shiny's .action-button base reset */
+.pip-header-nav-link.action-button {
+  background: none !important;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+
+/* ============================================================================
+   4. Hero / Banner (Home page)
+   ========================================================================= */
+
+.pip-hero {
+  width: 100%;
+  background-color: var(--pip-navy);
+  padding: var(--pip-space-9) var(--pip-space-8);
+  box-sizing: border-box;
+  display: block;
+  min-height: 300px;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Centred inner wrapper — aligns with .pip-section__inner / tiles below */
+.pip-hero__inner {
+  display: grid;
+  grid-template-columns: 1fr 420px;
+  align-items: center;
+  gap: var(--pip-space-6);
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto;
+}
+
+/* Left content column */
+.pip-hero__content {
+  max-width: 580px;
+}
+
+.pip-hero__title {
+  font-size: var(--pip-font-size-3xl);
+  font-weight: 700;
+  color: var(--pip-text-on-dark);
+  font-family: var(--pip-font);
+  line-height: 1.15;
+  margin: 0 0 var(--pip-space-5) 0;
+  letter-spacing: -0.5px;
+}
+
+.pip-hero__text {
+  font-size: var(--pip-font-size-md);
+  color: var(--pip-text-on-dark-secondary);
+  line-height: 1.7;
+  margin: 0 0 var(--pip-space-6) 0;
+  max-width: 500px;
+}
+
+.pip-hero__actions {
+  display: flex;
+  gap: var(--pip-space-3);
+  flex-wrap: wrap;
+}
+
+/* ── Right column: CSS-only data visualisation motif ───────────────────────
+   A subtle abstract chart with axes, gridlines, and a smooth trend line.
+   Pure CSS — no image required. Cross-browser safe (gradients + borders).
+   ─────────────────────────────────────────────────────────────────────── */
+
+.pip-hero__visual {
+  position: relative;
+  width: 100%;
+  height: 220px;
+  flex-shrink: 0;
+  opacity: 0.55;
+}
+
+/* Axis lines */
+.pip-hero__visual::before {
+  content: "";
+  position: absolute;
+  left: 28px;
+  bottom: 20px;
+  right: 0;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.35);   /* x-axis */
+  box-shadow:
+    /* y-axis */
+    0 0 0 0 transparent;
+}
+
+/* Y-axis line */
+.pip-hero__visual::after {
+  content: "";
+  position: absolute;
+  left: 28px;
+  bottom: 20px;
+  width: 1px;
+  height: calc(100% - 20px);
+  background-color: rgba(255, 255, 255, 0.35);
+}
+
+/* Horizontal gridlines — via layered box-shadows on inner elements */
+.pip-hero__visual .pip-chart-lines {
+  position: absolute;
+  left: 28px;
+  right: 0;
+  bottom: 20px;
+  height: calc(100% - 20px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  pointer-events: none;
+}
+
+.pip-hero__visual .pip-chart-lines span {
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* Trend line — SVG drawn inline via CSS clip-path + pseudo element cascade */
+.pip-hero__visual .pip-chart-trend {
+  position: absolute;
+  left: 28px;
+  right: 0;
+  bottom: 20px;
+  height: calc(100% - 20px);
+  overflow: visible;
+}
+
+/* Scatter dots — positioned absolutely using nth-child */
+.pip-hero__visual .pip-chart-dots {
+  position: absolute;
+  left: 28px;
+  right: 0;
+  bottom: 20px;
+  height: calc(100% - 20px);
+}
+
+.pip-hero__visual .pip-chart-dot {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.70);
+  transform: translate(-50%, 50%);
+}
+
+/* Dot positions — simulate a gentle upward trend with scatter */
+.pip-chart-dot:nth-child(1)  { left: 8%;  bottom: 18%; }
+.pip-chart-dot:nth-child(2)  { left: 16%; bottom: 28%; }
+.pip-chart-dot:nth-child(3)  { left: 24%; bottom: 22%; }
+.pip-chart-dot:nth-child(4)  { left: 32%; bottom: 40%; }
+.pip-chart-dot:nth-child(5)  { left: 40%; bottom: 35%; }
+.pip-chart-dot:nth-child(6)  { left: 48%; bottom: 50%; }
+.pip-chart-dot:nth-child(7)  { left: 56%; bottom: 48%; }
+.pip-chart-dot:nth-child(8)  { left: 64%; bottom: 62%; }
+.pip-chart-dot:nth-child(9)  { left: 72%; bottom: 70%; }
+.pip-chart-dot:nth-child(10) { left: 80%; bottom: 65%; }
+.pip-chart-dot:nth-child(11) { left: 88%; bottom: 78%; }
+.pip-chart-dot:nth-child(12) { left: 95%; bottom: 82%; }
+
+/* Trend line: a thin diagonal strip using linear-gradient */
+.pip-hero__visual .pip-chart-trend-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background: linear-gradient(
+    to top right,
+    transparent 0%,
+    transparent calc(10% - 1px),
+    rgba(126, 200, 248, 0.50) calc(10%),
+    rgba(126, 200, 248, 0.50) calc(10% + 2px),
+    transparent calc(10% + 3px),
+    transparent 100%
+  );
+  /* Approximate a diagonal line from bottom-left to top-right */
+  clip-path: polygon(0% 88%, 100% 5%, 100% 10%, 0% 93%);
+}
+
+/* Axis tick marks */
+.pip-hero__visual .pip-chart-ticks {
+  position: absolute;
+  left: 28px;
+  right: 0;
+  bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.pip-chart-tick {
+  width: 1px;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.35);
+}
+
+
+/* ============================================================================
+   5. Deep Dives Banner (shorter variant)
+   ========================================================================= */
+
+.pip-dd-banner {
+  width: 100%;
+  background-color: var(--pip-navy);
+  padding: var(--pip-space-7) var(--pip-space-8);
+  box-sizing: border-box;
+}
+
+.pip-dd-banner__inner {
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto;
+}
+
+.pip-dd-banner__title {
+  font-size: var(--pip-font-size-2xl);
+  font-weight: 700;
+  color: var(--pip-text-on-dark);
+  font-family: var(--pip-font);
+  margin: 0 0 var(--pip-space-3) 0;
+  letter-spacing: -0.3px;
+}
+
+.pip-dd-banner__text {
+  font-size: var(--pip-font-size-base);
+  color: var(--pip-text-on-dark-secondary);
+  line-height: 1.6;
+  margin: 0;
+  max-width: 560px;
+}
+
+
+/* ============================================================================
+   6. Section Wrappers
+   ========================================================================= */
+
+.pip-section {
+  padding: var(--pip-space-8) var(--pip-space-8);
+  box-sizing: border-box;
+  background-color: var(--pip-white);
+}
+
+.pip-section--light {
+  background-color: var(--pip-light-gray);
+}
+
+.pip-section--analysis {
+  background-color: var(--pip-light-gray);
+  border-top: 1px solid var(--pip-border);
+}
+
+.pip-section__inner {
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto;
+}
+
+.pip-section__heading {
+  font-size: var(--pip-font-size-2xl);
+  font-weight: 700;
+  color: var(--pip-navy);
+  font-family: var(--pip-font);
+  margin: 0 0 var(--pip-space-3) 0;
+  letter-spacing: -0.2px;
+}
+
+.pip-section__intro {
+  font-size: var(--pip-font-size-md);
+  color: var(--pip-text-secondary);
+  line-height: 1.6;
+  margin: 0 0 var(--pip-space-7) 0;
+  max-width: 640px;
+}
+
+
+/* ============================================================================
+   7. Large Feature Tiles (pip-tile-large)
+   Used for: Deep Dives tile, Research Repository tile
+   ========================================================================= */
+
+.pip-tile-large {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--pip-blue-gray);
+  border-radius: var(--pip-radius-lg);
+  overflow: hidden;
+  height: 100%;
+  transition: transform var(--pip-transition), box-shadow var(--pip-transition);
+  box-shadow: var(--pip-shadow-md);
+}
+
+.pip-tile-large:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--pip-shadow-lg);
+}
+
+/* Image area: padded light frame inside dark tile */
+.pip-tile-large__image {
+  background-color: var(--pip-blue-light);
+  padding: var(--pip-space-5);
+  flex: 0 0 auto;
+}
+
+.pip-tile-large__image img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  border-radius: var(--pip-radius-sm);
+}
+
+/* Modifier: logo / contain-style image (e.g. Research Repository tile) */
+.pip-tile-large__image--contain img {
+  object-fit: contain;
+  background: var(--pip-blue-light);
+  padding: var(--pip-space-5);
+  box-sizing: border-box;
+}
+
+/* Content area */
+.pip-tile-large__content {
+  display: flex;
+  flex-direction: column;
+  padding: var(--pip-space-6) var(--pip-space-6) var(--pip-space-5);
+  flex: 1;
+  gap: var(--pip-space-3);
+}
+
+.pip-tile-large__title {
+  font-size: var(--pip-font-size-xl);
+  font-weight: 700;
+  color: var(--pip-text-on-dark);
+  font-family: var(--pip-font);
+  margin: 0;
+  line-height: 1.25;
+}
+
+.pip-tile-large__desc {
+  font-size: var(--pip-font-size-base);
+  color: var(--pip-text-on-dark-secondary);
+  line-height: 1.65;
+  margin: 0;
+  flex: 1;
+}
+
+/* Button at bottom of tile */
+.pip-tile-large__btn-wrap {
+  margin-top: var(--pip-space-4);
+}
+
+/* Override Shiny action-button inside tile */
+.pip-tile-large__btn,
+.pip-tile-large__btn-wrap .action-button,
+.pip-tile-large__btn-wrap a {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--pip-space-2);
+  padding: var(--pip-space-2) var(--pip-space-5);
+  background: transparent;
+  border: 1.5px solid rgba(255, 255, 255, 0.55);
+  border-radius: var(--pip-radius-sm);
+  color: var(--pip-text-on-dark) !important;
+  font-size: var(--pip-font-size-sm);
+  font-weight: 600;
+  font-family: var(--pip-font);
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: background var(--pip-transition), border-color var(--pip-transition);
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.pip-tile-large__btn:hover,
+.pip-tile-large__btn-wrap .action-button:hover,
+.pip-tile-large__btn-wrap a:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.80);
+  text-decoration: none !important;
+}
+
+
+/* ============================================================================
+   8. Small Method Tiles (pip-tile-small)
+   Used for: four method tiles row
+   ========================================================================= */
+
+.pip-tile-small {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--pip-blue-gray);
+  border-radius: var(--pip-radius-md);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform var(--pip-transition), box-shadow var(--pip-transition);
+  box-shadow: var(--pip-shadow-sm);
+  height: 100%;
+}
+
+.pip-tile-small:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--pip-shadow-md);
+}
+
+/* Image area */
+.pip-tile-small__image {
+  background-color: var(--pip-blue-light);
+  overflow: hidden;
+  flex: 0 0 auto;
+}
+
+.pip-tile-small__image img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  display: block;
+  cursor: pointer;
+  transition: opacity var(--pip-transition);
+}
+
+.pip-tile-small:hover .pip-tile-small__image img {
+  opacity: 0.92;
+}
+
+/* Content area */
+.pip-tile-small__content {
+  padding: var(--pip-space-4) var(--pip-space-4) var(--pip-space-3);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--pip-space-2);
+}
+
+.pip-tile-small__title {
+  font-size: var(--pip-font-size-base);
+  font-weight: 700;
+  color: var(--pip-text-on-dark);
+  font-family: var(--pip-font);
+  margin: 0;
+  line-height: 1.3;
+}
+
+.pip-tile-small__title a {
+  color: var(--pip-text-on-dark);
+  text-decoration: none;
+}
+
+.pip-tile-small__title a:hover {
+  color: rgba(255, 255, 255, 0.80);
+}
+
+.pip-tile-small__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--pip-space-1);
+  font-size: var(--pip-font-size-xs);
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.60);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: var(--pip-space-2);
+}
+
+.pip-tile-small__cta::after {
+  content: "→";
+  font-size: 11px;
+}
+
+.pip-tile-small:hover .pip-tile-small__cta {
+  color: rgba(255, 255, 255, 0.90);
+}
+
+/* "Read paper" external link — sits below the Explore CTA */
+.pip-tile-small__paper-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--pip-space-1);
+  font-size: var(--pip-font-size-xs);
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.50);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: color var(--pip-transition);
+  margin-top: var(--pip-space-1);
+}
+
+.pip-tile-small__paper-link::after {
+  content: "\2197";  /* ↗ north-east arrow */
+  font-size: 11px;
+}
+
+.pip-tile-small:hover .pip-tile-small__paper-link {
+  color: rgba(255, 255, 255, 0.90);
+}
+
+
+/* ============================================================================
+   9. Grid Layouts
+   ========================================================================= */
+
+/* Two-column equal grid */
+.pip-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--pip-space-6);
+  align-items: stretch;
+}
+
+/* Four-column equal grid */
+.pip-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--pip-space-4);
+  align-items: stretch;
+}
+
+/* Spacing between grid rows */
+.pip-grid-gap-top {
+  margin-top: var(--pip-space-6);
+}
+
+
+/* ============================================================================
+   9b. Featured Methods Banner
+   Full-bleed dark navy section housing the four method tiles.
+   Tile colour is overridden to --pip-tile-featured (#243c56) within this section.
+   ========================================================================= */
+
+.pip-methods-banner {
+  width: 100%;
+  background-color: var(--pip-navy);
+  padding: var(--pip-space-8) var(--pip-space-8);
+  box-sizing: border-box;
+}
+
+.pip-methods-banner__inner {
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto;
+}
+
+.pip-methods-banner__heading {
+  font-size: var(--pip-font-size-2xl);
+  font-weight: 700;
+  color: var(--pip-text-on-dark);
+  font-family: var(--pip-font);
+  margin: 0 0 var(--pip-space-6) 0;
+  letter-spacing: -0.2px;
+}
+
+/* Override tile background inside the banner */
+.pip-methods-banner .pip-tile-small {
+  background-color: var(--pip-tile-featured);
+}
+
+
+/* ============================================================================
+   10. Card System
+   Used for: Deep Dives controls panel, chart panel, analysis panels
+   ========================================================================= */
+
+.pip-card {
+  background-color: var(--pip-white);
+  border: 1px solid var(--pip-border);
+  border-radius: var(--pip-radius-lg);
+  box-shadow: var(--pip-shadow-sm);
+  padding: var(--pip-space-6);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.pip-card--flush {
+  padding: 0;
+  overflow: hidden;
+}
+
+.pip-card__heading {
+  font-size: var(--pip-font-size-lg);
+  font-weight: 700;
+  color: var(--pip-navy);
+  font-family: var(--pip-font);
+  margin: 0 0 var(--pip-space-5) 0;
+  padding-bottom: var(--pip-space-4);
+  border-bottom: 1px solid var(--pip-border);
+}
+
+.pip-card__subheading {
+  font-size: var(--pip-font-size-base);
+  font-weight: 600;
+  color: var(--pip-text-secondary);
+  margin: 0 0 var(--pip-space-3) 0;
+}
+
+.pip-card__divider {
+  border: none;
+  border-top: 1px solid var(--pip-border);
+  margin: var(--pip-space-5) 0;
+}
+
+/* Method description block inside card */
+.pip-card__description {
+  font-size: var(--pip-font-size-sm);
+  color: var(--pip-text-secondary);
+  line-height: var(--pip-line-height);
+  margin: 0;
+}
+
+/* Label–value pair (method name, country name) */
+.pip-card__meta {
+  margin-bottom: var(--pip-space-4);
+}
+
+.pip-card__meta-label {
+  font-size: var(--pip-font-size-xs);
+  font-weight: 600;
+  color: var(--pip-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: var(--pip-space-1);
+}
+
+.pip-card__meta-value {
+  font-size: var(--pip-font-size-base);
+  font-weight: 600;
+  color: var(--pip-navy);
+}
+
+/* Button row at bottom of controls card */
+.pip-card__actions {
+  display: flex;
+  gap: var(--pip-space-3);
+  flex-wrap: wrap;
+  margin-top: var(--pip-space-5);
+}
+
+
+/* ============================================================================
+   11. Deep Dives Two-Column Layout
+   ========================================================================= */
+
+.pip-dd-body {
+  padding: var(--pip-space-6) var(--pip-space-8);
+  box-sizing: border-box;
+  background-color: var(--pip-light-gray);
+}
+
+.pip-dd-layout {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: var(--pip-space-6);
+  align-items: start;
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto;
+}
+
+/* Controls column */
+.pip-dd-layout__controls {
+  position: sticky;
+  top: calc(var(--pip-header-height) + var(--pip-space-4));
+}
+
+/* Chart column */
+.pip-dd-layout__chart {
+  min-width: 0; /* prevents grid blowout */
+}
+
+.pip-dd-layout__chart .pip-card {
+  padding: var(--pip-space-5);
+}
+
+/* Chart title area at top of chart card */
+.pip-chart-header {
+  margin-bottom: var(--pip-space-4);
+}
+
+.pip-chart-title {
+  font-size: var(--pip-font-size-lg);
+  font-weight: 700;
+  color: var(--pip-navy);
+  margin: 0 0 var(--pip-space-1) 0;
+}
+
+.pip-chart-subtitle {
+  font-size: var(--pip-font-size-sm);
+  color: var(--pip-text-muted);
+  margin: 0;
+}
+
+
+/* ============================================================================
+   12. Tab Bar — Additional Analysis
+   ========================================================================= */
+
+.pip-analysis-section {
+  padding: var(--pip-space-7) var(--pip-space-8) var(--pip-space-8);
+  background-color: var(--pip-light-gray);
+  border-top: 1px solid var(--pip-border);
+  box-sizing: border-box;
+}
+
+.pip-analysis-section__inner {
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto;
+}
+
+.pip-analysis-section__heading {
+  font-size: var(--pip-font-size-xl);
+  font-weight: 700;
+  color: var(--pip-navy);
+  margin: 0 0 var(--pip-space-5) 0;
+}
+
+/* Tab bar container */
+.pip-tabs {
+  display: inline-flex;
+  background-color: var(--pip-white);
+  border: 1px solid var(--pip-border);
+  border-radius: var(--pip-radius-md);
+  padding: 3px;
+  gap: 2px;
+  margin-bottom: var(--pip-space-6);
+}
+
+/* Individual tab button */
+.pip-tab,
+button.pip-tab {
+  display: inline-flex;
+  align-items: center;
+  padding: var(--pip-space-2) var(--pip-space-5);
+  background: transparent;
+  border: none;
+  border-radius: var(--pip-radius-sm);
+  color: var(--pip-text-secondary);
+  font-size: var(--pip-font-size-sm);
+  font-weight: 500;
+  font-family: var(--pip-font);
+  cursor: pointer;
+  transition: background var(--pip-transition), color var(--pip-transition);
+  white-space: nowrap;
+  box-shadow: none;
+  outline: none;
+}
+
+.pip-tab:hover,
+button.pip-tab:hover {
+  background: var(--pip-light-gray);
+  color: var(--pip-navy);
+}
+
+/* Active tab */
+.pip-tab--active,
+button.pip-tab--active {
+  background-color: var(--pip-navy) !important;
+  color: var(--pip-text-on-dark) !important;
+  font-weight: 600;
+}
+
+.pip-tab--active:hover,
+button.pip-tab--active:hover {
+  background-color: var(--pip-navy-mid) !important;
+}
+
+/* Disabled tab */
+.pip-tab:disabled,
+button.pip-tab:disabled {
+  opacity: 0.38;
+  cursor: not-allowed;
+}
+
+/* Analysis content panel layout — mirrors pip-dd-layout */
+.pip-analysis-layout {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: var(--pip-space-6);
+  align-items: start;
+}
+
+.pip-analysis-layout--full {
+  display: block;
+}
+
+
+/* ============================================================================
+   13. Button System
+   ========================================================================= */
+
+/* Base pip-btn */
+.pip-btn,
+a.pip-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--pip-space-2);
+  height: 38px;
+  padding: 0 var(--pip-space-5);
+  border-radius: var(--pip-radius-sm);
+  font-size: var(--pip-font-size-sm);
+  font-weight: 600;
+  font-family: var(--pip-font);
+  cursor: pointer;
+  text-decoration: none;
+  transition: background var(--pip-transition), border-color var(--pip-transition),
+              color var(--pip-transition), box-shadow var(--pip-transition);
+  border: 1.5px solid transparent;
+  letter-spacing: 0.2px;
+  box-shadow: none;
+  outline: none;
+  white-space: nowrap;
+}
+
+/* Primary — filled blue */
+.pip-btn--primary,
+.btn-primary.pip-btn {
+  background-color: var(--pip-blue-accent);
+  border-color: var(--pip-blue-accent);
+  color: var(--pip-white) !important;
+}
+
+.pip-btn--primary:hover {
+  background-color: var(--pip-blue-accent-dark);
+  border-color: var(--pip-blue-accent-dark);
+  color: var(--pip-white) !important;
+  text-decoration: none;
+}
+
+/* Secondary — outlined */
+.pip-btn--secondary,
+.btn-secondary.pip-btn,
+.btn.btn-secondary {
+  background-color: transparent;
+  border-color: var(--pip-blue-accent);
+  color: var(--pip-blue-accent) !important;
+}
+
+.pip-btn--secondary:hover {
+  background-color: var(--pip-blue-light);
+  text-decoration: none;
+}
+
+/* Hero context: both CTA buttons are white ghost buttons on dark navy.
+   Overrides --primary (blue fill) and --secondary (blue outline) globally.
+   Hover fills white and flips text to navy (~12:1 contrast — WCAG AAA). */
+.pip-hero .pip-btn {
+  background: transparent;
+  border: 1.5px solid rgba(255, 255, 255, 0.85);
+  color: var(--pip-white) !important;
+  text-decoration: none;
+}
+
+.pip-hero .pip-btn:hover {
+  background-color: var(--pip-white);
+  border-color: var(--pip-white);
+  color: var(--pip-navy) !important;
+  text-decoration: none;
+}
+
+/* Override Shiny's default btn styling for Deep Dives buttons */
+.pip-card__actions .btn-primary {
+  background-color: var(--pip-blue-accent);
+  border-color: var(--pip-blue-accent);
+  border-radius: var(--pip-radius-sm);
+  font-family: var(--pip-font);
+  font-size: var(--pip-font-size-sm);
+  font-weight: 600;
+  height: 38px;
+  padding: 0 var(--pip-space-5);
+  transition: background var(--pip-transition), border-color var(--pip-transition);
+}
+
+.pip-card__actions .btn-primary:hover {
+  background-color: var(--pip-blue-accent-dark);
+  border-color: var(--pip-blue-accent-dark);
+}
+
+.pip-card__actions .btn-secondary {
+  background-color: transparent;
+  border: 1.5px solid var(--pip-blue-accent);
+  color: var(--pip-blue-accent);
+  border-radius: var(--pip-radius-sm);
+  font-family: var(--pip-font);
+  font-size: var(--pip-font-size-sm);
+  font-weight: 600;
+  height: 38px;
+  padding: 0 var(--pip-space-5);
+}
+
+.pip-card__actions .btn-secondary:hover {
+  background-color: var(--pip-blue-light);
+}
+
+
+/* ============================================================================
+   14. Form Control Overrides
+   Give Shiny's selectInput / checkboxInput more breathing room
+   ========================================================================= */
+
+/* Label */
+.pip-card .control-label,
+.pip-dd-layout .control-label {
+  font-size: var(--pip-font-size-sm);
+  font-weight: 600;
+  color: var(--pip-text-secondary);
+  margin-bottom: var(--pip-space-2);
+  display: block;
+}
+
+/* Select dropdown */
+.pip-card .selectize-control,
+.pip-dd-layout .selectize-control {
+  margin-bottom: var(--pip-space-4);
+}
+
+.pip-card .selectize-input,
+.pip-dd-layout .selectize-input {
+  min-height: 38px;
+  border: 1.5px solid var(--pip-border);
+  border-radius: var(--pip-radius-sm);
+  font-size: var(--pip-font-size-sm);
+  padding: 8px var(--pip-space-3);
+  box-shadow: none;
+  transition: border-color var(--pip-transition);
+}
+
+.pip-card .selectize-input.focus,
+.pip-dd-layout .selectize-input.focus {
+  border-color: var(--pip-blue-accent);
+  box-shadow: 0 0 0 3px rgba(0, 113, 188, 0.12);
+}
+
+/* Checkbox */
+.pip-card .checkbox,
+.pip-analysis-layout .checkbox {
+  margin-top: 0;
+  margin-bottom: var(--pip-space-3);
+}
+
+.pip-card .checkbox label,
+.pip-analysis-layout .checkbox label {
+  font-size: var(--pip-font-size-sm);
+  color: var(--pip-text-secondary);
+}
+
+/* Download button */
+.pip-card__actions .btn.btn-default {
+  background-color: transparent;
+  border: 1.5px solid var(--pip-border);
+  color: var(--pip-text-secondary);
+  border-radius: var(--pip-radius-sm);
+  font-family: var(--pip-font);
+  font-size: var(--pip-font-size-sm);
+  height: 38px;
+  padding: 0 var(--pip-space-5);
+}
+
+.pip-card__actions .btn.btn-default:hover {
+  border-color: var(--pip-blue-accent);
+  color: var(--pip-blue-accent);
+}
+
+/* Shiny slider override */
+.pip-analysis-layout .irs--shiny .irs-bar,
+.pip-analysis-layout .irs--shiny .irs-from,
+.pip-analysis-layout .irs--shiny .irs-to,
+.pip-analysis-layout .irs--shiny .irs-single {
+  background: var(--pip-blue-accent);
+  border-color: var(--pip-blue-accent);
+}
+
+/* Statistics text inside analysis controls */
+/* Shared rule — both classes are aliases for the same presentation */
+.pip-analysis-stats,
+.pip-lorenz-stats,
+.pip-stats-panel {
+  font-size: var(--pip-font-size-sm);
+  color: var(--pip-text-secondary);
+  line-height: 1.7;
+}
+
+.pip-analysis-stats strong,
+.pip-lorenz-stats strong,
+.pip-stats-panel strong {
+  color: var(--pip-text-primary);
+}
+
+.pip-analysis-stats p,
+.pip-lorenz-stats p,
+.pip-stats-panel p {
+  margin-bottom: var(--pip-space-3);
+}
+
+.pip-analysis-stats hr,
+.pip-lorenz-stats hr,
+.pip-stats-panel hr {
+  border: none;
+  border-top: 1px solid var(--pip-border);
+  margin: var(--pip-space-4) 0;
+}
+
+/* Note / footnote text inside stats panels */
+.pip-analysis-stats__note {
+  font-size: var(--pip-font-size-xs);
+  color: var(--pip-text-muted);
+  margin-top: var(--pip-space-2);
+}
+
+/* Directional Gini change colours */
+.pip-stat--positive {
+  color: var(--pip-color-positive);
+  font-weight: 600;
+}
+
+.pip-stat--negative {
+  color: var(--pip-color-negative);
+  font-weight: 600;
+}
+
+/* Subnational method chart legend colours */
+.pip-stat--db  { color: var(--pip-color-positive); font-weight: 600; }
+.pip-stat--dou { color: var(--pip-color-negative); font-weight: 600; }
+
+/* Modal: country title and absolute difference value */
+.pip-modal__country-title {
+  color: var(--pip-blue-accent);
+  margin-bottom: var(--pip-space-4);
+}
+
+.pip-modal__diff-value {
+  text-align: right;
+  color: var(--pip-color-diff);
+}
+
+
+/* ============================================================================
+   15. Research Repository Container
+   Preserved from header.css — iframe fills remaining viewport height
+   ========================================================================= */
+
+.research-repo-container {
+  width: 100%;
+  height: calc(100vh - var(--pip-header-height));
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.research-repo-banner {
+  flex: 0 0 auto;
+}
+
+.research-repo-container iframe {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+
+/* ============================================================================
+   16. Responsive Breakpoints
+   ========================================================================= */
+
+/* ── Medium screens (≤ 1024px) ── */
+@media (max-width: 1024px) {
+  /* Hero: reduce padding; inner wrapper collapses to single column */
+  .pip-hero {
+    padding: var(--pip-space-7) var(--pip-space-6);
+  }
+
+  .pip-hero__inner {
+    grid-template-columns: 1fr;
+  }
+
+  .pip-hero__visual {
+    display: none; /* hide decorative element on smaller screens */
+  }
+
+  .pip-hero__content {
+    max-width: 100%;
+  }
+
+  .pip-hero__title {
+    font-size: var(--pip-font-size-2xl);
+  }
+
+  /* Large tiles: stack vertically */
+  .pip-grid-2 {
+    grid-template-columns: 1fr;
+  }
+
+  /* Deep Dives layout: collapse to single column */
+  .pip-dd-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .pip-dd-layout__controls {
+    position: static;
+  }
+
+  /* Analysis layout: collapse */
+  .pip-analysis-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Small screens (≤ 768px) ── */
+@media (max-width: 768px) {
+  /* Header */
+  .pip-header {
+    padding: 0 var(--pip-space-4);
+    height: auto;
+    min-height: var(--pip-header-height);
+    flex-wrap: wrap;
+    gap: var(--pip-space-2);
+    padding-top: var(--pip-space-3);
+    padding-bottom: var(--pip-space-3);
+  }
+
+  .pip-header-identity {
+    font-size: var(--pip-font-size-base);
+  }
+
+  .pip-header-nav {
+    gap: 0;
+    flex-wrap: wrap;
+    width: 100%;
+    order: 3;
+  }
+
+  .pip-header-nav-link,
+  a.pip-header-nav-link,
+  button.pip-header-nav-link {
+    height: auto;
+    padding: var(--pip-space-2) var(--pip-space-3);
+    font-size: var(--pip-font-size-xs);
+    border-bottom: none;
+  }
+
+  .pip-header-nav-link--active,
+  a.pip-header-nav-link--active,
+  button.pip-header-nav-link--active {
+    border-bottom: none;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* Hero */
+  .pip-hero {
+    padding: var(--pip-space-6) var(--pip-space-4);
+  }
+
+  .pip-hero__title {
+    font-size: var(--pip-font-size-xl);
+  }
+
+  /* Sections */
+  .pip-section,
+  .pip-dd-body,
+  .pip-analysis-section,
+  .pip-methods-banner {
+    padding-left: var(--pip-space-4);
+    padding-right: var(--pip-space-4);
+  }
+
+  .pip-dd-banner {
+    padding: var(--pip-space-5) var(--pip-space-4);
+  }
+
+  /* Four-column tiles: two columns then single */
+  .pip-grid-4 {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--pip-space-3);
+  }
+
+  /* Tab bar: full width */
+  .pip-tabs {
+    width: 100%;
+    justify-content: stretch;
+  }
+
+  .pip-tab,
+  button.pip-tab {
+    flex: 1;
+    justify-content: center;
+    padding: var(--pip-space-2) var(--pip-space-3);
+    font-size: var(--pip-font-size-xs);
+  }
+}
+
+/* ── Very small screens (≤ 480px) ── */
+@media (max-width: 480px) {
+  .pip-grid-4 {
+    grid-template-columns: 1fr;
+  }
+}

@@ -5,16 +5,16 @@
 #' @import shiny
 #' @noRd
 app_server <- function(input, output, session) {
-  # 1a) load each dataset
-  load("data/d_dm.rda")   # creates object d_dm
-  load("data/d_stb.rda")  # creates object d_stb
-  load("data/d_sn.rda")   # creates object d_sn
-  load("data/d_yk.rda")   # creates object d_yk
+  # 1a) load each dataset — use app_sys() so paths resolve correctly on Connect
+  load(app_sys("app/data/d_dm.rda"))   # creates object d_dm
+  load(app_sys("app/data/d_stb.rda"))  # creates object d_stb
+  load(app_sys("app/data/d_sn.rda"))   # creates object d_sn
+  load(app_sys("app/data/d_yk.rda"))   # creates object d_yk
 
-  dm_metadata  <- readxl::read_excel("data/dm_metadata.xlsx")
-  stb_metadata <- readxl::read_excel("data/stb_metadata.xlsx")
-  sn_metadata  <- readxl::read_excel("data/sn_metadata.xlsx")
-  yk_metadata  <- readxl::read_excel("data/yk_metadata.xlsx")
+  dm_metadata  <- readxl::read_excel(app_sys("app/data/dm_metadata.xlsx"))
+  stb_metadata <- readxl::read_excel(app_sys("app/data/stb_metadata.xlsx"))
+  sn_metadata  <- readxl::read_excel(app_sys("app/data/sn_metadata.xlsx"))
+  yk_metadata  <- readxl::read_excel(app_sys("app/data/yk_metadata.xlsx"))
 
   # NOTE: packages below are loaded at runtime because the golem app
   # relies on their side-effects (e.g. tidyverse attaching dplyr/ggplot2).
@@ -71,12 +71,12 @@ app_server <- function(input, output, session) {
   # Reactive to pass method override into Deep Dives module
   method_override <- reactiveVal(NULL)
 
-  # Helper to switch active nav styling
+  # Helper to switch active nav styling — uses underline class (not filled button)
   switch_nav <- function(active_tab) {
-    shinyjs::removeClass(id = "nav_home",          class = "active")
-    shinyjs::removeClass(id = "nav_deep_dives",    class = "active")
-    shinyjs::removeClass(id = "nav_research_repo", class = "active")
-    shinyjs::addClass(id = active_tab, class = "active")
+    for (tab_id in c("nav_home", "nav_deep_dives", "nav_research_repo")) {
+      shinyjs::removeClass(id = tab_id, class = "pip-header-nav-link--active")
+    }
+    shinyjs::addClass(id = active_tab, class = "pip-header-nav-link--active")
   }
 
   # Header nav: Home
@@ -106,11 +106,22 @@ app_server <- function(input, output, session) {
     yk_metadata  = yk_metadata
   )
 
-  # When a card image or banner Deep Dives link is clicked, go to Deep Dives
+  # When a tile or CTA is clicked, switch to the appropriate tab.
+  # If a method is pre-selected (small method tiles), pass it to Deep Dives.
+  # counter fires the observer; target/method are read in the same reactive flush
+  # (reactiveValues fields are updated atomically) — safe, but non-obvious.
   observeEvent(home_nav$counter(), {
-    updateTabsetPanel(session, "main_tabs", selected = "deep_dives")
-    switch_nav("nav_deep_dives")
-    if (!is.null(home_nav$method())) {
+    target <- home_nav$target()
+    if (is.null(target)) target <- "deep_dives"
+    updateTabsetPanel(session, "main_tabs", selected = target)
+    tab_id <- switch(
+      target,
+      "deep_dives"    = "nav_deep_dives",
+      "research_repo" = "nav_research_repo",
+      "nav_home"
+    )
+    switch_nav(tab_id)
+    if (target == "deep_dives" && !is.null(home_nav$method())) {
       method_override(home_nav$method())
     }
   }, ignoreInit = TRUE)
