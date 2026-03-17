@@ -39,7 +39,8 @@
   --pip-color-negative: #4EC2C0;    /* Gini decrease / DOU subnational */
   --pip-color-diff:     #d62728;    /* Absolute difference value in modal */
   --pip-blue-light:     #e8f0f8;
-  --pip-analysis-bg:    #8dafd3;    /* Additional Analysis section background */
+  --pip-blue-mid:       #8dafd3;    /* mid-blue; matches Gini sensitivity chart ramp step 2 */
+  --pip-analysis-bg:    var(--pip-blue-mid); /* Additional Analysis section background */
   --pip-white:          #ffffff;
   --pip-light-gray:     #f7f8fa;
   --pip-mid-gray:       #e4e8ed;
@@ -1036,8 +1037,10 @@ button.pip-tab:disabled {
    container. Without this rule, the grid sees 2 children (the two uiOutput
    wrappers) rather than 3, so __chart and __stats stack vertically inside
    the second wrapper. display:contents dissolves the wrapper so its children
-   participate directly in the parent grid. */
-.pip-analysis-panel--triple > div {
+   participate directly in the parent grid.
+   Note: the wrapper carries only an id attribute and no ARIA roles, so
+   dissolving it with display:contents has no accessibility impact here. */
+.pip-analysis-panel--triple > .pip-analysis-panel__col-wrapper {
   display: contents;
 }
 

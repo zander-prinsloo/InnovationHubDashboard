@@ -234,3 +234,25 @@ test_that("lorenz stats renderUI uses pip-card--elevated for visual consistency"
   # Confirm the elevated modifier occurs near the Distribution Statistics heading
   expect_true(grepl("pip-card--elevated.*Distribution Statistics|Distribution Statistics.*pip-card--elevated", body_str))
 })
+
+test_that("pip-analysis-bg is set to the named --pip-blue-mid token (#8dafd3)", {
+  css <- readLines(
+    system.file("app/www/pip-redesign.css", package = "InnovationHubDashboard")
+  )
+  expect_true(any(grepl("#8dafd3", css, fixed = TRUE)))
+  expect_true(any(grepl("pip-blue-mid", css, fixed = TRUE)))
+  expect_true(any(grepl("pip-analysis-bg.*pip-blue-mid|pip-blue-mid.*pip-analysis-bg", css)))
+})
+
+test_that("display-contents rule targets col-wrapper class not bare div", {
+  css <- readLines(
+    system.file("app/www/pip-redesign.css", package = "InnovationHubDashboard")
+  )
+  expect_true(any(grepl("pip-analysis-panel__col-wrapper", css, fixed = TRUE)))
+  expect_false(any(grepl("pip-analysis-panel--triple > div", css, fixed = TRUE)))
+})
+
+test_that("server body passes col-wrapper class to uiOutput wrappers", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-panel__col-wrapper", body_str, fixed = TRUE))
+})

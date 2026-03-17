@@ -485,8 +485,10 @@ mod_interactive_dashboard_server <- function(
           # ── Chart + controls area — CSS grid (see pip-analysis-panel) ──
           tags$div(
             class = panel_class,
-            uiOutput(ns("scatter_controls_ui")),
-            uiOutput(ns("bottom_chart_column_ui"))
+            uiOutput(ns("scatter_controls_ui"),
+                     class = "pip-analysis-panel__col-wrapper"),
+            uiOutput(ns("bottom_chart_column_ui"),
+                     class = "pip-analysis-panel__col-wrapper")
           )
         )
       )
