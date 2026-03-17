@@ -116,3 +116,8 @@ test_that("server body calls mtg_read_cumulative when country changes", {
   body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
   expect_true(grepl("mtg_read_cumulative", body_str, fixed = TRUE))
 })
+
+test_that("method_panel renderUI still references desc_text (description paragraph retained)", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("desc_text", body_str, fixed = TRUE))
+})

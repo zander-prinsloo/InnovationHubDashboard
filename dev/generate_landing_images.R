@@ -293,7 +293,7 @@ source("R/fct_plot_interactive_dashboard.R")
 
 
 # =============================================================================
-# Generate and save all three images
+# Generate and save all four images
 # =============================================================================
 output_dir <- "inst/app/www"
 
@@ -329,7 +329,6 @@ ggsave(
 #    HFCE, 2021 PPP, all years, no country highlighted
 # =============================================================================
 
-#' @noRd
 gg_yk_gini_sensitivity <- function(data) {
   # -- Prepare data -----------------------------------------------------------
   # Use HFCE-adjusted Gini with 2021 PPP; retain all survey years.

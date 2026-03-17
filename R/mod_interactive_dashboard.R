@@ -335,7 +335,6 @@ mod_interactive_dashboard_server <- function(
 
     # ─── 5) Left-hand panel: metadata description ─────────────────────────────────────
     output$method_panel <- renderUI({
-      econ <- selected_economy()
       meth <- selected_method()
       desc_text <- if (meth == "Welfare conversion") {
         dm_metadata$description
@@ -346,11 +345,7 @@ mod_interactive_dashboard_server <- function(
       } else {
         yk_metadata$description
       }
-      tagList(
-        p(strong("Method:"),   meth),
-        p(strong("Economy:"),  econ),
-        p(desc_text)
-      )
+      p(desc_text)
     })
 
     # ─── 6) Bottom section: dark-blue charts ────────────────────────────────────────
