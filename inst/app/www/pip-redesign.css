@@ -15,7 +15,7 @@
     9b. Featured Methods Banner
     10.  Card system
     11.  Deep Dives two-column layout
-    12.  Tab bar (Additional Analysis)
+    12.  Additional Analysis section (tab bar + panel grid)
     13.  Button system
     14.  Form control overrides
     15.  Research Repository container
@@ -39,6 +39,7 @@
   --pip-color-negative: #4EC2C0;    /* Gini decrease / DOU subnational */
   --pip-color-diff:     #d62728;    /* Absolute difference value in modal */
   --pip-blue-light:     #e8f0f8;
+  --pip-analysis-bg:    #eaeff6;    /* Additional Analysis section background */
   --pip-white:          #ffffff;
   --pip-light-gray:     #f7f8fa;
   --pip-mid-gray:       #e4e8ed;
@@ -809,6 +810,12 @@ button.pip-header-nav-link--active {
   overflow: hidden;
 }
 
+/* Elevated variant — stronger shadow + border for analysis section cards */
+.pip-card--elevated {
+  border: 1.5px solid var(--pip-border);
+  box-shadow: var(--pip-shadow-md);
+}
+
 .pip-card__heading {
   font-size: var(--pip-font-size-lg);
   font-weight: 700;
@@ -927,9 +934,9 @@ button.pip-header-nav-link--active {
    ========================================================================= */
 
 .pip-analysis-section {
-  padding: var(--pip-space-7) var(--pip-space-8) var(--pip-space-8);
-  background-color: var(--pip-light-gray);
-  border-top: 1px solid var(--pip-border);
+  padding: var(--pip-space-8) var(--pip-space-8) var(--pip-space-8);
+  background-color: var(--pip-analysis-bg);
+  border-top: 2px solid var(--pip-border);
   box-sizing: border-box;
 }
 
@@ -942,18 +949,27 @@ button.pip-header-nav-link--active {
   font-size: var(--pip-font-size-xl);
   font-weight: 700;
   color: var(--pip-navy);
+  margin: 0 0 var(--pip-space-3) 0;
+}
+
+.pip-analysis-section__intro {
+  font-size: var(--pip-font-size-base);
+  color: var(--pip-text-secondary);
+  line-height: 1.6;
   margin: 0 0 var(--pip-space-5) 0;
+  max-width: 640px;
 }
 
 /* Tab bar container */
 .pip-tabs {
   display: inline-flex;
   background-color: var(--pip-white);
-  border: 1px solid var(--pip-border);
-  border-radius: var(--pip-radius-md);
-  padding: 3px;
-  gap: 2px;
+  border: 1.5px solid var(--pip-border);
+  border-radius: var(--pip-radius-lg);
+  padding: 4px 6px;
+  gap: 3px;
   margin-bottom: var(--pip-space-6);
+  box-shadow: var(--pip-shadow-sm);
 }
 
 /* Individual tab button */
@@ -961,10 +977,10 @@ button.pip-header-nav-link--active {
 button.pip-tab {
   display: inline-flex;
   align-items: center;
-  padding: var(--pip-space-2) var(--pip-space-5);
+  padding: 10px var(--pip-space-5);
   background: transparent;
   border: none;
-  border-radius: var(--pip-radius-sm);
+  border-radius: var(--pip-radius-md);
   color: var(--pip-text-secondary);
   font-size: var(--pip-font-size-sm);
   font-weight: 500;
@@ -988,6 +1004,7 @@ button.pip-tab--active {
   background-color: var(--pip-navy) !important;
   color: var(--pip-text-on-dark) !important;
   font-weight: 600;
+  box-shadow: var(--pip-shadow-sm);
 }
 
 .pip-tab--active:hover,
@@ -1002,7 +1019,42 @@ button.pip-tab:disabled {
   cursor: not-allowed;
 }
 
-/* Analysis content panel layout — mirrors pip-dd-layout */
+/* Analysis content panel — CSS grid replacing Bootstrap fluidRow/column */
+.pip-analysis-panel {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: var(--pip-space-6);
+  align-items: start;
+}
+
+/* Three-column variant: controls + chart + stats */
+.pip-analysis-panel--triple {
+  grid-template-columns: 300px 1fr 280px;
+}
+
+/* Full-width variant: no controls column (e.g. Changes tab without SN) */
+.pip-analysis-panel--full {
+  display: block;
+}
+
+/* Semantic grid children — ensure content doesn't overflow the column */
+.pip-analysis-panel__controls,
+.pip-analysis-panel__chart,
+.pip-analysis-panel__stats {
+  min-width: 0;
+}
+
+/* Chart card: extra padding to frame the plot as a featured object */
+.pip-analysis-panel__chart .pip-card {
+  padding: var(--pip-space-6);
+}
+
+.pip-analysis-panel__chart .pip-card .plotly,
+.pip-analysis-panel__chart .pip-card .shiny-plot-output {
+  margin-top: var(--pip-space-3);
+}
+
+/* Deprecated alias — kept so any residual references don't break */
 .pip-analysis-layout {
   display: grid;
   grid-template-columns: 300px 1fr;
@@ -1334,6 +1386,11 @@ a.pip-btn {
 
   /* Analysis layout: collapse */
   .pip-analysis-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .pip-analysis-panel,
+  .pip-analysis-panel--triple {
     grid-template-columns: 1fr;
   }
 }

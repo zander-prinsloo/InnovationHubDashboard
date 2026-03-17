@@ -32,6 +32,12 @@ test_that("mod_home_ui contains CSS-only visual motif container", {
   expect_true(grepl("pip-hero__visual", ui_str, fixed = TRUE))
 })
 
+test_that("mod_home_ui contains pip-hero__inner centred wrapper", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("pip-hero__inner", ui_str, fixed = TRUE))
+})
+
 test_that("mod_home_ui contains section heading 'Explore the PIP Innovation Hub'", {
   ui     <- mod_home_ui(id = "test")
   ui_str <- as.character(ui)
@@ -57,6 +63,18 @@ test_that("mod_home_ui large tiles have correct titles", {
   ui_str <- as.character(ui)
   expect_true(grepl("Deep Dives",           ui_str, fixed = TRUE))
   expect_true(grepl("Research Repository",  ui_str, fixed = TRUE))
+})
+
+test_that("mod_home_ui contains pip-methods-banner for Featured Methods section", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("pip-methods-banner", ui_str, fixed = TRUE))
+})
+
+test_that("mod_home_ui contains 'Featured Methods' heading", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("Featured Methods", ui_str, fixed = TRUE))
 })
 
 test_that("mod_home_ui contains pip-grid-4 for method tiles", {
@@ -142,8 +160,20 @@ test_that("build_card helper produces pip-tile-small markup", {
   expect_true(grepl("pip-tile-small__image",   body_str, fixed = TRUE))
   expect_true(grepl("pip-tile-small__content", body_str, fixed = TRUE))
   expect_true(grepl("pip-tile-small__title",   body_str, fixed = TRUE))
-  expect_true(grepl("pip-tile-small__summary", body_str, fixed = TRUE))
   expect_true(grepl("pip-tile-small__cta",     body_str, fixed = TRUE))
+  # Summary element was removed — heading is now the primary text element
+  expect_false(grepl("pip-tile-small__summary", body_str, fixed = TRUE))
+})
+
+test_that("build_card includes pip-tile-small__paper-link for Read paper", {
+  body_str <- paste(deparse(body(mod_home_server)), collapse = "\n")
+  expect_true(grepl("pip-tile-small__paper-link", body_str, fixed = TRUE))
+  expect_true(grepl('"Read paper"', body_str, fixed = TRUE))
+})
+
+test_that("build_card Read paper link stops tile onclick propagation", {
+  body_str <- paste(deparse(body(mod_home_server)), collapse = "\n")
+  expect_true(grepl("event.stopPropagation()", body_str, fixed = TRUE))
 })
 
 # P2-14: Edge case — build_card gracefully handles paper_url = NA

@@ -9,8 +9,10 @@ SN_REPORTING_LEVELS <- c("National" = "national", "Urban" = "urban", "Rural" = "
 #'     \item A dark-navy introductory banner with page title and brief description.
 #'     \item A two-column content area: a styled controls card on the left and
 #'           a chart card on the right.
-#'     \item A lower \dQuote{Additional Analysis} section with a clean tab bar
-#'           and consistent card-based panels.
+#'     \item A lower \dQuote{Additional Analysis} section: distinct blue-gray
+#'           background band, introductory text, enhanced tab bar, and a
+#'           CSS grid panel (\code{pip-analysis-panel}) supporting 2-column
+#'           (controls + chart) and 3-column (controls + chart + stats) layouts.
 #'   }
 #'
 #' @param id Module ID.
@@ -415,6 +417,18 @@ mod_interactive_dashboard_server <- function(
       is_changes  <- current_tab() %in% c("changes", "lorenz")
       is_scatter  <- current_tab() == "scatter"
 
+      # Determine grid variant:
+      #   lorenz  → 3-column (controls + chart + stats)
+      #   changes with no SN controls → full-width (single column)
+      #   everything else → default 2-column (controls + chart)
+      panel_class <- if (current_tab() == "lorenz") {
+        "pip-analysis-panel pip-analysis-panel--triple"
+      } else if (current_tab() == "changes" && !is_sn()) {
+        "pip-analysis-panel pip-analysis-panel--full"
+      } else {
+        "pip-analysis-panel"
+      }
+
       tags$section(
         class = "pip-analysis-section",
         tags$div(
@@ -424,6 +438,13 @@ mod_interactive_dashboard_server <- function(
           tags$h2(
             class = "pip-analysis-section__heading",
             "Additional Analysis"
+          ),
+
+          # Introductory sentence — gives the section editorial context
+          tags$p(
+            class = "pip-analysis-section__intro",
+            "Use these views to compare patterns across economies and ",
+            "understand how alternative estimates differ from standard PIP results."
           ),
 
           # ── Tab bar ───────────────────────────────────────────────────
@@ -461,8 +482,9 @@ mod_interactive_dashboard_server <- function(
             )
           ),
 
-          # ── Chart + controls area ─────────────────────────────────────
-          fluidRow(
+          # ── Chart + controls area — CSS grid (see pip-analysis-panel) ──
+          tags$div(
+            class = panel_class,
             uiOutput(ns("scatter_controls_ui")),
             uiOutput(ns("bottom_chart_column_ui"))
           )
@@ -492,10 +514,10 @@ mod_interactive_dashboard_server <- function(
     output$scatter_controls_ui <- renderUI({
       # Lorenz tab: controls on the LEFT (country + gap share slider)
       if (current_tab() == "lorenz" && is_mtg()) {
-        return(column(
-          width = 3,
+        return(tags$div(
+          class = "pip-analysis-panel__controls",
           tags$div(
-            class = "pip-card",
+            class = "pip-card pip-card--elevated",
             tags$h5(class = "pip-card__subheading", "Lorenz Curve Controls"),
             selectInput(
               inputId  = ns("lorenz_country"),
@@ -520,10 +542,10 @@ mod_interactive_dashboard_server <- function(
 
         # MTG method: Gini-specific controls only
         if (is_mtg()) {
-          return(column(
-            width = 3,
+          return(tags$div(
+            class = "pip-analysis-panel__controls",
             tags$div(
-              class = "pip-card",
+              class = "pip-card pip-card--elevated",
               tags$h5(class = "pip-card__subheading", "Gini Chart Controls"),
               checkboxInput(
                 inputId = ns("mtg_gini_latest"),
@@ -535,10 +557,10 @@ mod_interactive_dashboard_server <- function(
         }
 
         # Standard controls for all other methods
-        column(
-          width = 3,
+        tags$div(
+          class = "pip-analysis-panel__controls",
           tags$div(
-            class = "pip-card",
+            class = "pip-card pip-card--elevated",
             tags$h5(class = "pip-card__subheading", "Plot Controls"),
 
             # Log scale toggle (scatter only)
@@ -575,10 +597,10 @@ mod_interactive_dashboard_server <- function(
 
       } else if (is_sn()) {
         # SN Changes tab: reporting level filter
-        column(
-          width = 3,
+        tags$div(
+          class = "pip-analysis-panel__controls",
           tags$div(
-            class = "pip-card",
+            class = "pip-card pip-card--elevated",
             tags$h5(class = "pip-card__subheading", "Plot Controls"),
             selectInput(
               inputId  = ns("sn_reporting_level"),
@@ -593,43 +615,46 @@ mod_interactive_dashboard_server <- function(
       }
     })
     
-    # Dynamic UI for bottom chart column width
+    # Dynamic UI for bottom chart column
     output$bottom_chart_column_ui <- renderUI({
-      # Lorenz tab: controls(3) + chart(6) + stats(3)
+      # Lorenz tab (3-col): chart in __chart, stats in __stats
       if (current_tab() == "lorenz" && is_mtg()) {
         return(tagList(
-          column(
-            width = 6,
-            plotly::plotlyOutput(
-              outputId = ns("bottom_chart_plotly"),
-              height   = "500px"
+          tags$div(
+            class = "pip-analysis-panel__chart",
+            tags$div(
+              class = "pip-card pip-card--elevated",
+              plotly::plotlyOutput(
+                outputId = ns("bottom_chart_plotly"),
+                height   = "500px"
+              )
             )
           ),
-          column(
-            width = 3,
+          tags$div(
+            class = "pip-analysis-panel__stats",
             uiOutput(ns("lorenz_stats_ui"))
           )
         ))
       }
 
-      has_controls <- current_tab() %in% c("scatter", "rankings") ||
-                      (current_tab() == "changes" && is_sn())
-      chart_width <- if (has_controls) 9 else 12
-      
-      column(
-        width = chart_width,
-        if (current_tab() %in% c("scatter", "rankings")) {
-          plotly::plotlyOutput(
-            outputId = ns("bottom_chart_plotly"),
-            height   = "500px"
-          )
-        } else {
-          plotOutput(
-            outputId = ns("bottom_chart"),
-            height   = "500px",
-            click    = ns("bottom_chart_click")
-          )
-        }
+      # All other tabs: single __chart column wrapping an elevated card
+      tags$div(
+        class = "pip-analysis-panel__chart",
+        tags$div(
+          class = "pip-card pip-card--elevated",
+          if (current_tab() %in% c("scatter", "rankings")) {
+            plotly::plotlyOutput(
+              outputId = ns("bottom_chart_plotly"),
+              height   = "500px"
+            )
+          } else {
+            plotOutput(
+              outputId = ns("bottom_chart"),
+              height   = "500px",
+              click    = ns("bottom_chart_click")
+            )
+          }
+        )
       )
     })
     

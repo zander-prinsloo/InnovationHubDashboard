@@ -192,3 +192,38 @@ test_that("server body uses pip-card class for analysis controls panels", {
   body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
   expect_true(grepl("pip-card", body_str, fixed = TRUE))
 })
+
+test_that("server body renders pip-analysis-panel CSS grid wrapper", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-panel", body_str, fixed = TRUE))
+})
+
+test_that("server body renders pip-analysis-panel--triple for Lorenz 3-col layout", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-panel--triple", body_str, fixed = TRUE))
+})
+
+test_that("server body renders pip-analysis-section__intro explanatory text", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-section__intro", body_str, fixed = TRUE))
+})
+
+test_that("server body renders pip-card--elevated for elevated analysis cards", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-card--elevated", body_str, fixed = TRUE))
+})
+
+test_that("server body uses pip-analysis-panel__controls for controls column", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-panel__controls", body_str, fixed = TRUE))
+})
+
+test_that("server body uses pip-analysis-panel__chart for chart column", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-panel__chart", body_str, fixed = TRUE))
+})
+
+test_that("server body uses pip-analysis-panel__stats for Lorenz stats column", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-analysis-panel__stats", body_str, fixed = TRUE))
+})
