@@ -39,7 +39,7 @@
   --pip-color-negative: #4EC2C0;    /* Gini decrease / DOU subnational */
   --pip-color-diff:     #d62728;    /* Absolute difference value in modal */
   --pip-blue-light:     #e8f0f8;
-  --pip-analysis-bg:    #eaeff6;    /* Additional Analysis section background */
+  --pip-analysis-bg:    #8dafd3;    /* Additional Analysis section background */
   --pip-white:          #ffffff;
   --pip-light-gray:     #f7f8fa;
   --pip-mid-gray:       #e4e8ed;
@@ -1029,7 +1029,16 @@ button.pip-tab:disabled {
 
 /* Three-column variant: controls + chart + stats */
 .pip-analysis-panel--triple {
-  grid-template-columns: 300px 1fr 280px;
+  grid-template-columns: 300px 1fr 220px;
+}
+
+/* Shiny's uiOutput() wraps rendered content in a bare <div id="ns-outputId">
+   container. Without this rule, the grid sees 2 children (the two uiOutput
+   wrappers) rather than 3, so __chart and __stats stack vertically inside
+   the second wrapper. display:contents dissolves the wrapper so its children
+   participate directly in the parent grid. */
+.pip-analysis-panel--triple > div {
+  display: contents;
 }
 
 /* Full-width variant: no controls column (e.g. Changes tab without SN) */
