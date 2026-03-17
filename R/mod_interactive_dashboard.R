@@ -186,19 +186,9 @@ mod_interactive_dashboard_server <- function(
     output$mtg_controls <- renderUI({
       req(input$select_method)
       if (input$select_method != "NA\u2013Survey gap adjustment") return(NULL)
+      # NA type is hardcoded to HFCE; PPP vintage is hardcoded to 2021.
+      # Only the all-years toggle is exposed to the user.
       tagList(
-        selectInput(
-          inputId  = ns("mtg_na_type"),
-          label    = "National accounts aggregate:",
-          choices  = c("HFCE" = "hfce", "GDP" = "gdp"),
-          selected = "hfce"
-        ),
-        selectInput(
-          inputId  = ns("mtg_ppp"),
-          label    = "PPP vintage:",
-          choices  = c("2021 PPP" = "2021", "2017 PPP" = "2017"),
-          selected = "2021"
-        ),
         checkboxInput(
           inputId = ns("mtg_all_years"),
           label   = "Show all survey years (not only latest)",
@@ -207,13 +197,11 @@ mod_interactive_dashboard_server <- function(
       )
     })
 
-    # Keep MTG sidebar toggle reactives in sync with UI inputs
-    observeEvent(input$mtg_na_type,   mtg_na_type(input$mtg_na_type))
-    observeEvent(input$mtg_ppp,       mtg_ppp(input$mtg_ppp))
+    # Keep MTG sidebar toggle reactives in sync with UI inputs.
+    # mtg_na_type and mtg_ppp are hardcoded — no UI inputs to sync.
     observeEvent(input$mtg_all_years, mtg_all_years(input$mtg_all_years))
 
     # Keep MTG Gini chart controls in sync with UI inputs
-    observeEvent(input$mtg_gini_na_type, mtg_gini_na_type(input$mtg_gini_na_type))
     observeEvent(input$mtg_gini_latest,  mtg_gini_latest(input$mtg_gini_latest))
 
     # ─── Lorenz comparison: file lookup and reactive values ──────────────────────
@@ -470,29 +458,22 @@ mod_interactive_dashboard_server <- function(
       if (current_tab() %in% c("scatter", "rankings")) {
 
         # MTG method gets its own Gini-specific controls — no statistics,
-        # no poverty line, no log scale.
-        if (is_mtg()) {
-          return(column(
-            width = 3,
-            tags$div(
-              style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
-              h5("Gini Chart Controls", style = "color: white; margin-bottom: 15px;"),
-              checkboxInput(
-                inputId = ns("mtg_gini_latest"),
-                label   = "Show latest year only",
-                value   = FALSE
-              ),
-              selectInput(
-                inputId  = ns("mtg_gini_na_type"),
-                label    = "National accounts aggregate:",
-                choices  = c("HFCE" = "hfce", "GDP" = "gdp"),
-                selected = "hfce"
+          # no poverty line, no log scale.
+          # NA type is hardcoded to HFCE; only the latest-year toggle is shown.
+          if (is_mtg()) {
+            return(column(
+              width = 3,
+              tags$div(
+                style = "background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 4px;",
+                h5("Gini Chart Controls", style = "color: white; margin-bottom: 15px;"),
+                checkboxInput(
+                  inputId = ns("mtg_gini_latest"),
+                  label   = "Show latest year only",
+                  value   = FALSE
+                )
               )
-            )
-          ))
-        }
-
-        # Standard controls for all other methods
+            ))
+          }        # Standard controls for all other methods
         column(
           width = 3,
           tags$div(

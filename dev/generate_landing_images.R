@@ -2,7 +2,13 @@
 # Generate static landing page images
 # =============================================================================
 # Run this script manually from the project root whenever underlying data
-# changes. It creates three PNG files in inst/app/www/ used by the Home page.
+# changes. It creates four PNG files in inst/app/www/ used by the Home page.
+#
+# Images produced:
+#   landing_dm.png   — DM: Welfare conversion (Argentina, single-country)
+#   landing_stb.png  — STB: Household allocation (changes / dumbbell)
+#   landing_sn.png   — SN: Subnational definition (range bars, Niger)
+#   landing_yk.png   — YK: NA–Survey gap adjustment (Gini sensitivity)
 #
 # Usage:
 #   source("dev/generate_landing_images.R")
@@ -22,6 +28,7 @@ library(forcats)
 load("data/d_dm.rda")
 load("data/d_stb.rda")
 load("data/d_sn.rda")
+load("data/d_yk.rda")
 
 # Preprocess SN data (mirrors app_server.R)
 country_lookup <- data.frame(
@@ -315,6 +322,100 @@ p_sn <- gg_sn_range_bars(data_sn, "NER", "Niger", "$2.15")
 ggsave(
   file.path(output_dir, "landing_sn.png"),
   plot = p_sn, width = 8, height = 5, dpi = 150, bg = "white"
+)
+
+# =============================================================================
+# 4) YK: ggplot version of Gini sensitivity (cross-country) chart
+#    HFCE, 2021 PPP, all years, no country highlighted
+# =============================================================================
+
+#' @noRd
+gg_yk_gini_sensitivity <- function(data) {
+  # -- Prepare data -----------------------------------------------------------
+  # Use HFCE-adjusted Gini with 2021 PPP; retain all survey years.
+  # Drop rows where either Gini column is NA.
+  dt <- data.table::as.data.table(data)
+  dt <- dt[
+    !is.na(gini_survey_2021) & !is.na(gini_hfce_adj_2021)
+  ]
+
+  # Dynamic share levels and sequential blue palette (light → dark)
+  share_levels <- sort(unique(dt$share))
+  n_shares     <- length(share_levels)
+  share_palette <- grDevices::colorRampPalette(c("#c6dbef", "#084594"))(n_shares)
+  names(share_palette) <- as.character(share_levels)
+
+  # Convert share to factor for discrete colour scale
+  dt[, share_fct := factor(share, levels = share_levels)]
+
+  # Compute axis limits: symmetric, rounded to nearest 0.05
+  all_vals  <- c(dt$gini_survey_2021, dt$gini_hfce_adj_2021)
+  ax_min    <- max(0,   floor(min(all_vals, na.rm = TRUE)  / 0.05) * 0.05 - 0.02)
+  ax_max    <- min(1, ceiling(max(all_vals, na.rm = TRUE)  / 0.05) * 0.05 + 0.02)
+
+  # -- Build plot -------------------------------------------------------------
+  ggplot(
+    data = as.data.frame(dt),
+    aes(
+      x     = gini_survey_2021,
+      y     = gini_hfce_adj_2021,
+      color = share_fct
+    )
+  ) +
+    # 45-degree reference line (no change)
+    geom_abline(
+      slope     = 1,
+      intercept = 0,
+      color     = "grey60",
+      linetype  = "dashed",
+      linewidth = 0.8
+    ) +
+    # Scatter points
+    geom_point(
+      alpha = 0.55,
+      size  = 2.2
+    ) +
+    # Colour scale matching plotly version
+    scale_color_manual(
+      values = share_palette,
+      name   = "Share of gap\nto top tail"
+    ) +
+    # Force equal axes
+    coord_fixed(
+      ratio = 1,
+      xlim  = c(ax_min, ax_max),
+      ylim  = c(ax_min, ax_max)
+    ) +
+    scale_x_continuous(labels = scales::label_number(accuracy = 0.01)) +
+    scale_y_continuous(labels = scales::label_number(accuracy = 0.01)) +
+    labs(
+      title    = "Sensitivity of Gini to gap-allocation scenario",
+      subtitle = "HFCE aggregate, 2021 PPP — all survey years",
+      x        = "Gini coefficient (survey)",
+      y        = "Gini coefficient (HFCE-adjusted)",
+      caption  = "Points above the diagonal: adjustment raises inequality."
+    ) +
+    theme_minimal(base_size = 13) +
+    theme(
+      plot.title       = element_text(face = "bold", size = 14),
+      plot.subtitle    = element_text(size = 11, color = "grey40"),
+      plot.caption     = element_text(size = 9, color = "grey50"),
+      legend.position  = "right",
+      legend.title     = element_text(size = 10, face = "bold"),
+      panel.grid.minor = element_blank(),
+      plot.background  = element_rect(fill = "white", color = NA),
+      panel.background = element_rect(fill = "white", color = NA)
+    )
+}
+
+p_yk <- gg_yk_gini_sensitivity(d_yk)
+ggsave(
+  file.path(output_dir, "landing_yk.png"),
+  plot   = p_yk,
+  width  = 8,
+  height = 6,
+  dpi    = 150,
+  bg     = "white"
 )
 
 message("Landing page images saved to: ", output_dir)

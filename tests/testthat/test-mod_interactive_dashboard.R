@@ -74,6 +74,34 @@ test_that("server body routes btn_changes to 'lorenz' tab for MTG", {
   expect_true(grepl('current_tab.*"lorenz"', body_str))
 })
 
+# ── Hardcoded HFCE / 2021 PPP \u2014 removed input controls ─────────────────────
+
+test_that("server body does NOT contain input$mtg_na_type (control was removed)", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_false(grepl("input$mtg_na_type", body_str, fixed = TRUE))
+})
+
+test_that("server body does NOT contain input$mtg_ppp (control was removed)", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_false(grepl("input$mtg_ppp", body_str, fixed = TRUE))
+})
+
+test_that("server body does NOT contain input$mtg_gini_na_type (control was removed)", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_false(grepl("input$mtg_gini_na_type", body_str, fixed = TRUE))
+})
+
+test_that("mtg_na_type reactiveVal is hardcoded to 'hfce'", {
+  # The reactiveVal initialisation must use the string "hfce" (not a variable)
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl('mtg_na_type.*reactiveVal.*"hfce"', body_str))
+})
+
+test_that("mtg_ppp reactiveVal is hardcoded to '2021'", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl('mtg_ppp.*reactiveVal.*"2021"', body_str))
+})
+
 test_that("server body renders lorenz_stats_ui output", {
   body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
   expect_true(grepl("lorenz_stats_ui", body_str, fixed = TRUE))
