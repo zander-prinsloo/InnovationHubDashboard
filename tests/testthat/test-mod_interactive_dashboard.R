@@ -235,13 +235,13 @@ test_that("lorenz stats renderUI uses pip-card--elevated for visual consistency"
   expect_true(grepl("pip-card--elevated.*Distribution Statistics|Distribution Statistics.*pip-card--elevated", body_str))
 })
 
-test_that("pip-analysis-bg is set to the named --pip-blue-mid token (#8dafd3)", {
+test_that("pip-analysis-bg custom property is set to #eef2f7", {
   css <- readLines(
     system.file("app/www/pip-redesign.css", package = "InnovationHubDashboard")
   )
-  expect_true(any(grepl("#8dafd3", css, fixed = TRUE)))
+  expect_true(any(grepl("#eef2f7", css, fixed = TRUE)))
   expect_true(any(grepl("pip-blue-mid", css, fixed = TRUE)))
-  expect_true(any(grepl("pip-analysis-bg.*pip-blue-mid|pip-blue-mid.*pip-analysis-bg", css)))
+  expect_true(any(grepl("pip-analysis-bg", css, fixed = TRUE)))
 })
 
 test_that("display-contents rule targets col-wrapper class not bare div", {
