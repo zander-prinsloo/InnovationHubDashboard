@@ -734,7 +734,7 @@ mod_interactive_dashboard_server <- function(
       meta  <- lorenz_meta()
 
       tags$div(
-        class = "pip-card",
+        class = "pip-card pip-card--elevated",
         tags$h5(class = "pip-card__subheading", "Distribution Statistics"),
         tags$div(
           class = "pip-lorenz-stats",

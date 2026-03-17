@@ -930,7 +930,7 @@ button.pip-header-nav-link--active {
 
 
 /* ============================================================================
-   12. Tab Bar — Additional Analysis
+   12. Additional Analysis Section — tab bar + pip-analysis-panel grid
    ========================================================================= */
 
 .pip-analysis-section {
@@ -1054,7 +1054,9 @@ button.pip-tab:disabled {
   margin-top: var(--pip-space-3);
 }
 
-/* Deprecated alias — kept so any residual references don't break */
+/* Deprecated layout alias — kept as scope anchor for form-control overrides
+   (checkbox + slider rules below). Extend those selectors to
+   .pip-analysis-panel__controls in a future pass, then remove this alias. */
 .pip-analysis-layout {
   display: grid;
   grid-template-columns: 300px 1fr;
@@ -1216,13 +1218,15 @@ a.pip-btn {
 
 /* Checkbox */
 .pip-card .checkbox,
-.pip-analysis-layout .checkbox {
+.pip-analysis-layout .checkbox,
+.pip-analysis-panel__controls .checkbox {
   margin-top: 0;
   margin-bottom: var(--pip-space-3);
 }
 
 .pip-card .checkbox label,
-.pip-analysis-layout .checkbox label {
+.pip-analysis-layout .checkbox label,
+.pip-analysis-panel__controls .checkbox label {
   font-size: var(--pip-font-size-sm);
   color: var(--pip-text-secondary);
 }
@@ -1248,7 +1252,11 @@ a.pip-btn {
 .pip-analysis-layout .irs--shiny .irs-bar,
 .pip-analysis-layout .irs--shiny .irs-from,
 .pip-analysis-layout .irs--shiny .irs-to,
-.pip-analysis-layout .irs--shiny .irs-single {
+.pip-analysis-layout .irs--shiny .irs-single,
+.pip-analysis-panel__controls .irs--shiny .irs-bar,
+.pip-analysis-panel__controls .irs--shiny .irs-from,
+.pip-analysis-panel__controls .irs--shiny .irs-to,
+.pip-analysis-panel__controls .irs--shiny .irs-single {
   background: var(--pip-blue-accent);
   border-color: var(--pip-blue-accent);
 }

@@ -227,3 +227,10 @@ test_that("server body uses pip-analysis-panel__stats for Lorenz stats column", 
   body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
   expect_true(grepl("pip-analysis-panel__stats", body_str, fixed = TRUE))
 })
+
+test_that("lorenz stats renderUI uses pip-card--elevated for visual consistency", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+  expect_true(grepl("pip-card--elevated", body_str, fixed = TRUE))
+  # Confirm the elevated modifier occurs near the Distribution Statistics heading
+  expect_true(grepl("pip-card--elevated.*Distribution Statistics|Distribution Statistics.*pip-card--elevated", body_str))
+})
