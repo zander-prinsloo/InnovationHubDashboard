@@ -98,7 +98,19 @@ app_ui <- function(request) {
         tags$div(
           class = "research-repo-container",
           # Placeholder div — add banner content here in a future iteration
-          tags$div(class = "research-repo-banner"),
+          tags$div(
+            class = "pip-dd-banner",
+            tags$div(
+              class = "pip-dd-banner__inner",
+              tags$h1(class = "pip-dd-banner__title", "Research Repository"),
+              tags$p(
+                class = "pip-dd-banner__text",
+                "Convenient search through all World Bank Policy Research ",
+                "Working Papers.", 
+                "Updated as of 20 March 2026."
+              )
+            )
+          ),
           tags$iframe(
             src   = "research_repo/ids-doc.html",
             width = "100%",

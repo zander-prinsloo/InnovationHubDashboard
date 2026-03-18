@@ -439,6 +439,43 @@ button.pip-header-nav-link--active {
    5. Deep Dives Banner (shorter variant)
    ========================================================================= */
 
+/* Hero subtitle (below main title, above description) */
+.pip-hero__subtitle {
+  font-size: var(--pip-font-size-lg);
+  color: var(--pip-text-on-dark-secondary);
+  line-height: 1.5;
+  margin: 0 0 var(--pip-space-4) 0;
+  max-width: 560px;
+  font-weight: 400;
+}
+
+/* Methods banner subheading */
+.pip-methods-banner__subheading {
+  font-size: var(--pip-font-size-base);
+  color: var(--pip-text-on-dark-secondary);
+  line-height: 1.6;
+  margin: 0 0 var(--pip-space-6) 0;
+  max-width: 680px;
+}
+
+/* Deep Dives body heading and subheading (above country-specific chart) */
+.pip-dd-body__heading {
+  font-size: var(--pip-font-size-xl);
+  font-weight: 700;
+  color: var(--pip-text);
+  font-family: var(--pip-font);
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto var(--pip-space-2);
+}
+
+.pip-dd-body__subheading {
+  font-size: var(--pip-font-size-base);
+  color: var(--pip-text-secondary);
+  line-height: 1.6;
+  max-width: var(--pip-content-max-width);
+  margin: 0 auto var(--pip-space-5);
+}
+
 .pip-dd-banner {
   width: 100%;
   background-color: var(--pip-navy);

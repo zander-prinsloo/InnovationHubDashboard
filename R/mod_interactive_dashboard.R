@@ -30,8 +30,9 @@ mod_interactive_dashboard_ui <- function(id) {
         tags$h1(class = "pip-dd-banner__title", "Deep Dives"),
         tags$p(
           class = "pip-dd-banner__text",
-          "Select a peer-reviewed method and investigate poverty and ",
-          "inequality estimates."
+          "Select one of the four methods from a peer-reviewed paper. ",
+          "Visualize the estimates, read about the approaches, and ",
+          "download the data below. Methods will be added over time."
         )
       )
     ),
@@ -39,6 +40,15 @@ mod_interactive_dashboard_ui <- function(id) {
     # ── 2. Two-column layout: controls left, chart right ─────────────────
     tags$div(
       class = "pip-dd-body",
+
+      tags$h2(
+        class = "pip-dd-body__heading",
+        "Economy-specific comparison"
+      ),
+      tags$p(
+        class = "pip-dd-body__subheading",
+        "Select a method and an economy and see how the estimates differ."
+      ),
 
       tags$div(
         class = "pip-dd-layout",
@@ -56,10 +66,10 @@ mod_interactive_dashboard_ui <- function(id) {
               inputId = ns("select_method"),
               label   = "Method",
               choices = c(
-                "Welfare conversion",
-                "Household allocation",
-                "Subnational definition",
-                "NA\u2013Survey gap adjustment"
+                "Convert income to consumption"              = "Welfare conversion",
+                "Account for intra-household inequality"     = "Household allocation",
+                "Use consistent urban-rural definitions"     = "Subnational definition",
+                "Scale survey mean to national accounts"     = "NA\u2013Survey gap adjustment"
               ),
               selected = "Welfare conversion"
             ),
@@ -437,7 +447,7 @@ mod_interactive_dashboard_server <- function(
           # Section heading
           tags$h2(
             class = "pip-analysis-section__heading",
-            "Additional Analysis"
+            "Cross-economy comparisons"
           ),
 
           # Introductory sentence — gives the section editorial context

@@ -36,10 +36,15 @@ mod_home_ui <- function(id) {
             "PIP Innovation Hub"
           ),
           tags$p(
+            class = "pip-hero__subtitle",
+            "The home for novel work on poverty and inequality measurement"
+          ),
+          tags$p(
             class = "pip-hero__text",
-            "Explore experimental poverty estimates based on alternative ",
-            "peer-reviewed methodologies. Compare them with standard PIP ",
-            "estimates across countries and poverty lines."
+            "Compare the World Bank\u2019s official poverty estimates to those ",
+            "produced using alternative methodologies from peer-reviewed ",
+            "papers, or access hundreds of World Bank Policy Research ",
+            "Working Papers in the research repository."
           ),
           tags$div(
             class = "pip-hero__actions",
@@ -124,8 +129,8 @@ mod_home_ui <- function(id) {
               tags$h3(class = "pip-tile-large__title", "Deep Dives"),
               tags$p(
                 class = "pip-tile-large__desc",
-                "Compare standard PIP estimates with alternative methodology ",
-                "estimates across countries and poverty lines. Select a method, ",
+                "Compare standard PIP estimates with estimates following alternative ",
+                "methodologies across economies and poverty lines. Select a method, ",
                 "choose an economy, and explore the results interactively."
               ),
               tags$div(
@@ -156,9 +161,9 @@ mod_home_ui <- function(id) {
               tags$h3(class = "pip-tile-large__title", "Research Repository"),
               tags$p(
                 class = "pip-tile-large__desc",
-                "Access the methodological papers, technical notes, and ",
-                "supporting research behind the Innovation Hub. Use semantic ",
-                "search to find relevant work across the full document corpus."
+                "Access methodological papers and analytics published across ", 
+                "the World Bank. Use semantic search to find relevant work ", 
+                "across all World Bank working papers."
               ),
               tags$div(
                 class = "pip-tile-large__btn-wrap",
@@ -184,6 +189,12 @@ mod_home_ui <- function(id) {
         tags$h2(
           class = "pip-methods-banner__heading",
           "Featured Methods"
+        ),
+        tags$p(
+          class = "pip-methods-banner__subheading",
+          "The Deep Dives page currently features estimates produced by ",
+          "methodologies from four different peer-reviewed papers. These ",
+          "will be expanded over time."
         ),
         tags$div(
           class = "pip-grid-4",
