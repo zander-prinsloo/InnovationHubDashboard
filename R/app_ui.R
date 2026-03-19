@@ -98,7 +98,7 @@ app_ui <- function(request) {
           # Placeholder div — add banner content here in a future iteration
           tags$div(class = "research-repo-banner"),
           tags$iframe(
-            src    = "research_repo/ids-doc.html",
+            src    = "research_repo/docs-demo.html",
             width  = "100%",
             height = "100%",
             style  = "border: none; display: block;",
