@@ -165,6 +165,19 @@ test_that("plot_mtg_gini_sensitivity rejects invalid ppp_vintage", {
   expect_error(plot_mtg_gini_sensitivity(d_yk, ppp_vintage = "2020"))
 })
 
+test_that("plot_mtg_gini_sensitivity produces exactly 4 share-level traces (25/50/75/100)", {
+  p <- plotly::plotly_build(plot_mtg_gini_sensitivity(d_yk))
+  traces <- p$x$data
+
+  # Share traces have names like "25%", "50%", etc. (not the 45° ref line)
+  share_traces <- Filter(function(tr) {
+    !is.null(tr$name) && grepl("^\\d+%$", tr$name)
+  }, traces)
+
+  share_labels <- vapply(share_traces, function(tr) tr$name, character(1))
+  expect_equal(sort(share_labels), c("100%", "25%", "50%", "75%"))
+})
+
 
 # ── 4. Constants ─────────────────────────────────────────────────────────────
 

@@ -4,7 +4,7 @@
 ## Output:  data/d_yk.rda
 ##
 ## Schema after prep:
-##   country_code, year, share, welfare_type, total_pop
+##   country_code, year, share (25/50/75/100 only), welfare_type, total_pop
 ##   region_code   (WDI iso3c: SSF ECS MEA LCN EAS SAS NAC)
 ##   region_name   (WDI full name, e.g. "Sub-Saharan Africa")
 ##   country_name  (joined from wbstats)
@@ -115,6 +115,14 @@ d_yk[, gap_gdp_2017  := (mean_survey_2017 - gdp_pc_ppp_2017)  / gdp_pc_ppp_2017]
 d_yk[, is_latest := year == max(year), by = .(country_code, welfare_type)]
 
 # ---------------------------------------------------------------------------
+# 5b. Restrict to quartile-boundary shares (25, 50, 75, 100)
+# ---------------------------------------------------------------------------
+# The source data contains share in increments of 5 (5, 10, ..., 100 + NA).
+# The Gini sensitivity chart only needs quartile boundaries. Filtering here
+# reduces the dataset size (~4× fewer rows) and avoids runtime filtering.
+d_yk <- d_yk[share %in% c(25L, 50L, 75L, 100L)]
+
+# ---------------------------------------------------------------------------
 # 6. Select and order columns
 # ---------------------------------------------------------------------------
 cols_keep <- c(
@@ -142,3 +150,7 @@ data.table::setkey(d_yk, country_code, year, share)
 # 7. Save
 # ---------------------------------------------------------------------------
 usethis::use_data(d_yk, overwrite = TRUE)
+
+# Also copy to inst/app/data/ so the Shiny app (which loads via app_sys())
+# picks up the same file at runtime.
+file.copy("data/d_yk.rda", "inst/app/data/d_yk.rda", overwrite = TRUE)
