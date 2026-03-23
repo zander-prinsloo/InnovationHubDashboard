@@ -104,7 +104,7 @@ mod_home_ui <- function(id) {
             tags$div(
               class = "pip-tile-large__image",
               tags$img(
-                src = "designs/hub-designs/example-Innovation-Hub-Landing-Page.png",
+                src = "www/deep-dives-image.png",
                 alt = "Deep Dives preview"
               )
             ),
@@ -134,9 +134,9 @@ mod_home_ui <- function(id) {
             class = "pip-tile-large",
             # Image area
             tags$div(
-              class = "pip-tile-large__image pip-tile-large__image--contain",
+              class = "pip-tile-large__image",
               tags$img(
-                src = "designs/pip-logos/WB-PIP-horizontal/color/transparent-png/WB-PIP-E-horizontal-RGB-high.png",
+                src = "www/repo-image.png",
                 alt = "Research Repository preview"
               )
             ),

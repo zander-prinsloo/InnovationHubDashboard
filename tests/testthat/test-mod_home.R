@@ -77,6 +77,18 @@ test_that("mod_home_ui large tiles have correct titles", {
   expect_true(grepl("Research Repository",  ui_str, fixed = TRUE))
 })
 
+test_that("mod_home_ui Deep Dives tile uses deep-dives-image.png", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("www/deep-dives-image.png", ui_str, fixed = TRUE))
+})
+
+test_that("mod_home_ui Research Repository tile uses repo-image.png", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("www/repo-image.png", ui_str, fixed = TRUE))
+})
+
 test_that("mod_home_ui contains pip-methods-banner for Featured Methods section", {
   ui     <- mod_home_ui(id = "test")
   ui_str <- as.character(ui)
