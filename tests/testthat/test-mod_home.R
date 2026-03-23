@@ -26,10 +26,22 @@ test_that("mod_home_ui contains hero supporting text", {
   expect_true(grepl("pip-hero__text", ui_str, fixed = TRUE))
 })
 
-test_that("mod_home_ui contains CSS-only visual motif container", {
+test_that("mod_home_ui contains hero visual container", {
   ui     <- mod_home_ui(id = "test")
   ui_str <- as.character(ui)
   expect_true(grepl("pip-hero__visual", ui_str, fixed = TRUE))
+})
+
+test_that("mod_home_ui hero visual contains SVG image reference", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl("hero_welfare_gap.svg", ui_str, fixed = TRUE))
+})
+
+test_that("mod_home_ui hero image is decorative with empty alt", {
+  ui     <- mod_home_ui(id = "test")
+  ui_str <- as.character(ui)
+  expect_true(grepl('alt=""', ui_str, fixed = TRUE))
 })
 
 test_that("mod_home_ui contains pip-hero__inner centred wrapper", {

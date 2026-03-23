@@ -3,8 +3,9 @@
 #' @description Landing page for the PIP Innovation Hub. Renders:
 #'   \enumerate{
 #'     \item A full-width dark-navy hero section with title, description, and
-#'           a CSS-only abstract data visualisation motif. Hero content is
-#'           constrained to \code{max-width: 1200px} to align with the tiles below.
+#'           a pre-generated SVG welfare gap scatter (\code{hero_welfare_gap.svg})
+#'           used as a decorative visual motif. Hero content is constrained to
+#'           \code{max-width: 1200px} to align with the tiles below.
 #'     \item A white content section with a heading, intro line, and two large
 #'           PIP-style feature tiles (Deep Dives and Research Repository).
 #'     \item A full-bleed dark-navy \dQuote{Featured Methods} banner containing
@@ -37,7 +38,7 @@ mod_home_ui <- function(id) {
           ),
           tags$p(
             class = "pip-hero__subtitle",
-            "The home for novel work on poverty and inequality measurement"
+            "The home for novel work on poverty and inequality measurement."
           ),
           tags$p(
             class = "pip-hero__text",
@@ -61,31 +62,16 @@ mod_home_ui <- function(id) {
           )
         ),
 
-      # Right: CSS-only abstract data visualisation motif
+      # Right: pre-generated SVG welfare gap scatter used as a decorative
+      # visual motif. The SVG is produced by dev/generate_hero_chart.R and
+      # committed to inst/app/www/. Re-run that script if d_yk data changes.
+      # alt = "" marks this as decorative (WAI-ARIA best practice).
       tags$div(
         class = "pip-hero__visual",
-        # Horizontal gridlines
-        tags$div(
-          class = "pip-chart-lines",
-          tags$span(), tags$span(), tags$span(), tags$span(), tags$span()
-        ),
-        # Trend line overlay
-        tags$div(class = "pip-chart-trend-line"),
-        # Scatter dots (12 points simulating an upward trend)
-        do.call(tags$div,
-          c(list(class = "pip-chart-dots"),
-            lapply(seq_len(12), \(.) tags$span(class = "pip-chart-dot"))
-          )
-        ),
-        # Axis tick marks
-        tags$div(
-          class = "pip-chart-ticks",
-          tags$span(class = "pip-chart-tick"),
-          tags$span(class = "pip-chart-tick"),
-          tags$span(class = "pip-chart-tick"),
-          tags$span(class = "pip-chart-tick"),
-          tags$span(class = "pip-chart-tick"),
-          tags$span(class = "pip-chart-tick")
+        tags$img(
+          src   = "www/hero_welfare_gap.svg",
+          alt   = "",
+          class = "pip-hero__chart-img"
         )
       )    # /pip-hero__visual
     )      # /pip-hero__inner
