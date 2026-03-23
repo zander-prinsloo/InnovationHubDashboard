@@ -6,10 +6,11 @@
 #' @noRd
 app_server <- function(input, output, session) {
   # 1a) load each dataset — use app_sys() so paths resolve correctly on Connect
-  load(app_sys("app/data/d_dm.rda"))   # creates object d_dm
-  load(app_sys("app/data/d_stb.rda"))  # creates object d_stb
-  load(app_sys("app/data/d_sn.rda"))   # creates object d_sn
-  load(app_sys("app/data/d_yk.rda"))   # creates object d_yk
+  load(app_sys("app/data/d_dm.rda"))            # creates object d_dm
+  load(app_sys("app/data/d_stb.rda"))           # creates object d_stb
+  load(app_sys("app/data/d_sn.rda"))            # creates object d_sn
+  load(app_sys("app/data/d_yk.rda"))            # creates object d_yk
+  load(app_sys("app/data/wb_country_names.rda")) # creates object wb_country_names
 
   dm_metadata  <- readxl::read_excel(app_sys("app/data/dm_metadata.xlsx"))
   stb_metadata <- readxl::read_excel(app_sys("app/data/stb_metadata.xlsx"))
@@ -28,18 +29,13 @@ app_server <- function(input, output, session) {
   require(grid, quietly = TRUE)
 
   # 1b) preprocess d_sn: remove default method, drop unneeded cols, join country_name
-  country_lookup <- data.frame(
-    code = c("AGO","BFA","BGD","TCD","CIV","COL","EGY","ETH","GAB",
-             "GHA","GIN","GNB","LSO","MRT","MWI","NER","SEN","TZA","UGA","VNM"),
-    country_name = c("Angola","Burkina Faso","Bangladesh","Chad",
-                     "Côte d'Ivoire","Colombia","Egypt","Ethiopia","Gabon",
-                     "Ghana","Guinea","Guinea-Bissau","Lesotho","Mauritania",
-                     "Malawi","Niger","Senegal","Tanzania","Uganda","Vietnam")
-  )
+  # wb_country_names is the authoritative WDI iso3 → country_name lookup
+  # (loaded above from wb_country_names.rda; covers all PIP/MTG countries).
+  # Note: d_sn is a data.frame (not data.table); merge() returns a data.frame.
   data_sn <- d_sn |>
     fsubset(method != "default") |>
     fselect(-c(headcount_default, population_share_default, welfare_type)) |>
-    merge(country_lookup, by = "code", all.x = TRUE)
+    merge(wb_country_names, by.x = "code", by.y = "country_code", all.x = TRUE)
 
   # 1c) create cross-country SN dataset: pivot DB→headcount_default, DOU→headcount_estimate
   data_sn_cross <- d_sn |>
@@ -55,7 +51,7 @@ app_server <- function(input, output, session) {
       headcount_estimate = hc_dou * 100
     ) |>
     dplyr::select(-hc_db, -hc_dou) |>
-    merge(country_lookup, by = "code", all.x = TRUE) |>
+    merge(wb_country_names, by.x = "code", by.y = "country_code", all.x = TRUE) |>
     as.data.frame()
 
   # 1d) combine, dropping the unwanted cols
@@ -128,17 +124,18 @@ app_server <- function(input, output, session) {
 
   # ── Deep Dives module ────────────────────────────────────────────────────
   mod_interactive_dashboard_server(
-    id              = "interactive_dashboard_1",
-    data_dm         = d_dm,
-    data_stb        = d_stb,
-    data_sn         = data_sn,
-    data_sn_cross   = data_sn_cross,
-    data_yk         = d_yk,
-    dm_metadata     = dm_metadata,
-    stb_metadata    = stb_metadata,
-    sn_metadata     = sn_metadata,
-    yk_metadata     = yk_metadata,
-    method_override = method_override
+    id                = "interactive_dashboard_1",
+    data_dm           = d_dm,
+    data_stb          = d_stb,
+    data_sn           = data_sn,
+    data_sn_cross     = data_sn_cross,
+    data_yk           = d_yk,
+    wb_country_names  = wb_country_names,
+    dm_metadata       = dm_metadata,
+    stb_metadata      = stb_metadata,
+    sn_metadata       = sn_metadata,
+    yk_metadata       = yk_metadata,
+    method_override   = method_override
   )
 }
 

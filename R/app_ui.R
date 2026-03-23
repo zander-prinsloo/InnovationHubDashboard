@@ -105,8 +105,7 @@ app_ui <- function(request) {
               tags$h1(class = "pip-dd-banner__title", "Research Repository"),
               tags$p(
                 class = "pip-dd-banner__text",
-                "Convenient search through all World Bank Policy Research ",
-                "Working Papers.", 
+                "Convenient search through all World Bank Policy Research Working Papers.", 
                 "Updated as of 20 March 2026."
               )
             )

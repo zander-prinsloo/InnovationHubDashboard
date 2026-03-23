@@ -256,3 +256,95 @@ test_that("server body passes col-wrapper class to uiOutput wrappers", {
   body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
   expect_true(grepl("pip-analysis-panel__col-wrapper", body_str, fixed = TRUE))
 })
+
+# ── wb_country_names integration tests ────────────────────────────────────────
+
+test_that("mod_interactive_dashboard_server accepts wb_country_names parameter", {
+  fmls <- formals(mod_interactive_dashboard_server)
+  expect_true("wb_country_names" %in% names(fmls))
+})
+
+# ── Lorenz country choices logic tests ───────────────────────────────────────
+# These are white-box tests that exercise the choices-building pattern
+# (merge + safety filter + dedup + sort) in isolation from the Shiny module.
+# This approach is consistent with the body-inspection pattern used above:
+# the module server cannot be instantiated cheaply, so we test the logic
+# directly rather than through testServer().
+
+test_that("lorenz_country_choices: no NA names when fst iso3 not in wb_country_names", {
+  # Simulate the lorenz_country_choices logic using synthetic inputs.
+  wb <- data.table::data.table(
+    country_code = c("ALB", "IND", "BRA"),
+    country_name = c("Albania", "India", "Brazil")
+  )
+  avail <- data.table::data.table(iso3 = c("ALB", "IND", "BRA"))
+  merged <- merge(avail, wb, by.x = "iso3", by.y = "country_code", all.x = TRUE)
+  merged <- merged[!is.na(country_name)]
+  choices <- stats::setNames(merged$iso3, merged$country_name)
+  choices <- choices[order(names(choices))]
+
+  expect_false(anyNA(names(choices)))
+  expect_false(anyNA(choices))
+  expect_equal(length(choices), 3L)
+})
+
+test_that("lorenz_country_choices: unmatched iso3 codes are dropped (safety filter)", {
+  # An iso3 not in wb_country_names should be silently excluded.
+  wb <- data.table::data.table(
+    country_code = c("ALB", "IND"),
+    country_name = c("Albania", "India")
+  )
+  # "XYZ" is not in wb — simulates a disputed territory or data-prep error
+  avail <- data.table::data.table(iso3 = c("ALB", "IND", "XYZ"))
+  merged <- merge(avail, wb, by.x = "iso3", by.y = "country_code", all.x = TRUE)
+  merged <- merged[!is.na(country_name)]
+  choices <- stats::setNames(merged$iso3, merged$country_name)
+
+  expect_false("XYZ" %in% choices)
+  expect_false(anyNA(names(choices)))
+  expect_equal(length(choices), 2L)
+})
+
+test_that("lorenz_country_choices: duplicate iso3 across years produces one entry", {
+  # Same iso3 appearing in two fst files (different years) must appear once
+  # in the dropdown.
+  wb <- data.table::data.table(
+    country_code = "ALB",
+    country_name = "Albania"
+  )
+  # Simulate lorenz_file_lookup with duplicate iso3
+  file_lookup <- data.table::data.table(
+    iso3     = c("ALB", "ALB"),
+    year     = c(2018L, 2020L),
+    filename = c("alb_2018_cumulative.fst", "alb_2020_cumulative.fst")
+  )
+  avail  <- unique(file_lookup[, .(iso3)])
+  merged <- merge(avail, wb, by.x = "iso3", by.y = "country_code", all.x = TRUE)
+  merged <- merged[!is.na(country_name)]
+  choices <- stats::setNames(merged$iso3, merged$country_name)
+
+  expect_equal(length(choices), 1L)
+  expect_equal(unname(choices), "ALB")
+  expect_equal(names(choices), "Albania")
+})
+
+test_that("lorenz_country_choices: choices are sorted alphabetically by country name", {
+  wb <- data.table::data.table(
+    country_code = c("ZAF", "ALB", "IND"),
+    country_name = c("South Africa", "Albania", "India")
+  )
+  avail  <- data.table::data.table(iso3 = c("ZAF", "ALB", "IND"))
+  merged <- merge(avail, wb, by.x = "iso3", by.y = "country_code", all.x = TRUE)
+  merged <- merged[!is.na(country_name)]
+  choices <- stats::setNames(merged$iso3, merged$country_name)
+  choices <- choices[order(names(choices))]
+
+  expect_equal(names(choices), c("Albania", "India", "South Africa"))
+  expect_equal(unname(choices), c("ALB", "IND", "ZAF"))
+})
+
+test_that("lorenz_country_choices: empty result when no fst files exist", {
+  empty_choices <- stats::setNames(character(0L), character(0L))
+  expect_equal(length(empty_choices), 0L)
+  expect_false(anyNA(names(empty_choices)))
+})

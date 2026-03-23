@@ -138,6 +138,11 @@ mod_interactive_dashboard_ui <- function(id) {
 #' @param data_sn_cross  Cross-country data for SN method.
 #' @param data_yk   data.table for NA–Survey gap adjustment (MTG) method,
 #'   produced by `data-raw/d_yk.R`.
+#' @param wb_country_names  data.table with columns `country_code` and
+#'   `country_name` providing the authoritative WDI iso3 → country-name
+#'   mapping. Loaded from `wb_country_names.rda` (see `data-raw/wb_country_names.R`).
+#'   Used for the Lorenz country picker to cover countries in the fst cumulative
+#'   files that may not appear in `data_yk`.
 #' @param dm_metadata   Metadata tibble for DM method.
 #' @param stb_metadata  Metadata tibble for STB method.
 #' @param sn_metadata   Metadata tibble for SN method.
@@ -154,6 +159,7 @@ mod_interactive_dashboard_server <- function(
     data_sn,
     data_sn_cross,
     data_yk,
+    wb_country_names,
     dm_metadata,
     stb_metadata,
     sn_metadata,
@@ -264,18 +270,23 @@ mod_interactive_dashboard_server <- function(
     # ─── Lorenz comparison: file lookup and reactive values ──────────────────────
     lorenz_file_lookup <- mtg_scan_cumulative_files()
 
-    # Build country choices for Lorenz picker: iso3 → country_name from data_yk
-    # Returns an empty named vector when no fst files are found, which causes
-    # selectInput to render with no choices rather than crashing.
+    # Build country choices for Lorenz picker: iso3 → country_name.
+    # Uses the authoritative WDI lookup (wb_country_names) instead of
+    # data_yk to avoid NA names for countries present in the fst cumulative
+    # files but absent from the MTG dataset — NA names crash selectInput.
+    # iso3 values are deduplicated because a country may have multiple fst
+    # files (different survey years) but the dropdown shows each country once.
     lorenz_country_choices <- {
       if (nrow(lorenz_file_lookup) == 0L) {
         stats::setNames(character(0L), character(0L))
       } else {
-        yk_names <- unique(data_yk[, c("country_code", "country_name")])
-        avail    <- lorenz_file_lookup[, .(iso3, year)]
-        merged   <- merge(avail, yk_names,
-                          by.x = "iso3", by.y = "country_code", all.x = TRUE)
-        choices  <- stats::setNames(merged$iso3, merged$country_name)
+        avail  <- unique(lorenz_file_lookup[, .(iso3)])
+        merged <- merge(avail, wb_country_names,
+                        by.x = "iso3", by.y = "country_code", all.x = TRUE)
+        # Safety: drop any iso3 that did not match WDI (e.g. disputed
+        # territories or data-prep errors).  Should not occur in normal use.
+        merged  <- merged[!is.na(country_name)]
+        choices <- stats::setNames(merged$iso3, merged$country_name)
         choices[order(names(choices))]
       }
     }
