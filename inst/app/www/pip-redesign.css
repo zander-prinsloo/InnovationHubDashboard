@@ -340,7 +340,7 @@ button.pip-header-nav-link--active {
   color: var(--pip-text-on-dark-secondary);
   line-height: 1.6;
   margin: 0 0 var(--pip-space-6) 0;
-  max-width: 680px;
+  max-width: none;
 }
 
 /* Deep Dives body heading and subheading (above country-specific chart) */
@@ -429,7 +429,7 @@ button.pip-header-nav-link--active {
   color: var(--pip-text-secondary);
   line-height: 1.6;
   margin: 0 0 var(--pip-space-7) 0;
-  max-width: 640px;
+  max-width: none;
 }
 
 
