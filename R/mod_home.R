@@ -3,8 +3,8 @@
 #' @description Landing page for the PIP Innovation Hub. Renders:
 #'   \enumerate{
 #'     \item A full-width dark-navy hero section with title, description, and
-#'           a pre-generated SVG welfare gap scatter (\code{hero_welfare_gap.svg})
-#'           used as a decorative visual motif. Hero content is constrained to
+#'           the PIP hero image (\code{right-bg.png}) used as a decorative
+#'           visual motif. Hero content is constrained to
 #'           \code{max-width: 1200px} to align with the tiles below.
 #'     \item A white content section with a heading, intro line, and two large
 #'           PIP-style feature tiles (Deep Dives and Research Repository).
@@ -62,14 +62,13 @@ mod_home_ui <- function(id) {
           )
         ),
 
-      # Right: pre-generated SVG welfare gap scatter used as a decorative
-      # visual motif. The SVG is produced by dev/generate_hero_chart.R and
-      # committed to inst/app/www/. Re-run that script if d_yk data changes.
+      # Right: PIP hero image used as a decorative visual motif.
+      # right-bg.png is the same image used by pip.worldbank.org.
       # alt = "" marks this as decorative (WAI-ARIA best practice).
       tags$div(
         class = "pip-hero__visual",
         tags$img(
-          src   = "www/hero_welfare_gap.svg",
+          src   = "www/right-bg.png",
           alt   = "",
           class = "pip-hero__chart-img"
         )
