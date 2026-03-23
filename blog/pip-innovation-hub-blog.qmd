@@ -1,0 +1,379 @@
+---
+title: "Introducing the PIP Innovation Hub: A Home for Novel Work on Poverty and Inequality Measurement"
+author:
+  - name: "[Author names]"
+    affiliation: "Development Economics Data Group (DECDG), World Bank"
+date: today
+format:
+  docx:
+    toc: false
+    number-sections: false
+    fig-width: 7
+    fig-height: 4.5
+    fig-dpi: 300
+bibliography: references.bib
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+
+library(data.table)
+library(ggplot2)
+library(scales)
+
+# ── Custom theme for World Bank Data Blog ──────────────────────────────────
+theme_pip <- function(base_size = 11) {
+  theme_minimal(base_size = base_size) +
+    theme(
+      plot.title       = element_text(face = "bold", size = rel(1.15),
+                                      margin = margin(b = 6)),
+      plot.subtitle    = element_text(color = "grey30", size = rel(0.9),
+                                      margin = margin(b = 10)),
+      plot.caption     = element_text(color = "grey50", size = rel(0.7),
+                                      hjust = 0, margin = margin(t = 8)),
+      panel.grid.major.x = element_blank(),
+      panel.grid.minor   = element_blank(),
+      axis.title       = element_text(size = rel(0.85)),
+      axis.text        = element_text(size = rel(0.8)),
+      legend.position  = "bottom",
+      legend.title     = element_blank(),
+      legend.text      = element_text(size = rel(0.8)),
+      plot.margin      = margin(12, 12, 12, 12)
+    )
+}
+
+# ── Colour palette ─────────────────────────────────────────────────────────
+pip_blue   <- "#1F4E79"
+pip_red    <- "#B22D2D"
+pip_orange <- "#FF9800"
+pip_teal   <- "#4EC2C0"
+pip_grey   <- "#AAAAAA"
+pip_dark   <- "#243C56"
+pip_green  <- "#0C7C68"
+
+# ── Load data ──────────────────────────────────────────────────────────────
+load("../data/d_stb.rda")
+load("../data/d_dm.rda")
+load("../data/d_sn.rda")
+load("../data/d_yk.rda")
+load("../data/dcol.rda")
+
+d_stb <- as.data.table(d_stb)
+d_dm  <- as.data.table(d_dm)
+d_sn  <- as.data.table(d_sn)
+```
+
+Measuring global poverty is one of the most consequential tasks in development economics. The estimates produced by the World Bank's [Poverty and Inequality Platform (PIP)](https://pip.worldbank.org/) inform policy debates, guide resource allocation, and shape our collective understanding of who is poor and where. Yet the methodological choices that underpin those numbers---how welfare is measured, how households are compared, how urban and rural areas are defined---are far from settled. Each decision can shift millions of people above or below the poverty line.
+
+The **PIP Innovation Hub** is a new platform---a home for novel work on poverty and inequality measurement. It enables researchers, policymakers, and the public to explore how alternative methodological approaches, drawn from peer-reviewed research, affect poverty and inequality estimates. It does so by placing these alternatives alongside the World Bank's official numbers, making the implications of methodological choices transparent and accessible.
+
+The Hub launches with two core components. The **Deep Dives** section presents estimates from four peer-reviewed papers, each of which modifies a different step of the standard PIP methodology, allowing users to compare the official poverty estimates to those produced using the alternative approach. Over time, additional methods will be added. All data are available for download. The **Research Repository** provides AI-powered semantic search over hundreds of World Bank Policy Research Working Papers, making it easier to discover relevant research on poverty measurement and related topics.
+
+## How methodological assumptions matter
+
+Broadly speaking, the PIP methodology follows a five-step process. First, household survey data are obtained from relevant sources. Second, the survey data are used to create welfare aggregates---estimates of households' income or consumption. Third, the welfare aggregates are adjusted for differences in price levels across countries and over time to foster international comparability. Fourth, poverty and inequality are estimated for each country-year. Fifth, the estimates are extrapolated or interpolated to a common reference year and a population-weighted global poverty rate is calculated. (For a detailed treatment, see the [PIP Methodological Handbook](https://datanalytics.worldbank.org/PIP-Methodology/non-technical-summary.html#step-3-converting-welfare-aggregates).)
+
+Each of the four methods in the Deep Dives modifies a different step in this chain. To illustrate how these choices matter in practice, consider Colombia---a country with relatively frequent household surveys.
+
+```{r}
+#| label: fig-chart1-pip-baseline
+#| fig-cap: "Poverty headcount at $2.15/day (2017 PPPs), Colombia"
+
+# ── Chart 1: PIP baseline estimates across three method-years ──────────────
+# From dcol: PIP defaults for each method's year
+pip_defaults <- data.table(
+  year    = c(2015, 2019, 2022),
+  method  = c("Subnational\ndefinition", "Household\nallocation",
+              "Welfare\nconversion"),
+  source  = c("PIP (Sep 2023)", "PIP (Mar 2023)", "PIP (Sep 2024)"),
+  value   = c(4.93, 5.28, 9.30)
+)
+
+ggplot(pip_defaults, aes(x = factor(year), y = value)) +
+  geom_point(size = 4, color = pip_blue) +
+  geom_text(aes(label = paste0(round(value, 1), "%")),
+            vjust = -1.2, size = 3.2, color = "grey30") +
+  scale_y_continuous(limits = c(0, 12), labels = label_percent(scale = 1)) +
+  labs(
+    title    = "PIP estimates of extreme poverty in Colombia",
+    subtitle = "Headcount ratio at $2.15/day (2017 PPPs), national level",
+    x = NULL, y = NULL,
+    caption  = paste0(
+      "Note: Estimates come from different PIP data vintages and are not ",
+      "directly comparable over time.\n",
+      "Source: World Bank PIP."
+    )
+  ) +
+  theme_pip()
+```
+
+*The standard PIP methodology suggests that 4.9%, 5.3%, and 9.3% of Colombians lived below the international poverty line of \$2.15 per day in 2015, 2019, and 2022 respectively. These estimates come from different PIP data vintages and are not directly comparable over time---they serve here only as the baseline against which each alternative method is assessed.*
+
+```{r}
+#| label: fig-chart2-stb
+#| fig-cap: "Household allocation: per capita vs. square root, Colombia 2019"
+
+# ── Chart 2: STB method — intra-household allocation ──────────────────────
+stb_col <- d_stb[code == "COL" & poverty_line == "$2.15"]
+
+stb_plot <- data.table(
+  approach = c("PIP: per capita", "Alternative: square root"),
+  value    = c(stb_col$headcount_default, stb_col$headcount_estimate),
+  color    = c(pip_blue, pip_orange)
+)
+
+ggplot(stb_plot, aes(x = approach, y = value, fill = approach)) +
+  geom_point(size = 7, shape = 21, color = "white", stroke = 1.5,
+             aes(fill = approach)) +
+  geom_text(aes(label = paste0(round(value, 1), "%")),
+            vjust = -1.5, size = 3.5, color = "grey20") +
+  geom_segment(aes(x = 1, xend = 2,
+                   y = stb_plot$value[1], yend = stb_plot$value[2]),
+               color = "grey60", linewidth = 0.4, linetype = "dashed") +
+  scale_fill_manual(values = c("PIP: per capita" = pip_blue,
+                               "Alternative: square root" = pip_orange)) +
+  scale_y_continuous(limits = c(0, 10), labels = label_percent(scale = 1)) +
+  labs(
+    title    = "Does intra-household sharing matter?",
+    subtitle = "Extreme poverty headcount, Colombia 2019, $2.15/day (2017 PPPs)",
+    x = NULL, y = NULL,
+    caption = paste0(
+      "Source: PIP and Jolliffe & Tetteh-Baah (2024). March 2023 PIP vintage."
+    )
+  ) +
+  theme_pip() +
+  theme(legend.position = "none")
+```
+
+*How welfare is allocated within a household matters. The standard PIP methodology divides total household consumption or income by household size---the per capita approach---implicitly assuming no economies of scale. A family of six is assumed to need three times as much as a family of two. [Jolliffe and Tetteh-Baah (2024)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099547207202429498) use a square root equivalence scale that accounts for shared household goods such as housing and consumer durables. In Colombia, this raises the estimated extreme poverty rate from 5.3% to 6.2%. Globally, about 264 million people---roughly 40% of the extreme poor---switch poverty status under this approach.*
+
+```{r}
+#| label: fig-chart3-dm
+#| fig-cap: "Welfare conversion: income vs. consumption-based estimate, Colombia 2022"
+
+# ── Chart 3: DM method — welfare conversion ───────────────────────────────
+dm_col <- d_dm[code == "COL" & poverty_line == "$2.15"]
+
+dm_plot <- data.table(
+  approach = c("PIP: income-based", "Alternative: consumption-converted"),
+  value    = c(dm_col$headcount_default, dm_col$headcount_estimate),
+  color    = c(pip_blue, pip_red)
+)
+
+ggplot(dm_plot, aes(x = approach, y = value, fill = approach)) +
+  geom_col(width = 0.5, color = "white") +
+  geom_text(aes(label = paste0(round(value, 1), "%")),
+            vjust = -0.8, size = 3.5, color = "grey20") +
+  scale_fill_manual(values = c("PIP: income-based" = pip_blue,
+                               "Alternative: consumption-converted" = pip_red)) +
+  scale_y_continuous(limits = c(0, 12), labels = label_percent(scale = 1),
+                     expand = expansion(mult = c(0, 0.1))) +
+  labs(
+    title    = "Income or consumption? It matters a lot.",
+    subtitle = "Extreme poverty headcount, Colombia 2022, $2.15/day (2017 PPPs)",
+    x = NULL, y = NULL,
+    caption  = paste0(
+      "Source: PIP and Wollburg et al. (2023), Nature. ",
+      "September 2024 PIP vintage."
+    )
+  ) +
+  theme_pip() +
+  theme(legend.position = "none")
+```
+
+*PIP uses a mix of income and consumption surveys depending on what is available in each country. But income distributions tend to be more unequal than consumption distributions---incomes can be very low or even negative after capital shocks, while subsistence requires a minimum level of daily consumption. High earners, meanwhile, save and invest rather than consume the entirety of their income. [Wollburg et al. (2023)](https://doi.org/10.1038/s41586-023-06679-0) developed an empirically derived conversion from income to consumption distributions, exploiting 150 surveys spanning 16 countries where both measures exist. For Colombia---an income-survey country---the conversion more than halves the estimated poverty rate, from 9.3% to 4.0%.*
+
+```{r}
+#| label: fig-chart4-sn
+#| fig-cap: "Urban-rural definitions: how poverty varies across location types, Colombia 2015"
+#| fig-height: 5
+
+# ── Chart 4: SN method — bars for sub-levels, national line as reference ──
+sn_col <- d_sn[code == "COL" & poverty_line == "$2.15"]
+
+# National estimate (same for DOU and DB: 4.93%)
+nat_headcount <- sn_col[method == "db" & reporting_level == "national" &
+                          sub_level == "", headcount_estimate * 100]
+
+# Sub-national estimates only (exclude national-level aggregates)
+sn_sub <- sn_col[method %in% c("dou", "db") & !is.na(headcount_estimate) &
+                   !(reporting_level == "national" & sub_level == "")]
+
+sn_sub[, `:=`(
+  headcount_pct = headcount_estimate * 100,
+  level_label   = fifelse(sub_level == "",
+                          tools::toTitleCase(reporting_level),
+                          tools::toTitleCase(sub_level)),
+  method_label  = fifelse(method == "dou", "DOU", "DB")
+)]
+
+# Order from most urban to most rural
+level_order <- c("Urban Core", "Urban Center", "Urban",
+                 "Suburb", "Urban Cluster", "Town", "Rural")
+sn_sub[, level_label := factor(level_label, levels = level_order)]
+sn_sub <- sn_sub[!is.na(level_label)]
+
+ggplot(sn_sub, aes(x = level_label, y = headcount_pct, fill = method_label)) +
+  geom_col(position = position_dodge(width = 0.7), width = 0.6,
+           color = "white", linewidth = 0.3) +
+  geom_hline(yintercept = nat_headcount, linetype = "solid",
+             color = pip_dark, linewidth = 0.8) +
+  annotate("text", x = 0.5, y = nat_headcount + 0.5,
+           label = paste0("National: ", round(nat_headcount, 1), "%"),
+           hjust = 0, size = 3, color = pip_dark, fontface = "bold") +
+  geom_text(aes(label = paste0(round(headcount_pct, 1), "%")),
+            position = position_dodge(width = 0.7),
+            vjust = -0.6, size = 2.7, color = "grey30") +
+  scale_fill_manual(values = c("DB" = pip_orange, "DOU" = pip_teal)) +
+  scale_y_continuous(labels = label_percent(scale = 1),
+                     limits = c(0, 16),
+                     expand = expansion(mult = c(0, 0.08))) +
+  labs(
+    title    = "Poverty varies dramatically across location types",
+    subtitle = "Headcount at $2.15/day by sub-national level, Colombia 2015",
+    x = NULL, y = NULL,
+    caption  = paste0(
+      "Note: Horizontal line = national estimate (same across methods). ",
+      "DOU (Degree of Urbanization) applies\nuniform global thresholds; ",
+      "DB (Dartboard) uses country-specific density distributions.\n",
+      "Source: Nakamura et al. (2024), building on Combes et al. (2023)."
+    )
+  ) +
+  theme_pip() +
+  theme(
+    axis.text.x = element_text(angle = 30, hjust = 1, size = rel(0.85)),
+    legend.position = c(0.15, 0.9),
+    legend.background = element_rect(fill = "white", color = NA)
+  )
+```
+
+*The standard practice of measuring global poverty implicitly adopts each country's official definition of urban areas---definitions that vary widely and are often outdated. [Nakamura et al. (2024)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099052124152527801) apply two globally consistent approaches: the Degree of Urbanization (DOU), which uses uniform population density thresholds, and the Dartboard (DB) method, which calibrates thresholds to each country's own density distribution. Both go well beyond a simple urban-rural dichotomy, distinguishing urban cores, suburbs, clusters, and towns. The national poverty rate---shown as the horizontal line---masks enormous within-country variation. In Colombia, poverty in rural areas reaches 10--14% while urban cores report rates near 2%. The chart also reveals that how "urban" and "rural" are defined matters: the DB method, which is relative to each country's own density distribution, consistently produces higher rural poverty estimates than the absolute DOU thresholds.*
+
+```{r}
+#| label: fig-chart5-yk-gap
+#| fig-cap: "The NA–survey welfare gap across countries"
+
+# ── Chart 5: YK method — gap chart ────────────────────────────────────────
+yk_latest <- d_yk[is_latest == TRUE & share == 50]
+yk_latest <- unique(yk_latest, by = c("country_code", "year", "welfare_type"))
+yk_latest <- yk_latest[!is.na(gap_hfce_2021) & !is.na(gdp_pc_ppp_2021) &
+                         is.finite(gap_hfce_2021) & is.finite(gdp_pc_ppp_2021)]
+
+ggplot(yk_latest,
+       aes(x = gdp_pc_ppp_2021, y = gap_hfce_2021, color = welfare_type)) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "grey40") +
+  geom_point(alpha = 0.45, size = 2) +
+  geom_smooth(method = "loess", se = FALSE, linewidth = 0.9, linetype = "dotted") +
+  scale_x_log10(
+    labels = label_dollar(prefix = "$"),
+    breaks = c(1, 2, 5, 10, 20, 50, 100, 200, 400)
+  ) +
+  scale_color_manual(
+    values = c("consumption" = pip_red, "income" = pip_blue),
+    labels = c("consumption" = "Consumption", "income" = "Income")
+  ) +
+  labs(
+    title    = "Surveys frequently understate welfare relative to national accounts",
+    subtitle = "HFCE–survey gap by GDP per capita (2021 PPPs), latest year per country",
+    x        = "GDP per capita (PPP, $/day, log scale)",
+    y        = "HFCE–survey gap",
+    caption  = paste0(
+      "Note: Gap = (survey mean − HFCE) / HFCE. Negative values indicate the survey mean\n",
+      "is below HFCE. Each point is a country's latest available survey year.\n",
+      "Source: PIP, World Development Indicators, and Prydz, Jolliffe & Serajuddin (2022)."
+    )
+  ) +
+  theme_pip()
+```
+
+*Estimates of average per capita consumption and income from national accounts can differ substantially from corresponding measures of consumption and income from household surveys. With additional country-year data and updated to 2021 PPPs, this dataset builds on [Prydz, Jolliffe, and Serajuddin (2022)](https://doi.org/10.1111/roiw.12577) to identify the magnitude of the gap between survey and national account means and to utilize this gap to correct for the "missing top".*
+
+*Using over 2,000 household surveys matched to national accounts data since 1990, the means obtained from surveys are 26% lower on average compared to corresponding means from national accounts as measured by Household Final Consumption Expenditure (HFCE). The gap between survey means and GDP per capita is much larger (55% on average). There is a U-shaped pattern between a country's GDP per capita and the gap, where the gap is smaller for countries with lower GDP per capita, but widens as GDP per capita increases, before narrowing again for high-income countries (@fig-chart5-yk-gap).*
+
+*One potential explanation for the large gap between surveys and national accounts is that surveys disproportionately fail to fully capture the consumption and incomes of the richest households and hence are "missing" from the distribution captured by the survey. To explore this concept and its potential implications, [Prydz, Jolliffe, and Serajuddin (2022)](https://doi.org/10.1111/roiw.12577) follow the adjustment methodology by [Chandy and Seidel (2017)](https://www.brookings.edu/articles/how-much-do-we-really-know-about-inequality-within-countries-around-the-world/) and attribute half of the survey--national account mean gap to the "missing" rich. If the richest individuals are missing from the distribution captured by surveys, adjustment approaches to include them, whilst minimal on poverty rates, will have large implications on the level of inequality.*
+
+*Note: Outlier countries with data issues or where the survey mean is drastically higher than the national account mean have been removed from @fig-chart5-yk-gap.*
+
+```{r}
+#| label: fig-chart6-yk-gini
+#| fig-cap: "Sensitivity of the Gini to the share of the HFCE gap allocated to the top"
+
+# ── Chart 6: YK — Gini sensitivity chart ──────────────────────────────────
+# All 4 share levels (25, 50, 75, 100) for latest years, colored by share
+yk_gini <- d_yk[is_latest == TRUE &
+                  !is.na(gini_survey_2021) &
+                  !is.na(gini_hfce_adj_2021)]
+yk_gini <- unique(yk_gini,
+                  by = c("country_code", "year", "welfare_type", "share"))
+
+# Sequential blue palette matching the Deep Dives dashboard
+share_colors <- c(
+  "25"  = "#c6dbef",
+  "50"  = "#6baed6",
+  "75"  = "#2171b5",
+  "100" = "#084594"
+)
+yk_gini[, share_label := paste0(share, "%")]
+yk_gini[, share_label := factor(share_label,
+                                levels = c("25%", "50%", "75%", "100%"))]
+
+ggplot(yk_gini,
+       aes(x = gini_survey_2021, y = gini_hfce_adj_2021,
+           color = share_label)) +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed",
+              color = "grey60") +
+  geom_point(alpha = 0.5, size = 1.8) +
+  scale_color_manual(
+    values = c("25%" = "#c6dbef", "50%" = "#6baed6",
+               "75%" = "#2171b5", "100%" = "#084594"),
+    name   = "Share of gap to top tail"
+  ) +
+  scale_x_continuous(limits = c(0.2, 0.7)) +
+  scale_y_continuous(limits = c(0.2, 0.7)) +
+  coord_equal() +
+  labs(
+    title    = "Sensitivity of Gini to gap-allocation scenario",
+    subtitle = paste0(
+      "Survey Gini vs. HFCE-adjusted Gini by share of gap allocated to top,\n",
+      "2021 PPPs, latest year per country"
+    ),
+    x        = "Gini coefficient (survey)",
+    y        = "Gini coefficient (HFCE-adjusted)",
+    caption  = paste0(
+      "Note: Points above the 45° line indicate that the HFCE adjustment raises inequality.\n",
+      "Darker shades represent a larger share of the gap attributed to the missing top.\n",
+      "Source: Prydz, Jolliffe & Serajuddin (2022); Chandy & Seidel (2017)."
+    )
+  ) +
+  theme_pip() +
+  theme(legend.title = element_text(size = rel(0.85)))
+```
+
+*@fig-chart6-yk-gini presents the differences in the Gini depending on whether 25%, 50%, 75%, or 100% of the survey--national account gap is attributed to the missing top. The average increase in the Gini by attributing 25% of the survey-HFCE gap is 14%, whilst attributing the entire gap to the very rich increases the Gini by 40% on average. Estimates that vary the attributed share in 5 percentage point increments are available for download.*
+
+*It is important to note that while comparisons between the PIP and alternative estimates within a given year and dataset are informative, comparisons across years or across methods should be made with caution. Each method uses a different data vintage, different survey years, and different underlying assumptions. The value of the Innovation Hub lies not in ranking methods but in making these choices---and their consequences---visible.*
+
+## The Research Repository
+
+The Innovation Hub also features a **Research Repository** that provides access to hundreds of World Bank Policy Research Working Papers on poverty, inequality, and related topics. The repository is powered by a semantic search algorithm---users can describe what they are looking for in natural language, and the system retrieves the most relevant papers based on the meaning of the query, not just keyword matches.
+
+This capability builds on recent advances in natural language processing. The search engine runs entirely in the user's browser using a pre-trained sentence embedding model, requiring no server-side computation. The repository will be updated regularly as new papers are published, ensuring that researchers and policymakers have easy access to the latest methodological developments.
+
+The Research Repository is part of the World Bank's broader efforts to leverage cutting-edge AI and technology to improve knowledge dissemination and data discovery---making it easier for the global development community to find, understand, and build on the institution's research output.
+
+## Looking ahead
+
+The PIP Innovation Hub starts with four methods, but it is designed to grow. As new peer-reviewed research proposes alternative approaches to measuring poverty and inequality, those methods can be incorporated into the Deep Dives framework---enabling ongoing, transparent comparison with official estimates. All underlying data are available for download, supporting further analysis and replication.
+
+Measuring poverty well is not merely a technical exercise. The numbers we produce shape policy priorities, resource allocation, and our understanding of progress toward the first Sustainable Development Goal. By making the methodological frontier accessible and transparent, the PIP Innovation Hub aims to strengthen the evidence base that underpins these consequential decisions.
+
+**Explore the PIP Innovation Hub: [link forthcoming]**
+
+## References
+
+::: {#refs}
+:::
