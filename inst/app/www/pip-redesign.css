@@ -880,7 +880,7 @@ button.pip-header-nav-link--active {
   color: var(--pip-text-secondary);
   line-height: 1.6;
   margin: 0 0 var(--pip-space-5) 0;
-  max-width: 640px;
+  max-width: none;
 }
 
 /* Tab bar container */
@@ -976,11 +976,18 @@ button.pip-tab:disabled {
 .pip-analysis-panel__chart,
 .pip-analysis-panel__stats {
   min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 /* Chart card: extra padding to frame the plot as a featured object */
 .pip-analysis-panel__chart .pip-card {
   padding: var(--pip-space-6);
+}
+
+/* Ensure ggplot/plotly outputs respect their container width */
+.pip-analysis-panel__chart .pip-card .shiny-plot-output {
+  width: 100% !important;
 }
 
 .pip-analysis-panel__chart .pip-card .plotly,

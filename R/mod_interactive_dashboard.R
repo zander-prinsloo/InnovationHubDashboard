@@ -421,16 +421,16 @@ mod_interactive_dashboard_server <- function(
       req(input$select_method)
 
       # Determine tab button labels based on active method
-      rankings_label <- "Differences"
+      rankings_label <- "Bias & agreement diagnostic"
       changes_label  <- if (input$select_method == "NA\u2013Survey gap adjustment") {
         "Lorenz comparisons"
       } else {
-        "Changes"
+        "Largest changes"
       }
       scatter_label  <- if (input$select_method == "NA\u2013Survey gap adjustment") {
         "Gini comparison"
       } else {
-        "Scatterplot"
+        "Method comparison scatterplot"
       }
 
       # Active tab CSS classes
@@ -440,12 +440,9 @@ mod_interactive_dashboard_server <- function(
 
       # Determine grid variant:
       #   lorenz  → 3-column (controls + chart + stats)
-      #   changes with no SN controls → full-width (single column)
       #   everything else → default 2-column (controls + chart)
       panel_class <- if (current_tab() == "lorenz") {
         "pip-analysis-panel pip-analysis-panel--triple"
-      } else if (current_tab() == "changes" && !is_sn()) {
-        "pip-analysis-panel pip-analysis-panel--full"
       } else {
         "pip-analysis-panel"
       }
@@ -618,20 +615,89 @@ mod_interactive_dashboard_server <- function(
           )
         )
 
-      } else if (is_sn()) {
-        # SN Changes tab: reporting level filter
-        tags$div(
-          class = "pip-analysis-panel__controls",
+      } else if (current_tab() == "changes") {
+        # Changes tab: click hint + regional average differences
+        dt_changes <- cross_country_data()
+        if (is.null(dt_changes) || nrow(dt_changes) == 0) return(NULL)
+
+        dt_reg <- dt_changes |>
+          dplyr::filter(!is.na(headcount_default) & !is.na(headcount_estimate)) |>
+          dplyr::mutate(diff_signed = headcount_estimate - headcount_default) |>
+          dplyr::group_by(region_code) |>
+          dplyr::summarise(
+            mean_diff = mean(diff_signed, na.rm = TRUE),
+            .groups = "drop"
+          ) |>
+          dplyr::arrange(dplyr::desc(abs(mean_diff)))
+
+        region_rows <- lapply(seq_len(nrow(dt_reg)), function(i) {
+          row <- dt_reg[i, ]
+          direction <- if (row$mean_diff > 0) {
+            "Alternative higher"
+          } else if (row$mean_diff < 0) {
+            "PIP higher"
+          } else {
+            "No difference"
+          }
+          tags$tr(
+            tags$td(row$region_code),
+            tags$td(sprintf("%+.1f pp", row$mean_diff), style = "text-align: right;"),
+            tags$td(direction, style = "text-align: right; font-size: 11px; color: #718096;")
+          )
+        })
+
+        controls_content <- tagList(
           tags$div(
             class = "pip-card pip-card--elevated",
-            tags$h5(class = "pip-card__subheading", "Plot Controls"),
-            selectInput(
-              inputId  = ns("sn_reporting_level"),
-              label    = "Reporting Level",
-              choices  = SN_REPORTING_LEVELS,
-              selected = sn_reporting_level()
+            # Click hint
+            tags$div(
+              style = "background-color: var(--pip-blue-light); border-radius: 6px; padding: 12px 14px; margin-bottom: 16px;",
+              tags$p(
+                style = "margin: 0; font-size: 13px; color: var(--pip-text-primary); font-weight: 600;",
+                tags$span(style = "margin-right: 6px;", "\U0001F4A1"),
+                "Click on an economy in the chart to see detailed estimates in a pop-up."
+              )
+            ),
+            tags$h5(class = "pip-card__subheading", "Average Difference by Region"),
+            tags$table(
+              class = "table table-sm",
+              style = "width: 100%; font-size: 13px;",
+              tags$thead(
+                tags$tr(
+                  tags$th("Region"),
+                  tags$th("Mean diff", style = "text-align: right;"),
+                  tags$th("Direction", style = "text-align: right;")
+                )
+              ),
+              tags$tbody(region_rows)
+            ),
+            tags$p(
+              class = "pip-analysis-stats__note",
+              "Mean difference = Alternative \u2212 PIP (pp). Positive values indicate the alternative method estimates higher poverty."
             )
           )
+        )
+
+        # SN method: add reporting level control above the stats
+        if (is_sn()) {
+          controls_content <- tagList(
+            tags$div(
+              class = "pip-card pip-card--elevated",
+              tags$h5(class = "pip-card__subheading", "Plot Controls"),
+              selectInput(
+                inputId  = ns("sn_reporting_level"),
+                label    = "Reporting Level",
+                choices  = SN_REPORTING_LEVELS,
+                selected = sn_reporting_level()
+              )
+            ),
+            controls_content
+          )
+        }
+
+        tags$div(
+          class = "pip-analysis-panel__controls",
+          controls_content
         )
       } else {
         NULL
@@ -761,7 +827,7 @@ mod_interactive_dashboard_server <- function(
         tags$h5(class = "pip-card__subheading", "Distribution Statistics"),
         tags$div(
           class = "pip-lorenz-stats",
-          tags$p(tags$strong("Country:"), tags$br(),
+          tags$p(tags$strong("Economy:"), tags$br(),
                  paste0(meta$country_name, " (", meta$iso3, ")")),
           tags$p(tags$strong("Survey year:"), tags$br(), meta$year),
           tags$p(tags$strong("Gap share:"), tags$br(), paste0(gap, "%")),
@@ -866,7 +932,7 @@ mod_interactive_dashboard_server <- function(
                sprintf("%.2f pp", bias)),
         tags$p(tags$strong("Standard Deviation:"), tags$br(),
                sprintf("%.2f pp", sd_diff)),
-        tags$p(tags$strong("Limits of Agreement*:"), tags$br(),
+        tags$p(tags$strong("Limits of Agreement (LoA)*:"), tags$br(),
                sprintf("[%.2f, %.2f] pp", loa_lower, loa_upper)),
         tags$p(tags$strong("Within \u00b13pp:"), tags$br(),
                sprintf("%d/%d (%.1f%%)", within_3pp, n_points, pct_within)),
@@ -930,7 +996,7 @@ mod_interactive_dashboard_server <- function(
       # Create detailed modal content
       modal_content <- tagList(
         h4(class = "pip-modal__country-title", clicked_country),
-        p(strong("Country Code: "), country_code),
+        p(strong("Economy Code: "), country_code),
         p(strong("Region: "), region),
         p(strong("Method: "), selected_method()),
         hr(),
@@ -984,7 +1050,7 @@ mod_interactive_dashboard_server <- function(
       # Show modal
       showModal(
         modalDialog(
-          title = "Country Details",
+          title = "Economy Details",
           modal_content,
           easyClose = TRUE,
           size = "m",

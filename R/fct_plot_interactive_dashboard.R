@@ -367,7 +367,7 @@ plot_changes <- function(data,
     ) +
     labs(
       title    = title,
-      subtitle = glue("Top 25 countries with the biggest difference, highlighting {select_country}"),
+      subtitle = glue("Top 25 economies with the biggest difference, highlighting {select_country}"),
       x        = "Poverty rate (%)",
       y        = NULL,
       caption  = "Values are rounded percentages. Data supplied by authors."

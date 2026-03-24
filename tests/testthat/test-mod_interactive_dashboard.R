@@ -348,3 +348,156 @@ test_that("lorenz_country_choices: empty result when no fst files exist", {
   expect_equal(length(empty_choices), 0L)
   expect_false(anyNA(names(empty_choices)))
 })
+
+
+# ── Steps 1–6: button labels, economy terms, LoA, Changes sidebar, CSS ────────
+# body_str is computed once and shared across all tests in this describe() block
+# to avoid re-deparsing the 1100-line server function for every test_that().
+
+describe("mod_interactive_dashboard_server body — feature/button-rename changes", {
+  body_str <- paste(deparse(body(mod_interactive_dashboard_server)), collapse = "\n")
+
+  # ── Step 1: Renamed tab button labels ───────────────────────────────────────
+
+  it("uses new button label 'Bias & agreement diagnostic'", {
+    expect_true(grepl("Bias & agreement diagnostic", body_str, fixed = TRUE))
+  })
+
+  it("uses new button label 'Largest changes'", {
+    expect_true(grepl("Largest changes", body_str, fixed = TRUE))
+  })
+
+  it("uses new button label 'Method comparison scatterplot'", {
+    expect_true(grepl("Method comparison scatterplot", body_str, fixed = TRUE))
+  })
+
+  it("no longer contains old 'Differences' tab-button label", {
+    # The old label was the literal string "Differences" assigned to rankings_label.
+    # After the rename it became "Bias & agreement diagnostic".
+    expect_false(grepl('"Differences"', body_str, fixed = TRUE))
+  })
+
+  it("no longer contains old 'Scatterplot' tab-button label", {
+    # The old label was the literal string "Scatterplot" assigned to scatter_label.
+    # After the rename it became "Method comparison scatterplot".
+    expect_false(grepl('"Scatterplot"', body_str, fixed = TRUE))
+  })
+
+  # ── Step 2: "Economy" terminology in modal and Lorenz stats ─────────────────
+
+  it("uses 'Economy Details' as the modal dialog title", {
+    expect_true(grepl("Economy Details", body_str, fixed = TRUE))
+  })
+
+  it("uses 'Economy Code:' in modal content", {
+    expect_true(grepl("Economy Code:", body_str, fixed = TRUE))
+  })
+
+  it("uses 'Economy:' in Lorenz stats panel", {
+    # The Lorenz stats panel renders tags$strong("Economy:") — check for the string
+    expect_true(grepl('"Economy:"', body_str, fixed = TRUE))
+  })
+
+  it("does NOT contain 'Country Details' (old modal title)", {
+    expect_false(grepl("Country Details", body_str, fixed = TRUE))
+  })
+
+  it("does NOT contain 'Country Code:' (old modal label)", {
+    expect_false(grepl("Country Code:", body_str, fixed = TRUE))
+  })
+
+  # ── Step 3: LoA acronym in rankings stats sidebar ───────────────────────────
+
+  it("rankings stats sidebar includes LoA acronym in label", {
+    # The label changed from "Limits of Agreement*:" to "Limits of Agreement (LoA)*:"
+    expect_true(grepl("Limits of Agreement (LoA)*:", body_str, fixed = TRUE))
+  })
+
+  it("rankings stats sidebar does NOT use old label without LoA acronym", {
+    # Use a regex to match the old form: "Limits of Agreement*:" with NO "(LoA)"
+    expect_false(grepl('"Limits of Agreement\\*:"', body_str))
+  })
+
+  # ── Step 4: Changes tab regional sidebar ────────────────────────────────────
+
+  it("renders Changes tab click hint text", {
+    expect_true(grepl("Click on an economy", body_str, fixed = TRUE))
+  })
+
+  it("renders 'Average Difference by Region' sidebar heading", {
+    expect_true(grepl("Average Difference by Region", body_str, fixed = TRUE))
+  })
+
+  it("computes diff_signed for Changes sidebar regional table", {
+    expect_true(grepl("diff_signed", body_str, fixed = TRUE))
+  })
+
+  it("computes mean_diff for Changes sidebar regional table", {
+    expect_true(grepl("mean_diff", body_str, fixed = TRUE))
+  })
+
+  it("Changes sidebar shows 'Alternative higher' direction label", {
+    expect_true(grepl("Alternative higher", body_str, fixed = TRUE))
+  })
+
+  it("Changes sidebar shows 'PIP higher' direction label", {
+    expect_true(grepl("PIP higher", body_str, fixed = TRUE))
+  })
+
+  it("Changes sidebar footnote explains mean difference direction", {
+    # Footnote text: "Mean difference = Alternative − PIP (pp)."
+    expect_true(grepl("Mean difference = Alternative", body_str, fixed = TRUE))
+  })
+
+  # ── Step 5: pip-analysis-panel--full no longer emitted ──────────────────────
+
+  it("no longer emits pip-analysis-panel--full class", {
+    # The --full variant was used when Changes tab had no sidebar (non-SN methods).
+    # All Changes tab cases now use the standard 2-column grid with a sidebar.
+    expect_false(grepl("pip-analysis-panel--full", body_str, fixed = TRUE))
+  })
+})
+
+
+# ── Step 6: CSS fixes — subtitle max-width and chart width constraint ─────────
+
+test_that("pip-analysis-section__intro has max-width: none (not 640px)", {
+  css <- readLines(
+    system.file("app/www/pip-redesign.css", package = "InnovationHubDashboard")
+  )
+  # Find all lines that define the __intro rule block
+  intro_idx <- grep("pip-analysis-section__intro", css)
+  expect_true(length(intro_idx) >= 1L)
+  # Check within a window around the first occurrence
+  window <- css[max(1L, intro_idx[1L] - 2L):min(length(css), intro_idx[1L] + 8L)]
+  expect_true(any(grepl("max-width:\\s*none", window)))
+  # Confirm the old 640px constraint is gone from that same window
+  expect_false(any(grepl("max-width:\\s*640px", window)))
+})
+
+test_that("CSS adds max-width: 100% and overflow: hidden to analysis grid children", {
+  css <- readLines(
+    system.file("app/www/pip-redesign.css", package = "InnovationHubDashboard")
+  )
+  # The combined rule block covers __controls, __chart, and __stats
+  panel_children_idx <- grep("pip-analysis-panel__controls", css)
+  expect_true(length(panel_children_idx) >= 1L)
+  # Look in a window around the first occurrence of the selector block
+  window <- css[max(1L, panel_children_idx[1L]):min(length(css), panel_children_idx[1L] + 10L)]
+  expect_true(any(grepl("max-width:\\s*100%", window)))
+  expect_true(any(grepl("overflow:\\s*hidden", window)))
+})
+
+test_that("CSS constrains shiny-plot-output width inside analysis chart panel", {
+  css <- readLines(
+    system.file("app/www/pip-redesign.css", package = "InnovationHubDashboard")
+  )
+  # A dedicated rule must target shiny-plot-output inside the analysis panel chart
+  plot_output_idx <- grep("shiny-plot-output", css)
+  expect_true(length(plot_output_idx) >= 1L)
+  # At least one of those lines must set width to 100%
+  shiny_plot_lines <- css[plot_output_idx]
+  # The width rule may be on the next line — check in a small window
+  window <- css[max(1L, plot_output_idx[1L]):min(length(css), plot_output_idx[1L] + 3L)]
+  expect_true(any(grepl("width:\\s*100%", window)))
+})
