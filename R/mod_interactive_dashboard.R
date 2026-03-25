@@ -1101,7 +1101,7 @@ mod_interactive_dashboard_server <- function(
       shiny::showModal(
         shiny::modalDialog(
           title     = glue::glue("More on the {tolower(input$select_method)} method"),
-          shiny::includeMarkdown(md_path),
+          include_markdown_with_math(md_path),
           easyClose = TRUE,
           size      = "l"
         )

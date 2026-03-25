@@ -7,6 +7,7 @@ Description: PKG_DESC.
 License: What license is it under?
 Imports: 
     collapse,
+    commonmark,
     config,
     data.table,
     dplyr,
