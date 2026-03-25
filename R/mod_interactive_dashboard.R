@@ -268,7 +268,13 @@ mod_interactive_dashboard_server <- function(
     observeEvent(input$mtg_gini_latest,  mtg_gini_latest(input$mtg_gini_latest))
 
     # ─── Lorenz comparison: file lookup and reactive values ──────────────────────
-    lorenz_file_lookup <- mtg_scan_cumulative_files()
+    # Wrapped in reactive() so the GitHub Contents API call fires lazily on
+    # first access (when the Lorenz panel is first rendered) rather than
+    # blocking every session start. The result is memoised for the session
+    # lifetime — one HTTP request per session, not one per page load.
+    lorenz_file_lookup <- reactive({
+      mtg_scan_cumulative_files()
+    })
 
     # Build country choices for Lorenz picker: iso3 → country_name.
     # Uses the authoritative WDI lookup (wb_country_names) instead of
@@ -276,11 +282,12 @@ mod_interactive_dashboard_server <- function(
     # files but absent from the MTG dataset — NA names crash selectInput.
     # iso3 values are deduplicated because a country may have multiple fst
     # files (different survey years) but the dropdown shows each country once.
-    lorenz_country_choices <- {
-      if (nrow(lorenz_file_lookup) == 0L) {
+    lorenz_country_choices <- reactive({
+      lookup <- lorenz_file_lookup()
+      if (nrow(lookup) == 0L) {
         stats::setNames(character(0L), character(0L))
       } else {
-        avail  <- unique(lorenz_file_lookup[, .(iso3)])
+        avail  <- unique(lookup[, .(iso3)])
         merged <- merge(avail, wb_country_names,
                         by.x = "iso3", by.y = "country_code", all.x = TRUE)
         # Safety: drop any iso3 that did not match WDI (e.g. disputed
@@ -289,25 +296,25 @@ mod_interactive_dashboard_server <- function(
         choices <- stats::setNames(merged$iso3, merged$country_name)
         choices[order(names(choices))]
       }
-    }
+    })
 
     # Pre-built reverse lookup: iso3 code → display name (avoids linear scan
     # on every country-change event)
-    lorenz_name_lookup <- stats::setNames(
-      names(lorenz_country_choices),
-      lorenz_country_choices
-    )
+    lorenz_name_lookup <- reactive({
+      choices <- lorenz_country_choices()
+      stats::setNames(names(choices), choices)
+    })
 
     # Helper: load one country's fst data and update lorenz reactives
     load_lorenz_country <- function(iso3_sel) {
-      file_row <- lorenz_file_lookup[iso3 == iso3_sel]
+      file_row <- lorenz_file_lookup()[iso3 == iso3_sel]
       if (nrow(file_row) == 0L) {
         lorenz_data(NULL)
         lorenz_meta(list(iso3 = iso3_sel, year = NA, country_name = iso3_sel))
         return()
       }
       dt    <- mtg_read_cumulative(iso3_sel, file_row$year[1L])
-      cname <- lorenz_name_lookup[[iso3_sel]]
+      cname <- lorenz_name_lookup()[[iso3_sel]]
       if (is.null(cname) || is.na(cname)) cname <- iso3_sel
       lorenz_data(dt)
       lorenz_meta(list(iso3 = iso3_sel, year = file_row$year[1L],
@@ -318,10 +325,15 @@ mod_interactive_dashboard_server <- function(
     lorenz_data <- reactiveVal(NULL)
     lorenz_meta <- reactiveVal(list(iso3 = NULL, year = NULL, country_name = NULL))
 
-    # Pre-load first country so the chart is not blank when the tab opens
-    if (length(lorenz_country_choices) > 0L) {
-      load_lorenz_country(lorenz_country_choices[[1L]])
-    }
+    # Pre-load first country so the chart is not blank when the tab opens.
+    # lorenz_country_choices() calls lorenz_file_lookup() which hits the
+    # GitHub API here — this is the single point of network access per session.
+    observe({
+      choices <- lorenz_country_choices()
+      if (length(choices) > 0L) {
+        load_lorenz_country(choices[[1L]])
+      }
+    }) |> bindEvent(lorenz_country_choices(), once = TRUE)
 
     # Load Lorenz data when country selection changes
     observeEvent(input$lorenz_country, {
@@ -542,8 +554,8 @@ mod_interactive_dashboard_server <- function(
             selectInput(
               inputId  = ns("lorenz_country"),
               label    = "Economy",
-              choices  = lorenz_country_choices,
-              selected = lorenz_country_choices[1]
+              choices  = lorenz_country_choices(),
+              selected = lorenz_country_choices()[[1L]]
             ),
             sliderInput(
               inputId = ns("lorenz_gap_share"),

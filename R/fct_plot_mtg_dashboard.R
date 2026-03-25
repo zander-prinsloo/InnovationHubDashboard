@@ -620,25 +620,51 @@ plot_mtg_gini_sensitivity <- function(data,
 
 
 # ---------------------------------------------------------------------------
-# Constants: Lorenz chart directory
+# Constants: Lorenz chart GitHub data source
 # ---------------------------------------------------------------------------
 
-#' Path to the directory containing cumulative distribution fst files
-#' @noRd
-MTG_CUMULATIVE_DIR <- "C:/Users/wb612474/OneDrive - WBG/innovation_hub/mind_the_gap/output_fst/2021PPP/cumulative_latest"
-
-
-# ---------------------------------------------------------------------------
-# Helper: scan cumulative fst directory
-# ---------------------------------------------------------------------------
-
-#' Build a lookup table of available countries and their fst filenames
+#' GitHub repository and path constants for cumulative distribution fst files
 #'
-#' Scans the cumulative_latest directory for files matching
+#' Files are fetched at runtime from the public GitHub repo rather than read
+#' from a local directory, so the app works identically on Posit Connect and
+#' local development machines.
+#'
+#' @noRd
+MTG_GITHUB_REPO   <- "GPID-WB/mtg-data"
+MTG_GITHUB_PATH   <- "output_fst/2021PPP/cumulative_latest"
+# Override with MTG_DATA_REF env var to pin a specific tag or commit SHA
+# in production without changing code (e.g. MTG_DATA_REF=v1.2.0).
+MTG_GITHUB_BRANCH <- Sys.getenv("MTG_DATA_REF", unset = "main")
+
+#' GitHub Contents API URL for listing available cumulative fst files
+#' @noRd
+MTG_API_URL <- paste0(
+  "https://api.github.com/repos/", MTG_GITHUB_REPO,
+  "/contents/", MTG_GITHUB_PATH,
+  "?ref=", MTG_GITHUB_BRANCH
+)
+
+#' Base URL for raw file downloads from GitHub
+#' @noRd
+MTG_RAW_BASE_URL <- paste0(
+  "https://raw.githubusercontent.com/", MTG_GITHUB_REPO,
+  "/", MTG_GITHUB_BRANCH, "/", MTG_GITHUB_PATH
+)
+
+
+# ---------------------------------------------------------------------------
+# Helper: scan cumulative fst files via GitHub Contents API
+# ---------------------------------------------------------------------------
+
+#' Build a lookup table of available countries from the GitHub data repo
+#'
+#' Calls the GitHub Contents API to list files matching
 #' `{iso3}_{year}_cumulative.fst` and returns a data.table with columns
 #' `iso3`, `year`, and `filename`.
 #'
-#' @param dir Character. Path to the directory containing the fst files.
+#' On network error (no internet, rate limit, timeout), returns an empty
+#' data.table and emits a warning rather than crashing. This causes the
+#' Lorenz dropdown to be empty rather than breaking the whole app.
 #'
 #' @return A [data.table::data.table] with columns `iso3` (upper-case),
 #'   `year` (integer), and `filename` (basename only, no path).
@@ -651,38 +677,98 @@ MTG_CUMULATIVE_DIR <- "C:/Users/wb612474/OneDrive - WBG/innovation_hub/mind_the_
 #'
 #' @importFrom data.table data.table
 #' @noRd
-mtg_scan_cumulative_files <- function(dir = MTG_CUMULATIVE_DIR) {
-  files <- list.files(dir, pattern = "^[a-z]{3}_\\d{4}_cumulative\\.fst$",
-                      full.names = FALSE)
-  if (length(files) == 0L) {
-    return(data.table::data.table(iso3 = character(), year = integer(),
-                                  filename = character()))
-  }
-  data.table::data.table(
-    iso3     = toupper(sub("^([a-z]{3})_.*", "\\1", files)),
-    year     = as.integer(sub("^[a-z]{3}_(\\d{4})_.*", "\\1", files)),
-    filename = files
+mtg_scan_cumulative_files <- function() {
+  empty <- data.table::data.table(
+    iso3     = character(),
+    year     = integer(),
+    filename = character()
   )
+
+  tryCatch({
+    # Fetch the directory listing from the GitHub Contents API.
+    # fromJSON() returns a data.frame with one row per file.
+    listing <- jsonlite::fromJSON(MTG_API_URL)
+
+    # Guard: API might return an error object (e.g. rate limit) rather than
+    # a data.frame. In that case the `name` column won't exist.
+    if (!is.data.frame(listing) || !"name" %in% names(listing)) {
+      rlang::warn(
+        "mtg_scan_cumulative_files: unexpected GitHub API response structure.",
+        call = NULL
+      )
+      return(empty)
+    }
+
+    files <- listing$name[grepl(
+      "^[a-z]{3}_\\d{4}_cumulative\\.fst$",
+      listing$name
+    )]
+
+    if (length(files) == 0L) {
+      return(empty)
+    }
+
+    data.table::data.table(
+      iso3     = toupper(sub("^([a-z]{3})_.*",      "\\1", files)),
+      year     = as.integer(sub("^[a-z]{3}_(\\d{4})_.*", "\\1", files)),
+      filename = files
+    )
+  },
+  error = function(e) {
+    rlang::warn(
+      paste0(
+        "mtg_scan_cumulative_files: could not fetch file listing from GitHub. ",
+        "The Lorenz comparison chart will be unavailable. ",
+        "Error: ", conditionMessage(e)
+      ),
+      call = NULL
+    )
+    empty
+  })
 }
 
 
-#' Read a single cumulative distribution fst file
+#' Download and read a single cumulative distribution fst file from GitHub
 #'
-#' @param iso3 Character. Upper-case ISO3 country code.
-#' @param year Integer. Survey year.
-#' @param dir  Character. Path to the cumulative_latest directory.
+#' Constructs the raw download URL for `{iso3}_{year}_cumulative.fst`,
+#' downloads it to a temporary file, reads it with [fst::read_fst()], and
+#' immediately deletes the temp file. The temp file is cleaned up via
+#' [base::on.exit()] even if an error occurs mid-read.
+#'
+#' On any error (file not found, network failure, corrupt download), returns
+#' `NULL` and emits a warning.
+#'
+#' @param iso3 Character. Upper-case ISO3 country code (e.g. `"ALB"`).
+#' @param year Integer or numeric. Survey year (e.g. `2020L`).
 #'
 #' @return A [data.table::data.table] with the distribution data, or `NULL`
-#'   if the file does not exist.
+#'   if the file could not be fetched or read.
 #'
 #' @noRd
-mtg_read_cumulative <- function(iso3, year, dir = MTG_CUMULATIVE_DIR) {
+mtg_read_cumulative <- function(iso3, year) {
+  # Construct the raw GitHub download URL for this country/year combination.
   fname <- paste0(tolower(iso3), "_", year, "_cumulative.fst")
-  fpath <- file.path(dir, fname)
-  if (!file.exists(fpath)) {
-    return(NULL)
-  }
-  fst::read_fst(fpath, as.data.table = TRUE)
+  url   <- paste0(MTG_RAW_BASE_URL, "/", fname)
+
+  # Write to a temp file; on.exit() guarantees cleanup regardless of outcome.
+  tmp <- tempfile(fileext = ".fst")
+  on.exit(unlink(tmp), add = TRUE)
+
+  tryCatch({
+    # mode = "wb" is required for binary files on Windows.
+    utils::download.file(url, destfile = tmp, mode = "wb", quiet = TRUE)
+    fst::read_fst(tmp, as.data.table = TRUE)
+  },
+  error = function(e) {
+    rlang::warn(
+      paste0(
+        "mtg_read_cumulative: could not fetch '", fname, "' from GitHub. ",
+        "Error: ", conditionMessage(e)
+      ),
+      call = NULL
+    )
+    NULL
+  })
 }
 
 

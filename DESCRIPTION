@@ -12,6 +12,8 @@ Imports:
     dplyr,
     fastverse,
     fst,
+    jsonlite,
+    rlang,
     ggplot2,
     golem,
     pkgload,

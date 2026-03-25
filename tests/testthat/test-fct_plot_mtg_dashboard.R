@@ -317,44 +317,57 @@ test_that("compute_gini_from_lorenz is between 0 and 1 for realistic Lorenz data
 # ── 7. mtg_scan_cumulative_files ──────────────────────────────────────────────
 
 test_that("mtg_scan_cumulative_files returns a data.table with required columns", {
+  skip_if_offline()
   result <- mtg_scan_cumulative_files()
   expect_s3_class(result, "data.table")
   expect_named(result, c("iso3", "year", "filename"), ignore.order = FALSE)
 })
 
 test_that("mtg_scan_cumulative_files iso3 values are upper-case 3-letter codes", {
+  skip_if_offline()
   result <- mtg_scan_cumulative_files()
-  skip_if(nrow(result) == 0L, "No fst files found in cumulative directory")
+  skip_if(nrow(result) == 0L, "No fst files found in GitHub repo")
   expect_true(all(grepl("^[A-Z]{3}$", result$iso3)))
 })
 
 test_that("mtg_scan_cumulative_files year values are positive integers", {
+  skip_if_offline()
   result <- mtg_scan_cumulative_files()
-  skip_if(nrow(result) == 0L, "No fst files found in cumulative directory")
+  skip_if(nrow(result) == 0L, "No fst files found in GitHub repo")
   expect_true(all(is.integer(result$year)))
   expect_true(all(result$year > 1900L & result$year < 2100L))
 })
 
-test_that("mtg_scan_cumulative_files returns 0-row data.table for non-existent dir", {
-  result <- mtg_scan_cumulative_files(dir = tempfile("nonexistent_dir_"))
+test_that("mtg_scan_cumulative_files returns a non-empty table from GitHub", {
+  skip_if_offline()
+  result <- mtg_scan_cumulative_files()
   expect_s3_class(result, "data.table")
-  expect_equal(nrow(result), 0L)
+  expect_gte(nrow(result), 100L)
 })
 
-test_that("mtg_scan_cumulative_files finds 165 files in the real directory", {
-  result <- mtg_scan_cumulative_files()
-  skip_if(nrow(result) == 0L, "Cumulative fst directory not accessible")
-  expect_equal(nrow(result), 165L)
+test_that("mtg_scan_cumulative_files returns empty data.table on network error", {
+  # Simulate a network failure (no internet / rate limit) without any real
+  # HTTP call. local_mocked_bindings() scopes the mock to this test only.
+  local_mocked_bindings(
+    fromJSON = function(...) stop("simulated network unreachable"),
+    .package = "jsonlite"
+  )
+  result <- suppressWarnings(mtg_scan_cumulative_files())
+  expect_s3_class(result, "data.table")
+  expect_equal(nrow(result), 0L)
+  expect_named(result, c("iso3", "year", "filename"))
 })
 
 
 # ── 8. mtg_read_cumulative ────────────────────────────────────────────────────
 
 test_that("mtg_read_cumulative returns NULL for a non-existent country/year", {
+  skip_if_offline()
   expect_null(mtg_read_cumulative("ZZZ", 9999L))
 })
 
 test_that("mtg_read_cumulative returns a data.table with expected columns", {
+  skip_if_offline()
   lookup <- mtg_scan_cumulative_files()
   skip_if(nrow(lookup) == 0L, "No fst files available")
   row1   <- lookup[1L]
@@ -364,6 +377,7 @@ test_that("mtg_read_cumulative returns a data.table with expected columns", {
 })
 
 test_that("mtg_read_cumulative has exactly 20 adjusted gap-share column pairs", {
+  skip_if_offline()
   lookup <- mtg_scan_cumulative_files()
   skip_if(nrow(lookup) == 0L, "No fst files available")
   dt <- mtg_read_cumulative(lookup$iso3[1L], lookup$year[1L])
@@ -375,6 +389,7 @@ test_that("mtg_read_cumulative has exactly 20 adjusted gap-share column pairs", 
 })
 
 test_that("mtg_read_cumulative standard distribution has exactly 100 non-NA rows", {
+  skip_if_offline()
   lookup <- mtg_scan_cumulative_files()
   skip_if(nrow(lookup) == 0L, "No fst files available")
   dt <- mtg_read_cumulative(lookup$iso3[1L], lookup$year[1L])
@@ -427,6 +442,7 @@ test_that("compute_lorenz_stats gini_change equals gini_adj minus gini_std", {
 })
 
 test_that("compute_lorenz_stats works for boundary gap shares 5 and 100", {
+  skip_if_offline()
   lookup <- mtg_scan_cumulative_files()
   skip_if(nrow(lookup) == 0L, "No fst files available")
   dt <- mtg_read_cumulative(lookup$iso3[1L], lookup$year[1L])
