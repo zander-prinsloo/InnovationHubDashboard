@@ -69,8 +69,8 @@
     <script type="importmap">
       {
         "imports": {
-          "@ai4data/search": "https://esm.sh/@ai4data/search@0.1.5",
-          "@ai4data/search/worker": "https://esm.sh/@ai4data/search@0.1.5/worker"
+          "@ai4data/search": "https://cdn.jsdelivr.net/npm/@ai4data/search@0.1.6",
+          "@ai4data/search/worker": "https://cdn.jsdelivr.net/npm/@ai4data/search@0.1.6/dist/worker.mjs"
         }
       }
     </script>
@@ -2732,7 +2732,43 @@
     <script type="module">
       // import { SearchClient } from "../dist/index.mjs";
       import { SearchClient } from "@ai4data/search";
-      const WORKER_URL = "https://esm.sh/@ai4data/search@0.1.5/worker";
+
+      const pageOrigin = window.location.origin;
+
+      /**
+       * When the iframe is opened without parent message (e.g. slow load), infer the
+       * deploy base path from this URL (e.g. .../content/abc123/research_repo/... → .../content/abc123/).
+       */
+      function defaultHfProxyFromPagePath() {
+        const idx = location.pathname.indexOf("/research_repo/");
+        if (idx <= 0) return `${pageOrigin}/api/hf-proxy/`;
+        const base = location.pathname.slice(0, idx);
+        return `${pageOrigin}${base}/api/hf-proxy/`;
+      }
+
+      /**
+       * Parent Shiny sends `HF_PROXY_BASE` (e.g. `/content/abc123/api/hf-proxy/` on Connect).
+       * Strip any `?...` so model paths append to the path, not the query string.
+       */
+      function hfProxyRemoteHost(proxyBase) {
+        if (!proxyBase) return defaultHfProxyFromPagePath();
+        const q = proxyBase.indexOf("?");
+        const pathOnly = q >= 0 ? proxyBase.slice(0, q) : proxyBase;
+        return pathOnly.endsWith("/") ? pathOnly : pathOnly + "/";
+      }
+
+      function getParentHfProxyBase() {
+        try {
+          if (window.parent !== window && window.parent.HF_PROXY_BASE) {
+            return window.parent.HF_PROXY_BASE;
+          }
+        } catch (e) {
+          /* cross-origin */
+        }
+        return null;
+      }
+      const WORKER_URL =
+        "https://cdn.jsdelivr.net/npm/@ai4data/search@0.1.6/dist/worker.mjs";
 
       const { createApp, ref, onMounted, nextTick, watch, computed } = Vue;
 
@@ -2740,8 +2776,17 @@
       // Base path for GitHub Pages (e.g. /ai-for-data-blog); empty when served from repo root
       const basePathMatch = location.pathname.match(/^\/([^/]+)\/search\//);
       const basePath = basePathMatch ? "/" + basePathMatch[1] : "";
-      // Default: {basePath}/data/prwp/manifest.json. Override with ?manifest=...
-      const manifestUrl = params.get("manifest") || `data/prwp/manifest.json`;
+      // Resolve to an absolute URL so fetches from the CDN worker use this app (Connect
+      // /content/.../_w_.../research_repo/...), not the worker script origin.
+      // Override with ?manifest= (relative to this page or absolute).
+      const manifestUrl = (() => {
+        const raw = params.get("manifest") || "data/prwp/manifest.json";
+        try {
+          return new URL(raw, window.location.href).href;
+        } catch (e) {
+          return raw;
+        }
+      })();
       // ?skipModel=1 — skip loading the embedding model to test BM25 fallback (semantic/hybrid → lexical).
       const skipModelLoad = params.has("skipModel");
       // ?modelDelay=60 — delay loading the embedding model by N seconds so index + BM25 are ready first.
@@ -2768,7 +2813,7 @@
       if (useRerank) {
         rerankWorker = new Worker(
           new URL(
-            "https://esm.sh/@ai4data/search@0.1.5/rank-worker",
+            "https://cdn.jsdelivr.net/npm/@ai4data/search@0.1.6/dist/rank-worker.mjs",
             import.meta.url,
           ),
           {
@@ -3263,11 +3308,20 @@
             await loadMore({ done: () => {} });
           });
 
-          onMounted(() => {
+          onMounted(async () => {
             document.getElementById("firstLoading")?.remove();
+            let parentProxy = getParentHfProxyBase();
+            const deadline = Date.now() + 8000;
+            while (!parentProxy && Date.now() < deadline) {
+              await new Promise((r) => setTimeout(r, 100));
+              parentProxy = getParentHfProxyBase();
+            }
+            const hfProxyUrl = hfProxyRemoteHost(parentProxy);
             SearchClient.fromCDN(manifestUrl, {
               skipBm25: true,
-              workerUrl: "https://esm.sh/@ai4data/search@0.1.5/worker",
+              workerUrl:
+                "https://cdn.jsdelivr.net/npm/@ai4data/search@0.1.6/dist/worker.mjs",
+              transformersRemoteHost: hfProxyUrl,
               skipModelLoad,
               modelLoadDelaySeconds: skipModelLoad
                 ? undefined

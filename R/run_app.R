@@ -14,15 +14,25 @@ run_app <- function(
   uiPattern = "/",
   ...
 ) {
+  app <- shinyApp(
+    ui = app_ui,
+    server = app_server,
+    onStart = onStart,
+    options = options,
+    enableBookmarking = enableBookmarking,
+    uiPattern = uiPattern
+  )
+  # Prepend /api/hf-proxy (avoids Shiny dataobj routing bug for long paths)
+  old_handler <- app$httpHandler
+  app$httpHandler <- function(req) {
+    r <- hf_proxy_http_handler(req)
+    if (!is.null(r)) {
+      return(r)
+    }
+    old_handler(req)
+  }
   with_golem_options(
-    app = shinyApp(
-      ui = app_ui,
-      server = app_server,
-      onStart = onStart,
-      options = options,
-      enableBookmarking = enableBookmarking,
-      uiPattern = uiPattern
-    ),
+    app = app,
     golem_opts = list(...)
   )
 }

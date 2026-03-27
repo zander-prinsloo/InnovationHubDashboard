@@ -27,6 +27,29 @@ app_server <- function(input, output, session) {
   require(glue, quietly = TRUE)
   require(grid, quietly = TRUE)
 
+  # Optional: set INNOVATIONHUB_LOG_RESEARCH_REPO=1 on Connect to confirm manifest path
+  if (nzchar(Sys.getenv("INNOVATIONHUB_LOG_RESEARCH_REPO", ""))) {
+    mr <- app_sys("app/research_repo/data/prwp/manifest.json")
+    message(
+      "InnovationHubDashboard research_repo manifest: ",
+      mr,
+      " | file.exists=",
+      file.exists(mr)
+    )
+  }
+
+  # ---- Hugging Face proxy URL for @ai4data/search (Transformers.js) ----
+  # Served at {url_pathname}/api/hf-proxy/... (Posit Connect adds a base path).
+  # clientData must be read inside observe() / reactive(), not in onFlushed().
+  observeEvent(session$clientData$url_pathname, {
+    pathname <- session$clientData$url_pathname
+    session$sendCustomMessage(
+      "hf-proxy-url",
+      list(url = hf_proxy_client_url(pathname))
+    )
+  }, ignoreNULL = TRUE)
+  # ---- End Hugging Face proxy ----
+
   # 1b) preprocess d_sn: remove default method, drop unneeded cols, join country_name
   country_lookup <- data.frame(
     code = c("AGO","BFA","BGD","TCD","CIV","COL","EGY","ETH","GAB",
