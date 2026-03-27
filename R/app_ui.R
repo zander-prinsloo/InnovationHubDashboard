@@ -9,19 +9,6 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     shinyjs::useShinyjs(),
 
-    # ---- Hugging Face proxy URL ----
-    tags$script(HTML("
-      let HF_PROXY_BASE = null;
-
-      Shiny.addCustomMessageHandler('hf-proxy-url', (msg) => {
-        HF_PROXY_BASE = msg.url;
-        window.HF_PROXY_BASE = msg.url;
-        console.log('Proxy base:', HF_PROXY_BASE);
-      });
-    ")),
-
-    # ---- End Hugging Face proxy URL ----
-
     # ---- PIP Header ----
     tags$header(
       class = "pip-header",

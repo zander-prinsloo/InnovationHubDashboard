@@ -15,3 +15,6 @@ data/*.xlsx
 
 # Compound GPID local config (user-specific, never commit)
 compound-gpid.local.md
+
+# Bundled embedding model (large HF repo checkout; keep local / deploy via other means)
+inst/app/research_repo/GIST-small-Embedding-v0/

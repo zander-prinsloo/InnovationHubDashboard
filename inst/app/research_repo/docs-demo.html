@@ -2730,70 +2730,10 @@
 
       const pageOrigin = window.location.origin;
       const params = new URLSearchParams(location.search);
-      /** Same default as R `gh_proxy_config()` path_prefix. */
-      const IDS_METADATA_CDN_PREFIX = "gh/avsolatorio/ids-metadata@main/";
-
-      /**
-       * When the iframe is opened without parent message (e.g. slow load), infer the
-       * deploy base path from this URL (e.g. .../content/abc123/research_repo/... → .../content/abc123/).
-       */
-      function defaultHfProxyFromPagePath() {
-        const idx = location.pathname.indexOf("/research_repo/");
-        if (idx <= 0) return `${pageOrigin}/api/hf-proxy/`;
-        const base = location.pathname.slice(0, idx);
-        return `${pageOrigin}${base}/api/hf-proxy/`;
-      }
-
-      /**
-       * Parent Shiny sends `HF_PROXY_BASE` (e.g. `/content/abc123/api/hf-proxy/` on Connect).
-       * Strip any `?...` so model paths append to the path, not the query string.
-       */
-      function hfProxyRemoteHost(proxyBase) {
-        if (!proxyBase) return defaultHfProxyFromPagePath();
-        const q = proxyBase.indexOf("?");
-        const pathOnly = q >= 0 ? proxyBase.slice(0, q) : proxyBase;
-        return pathOnly.endsWith("/") ? pathOnly : pathOnly + "/";
-      }
-
-      function getParentHfProxyBase() {
-        try {
-          if (window.parent !== window && window.parent.HF_PROXY_BASE) {
-            return window.parent.HF_PROXY_BASE;
-          }
-        } catch (e) {
-          /* cross-origin */
-        }
-        return null;
-      }
-
-      function defaultGhProxyFromPagePath() {
-        const idx = location.pathname.indexOf("/research_repo/");
-        if (idx <= 0) return `${pageOrigin}/api/gh-proxy/`;
-        const base = location.pathname.slice(0, idx);
-        return `${pageOrigin}${base}/api/gh-proxy/`;
-      }
-
-      function ghProxyRemoteHost(proxyBase) {
-        if (!proxyBase) return defaultGhProxyFromPagePath();
-        const q = proxyBase.indexOf("?");
-        const pathOnly = q >= 0 ? proxyBase.slice(0, q) : proxyBase;
-        return pathOnly.endsWith("/") ? pathOnly : pathOnly + "/";
-      }
-
-      function getParentGhProxyBase() {
-        try {
-          if (window.parent !== window && window.parent.GH_PROXY_BASE) {
-            return window.parent.GH_PROXY_BASE;
-          }
-        } catch (e) {
-          /* cross-origin */
-        }
-        return null;
-      }
 
       /**
        * Absolute base URL for `research_repo/` (Posit Connect: …/content/…/research_repo/).
-       * Used to load a bundled embedding model from static files (same origin as this page).
+       * Used for manifest, index, bundled embedding model, and metadata JSON (same origin).
        */
       function researchRepoBaseUrl() {
         const idx = location.pathname.indexOf("/research_repo/");
@@ -2802,23 +2742,9 @@
         return `${pageOrigin}${base}/research_repo/`;
       }
 
-      /** Default manifest: static file under research_repo (not named manifest.json — rsconnect excludes that basename). */
+      /** Static manifest under research_repo (not `manifest.json` — rsconnect excludes that basename). */
       function resolveManifestUrl() {
         return researchRepoBaseUrl() + "data/prwp/search_manifest.json";
-        // const manifestParam = params.get("manifest");
-        // if (manifestParam) {
-        //   try {
-        //     return new URL(manifestParam, window.location.href).href;
-        //   } catch (e) {
-        //     return manifestParam;
-        //   }
-        // }
-        // let ghBase = getParentGhProxyBase();
-        // if (!ghBase) {
-        //   ghBase = defaultGhProxyFromPagePath();
-        // }
-        // const base = ghProxyRemoteHost(ghBase);
-        // return base + IDS_METADATA_CDN_PREFIX + "data/prwp/search_manifest.json";
       }
 
       const WORKER_URL =
@@ -2829,11 +2755,8 @@
       // Base path for GitHub Pages (e.g. /ai-for-data-blog); empty when served from repo root
       const basePathMatch = location.pathname.match(/^\/([^/]+)\/search\//);
       const basePath = basePathMatch ? "/" + basePathMatch[1] : "";
-      // manifestUrl is set in onMounted via resolveManifestUrl() so parent GH_PROXY_BASE exists.
       // ?skipModel=1 — skip loading the embedding model to test BM25 fallback (semantic/hybrid → lexical).
-      // ?embedModel=proxy — load embedding via /api/hf-proxy/ (server → Hugging Face); default is bundled files under research_repo/GIST-small-Embedding-v0/
       const skipModelLoad = params.has("skipModel");
-      const useBundledEmbeddingModel = params.get("embedModel") !== "proxy";
       // ?modelDelay=60 — delay loading the embedding model by N seconds so index + BM25 are ready first.
       const modelDelayParam = params.get("modelDelay");
       const modelLoadDelaySeconds =
@@ -3079,22 +3002,12 @@
             return format_authorities_title(viewItem.value);
           });
 
-          // Prefetch metadata from ids-metadata for result cards (geographic_coverage, time_coverage, source)
+          // Prefetch metadata JSON under research_repo for result cards
           const enrichResultsWithMetadata = (results, limit = 20) => {
             const toEnrich = results.slice(0, limit);
             toEnrich.forEach((r) => {
               const idno = r.idno ?? r.id;
               if (!idno) return;
-              let parentGh = getParentGhProxyBase();
-              if (!parentGh) {
-                parentGh = defaultGhProxyFromPagePath();
-              }
-              const base = ghProxyRemoteHost(parentGh);
-              // fetch(
-              //   base +
-              //     IDS_METADATA_CDN_PREFIX +
-              //     `data/prwp/metadata/${dtype}_${idno}.json`,
-              // )
               fetch(
                 researchRepoBaseUrl() +
                   `data/prwp/metadata/${dtype}_${idno}.json`,
@@ -3248,15 +3161,7 @@
             const item = viewItem.value;
             const idno = item?.idno ?? item?.id;
             if (!idno) return;
-            let parentGh = getParentGhProxyBase();
-            if (!parentGh) {
-              parentGh = defaultGhProxyFromPagePath();
-            }
-            const base = ghProxyRemoteHost(parentGh);
             const url =
-              // base +
-              // IDS_METADATA_CDN_PREFIX +
-              // `data/prwp/metadata/${dtype}_${idno}.json`;
               researchRepoBaseUrl() +
               `data/prwp/metadata/${dtype}_${idno}.json`;
             fetch(url)
@@ -3378,40 +3283,18 @@
 
           onMounted(async () => {
             document.getElementById("firstLoading")?.remove();
-            let parentProxy = getParentHfProxyBase();
-            let parentGh = getParentGhProxyBase();
-            const deadline = Date.now() + 8000;
-            while (Date.now() < deadline) {
-              if (!useBundledEmbeddingModel) {
-                if (!parentProxy) parentProxy = getParentHfProxyBase();
-              }
-              if (!parentGh) parentGh = getParentGhProxyBase();
-              if (useBundledEmbeddingModel) {
-                if (parentGh) break;
-              } else if (parentProxy && parentGh) {
-                break;
-              }
-              await new Promise((r) => setTimeout(r, 100));
-            }
             const manifestUrl = resolveManifestUrl();
-            const searchClientOpts = {
+            SearchClient.fromCDN(manifestUrl, {
               skipBm25: false,
               workerUrl:
                 "https://cdn.jsdelivr.net/npm/@ai4data/search@0.1.7/dist/worker.mjs",
+              transformersRemoteHost: researchRepoBaseUrl(),
+              transformersRemotePathTemplate: "GIST-small-Embedding-v0/",
               skipModelLoad,
               modelLoadDelaySeconds: skipModelLoad
                 ? undefined
                 : modelLoadDelaySeconds,
-            };
-            if (useBundledEmbeddingModel) {
-              searchClientOpts.transformersRemoteHost = researchRepoBaseUrl();
-              searchClientOpts.transformersRemotePathTemplate =
-                "GIST-small-Embedding-v0/";
-            } else {
-              searchClientOpts.transformersRemoteHost =
-                hfProxyRemoteHost(parentProxy);
-            }
-            SearchClient.fromCDN(manifestUrl, searchClientOpts)
+            })
               .then((client) => {
                 clientRef.value = client;
                 client.on("progress", (msg) => {

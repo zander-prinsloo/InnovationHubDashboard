@@ -28,8 +28,9 @@ app_server <- function(input, output, session) {
   require(grid, quietly = TRUE)
 
   # Optional: set INNOVATIONHUB_LOG_RESEARCH_REPO=1 on Connect to confirm manifest path
+  # Note: not `manifest.json` — rsconnect excludes that basename from every bundle (see rsconnect ignoreBundleFiles).
   if (nzchar(Sys.getenv("INNOVATIONHUB_LOG_RESEARCH_REPO", ""))) {
-    mr <- app_sys("app/research_repo/data/prwp/manifest.json")
+    mr <- app_sys("app/research_repo/data/prwp/search_manifest.json")
     message(
       "InnovationHubDashboard research_repo manifest: ",
       mr,
@@ -37,18 +38,6 @@ app_server <- function(input, output, session) {
       file.exists(mr)
     )
   }
-
-  # ---- Hugging Face proxy URL for @ai4data/search (Transformers.js) ----
-  # Served at {url_pathname}/api/hf-proxy/... (Posit Connect adds a base path).
-  # clientData must be read inside observe() / reactive(), not in onFlushed().
-  observeEvent(session$clientData$url_pathname, {
-    pathname <- session$clientData$url_pathname
-    session$sendCustomMessage(
-      "hf-proxy-url",
-      list(url = hf_proxy_client_url(pathname))
-    )
-  }, ignoreNULL = TRUE)
-  # ---- End Hugging Face proxy ----
 
   # 1b) preprocess d_sn: remove default method, drop unneeded cols, join country_name
   country_lookup <- data.frame(
