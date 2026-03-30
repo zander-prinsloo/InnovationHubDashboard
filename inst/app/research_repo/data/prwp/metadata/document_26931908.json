@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Socioeconomic resilience : multi-hazard estimates in 117 countries",
+    "idno": "26931908",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26931908",
+      "title": "Socioeconomic resilience : multi-hazard estimates in 117 countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bangalore,Mook"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vogt-Schilb,Adrien Camille"
+      }
+    ],
+    "date_created": "2016/11/14",
+    "date_available": "2016/11/14",
+    "date_published": "2016/11/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26931908"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0846e17c7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0846e17c7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a model to assess the socioeconomic resilience to natural disasters of an economy, defined as its capacity to mitigate the impact of disaster-related asset losses on welfare. The paper proposes a tool to help decision makers identify the most promising policy options to reduce welfare losses from natural disasters. Applied to riverine and storm surge floods, earthquakes, windstorms, and tsunamis in 117 countries, the model provides estimates of country-level socioeconomic resilience. Because hazards disproportionally affect poor people, each $1 of global natural disaster-related asset loss is equivalent to a $1.6 reduction in the affected country’s national income, on average. The model also assesses policy levers to reduce welfare losses in each country. It shows that considering asset losses is insufficient to assess disaster risk management policies. The same reduction in asset losses results in different welfare gains depending on who (especially poor or nonpoor households) benefits. And some policies, such as adaptive social protection, do not reduce asset losses, but still reduce welfare losses. Post-disaster transfers bring an estimated benefit of at least $1.30 per dollar disbursed in the 117 countries studied, and their efficiency is not very sensitive to targeting errors.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7886",
+    "url": "http://documents.worldbank.org/curated/en/885041478880630169/pdf/WPS7886.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.280055",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

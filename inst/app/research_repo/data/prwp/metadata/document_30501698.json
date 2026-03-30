@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Concentration in the Banking Sector and Financial Stability : New Evidence",
+    "idno": "30501698",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30501698",
+      "title": "Concentration in the Banking Sector and Financial Stability : New Evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calice,Pietro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Leonida,Leone"
+      }
+    ],
+    "date_created": "2018/10/16",
+    "date_available": "2018/10/16",
+    "date_published": "2018/10/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30501698"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086452781"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086452781"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Theory suggests that the effect of banking market concentration on financial stability is mediated by several competing variables. Using a sample of 68 countries from 1997 to 2015, this paper proposes a unified empirical framework to test for the simultaneous presence and impact of the mediators through which concentration is expected to impact financial stability. The results indicate that the magnitude and net effect of the mediators depend upon the level of concentration. At lower levels of concentration, increasing concentration improves banking system stability via profitability. At higher levels of concentration, increasing concentration makes the banking system more fragile because of the cost of credit, diversification and the ease of monitoring. For intermediate levels, concentration has no significant effect on financial stability, as the competing moderators cancel each other out. The results suggest that an intermediate level of concentration may be optimal for welfare.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8615",
+    "url": "http://documents.worldbank.org/curated/en/953311539698216215/pdf/WPS8615.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.675801",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

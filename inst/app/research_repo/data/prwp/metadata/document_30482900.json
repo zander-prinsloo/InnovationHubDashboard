@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the Effect of Public Capital on Growth : An Extension of the World Bank Long-Term Growth Model",
+    "idno": "30482900",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30482900",
+      "title": "Assessing the Effect of Public Capital on Growth : An Extension of the World Bank Long-Term Growth Model",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Devadas,Sharmila"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pennings,Steven Michael"
+      }
+    ],
+    "date_created": "2018/10/09",
+    "date_available": "2018/10/09",
+    "date_published": "2018/10/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30482900"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086414859"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086414859"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To analyze the effect of an increase in the quantity or quality of public investment on growth, this paper extends the World Bank’s Long-Term Growth Model (LTGM), by separating the total capital stock into public and private portions, with the former adjusted for its quality. The paper presents the Long-Term Growth Model Public Capital Extension (LTGM-PC) and accompanying freely downloadable Excel-based tool. It also constructs a new Infrastructure Efficiency Index (IEI), by combining quality indicators for power, roads, and water as a cardinal measure of the quality of public capital in each country. In the model, public investment generates a larger boost to growth if existing stocks of public capital are low, or if public capital is particularly important in the production function. Through the lens of the model and utilizing newly-collated cross-country data, the paper presents three stylized facts and some related policy implications. First, the measured public capital stock is roughly constant as a share of gross domestic product (GDP) across income groups, which implies that the returns to new public investment, and its effect on growth, are roughly constant across development levels. Second, developing countries are relatively short of private capital, which means that private investment provides the largest boost to growth in low-income countries. Third, low-income countries have the lowest quality of public capital and the lowest efficient public capital stock as a share of gross domestic product. Although this does not affect the returns to public investment, it means that improving the efficiency of public investment has a sizable effect on growth in low-income countries. Quantitatively, a permanent 1ppt GDP increase in public investment boosts growth by around 0.1-0.2ppts over the following few years (depending on the parameters), with the effect declining over time.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8604",
+    "url": "http://documents.worldbank.org/curated/en/701811539089110745/pdf/WPS8604.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.796111",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

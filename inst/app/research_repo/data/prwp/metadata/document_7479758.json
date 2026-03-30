@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identifying supply-side constraints to export performance in Ecuador : an exercise with Investment Climate Survey data",
+    "idno": "7479758",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7479758",
+      "title": "Identifying supply-side constraints to export performance in Ecuador : an exercise with Investment Climate Survey data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Correa,Paulo Guilherme"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dayoub,Mariam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Do Rosario Francisco,Maria Manuela"
+      }
+    ],
+    "date_created": "2007/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7479758"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b40bb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b40bb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors apply a Heckman selection model to the 2003 Investment Climate Survey (ICS) to investigate supply-side constraints to export performance at the firm level in Ecuador. To correct for the non-random truncation problems, they use the Heckman selection model to estimate the probability of exporting (export propensity) and the share of total sales that are exported (export intensity) by Ecuadorian firms. They develop a baseline model with 12 independent variables divided into three categories-idiosyncratic characteristics, technology, and business environment. The authors develop three other models with the addition of variables related to trade integration, business environment, and infrastructure. Results corroborate with the hypothesis implicit in the Heckman model, which considers both decisions made by a firm-whether to export, and how much of its sales to export-to be interdependent. In the Ecuadorian case, they find three important results for the firm's export performance: technology matters; infrastructure does not; and trade orientation is significant, with specialized firms tending to have smaller export intensity when their main trade partners are countries of the Andean Community, and the opposite happening if the United States is their main trade partner. The authors find a robust and stable relationship for export propensity and intensity with size, import of inputs, labor regulations, in-house research and development, quality certification, web-use, and foreign ownership. Also, capacity utilization and trade with the United States positively affect export intensity, while trade within the Andean Community has the opposite effect in the outcome variable. But they find no significant relationship for the infrastructure variables.",
+    "ref_country": [
+      {
+        "name": "Ecuador",
+        "code": "ECU"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4179",
+    "url": "http://documents.worldbank.org/curated/en/310011468248415708/pdf/wps4179.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.897123",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

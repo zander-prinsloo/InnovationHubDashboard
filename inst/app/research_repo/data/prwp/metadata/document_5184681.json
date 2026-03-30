@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty alleviation through geographic targeting : how much does disaggregation help",
+    "idno": "5184681",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5184681",
+      "title": "Poverty alleviation through geographic targeting : how much does disaggregation help",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbers,Chris T.M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozler,Berk"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fujii,Tomoki"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yin,Wesley E."
+      }
+    ],
+    "date_created": "2004/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5184681"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b053c8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b053c8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using recently completed \"poverty maps\" for Cambodia, Ecuador, and Madagascar, the authors simulate the impact on poverty of transferring an exogenously given budget to geographically defined subgroups of the population according to their relative poverty status. They find large gains from targeting smaller administrative units, such as districts or villages. But these gains are still far from the poverty reduction that would be possible had the planners had access to information on household level income or consumption. The results suggest that a useful way forward might be to combine fine geographic targeting using a poverty map with within-community targeting mechanisms.",
+    "ref_country": [
+      {
+        "name": "Madagascar",
+        "code": "MDG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KHM"
+      },
+      {
+        "name": "Ecuador",
+        "code": "ECU"
+      }
+    ],
+    "spatial_coverage": "Africa ; East Asia and Pacific ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3419",
+    "url": "http://documents.worldbank.org/curated/en/582781468743656792/pdf/wps3419.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.411043",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

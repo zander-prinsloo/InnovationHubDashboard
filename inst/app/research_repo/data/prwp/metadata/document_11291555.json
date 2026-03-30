@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Mind the neighbors : the impact of productivity and location on firm turnover",
+    "idno": "11291555",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11291555",
+      "title": "Mind the neighbors : the impact of productivity and location on firm turnover",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallward-Driemeier, Mary"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thompson, Fraser"
+      }
+    ],
+    "date_created": "2009/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11291555"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c2bcc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c2bcc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the impact of firm productivity and local industrial structure on firm entry and exit in Morocco between 1985 and 2001. There is strong evidence of productivity exerting a market-cleansing role. Less productive firms are found to be more likely to exit - and locations with more productive firms attract higher rates of new firm entry. The effect of productivity operates not only in an absolute sense; a firms relative productivity or distance to the local sector frontier matters too. First, large productivity gaps are associated with higher rates of exit, while new firms are attracted to locations with small productivity gaps. Second, local competition increases the probability of exit, although it does not encourage entry. Third, there is evidence of scale or agglomeration effects that increase firm turnover. Fourth, measures of sector diversity are not associated with lower turnover. Fifth, the geographic level at which agglomeration and competition effects are defined matters differently for exit than entry. For exit, the provincial measures are strong, while those for communes are weaker. For entry, it is the local productivity at the commune level that is more significant. This implies that competitive pressures are less geographically constrained while the potential benefits of agglomeration and spill-overs are indeed more local.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5106",
+    "url": "http://documents.worldbank.org/curated/en/471231468152711369/pdf/WPS5106.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.934392",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

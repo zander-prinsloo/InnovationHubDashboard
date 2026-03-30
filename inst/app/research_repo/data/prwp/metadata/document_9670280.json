@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What does \"entrepreneurship\" data really show a comparison of the global entrepreneurship monitor and World Bank group datasets",
+    "idno": "9670280",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9670280",
+      "title": "What does \"entrepreneurship\" data really show a comparison of the global entrepreneurship monitor and World Bank group datasets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Acs,Zoltan J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Desai,Sameeksha Vishvanath"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Klapper,Leora"
+      }
+    ],
+    "date_created": "2008/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9670280"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5167"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5167"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper compares two datasets designed to measure entrepreneurship. The Global Entrepreneurship Monitor dataset captures early-stage entrepreneurial activity; the World Bank Group Entrepreneurship Survey dataset captures formal business registration. There are a number of important differences when the data are compared. First, GEM data tend to report significantly greater levels of early-stage entrepreneurship in developing economies than do the World Bank data. The World Bank data tend to be greater than GEM data for developed countries. Second, the magnitude of the difference between the datasets across countries is related to the local institutional and environmental conditions for entrepreneurs, after controlling for levels of economic development. A possible explanation for this is that the World Bank data measure rates of entry in the formal economy, whereas GEM data are reflective of entrepreneurial intent and capture informality of entrepreneurship. This is particularly true for developing countries. Therefore, this discrepancy can be interpreted as the spread between individuals who could potentially operate businesses in the formal sector - and those that actually do so: In other words, GEM data may represent the potential supply of entrepreneurs, whereas the World Bank data may represent the actual rate of entrepreneurship. The findings suggest that entrepreneurs in developed countries have greater ease and incentives to incorporate, both for the benefits of greater access to formal financing and labor contracts, as well as for tax and other purposes not directly related to business activities.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4667",
+    "url": "http://documents.worldbank.org/curated/en/176011468314725732/pdf/What-does-entrepreneurship-data-really-show-a-comparison-of-the-global-entrepreneurship-monitor-and-World-Bank-group-datasets.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other financial and private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.977483",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

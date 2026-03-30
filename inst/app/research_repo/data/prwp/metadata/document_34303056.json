@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "News Sentiment in Destination Countries and Migration Choices : Evidence from Libya",
+    "idno": "34303056",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34303056",
+      "title": "News Sentiment in Destination Countries and Migration Choices : Evidence from Libya",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Di Maio,Michele"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elmallakh,Nelly Youssef Louis William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Leone Sciabolazza,Valerio"
+      }
+    ],
+    "date_created": "2024/04/17",
+    "date_available": "2024/04/17",
+    "date_published": "2024/04/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34303056"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5106e1d1-5d5e-4819-85f7-a49e5ec89065"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5106e1d1-5d5e-4819-85f7-a49e5ec89065"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10754"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Changes in the sentiment of migration-related news published in destination countries affect the timing of migrants&#x2019; journeys to these countries. Using geo-localized data on migrants in Libya and the complete record of news articles in their country of destination, this paper shows that a worsening news sentiment leads to migrants staying longer in Libya, slowing down their journeys to their final destinations. The paper validates these results by showing that the effect is concentrated in locations with internet connections. The results indicate that changes in news sentiment have a significant impact only for some groups of migrants and under specific conditions, suggesting a limited effect on overall migrant movements. Finally, the paper provides suggestive evidence that a worsening news sentiment in the preferred destination induces substitution across destination countries, yet it does not make migrants return to their country of origin.",
+    "ref_country": [
+      {
+        "name": "Libya",
+        "code": "LBY"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10754",
+    "url": "http://documents.worldbank.org/curated/en/099527304172429684/pdf/IDU15106e1d115d5e14819185f71a49e5ec89065.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.692311",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

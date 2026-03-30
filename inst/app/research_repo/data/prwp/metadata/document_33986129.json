@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding the Global Drivers of Inflation : How Important Are Oil Prices ?",
+    "idno": "33986129",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33986129",
+      "title": "Understanding the Global Drivers of Inflation : How Important Are Oil Prices ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ha,Jongrim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kose,Ayhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ohnsorge,Franziska Lieselotte"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yilmazkuday,Hakan"
+      }
+    ],
+    "date_created": "2023/01/24",
+    "date_available": "2023/01/24",
+    "date_published": "2023/01/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33986129"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-458baf2e-e6ed-45bb-95e7-cbc841f24bed"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-458baf2e-e6ed-45bb-95e7-cbc841f24bed"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10283"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the global drivers of inflation in 55 countries over 1970&#x2013;2022. The paper estimates a Factor-Augmented Vector Autoregression model for each country and assess the importance of several global (demand, supply, and oil price) and domestic shocks. It reports three main results. First, global shocks have explained about 26 percent of inflation variation in a typical economy. Oil price shocks accounted for only about 4 percent of inflation variation, but they had a statistically significant impact on inflation in three-quarters of the countries. Second, global shocks have become more important in driving inflation variation over time. The share of inflation variance caused by oil price shocks increased from 4 percent prior to 2000 to roughly 9 percent during 2001&#x2013;22. They also accounted for some of the steep runup in inflation between mid-2021 and mid-2022. Third, oil price shocks tended to contribute significantly more to inflation variation in advanced economies, countries with stronger global trade and financial linkages, commodity importers, net energy importers, countries without inflation-targeting regimes, and countries with pegged exchange rate regimes. The headline results are robust to a wide range of exercises&#x2014;including alternative measures of global factors and oil prices&#x2014;and aggregation of countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10283",
+    "url": "http://documents.worldbank.org/curated/en/099047501242316215/pdf/IDU0458baf2e0e6ed045bb095e70cbc841f24bed.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.151285",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

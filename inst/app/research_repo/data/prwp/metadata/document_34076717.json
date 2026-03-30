@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Distributional Effects of Carbon Tax in Ethiopia : A Computable General Equilibrium Analysis",
+    "idno": "34076717",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34076717",
+      "title": "Distributional Effects of Carbon Tax in Ethiopia : A Computable General Equilibrium Analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timilsina,Govinda R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sebsibie,Samuel"
+      }
+    ],
+    "date_created": "2023/06/08",
+    "date_available": "2023/06/08",
+    "date_published": "2023/06/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34076717"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-da759747-7627-4e92-81db-a02effa4a553"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-da759747-7627-4e92-81db-a02effa4a553"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10476"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Developing countries are increasingly giving attention to carbon pricing to reduce their emissions, particularly in meeting their nationally determined contribution under the Paris Climate Agreement. However, they would like to understand the potential economic, distributional, and environmental impacts of carbon pricing policies before they consider implementation. Using a computable general equilibrium model of Ethiopia, this study examines the effects of a hypothetical carbon tax (US$20/total carbon dioxide) under several alternative schemes to recycle carbon tax revenue to the economy. The study finds that a carbon tax would be regressive in all schemes considered except those when the tax revenue is recycled, as a cash transfer, to household income groups either equally or inversely proportional to their incomes. The schemes that make the carbon tax progressive also cause a higher reduction of carbon dioxide emissions, thereby ensuring the alignment of equity and environmental outcomes of the carbon tax. However, these schemes are not necessarily economically efficient because they cause higher reductions of gross domestic product compared to other options considered.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10476",
+    "url": "http://documents.worldbank.org/curated/en/099313006082325882/pdf/IDU0da7597470762704e92081db0a02effa4a553.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.070150",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

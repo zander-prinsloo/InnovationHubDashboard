@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Optimal targeting under budget constraints in a humanitarian context",
+    "idno": "27973354",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27973354",
+      "title": "Optimal targeting under budget constraints in a humanitarian context",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gigliarano,Chiara"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2017/09/12",
+    "date_available": "2017/09/12",
+    "date_published": "2017/09/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27973354"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084f975bf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084f975bf"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The combination of conflict, food insecurity, and displacement generates competing claims for financial resources that stretch the donors' ability to provide funding and the humanitarian organizations' capacity to provide social assistance. The paper uses Receiver Operating Characteristic curves and related indexes to determine the optimal targeting strategy of a food voucher program for refugees. The estimations focus on the 2014 food vouchers administered by the World Food Programme to Syrian refugees in Jordan. The analysis uses data collected by the United Nations High Commissioner for Refugees. Based on a poverty model, Receiver Operating Characteristic curves are used to optimize coverage and leakage rates under budget constraints. The paper shows how policy makers can use these instruments to fine-tune targeting using coverage rates, budgets, or poverty lines as guiding principles to increase the overall efficiency of a program. As humanitarian organizations operate under increasing budget constraints and increasing demands for efficiency, the proposed approach addresses both concerns.",
+    "ref_country": [
+      {
+        "name": "Syrian Arab Republic",
+        "code": "SYR"
+      },
+      {
+        "name": "Jordan",
+        "code": "JOR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8191",
+    "url": "http://documents.worldbank.org/curated/en/448261505228206418/pdf/WPS8191.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.034318",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

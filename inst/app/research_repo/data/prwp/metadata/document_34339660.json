@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Multidimensional Well-Being Measurement Practices : A Review Focused on Improving Global Multidimensional Poverty Indicators",
+    "idno": "34339660",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34339660",
+      "title": "Multidimensional Well-Being Measurement Practices : A Review Focused on Improving Global Multidimensional Poverty Indicators",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Decerf,Benoit Marie A"
+      }
+    ],
+    "date_created": "2024/06/12",
+    "date_available": "2024/06/12",
+    "date_published": "2024/06/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34339660"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-113af934-9f04-4250-845d-3c71b3376a03"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-113af934-9f04-4250-845d-3c71b3376a03"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10800"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Multidimensional well-being indicators have the potential to reduce the &#x201c;bias&#x201d; associated to monetary indicators. However, they face stringent data constraints. This paper studies the construction of indicators that strike a balance between (i) reliability in approximating conceptually sound well-being comparisons and (ii) simplicity of application and communication. The recommendations focus on globalmultidimensional poverty measures. The paper identifies three potential sources of improvements: &#x201c;wasting&#x201d; less data, better filtering the data, and further developing multidimensional analysis. Less information would be &#x201c;wasted&#x201d; by avoiding needlessly dichotomizing all the variables, using the available mortality data, and combining variables from separate surveys. To filter the data better, &#x201c;equal weights&#x201d; could be replaced by weights selected from external information on preferences. When the data permit, the unit of analysis should be switched from household level to individual level. Finally, multidimensional indicators should be used to help move beyond a suboptimal &#x201c;dimension-by-dimension&#x201d; approach to policy making.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10800",
+    "url": "http://documents.worldbank.org/curated/en/099419506122440751/pdf/IDU1113af93419f04142501845d13c71b3376a03.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.174530",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

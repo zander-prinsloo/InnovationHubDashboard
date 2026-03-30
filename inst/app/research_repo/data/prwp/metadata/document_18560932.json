@@ -1,0 +1,164 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Decentralized beneficiary targeting in large-scale development programs : insights from the Malawi farm input subsidy program",
+    "idno": "18560932",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18560932",
+      "title": "Decentralized beneficiary targeting in large-scale development programs : insights from the Malawi farm input subsidy program",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Whitney,Edward Matthew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winters,Paul Conal"
+      }
+    ],
+    "date_created": "2013/11/01",
+    "date_available": "2013/11/01",
+    "date_published": "2013/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18560932"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b8877"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b8877"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper contributes to the long-standing debate on the merits of decentralized beneficiary targeting in the administration of development programs, focusing on the large-scale Malawi Farm Input Subsidy Program. Nationally-representative household survey data are used to systematically analyze the decentralized targeting performance of the program during the 2009-2010 agricultural season. The analysis begins with a standard targeting assessment based on the rates of program participation and the benefit amounts among the eligible and non-eligible populations, and provides decompositions of the national targeting performance into the inter-district, intra-district inter-community, and intra-district intra-community components. This approach identifies the relative contributions of targeting at each level. The results show that the Farm Input Subsidy Program is not poverty targeted and that the national government, districts, and communities are nearly uniform in their failure to target the poor, with any minimal targeting (or mis-targeting) overwhelmingly materializing at the community level. The findings are robust to the choice of the eligibility indicator and the decomposition method. The multivariate analysis of household program participation reinforces these results and reveals that the relatively well-off, rather than the poor or the wealthiest, and the locally well-connected have a higher likelihood of program participation and, on average, receive a greater number of input coupons. Since a key program objective is to increase food security and income among resource-poor farmers, the lack of targeting is a concern and should underlie considerations of alternative targeting approaches that, in part or completely, rely on proxy means tests at the local level.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6713",
+    "url": "http://documents.worldbank.org/curated/en/819561468055790131/pdf/Decentralized-beneficiary-targeting-in-large-scale-development-programs-insights-from-the-Malawi-farm-input-subsidy-program.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other environment and natural resources management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural non-farm income generation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other human development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "nutrition and food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural services and infrastructure",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.255276",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,202 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Preparatory School Years and Maternal Employment in Romania",
+    "idno": "34212724",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34212724",
+      "title": "Preparatory School Years and Maternal Employment in Romania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robayo,Monica"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rude,Britta Laurin"
+      }
+    ],
+    "date_created": "2023/12/11",
+    "date_available": "2023/12/11",
+    "date_published": "2023/12/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34212724"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4bdf4f0b-0854-4fe3-8329-43198ba43117"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4bdf4f0b-0854-4fe3-8329-43198ba43117"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10638"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses the introduction of preparatory school classes targeting six-year-old children in Romania to study whether universal, compulsory, public care provision could increase female employment. Results from difference-in-difference estimations show that the reform resulted in rising employment rates for mothers of six-year-old children. The effect is lower for mothers living in households with elderly people, but larger for those facing stronger trade-offs prior to the reform. Overall, investing in universal, compulsory, public childcare is beneficial and could significantly increase female employment and labor force participation rates.",
+    "ref_country": [
+      {
+        "name": "Romania",
+        "code": "ROU"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10638",
+    "url": "http://documents.worldbank.org/curated/en/099916512112331443/pdf/IDU04bdf4f0b0085404fe308329043198ba43117.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other excluded groups",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social inclusion",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.486867",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An exact approach for evaluating the benefits from technological change",
+    "idno": "699566",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699566",
+      "title": "An exact approach for evaluating the benefits from technological change",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martin, Will"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alston, Julian M."
+      }
+    ],
+    "date_created": "1992/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699566"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce457"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce457"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "It is commonly believed that taxing agricultural commodities in developing countries, and subsidizing agricultural commodities in industrial countries, reduces incentives in the developing countries for both current production and longer-term investments in capital, knowledge, technology, and infrastructure. It is argued that distortions in agricultural markets have kept investments in research and development, and productivity rates low in agriculture in developing countries. Martin and Alston lay the theoretical foundation for empirical studies of how such distortions affect returns to agricultural research and development in developing countries. Earlier studies of the benefits from technological change have typically used partial equilibrium models with Marshallian welfare measures. Such models have not allowed for a general set of market distortions and market interactions. Techniques recently developed for evaluating welfare in the context of general equilibrium models better measure the implications of trade distorting policies. Martin and Alston describe how to harness these approaches to evaluate the benefits and costs of technological changes. They show that a modified trade expenditure function can be used to measure welfare changes exactly, with a model consistent with the optimizing behavior of both producers and consumers. They do so in a general setting that allows for multiple market distortions and multiple paths of general equilibrium feedback. They illustrate this approach using a quadratic form for a profit function that is a component of the trade expenditure function. They spell out, in principle, how to apply this approach with minimal requirements for additional information, using the results from a computable general equilibrium model. They provide a diagram to illustrate the application of the technique.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1024",
+    "url": "http://documents.worldbank.org/curated/en/458921468766803769/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.423489",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

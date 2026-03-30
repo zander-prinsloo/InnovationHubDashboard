@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the Number of Firms in Africa",
+    "idno": "34445375",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34445375",
+      "title": "Estimating the Number of Firms in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vargas Da Cruz,Marcio Jose"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moelders,Florian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Salgado Chavez,Edgar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Volk,Ariane Tamara"
+      }
+    ],
+    "date_created": "2025/01/13",
+    "date_available": "2025/01/13",
+    "date_published": "2025/01/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34445375"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a8a9daa7-ded8-4485-a4fb-967dc953ac1a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a8a9daa7-ded8-4485-a4fb-967dc953ac1a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11032"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the number of firms in Africa, considering their size and formal status. It relies on a novel methodology that combines multiple data sources. The results suggest that in 2020, there were 12.7 million firms with more than one worker, and more than 230 million own-account businesses, where the proprietor constituted the sole employee. Informality is prevalent among own-account, micro, and small businesses. The density of medium and large firms relative to the population remains low across African countries but is positively correlated with per capita income, whereas the prevalence of own-account businesses decreases as income levels rise. The proposed methodology provides valuable insights to researchers and policymakers by enabling an assessment of the potential market size based on firm characteristics in a context of limited information.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11032",
+    "url": "http://documents.worldbank.org/curated/en/099303501132511121/pdf/IDU1a8a9daa71ded8144851a4fb1967dc953ac1a.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.149276",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

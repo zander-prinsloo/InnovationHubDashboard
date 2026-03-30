@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Demand for imports in Venezuela : a structural time series approach",
+    "idno": "1769434",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1769434",
+      "title": "Demand for imports in Venezuela : a structural time series approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cuevas,Mario Adolfo"
+      }
+    ],
+    "date_created": "2002/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1769434"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0583c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0583c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using structural time series models, Cuevas estimates common stochastic trends of real GDP and imports in Venezuela from 1974-2000. The real imports trend drifts upward at almost twice the rate of growth of GDP. This highlights the powerful structural tendency toward increasing imports in Venezuela. The author also explicitly estimates common stochastic cycles, which he finds to have 5 and 17 year periods. In addition, he finds that a 1 percent real exchange rate appreciation leads to a 0.4 percent increase in imports. And in the long-run, 1 percent real GDP growth is associated with 1.7 percent real imports growth. The author also shows that the GDP elasticity of imports uniformly falls with cycle period, with the elasticity reaching 4.55 at the frequency associated with the 5-year cycle. A powerful imports responsiveness at the higher cycle frequency is associated with the recurrence of external imbalances in Venezuela.",
+    "ref_country": [
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2825",
+    "url": "http://documents.worldbank.org/curated/en/714781468765342399/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:34.638205",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

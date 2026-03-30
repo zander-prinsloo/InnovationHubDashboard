@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Import dynamics and demands for protection",
+    "idno": "19189979",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19189979",
+      "title": "Import dynamics and demands for protection",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hillberry, Russell"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McCalman, Phillip"
+      }
+    ],
+    "date_created": "2014/03/01",
+    "date_available": "2014/03/01",
+    "date_published": "2014/03/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19189979"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b4e33"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b4e33"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "What kinds of changes in foreign competition lead domestic industries to seek import protection? To address this question this paper uses detailed monthly U.S. import data to investigate changes in import composition during a 24-month window immediately preceding the filing of a petition for protection. A decomposition methodology allows a comparison of imports from two groups of countries supplying the same product: those that are named in the petition and those that are not. The same decomposition can be applied to products quite similar to the imports in question, but not subject to a petition. The results suggest that industries typically seek protection when faced with a specific pattern of shocks. First, a persistent positive relative supply shock favors imports from named countries. Second, a negative demand shock hits imports from all sources just prior to domestic industries' petition for protection. The relative supply shock is a broad one; it applies both to named commodities and to the comparison product group. The import demand shock, by contrast, is narrow, hitting only named products. The latter shock is also large: import growth over the two-year window is 15 percentage points lower in named products than in reference products, with most of this gap arising in the final two quarters before the petition. The negative import demand shock appears to be a key event in the run-up to the filing of a petition. It has been missed by previous studies using more aggregated data.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6796",
+    "url": "http://documents.worldbank.org/curated/en/824871468339534612/pdf/WPS6796.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.664426",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

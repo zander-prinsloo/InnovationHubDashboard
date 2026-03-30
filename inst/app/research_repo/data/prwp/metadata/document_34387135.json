@@ -1,0 +1,202 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Evaluation of Door-to-Door Tax Enforcement Strategy in Indonesia",
+    "idno": "34387135",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34387135",
+      "title": "Evaluation of Door-to-Door Tax Enforcement Strategy in Indonesia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Antonacci,Paulo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chattha,Muhammad Khudadad"
+      }
+    ],
+    "date_created": "2024/09/06",
+    "date_available": "2024/09/06",
+    "date_published": "2024/09/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34387135"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1b9757ec-6dfe-45f1-a6ab-0d45fbc99015"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1b9757ec-6dfe-45f1-a6ab-0d45fbc99015"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10901"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents an evaluation of a tax enforcement program conducted in Indonesia where officials from the tax authority visited properties to engage directly with owners about their property tax obligations. Through these visits, auditors explained outstanding debts and payment processes, aiming to improve tax compliance and revenue collection. The paper uses an administrative data set and a new set of machine learning&#x2013;based techniques to assess the program&#x2019;s effectiveness. The program was responsible for increasing tax compliance on the extensive margin by 4.3 percent and on the intensive margin by 5.1 percent in the first year it was implemented. These effects are particularly strong as they persist in the following period. The findings show that the visited properties had better compliance history, lower value, smaller area, and were more likely to have some construction on them. A key finding from the analysis is that higher-value properties are less sensitive to the visits. In other words, if a data-driven tax-enforcement strategy is to be applied, then it may focus resources on enforcing taxation at the poorest part of the population in this case. This opens up the discussion of the distributional consequences of an algorithm-based enforcement strategy, which is increasingly important as machine learning techniques are used by tax authorities.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10901",
+    "url": "http://documents.worldbank.org/curated/en/099349009062427152/pdf/IDU11b9757ec16dfe145f11a6ab10d45fbc99015.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "public expenditure management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "municipal institution building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "infrastructure finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public finance management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "finance for development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "domestic revenue administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.271366",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

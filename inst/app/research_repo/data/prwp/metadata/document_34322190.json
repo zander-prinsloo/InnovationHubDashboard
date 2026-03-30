@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic Consequences of Cabotage Restrictions : The Effect of the Jones Act on Puerto Rico",
+    "idno": "34322190",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34322190",
+      "title": "Economic Consequences of Cabotage Restrictions : The Effect of the Jones Act on Puerto Rico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hillberry,Russell Henry"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cases Jimenez,Manuel Felipe"
+      }
+    ],
+    "date_created": "2024/05/21",
+    "date_available": "2024/05/21",
+    "date_published": "2024/05/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34322190"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5b5b7ebd-0471-4006-b906-0cb9b5695bc1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5b5b7ebd-0471-4006-b906-0cb9b5695bc1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10780"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the consequences of a U.S. cabotage law for Puerto Rico (PR). Data on ship arrivals in PR show that the fleet of U.S. vessels that call there lacks capacity for carrying non-containerized freight. Empirical estimation using trade data shows that PR&#x2019;s imports of sea-shipped final products are biased against U.S. mainland sources. This bias is strongest for heavy products and products not typically shipped in containers. Among upstream products, a strong bias against imports of sea-shipped products applies to all sources. Estimated tariff-equivalent costs among final products imply static annual welfare losses of 1.1 percent of household consumption ($203 per person). The same tariff-equivalent cost estimates imply that the law raises the cost of investment in PR by 3.0 percent. The observed bias against sea-shipped inputs in PR&#x2019;s imports may result from long-run industry location decisions that have been influenced by the law's presence.",
+    "ref_country": [
+      {
+        "name": "Puerto Rico",
+        "code": "PRI"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10780",
+    "url": "http://documents.worldbank.org/curated/en/099257005212415735/pdf/IDU15b5b7ebd10471140061b90610cb9b5695bc1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.408654",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

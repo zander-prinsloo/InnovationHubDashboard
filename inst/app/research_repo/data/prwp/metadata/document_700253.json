@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Commodity price forecasts and futures prices",
+    "idno": "700253",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700253",
+      "title": "Commodity price forecasts and futures prices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Boum-Jong Choe"
+      }
+    ],
+    "date_created": "1990/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700253"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a9ab1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a9ab1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The International Commodity Markets Division (CM) of the World Bank started forecasting primary commodity prices more than two decades ago. The forecast accuracy, or forecast biases and informational efficiency, has been a major concern and the subject of occasional retrospective studies. This paper explores the relationship between commodity futures prices and price expectations. It focuses of the usefulness of futures prices as a short-term price forecasting tool. In 1989, Froot and Frankel used survey data on exchange rate expectations to estimate the relative importance of risk premium and expectational error in explaining the forward discount biases in foreign exchange rates. They found that expectational errors dominate the forward discount bias and that the risk premium is small, relatively stable, and not correlated with the expectational error. This paper follows the Froot and Frankel analysis to see if commodity prices exhibit similar characteristics. It goes a step further and estimates a relationship between futures prices and price expectations. The paper summarizes the characteristics of the forecast and futures price data, tests the rationality of futures prices and decomposes the futures price bias. It also conducts direct statistical tests of the importance of risk premium and expectational error.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS436",
+    "url": "http://documents.worldbank.org/curated/en/767721468739808580/Commodity-price-forecasts-and-futures-prices",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:04.727503",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

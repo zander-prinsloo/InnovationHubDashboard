@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty lines across the world : Poverty lines across the world",
+    "idno": "12158104",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12158104",
+      "title": "Poverty lines across the world : Poverty lines across the world",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      }
+    ],
+    "date_created": "2010/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12158104"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8b43"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8b43"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "National poverty lines vary greatly across the world, from under $1 per person per day to over $40 (at 2005 purchasing power parity). What accounts for these huge differences, and can they be understood within a common global definition of poverty? For all except the poorest countries, the absolute, nutrition-based, poverty lines found in practice tend to behave more like relative lines, in that they are higher for richer countries. Prevailing methods of setting absolute lines allow ample scope for such relativity, even when nutritional norms are common across countries. Both macro data on poverty lines across the world and micro data on subjective perceptions of poverty are consistent with a weak form of relativity that combines absolute consumption needs with social-inclusion needs that are positive for the poorest but rise with a countrys mean consumption. The strong form of relativism favored by some developed countries -- whereby the line is set at a fixed proportion of the mean -- emerges as the limiting case for very rich countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5284",
+    "url": "http://documents.worldbank.org/curated/en/298951468174919253/pdf/WPS5284.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.795745",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

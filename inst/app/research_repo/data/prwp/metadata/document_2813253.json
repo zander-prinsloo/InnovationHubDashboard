@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Combining insurance, contingent debt, and self-retention in an optimal corporate risk financing strategy",
+    "idno": "2813253",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2813253",
+      "title": "Combining insurance, contingent debt, and self-retention in an optimal corporate risk financing strategy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gurenko, Eugene; Mahul, Olivier;"
+      }
+    ],
+    "date_created": "2003/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2813253"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05557"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05557"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors provide a conceptual framework for designing a comprehensive risk financing strategy for a firm, using an optimal combination of three instruments: self-retention, contingent debt, and insurance. Using an original conceptual model, the risk management decisions of the firm are first decomposed into two sets-choosing attachment points for each layer of financing used in the overall risk financing structure, and, then determining optimal risk allocation arrangements within each layer of risk. This model allows the authors to show how these optimal risk financing arrangements are driven by the costs of risk management instruments, the risk characteristics, and the firm's borrowing constraints. Finally, the authors provide an original perspective to think about optimal ex ante risk management strategies, based on a combination of insurance, savings, and credit at the microeconomic or macroeconomic levels.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3167",
+    "url": "http://documents.worldbank.org/curated/en/564171468761960143/pdf/WPS3167.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "corporate governance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other financial and private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.356801",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

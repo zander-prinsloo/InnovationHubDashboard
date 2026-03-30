@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An empirical investigation of the nexus among money balances, commodity prices and consumer goods' prices",
+    "idno": "13576464",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "13576464",
+      "title": "An empirical investigation of the nexus among money balances, commodity prices and consumer goods' prices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grigoli,Francesco"
+      }
+    ],
+    "date_created": "2011/01/01",
+    "date_available": "2011/01/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "13576464"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a7d59"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a7d59"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper aims to identify the nexus between the excess of liquidity in the United States and commodity prices over the 1983-2006 period. In particular, it assesses whether commodity prices react more powerfully than consumer goods' prices to changes in real money balances. Within a cointegrated vector autoregressive framework, the author investigates whether consumer prices and commodity prices react to excess liquidity, and if the different price elasticities of supply for goods and commodities allow for differences in the dynamic paths of price adjustment to a liquidity shock. The results show a positive relationship between real money and real commodity prices and provide empirical evidence for a stronger response of commodity prices with respect to consumer goods' prices. This could imply that, if the magnitude of the reaction is due the fact that consumer goods' prices are slower to react, then their long-run value can be predicted with the help of commodity prices. The findings support the view that the latter should be considered as a valid monetary indicator.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5533",
+    "url": "http://documents.worldbank.org/curated/en/916301468175789315/pdf/WPS5533.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:04.407289",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

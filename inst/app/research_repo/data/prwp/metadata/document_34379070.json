@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Who on Earth Is Using Generative AI ?",
+    "idno": "34379070",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34379070",
+      "title": "Who on Earth Is Using Generative AI ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Liu,Yan-000529044"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "He Wang"
+      }
+    ],
+    "date_created": "2024/08/19",
+    "date_available": "2024/08/19",
+    "date_published": "2024/08/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34379070"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5f321eb5-4870-472d-a888-3ab677be07b0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5f321eb5-4870-472d-a888-3ab677be07b0"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10870"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Leveraging unconventional data, including website traffic data and Google Trends, this paper unveils the real-time usage patterns of generative artificial intelligence tools by individuals across countries. The paper also examines country-level factors driving the uptake and early impacts of generative artificial intelligence on online activities. As of March 2024, the top 40 generative artificial intelligence tools attract nearly 3 billion visits per month from hundreds of millions of users. ChatGPT alone commanded 82.5 percent of the traffic, yet reaching only one-eightieth of Google&#x2019;s monthly visits. Generative artificial intelligence users skew young, highly educated, and male, particularly for video generation tools, with usage patterns strongly indicating productivity-related activities. Generative artificial intelligence has achieved unprecedentedly rapid global diffusion, reaching almost all economies worldwide within 16 months of ChatGPT&#x2019;s release. Middle-income economies have disproportionately high adoption of generative artificial intelligence relative to their economic scale, now contribute more than 50 percent of global traffic, while low-income economies contribute less than 1 percent. Regression analysis reveals that income level, share of youth population, digital infrastructure, specialization in high-skill tradable services, English proficiency, and human capital are strongly correlated with higher uptake of generative artificial intelligence. The paper also documents disruptions in online traffic patterns and emphasizes the need for targeted investments in digital infrastructure and skills development to harness the full potential of artificial intelligence.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10870",
+    "url": "http://documents.worldbank.org/curated/en/099720008192430535/pdf/IDU15f321eb5148701472d1a88813ab677be07b0.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.535868",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

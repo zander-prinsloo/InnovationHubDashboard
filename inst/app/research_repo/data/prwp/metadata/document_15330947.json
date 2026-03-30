@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Vulnerability and livelihoods before and after the Haiti earthquake",
+    "idno": "15330947",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15330947",
+      "title": "Vulnerability and livelihoods before and after the Haiti earthquake",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Echevin,Damien"
+      }
+    ],
+    "date_created": "2011/10/01",
+    "date_available": "2011/10/01",
+    "date_published": "2011/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15330947"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6ef4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6ef4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the dynamics of poverty and vulnerability in Haiti using various data sets. As living conditions survey data are not comparable in this country, we first propose to use the three rounds of the Demographic Health Survey (DHS) available before the earthquake. Decomposing household assets changes into age and cohort effects, we use repeated cross-section data to identify and estimate the variance of shocks on assets and to simulate the probability of being poor in the future. Poverty and vulnerability profiles are drawn from these estimates. Second, we decompose vulnerability to poverty into various sources using a unique survey conducted in 2007 in rural areas. Using two-level modelling of consumption/income, we assess the impact of both observable and unobservable idiosyncratic and covariate shocks on households' economic well-being. Empirical findings show that idiosyncratic shocks, in particular health-related shocks, have larger impact on vulnerability to poverty than covariate shocks. Third, asset-wealth is characterized for households after the 2010 earthquake based on a survey designed to provide a rapid assessment of food insecurity in Haiti after the quake. Whereas it is not possible to confirm the existence of poverty trap, it seems that those households who have lost the most due to the earthquake succeeded in recovering more rapidly from the shock, regardless of the effects of assistance, and probably more in line with coping strategies that are specific to households.",
+    "ref_country": [
+      {
+        "name": "Haiti",
+        "code": "HTI"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5850",
+    "url": "http://documents.worldbank.org/curated/en/819901468249256696/pdf/WPS5850.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:02.511492",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

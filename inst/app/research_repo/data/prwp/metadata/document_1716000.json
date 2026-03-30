@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Determinants of life insurance consumption across countries",
+    "idno": "1716000",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1716000",
+      "title": "Determinants of life insurance consumption across countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beck, Thorsten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Webb, Ian"
+      }
+    ],
+    "date_created": "2002/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1716000"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05def"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05def"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The importance of life insurance companies as part of the financial sector has significantly increased over the past decades, both as provider of important financial services to consumers and as a major investor in the capital market. However, the authors still observe a large variance in life insurance consumption across countries, which raises the question of its determinants. The authors use a greatly expanded data set on life insurance consumption to examine the determinants of the demand and supply of life insurance products across countries and over time. Using a cross-sectional sample of 63 countries averaged over 1980-96, the authors find that educational attainment, banking sector development, and inflation are the most robust predictors of life insurance consumption, while income is only a weak predictor. The results on educational attainment and inflation are confirmed in a panel of 23 countries over the period 1960-96. The results strengthen the case for promoting price stability, financial sector reform, and an efficient education system if life insurance and its many benefits are to be fully realized in an economy.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2792",
+    "url": "http://documents.worldbank.org/curated/en/805621468764352760/Determinants-of-life-insurance-consumption-across-countries",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:34.972661",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

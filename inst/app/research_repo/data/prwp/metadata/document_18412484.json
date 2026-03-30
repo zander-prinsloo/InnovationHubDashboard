@@ -1,0 +1,174 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inventory of public land in Ahmedabad, Gujarat, India",
+    "idno": "18412484",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18412484",
+      "title": "Inventory of public land in Ahmedabad, Gujarat, India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Annez,Patricia Clarke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ballaney,Shirley Nand Kumar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bertaud,Marie Agnes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koshy,Cheruvettolil Kochukoshy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nair,Bindu Krishnan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patel,Bimal"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Phatak,Vidyadhar K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thawakar,Vasudha"
+      }
+    ],
+    "date_created": "2013/10/01",
+    "date_available": "2013/10/01",
+    "date_published": "2013/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18412484"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c7df2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c7df2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper pilots an approach to identifying, categorizing, and mapping public land owned by the central, state, and local government in urban developed areas of Ahmedabad, Gujarat, India. The methodology uses information on plot sizes, location, and ownership that is publicly available for all areas covered by town planning schemes. The study examines the extent of unutilized and underutilized public land, which excludes all cemeteries, parks and gardens, heritage buildings, slums, utilities, infrastructure land, and industrial estates. Unused land already earmarked for public purposes were also excluded from the valuation exercise. The potentially marketable land so identified was valued at both official rates and estimated market rates. The value of potentially marketable excess land is significant -- in per capita terms, the high-value scenario substantially exceeds the estimate of total infrastructure investment needs for the next 20 years prepared by an expert committee of the Ministry of Urban Development of the Government of India.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6664",
+    "url": "http://documents.worldbank.org/curated/en/724551468049195991/pdf/WPS6664.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "decentralization",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other urban development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.397236",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

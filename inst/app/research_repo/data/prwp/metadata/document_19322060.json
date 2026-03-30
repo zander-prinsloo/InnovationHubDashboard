@@ -1,0 +1,153 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The heterogeneous effects of HIV testing",
+    "idno": "19322060",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19322060",
+      "title": "The heterogeneous effects of HIV testing",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baird,Sarah Jane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gong,Erick Joseph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcintosh,Craig"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozler,Berk"
+      }
+    ],
+    "date_created": "2014/03/01",
+    "date_available": "2014/03/01",
+    "date_published": "2014/03/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19322060"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb1c0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb1c0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "An extensive multi-disciplinary literature examines the effects of learning one's HIV status on subsequent risky sexual behaviors. However, many of these studies rely on non-experimental designs; use self-reported outcome measures, or both. This study investigates the effects of a randomly assigned home based HIV testing and counseling (HTC) intervention on risky sexual behaviors and schooling investments among school-age females in Malawi. The study finds no overall effects on HIV, Herpes Simplex Virus (HSV-2), or achievement test scores at follow-up. However, among the small group of individuals who tested positive for HIV, a large increase in the probability of contracting HSV-2 is found, with this effect stronger among those surprised by their test results. Similarly, those surprised by HIV-negative test results see a significant improvement in achievement test scores, consistent with increased returns to investments in human capital. The finding of increased HSV-2 prevalence among HIV-positive individuals suggests that the conventional wisdom that those who learn they are HIV-positive will adopt safer sexual practices should be treated with caution.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6823",
+    "url": "http://documents.worldbank.org/curated/en/891571468278956454/pdf/WPS6823.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "hiv/aids",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets/social assistance & social care services",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.619345",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

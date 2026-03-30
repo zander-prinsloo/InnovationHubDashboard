@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are All State-Owned Enterprises Equal ? A Taxonomy of Economic Activities to Assess SOE Presence in the Economy",
+    "idno": "33954974",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33954974",
+      "title": "Are All State-Owned Enterprises Equal ? A Taxonomy of Economic Activities to Assess SOE Presence in the Economy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dall'Olio,Andrea Mario"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goodwin,Tanja K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Licetti,Martha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alonso Soria,Ana Cristina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Drozd,Maciej Adam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Orlowski,Jan Alexander Kazimierz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patino Pena,Fausto Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanchez Navarro,Dennis"
+      }
+    ],
+    "date_created": "2022/12/13",
+    "date_available": "2022/12/13",
+    "date_published": "2022/12/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33954974"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e7057cdf-9fa8-44eb-9d8a-58ea7dfe2831"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e7057cdf-9fa8-44eb-9d8a-58ea7dfe2831"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10262"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes a sector taxonomy of the rationale for the presence of state-owned enterprises in specific industries. The taxonomy is conceptualized only on an efficiency-based rationale for state participation in different economic activities, abstracting it from social or political justification of state-owned enterprises, which can be subjective or conditioned to the country context. The taxonomy is leveraged on a standard industry classification, the Nomenclature of Economic Activities Revision 2 four-digit level sector classification, which is sufficiently disaggregated to resemble specific markets, and thus more appropriate for analyzing the presence of state-owned enterprises through the lens of industrial organization. The proposed taxonomy deploys a decision tree, based on efficiency-based criteria, to classify 563 disaggregated sectors into one of three groups: a &#x201c;competitive&#x201d; category, for which the presence of state-owned enterprises does not appear to be justified on grounds of economic efficiency/market failure; a &#x201c;natural monopoly&#x201d; category, which includes economic sectors whose market structure is characterized by economies of scale and subadditivity costs that could be corrected via the participation of state-owned enterprises; and a &#x201c;partially contestable&#x201d; category, which includes economic sectors characterized by some form of market power, externalities, or other market failures that could be addressed through state ownership. The application of the decision tree classifies 11 disaggregated sectors as natural monopolies, 45 as partially contestable, and the remaining 505 as competitive.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10262",
+    "url": "http://documents.worldbank.org/curated/en/099951412132222133/pdf/IDU0e7057cdf09fa8044eb09d8a058ea7dfe2831.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.296338",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

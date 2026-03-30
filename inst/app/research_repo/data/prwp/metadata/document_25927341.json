@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Prices and welfare",
+    "idno": "25927341",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25927341",
+      "title": "Prices and welfare",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Araar,Abdelkrim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2016/02/16",
+    "date_available": "2016/02/16",
+    "date_published": "2016/02/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25927341"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08418514a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08418514a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "What is the welfare effect of a price change? This simple question is one of the most relevant and controversial questions in microeconomic theory and its different answers can lead to severe heterogeneity in empirical results. This paper returns to this question with the objective of providing a general framework for the use of theoretical contributions in empirical works, with a particular focus on poor people and poor countries. Welfare measures (such as Equivalent Variation or Consumer's Surplus) and computational methods (such as Taylor's approximations or the Vartia method) are compared to test how these choices result in different welfare measurement under different price shock scenarios. As a rule of thumb and irrespective of parameter choices, welfare measures converge to approximately the same result for price changes below 10 percent. Above this threshold, these measures start to diverge significantly. Budget shares play an important role in explaining such divergence, whereas the choice of demand system has a minor role. Under standard utility assumptions, the Laspeyers and Paasche variations are always the outer bounds of welfare estimates and consumer surplus is always the median estimate. The paper also introduces a new simple welfare approximation, clarifies the relation between Taylor's approximations and the income and substitution effects, and provides an example for treating nonlinear pricing. Stata codes for all computations are provided in annex.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7566",
+    "url": "http://documents.worldbank.org/curated/en/572361467988949538/pdf/WPS7566.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.758802",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

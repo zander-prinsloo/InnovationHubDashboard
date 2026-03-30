@@ -1,0 +1,129 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Explaining spatial variations in productivity : evidence from Latin America and the Caribbean",
+    "idno": "30359859",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30359859",
+      "title": "Explaining spatial variations in productivity : evidence from Latin America and the Caribbean",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Quintero,Luis E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roberts,Mark"
+      }
+    ],
+    "date_created": "2018/08/20",
+    "date_available": "2018/08/20",
+    "date_published": "2018/08/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30359859"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085f9e628"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085f9e628"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is a large and extensive literature examining the strength of agglomeration economies and, more generally, the determinants of spatial variations in productivity for developed countries. However, the corresponding literature for developing countries is comparatively scant. This paper contributes to filling this knowledge gap by providing estimates for city productivity premiums and different sources of agglomeration effects for 16 countries in the Latin America and Caribbean region. While two of the countries in our sample -- Brazil and Colombia -- have been considered by the literature, the remaining 14 countries have not been previously analyzed. The paper presents estimates for the region as well as comparable estimates for each country using a harmonized data set with characteristics of individual workers and features of the cities in which the workers live. In addition to examining the strength of agglomeration economies, the roles of human capital externalities and market access in explaining subnational productivity variations are assessed. The paper finds that citywide human capital externalities appear much stronger than agglomeration economies in explaining productivity variation in all the considered countries. There is considerable heterogeneity in the estimated strength of human capital externalities across countries, which could be a reflection of country differences in educational quality.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Caribbean",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8560",
+    "url": "http://documents.worldbank.org/curated/en/819661534785390193/pdf/WPS8560.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.190776",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

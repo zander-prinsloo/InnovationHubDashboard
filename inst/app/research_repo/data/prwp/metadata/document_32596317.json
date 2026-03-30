@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Employment Effect of Place-Based Policies : Evidence from India",
+    "idno": "32596317",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32596317",
+      "title": "The Employment Effect of Place-Based Policies : Evidence from India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Li,Yue - ETICI"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sinha Roy,Sutirtha"
+      }
+    ],
+    "date_created": "2020/11/19",
+    "date_available": "2020/11/19",
+    "date_published": "2020/11/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32596317"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087feec64"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087feebdc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many governments in developing countries have pursued policies targeting specific geographic areas over the past several decades. However, only a few have rigorously evaluated the causal impact of these interventions. This paper examines the effectiveness of a prominent place-based policy in India: the centrally sponsored New Industrial Policy for the state of Uttarakhand. Using georeferenced economic census data, the analysis applies a boundary discontinuity research design and zones in on the unique border between Uttarakhand and Uttar Pradesh, two states that were officially one before the implementation of the New Industrial Policy. The findings show that there was a significant and abrupt increase in employment at the town and village level when crossing the state border from Uttar Pradesh to Uttarakhand after the full implementation of the New Industrial Policy. The conclusion even holds for firms within the same sector. The increase is mainly due to larger firm sizes and expansions into new industries. A main component of the New Industrial Policy was excise tax incentives for certain industries. The paper finds that the increase in cross-border employment is higher for sectors receiving excise tax incentives than others. Additionally, exploring spillovers between industries, the paper shows that, controlling for the direct effects, the sectors with labor requirements similar to those receiving excise tax incentives also experience an increase in employment. Finally, the growth in the number of firms in Uttar Pradesh close to the border remained stable before and after the New Industrial Policy, which suggests the results are not fully driven by firms relocating from Uttar Pradesh to Uttarakhand.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9477",
+    "url": "http://documents.worldbank.org/curated/en/785411605819935532/pdf/The-Employment-Effect-of-Place-Based-Policies-Evidence-from-India.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.819576",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

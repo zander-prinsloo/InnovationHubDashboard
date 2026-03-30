@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Unpacking the MPI : a decomposition approach of changes in multidimensional poverty headcounts",
+    "idno": "25669944",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25669944",
+      "title": "Unpacking the MPI : a decomposition approach of changes in multidimensional poverty headcounts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pérez Pérez,Jorge Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Castelan,Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Trujillo,Jose Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Valderrama,Daniel"
+      }
+    ],
+    "date_created": "2015/12/14",
+    "date_available": "2015/12/14",
+    "date_published": "2015/12/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25669944"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083c53c7d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083c53c7d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Multidimensional measures of poverty have become standard as complementary indicators of poverty in many countries. Multidimensional poverty calculations typically comprise three indices: the multidimensional headcount, the average deprivation share among the poor, and the adjusted headcount ratio. While several decomposition methodologies are available for the last index, less attention has been paid to decomposing the multidimensional headcount, despite the attention it receives from policy makers. This paper proposes an application of existing methodologies that decompose welfare aggregates--based on counterfactual simulations--to break up the changes of the multidimensional poverty headcount into the variation attributed to each of its dimensions. This paper examines the potential issues of using counterfactual simulations in this framework, proposes approaches to assess these issues in real applications, and suggests a methodology based on rank preservation within strata, which performs positively in simulations. The methodology is applied in the context of the recent reduction of multidimensional poverty in Colombia, finding that the dimensions associated with education and health are the main drivers behind the poverty decline.",
+    "ref_country": [
+      {
+        "name": "Colombia",
+        "code": "COL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7514",
+    "url": "http://documents.worldbank.org/curated/en/748421467991999230/pdf/WPS7514.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.219179",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

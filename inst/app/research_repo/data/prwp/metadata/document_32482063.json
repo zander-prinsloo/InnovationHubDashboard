@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Vulnerability to Poverty Following Extreme Weather Events in Malawi",
+    "idno": "32482063",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32482063",
+      "title": "Vulnerability to Poverty Following Extreme Weather Events in Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baquie,Sandra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fuje,Habtamu Neda"
+      }
+    ],
+    "date_created": "2020/10/13",
+    "date_available": "2020/10/13",
+    "date_published": "2020/10/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32482063"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087ea2f8a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087ea2f8a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Severe weather shocks recurrently hit Malawi, and they adversely affect the incomes of many farm households as well as small businesses. With climate change, the frequency of extreme weather events is expected to increase further. A clear understanding of households’ vulnerability to shock-induced poverty is critical for disaster risk management and the design of scalable social safety net programs. Standard poverty measures rely on static snapshots that are suitable for quantifying structural poverty but not for assessing the vulnerability of non-poor households to fall below the poverty line when they experience shocks. This study uses a nationally representative household survey and exogenously measured weather shocks to assess households' vulnerability to poverty in Malawi. To accurately estimate the impacts of shocks on consumption and vulnerability, the study excludes any kind of assistance (aid and food or cash transfers) that households might have received after major disasters. The key findings of the study are as follows: (1) drought during the growing season decreases non-assistance consumption per capita by 5–12 percent, depending on its intensity; (2) excess rainfall at the onset of the growing season reduces food consumption by 1.8 percent, while excess rainfall later in the growing season appears to increase consumption; (3) vulnerability to poverty is generally higher than static poverty, especially compared to static poverty measured during a good weather year; and (4) in years of extreme droughts, such as 2016, recorded poverty rates are higher than vulnerability, which indicates that the magnitude of drought in 2016 was so large that the chance of falling below the poverty line as a result of an even higher magnitude shock was low. These results suggest that identifying vulnerable households is key in designing adaptive social safety net programs that can be scaled up to cover those who become eligible for such programs after experiencing shocks.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9435",
+    "url": "http://documents.worldbank.org/curated/en/372641602594949318/pdf/Vulnerability-to-Poverty-Following-Extreme-Weather-Events-in-Malawi.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.309057",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

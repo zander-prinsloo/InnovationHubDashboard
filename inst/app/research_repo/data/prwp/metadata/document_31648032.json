@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Can Medium-Resolution Satellite Imagery Measure Economic Activity at Small Geographies Evidence from Landsat in Vietnam",
+    "idno": "31648032",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31648032",
+      "title": "Can Medium-Resolution Satellite Imagery Measure Economic Activity at Small Geographies Evidence from Landsat in Vietnam",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goldblatt,Ran Philip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Heilmann,Kilian Tobias"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vaizman,Yonatan"
+      }
+    ],
+    "date_created": "2019/12/17",
+    "date_available": "2019/12/17",
+    "date_published": "2019/12/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31648032"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08742bcaa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08742bcaa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study explores the potential and the limits of medium-resolution satellite data as a proxy for economic activity at small geographic units. Using a commune-level dataset from Vietnam, it compares the performance of commonly used nightlight data and higher resolution Landsat imagery which measures daytime light reflection. The analysis suggests that Landsat outperforms nighttime lights at predicting enterprise counts, employment, and expenditure in simple regression models. A parsimonious combination of the first two moments of the Landsat spectral bands can explain a reasonable share of the variation in economic activity in the cross-section. There is however poor prediction power of either satellite measure for changes over time.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9088",
+    "url": "http://documents.worldbank.org/curated/en/168331576612750230/pdf/Can-Medium-Resolution-Satellite-Imagery-Measure-Economic-Activity-at-Small-Geographies-Evidence-from-Landsat-in-Vietnam.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:28.908045",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

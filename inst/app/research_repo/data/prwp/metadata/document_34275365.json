@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Cross-Country Empirical Analysis of GovTech Platforms on Citizen Engagement",
+    "idno": "34275365",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34275365",
+      "title": "Cross-Country Empirical Analysis of GovTech Platforms on Citizen Engagement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "World Bank"
+      }
+    ],
+    "date_created": "2024/03/05",
+    "date_available": "2024/03/05",
+    "date_published": "2024/03/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34275365"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e2fc782f-3ddb-4ac4-ae80-f190d313322f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e2fc782f-3ddb-4ac4-ae80-f190d313322f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10716"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Countries worldwide are implementing GovTech reforms to modernize the public sector and achieve better performance while responding to citizens&#x2019; needs. At its core, GovTech represents a whole-of-government approach to public sector modernization, which emphasizes three critical aspects: (i) citizen-centric public services that are universally accessible; (ii) a whole-of-government approach to digital government transformation; and (iii) simple, efficient, and transparent government systems. Within this context, strengthening citizen engagement is crucial to ensure accountability, improve public policy quality, and enhance service delivery. Accordingly, this study aims to be the first cross-country empirical assessment of the impact of GovTech platforms, which can allow citizens to: (i) participate in policy decision-making and (ii) provide feedback on public service delivery. Using a large sample of 176 countries, the study assesses the impact of the implementation of national platforms that allow citizens to participate more effectively. This research employs entropy balancing as the main identification strategy, as well as propensity score matching and ordinary least squares regressions on the matching sample as alternatives. Additional robustness checks were performed using alternative GovTech Maturity Index 2022 data and by considering the possibility of a slower diffusion of the technology. A sensitivity analysis, considering the role of governance, political and institutional factors, as well as the level of development, is likewise performed. The results show a significant and positive impact of GovTech platforms on citizen engagement. Similarly, democracy and the equal distribution of political power have strong and positive effects on citizen engagement. By contrast, public sector corruption negatively and significantly impacts citizen engagement. The findings also provide evidence that GovTech platforms are more effective in fostering citizen engagement in high-income economies and in countries where the government is efficient, institutional and social fragility is low, and there is no conflict or only low-intensity conflict. The results of an Africa-focused analysis indicate that African countries that have adopted such digital platforms likewise experience an increase in citizen engagement.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10716",
+    "url": "http://documents.worldbank.org/curated/en/099029103062432172/pdf/IDU1e2fc782f13ddb14ac41ae801f190d313322f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.945590",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

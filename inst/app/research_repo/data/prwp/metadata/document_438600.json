@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Do depositors punish banks for \"bad\" behavior : market discipline in Argentina, Chile, and Mexico",
+    "idno": "438600",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438600",
+      "title": "Do depositors punish banks for \"bad\" behavior : market discipline in Argentina, Chile, and Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Peria, Maria Soledad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler, Sergio"
+      }
+    ],
+    "date_created": "1999/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438600"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ad3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ad3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors examine the banking industries of Argentina, Chile, and Mexico to see if market discipline existed there in the 1980s and 1990s. Using a set of bank panel data, they test for the presence of market discipline by studying whether depositors punish risky banks by withdrawing their deposits. They find that across countries and across deposit insurance schemes, market discipline exists even among small insured depositors - who punish risky banks by withdrawing their deposits. Standardized coefficients and variance decomposition of deposits indicate that bank fundamentals are at least as important as other factors affecting deposits. Generalized Method of Moments estimates confirm that the results are robust to the potential endogeneity of bank fundamentals.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2058",
+    "url": "http://documents.worldbank.org/curated/en/647771468769836129/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:43.170122",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

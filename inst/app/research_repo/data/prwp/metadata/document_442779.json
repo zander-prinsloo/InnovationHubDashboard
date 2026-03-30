@@ -1,0 +1,140 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is there a credit crunch in East Asia",
+    "idno": "442779",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442779",
+      "title": "Is there a credit crunch in East Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wei Ding"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Domac, Ilker"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferri, Giovanni"
+      }
+    ],
+    "date_created": "1998/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442779"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05e42"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05e42"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The issue of the credit crunch in the aftermath of the Asian crisis has stimulated much debate. Indeed, some features of the East Asian economies, such as bank-based financial systems and high leverage, make them particularly vulnerable to monetary and financial shocks. Under such circumstances, the credit channel of transmission of these shocks is likely to lead to a credit crunch, affecting the flow of bank loans to those agents--households and small and medium-sized enterprises--for whom close substitutes for bank credit are unavailable. In turn, the disruption to the availability of finance for bank-dependent borrowers may stymie economic activity. In practice, however, it is difficult to detect the credit channel effects that lead to a credit crunch. Reliance on trends of credit aggregates alone is inadequate to prove that there has been an adverse shift in the supply of loans: even a decline or slowdown of credit could stem from a decrease or deceleration in demand. A frequently used methodology to overcome this problem focuses on both credit aggregates and the yield spread between bank loans and risk-free assets, such as government bonds. If this spread rises while credit aggregates slow down, one can conjecture that the supply of loans has either decreased more or increased less than demand. But further qualification is needed. The increase of the spread might simply reflect a rising risk premium triggered by the fact that the negative shock reduces the net worth of economic agents because of larger financial outlays. Accordingly, the relevant spread to capture the worsening credit conditions that affect bank-dependent borrowers is the spread between bank lending rates and corporate bonds. The yield spread corporate and government bonds measures the general risk premium. The study applies this methodology to Indonesia, Malaysia, the Philippines, the Republic of Korea, and Thailand, and shows that the credit crunch is widespread, while its negative impact particularly affects small banks and enterprises. On the basis of the findings, the authors claim that 1) a protracted and heavy reliance on tight monetary policy, entailing high real interest rates, appears inappropriate for restoring market confidence; 2) it is desirable to consider alternative policy instruments that do not place further stress on the banking sector and on its lending to the corporate sector; and 3) policy actions are warranted to alleviate the strain that the crisis has put on small banks and enterprises.",
+    "ref_country": [
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      },
+      {
+        "name": "Korea, Republic of",
+        "code": "KOR"
+      },
+      {
+        "name": "Thailand",
+        "code": "THA"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1959",
+    "url": "http://documents.worldbank.org/curated/en/871451468773986382/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:45.081497",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

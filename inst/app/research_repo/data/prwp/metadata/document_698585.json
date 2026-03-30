@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Optimal hedging strategy revisited : acknowledging the existence of nonstationary economic time series",
+    "idno": "698585",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698585",
+      "title": "Optimal hedging strategy revisited : acknowledging the existence of nonstationary economic time series",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ying Qian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Duncan, Ronald"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DEC"
+      }
+    ],
+    "date_created": "1994/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698585"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a7fa0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a7fa0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recognizing that a country's commodity prices, foreign exchange rates, and export earnings are related, earlier studies developed an optimal portfolio model based on an integrated approach. But the estimates were inefficient because they summed that the time series data used in the model were stationary. As a result, the model produced unstable solutions that were sensitive to exogenous changes. Many economic time series - include aggregate consumption, national income, exchange rates, interest rates, commodity prices, and volume of trade - are nonstationary (drift over time). A shock to the nonstationary series has a permanent effect. Problems of nonsense regression or spurious regression can rise when performing regression with nonstationary series. To correct the problem, the authors used Engle and Granger's (1987) vector error correction (VEC) specification in the optimal portfolio estimation process. The VEC approach expands the application of the optimal portfolio model to nonstationary economic time series data. They apply the new approach to data for Papua New Guinea in an analysis of optimal hedging of commodity price and exchange rate risks using commodity-linked bonds and varying the mix of foreign-currency-dominated borrowings. They find the time series of commodity prices and foreign exchange rate to be nonstationary. When the VEC approach is applied, the results are comparable to those from the earlier study where the nonstationary was ignored. The optimal portfolio of commodity-linked bonds and foreign currency borrowings derived from the new model shows more significant risk reduction (measured by ex-ante risk reduction) and less sensitivity to changes in assumption about the real interest rate. In addition, establishing the cointegration relationships among the commodity prices and foreign exchange rates makes it easier to develop economic institutions in explaining the composition of the optimal portfolio. The VEC's most significant advantage, however, is the stability achieved in the optimal portfolio solutions to changes in assumptions because of the superior long-run properties of the cointegration and error-correction representation.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1279",
+    "url": "http://documents.worldbank.org/curated/en/514791468741014999/Optimal-hedging-strategy-revisited-acknowledging-the-existence-of-nonstationary-economic-time-series",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.311651",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

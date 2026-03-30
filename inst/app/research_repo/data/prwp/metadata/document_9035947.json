@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Brazil within Brazil : testing the poverty map methodology in Minas Gerais",
+    "idno": "9035947",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9035947",
+      "title": "Brazil within Brazil : testing the poverty map methodology in Minas Gerais",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbers,Chris T.M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pereira Guimaraes Leite,Phillippe George"
+      }
+    ],
+    "date_created": "2008/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9035947"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ae897"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ae897"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The small-area estimation technique developed for producing poverty maps has been applied in a large number of developing countries. Opportunities to formally test the validity of this approach remain rare due to lack of appropriately detailed data. This paper compares a set of predicted welfare estimates based on this methodology against their true values, in a setting where these true values are known. A recent study draws on Monte Carlo evidence to warn that the small-area estimation methodology could significantly over-state the precision of local-level estimates of poverty, if underlying assumptions of spatial homogeneity do not hold. Despite these concerns, the findings in this paper for the state of Minas Gerais, Brazil, indicate that the small-area estimation approach is able to produce estimates of welfare that line up quite closely to their true values. Although the setting considered here would seem, a priori, unlikely to meet the homogeneity conditions that have been argued to be essential for the method, confidence intervals for the poverty estimates also appear to be appropriate. However, this latter conclusion holds only after carefully controlling for community-level factors that are correlated with household level welfare.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4513",
+    "url": "http://documents.worldbank.org/curated/en/941401468231893568/pdf/wps4513.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:13.886655",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

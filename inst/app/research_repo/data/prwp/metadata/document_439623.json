@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Do school facilities matter : the case of the Peruvian Social Fund (FONCODES)",
+    "idno": "439623",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "439623",
+      "title": "Do school facilities matter : the case of the Peruvian Social Fund (FONCODES)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paxson, Christina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schady, Norbert"
+      }
+    ],
+    "date_created": "1999/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "439623"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0564e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0564e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Since its creation in 1991, the Peruvian Social Fund (FONCODES) has spent about US$570 million funding micro-projects throughout Peru. Many of these projects have involved building and renovating school facilities. The authors analyze the targeting and impact of FONCODES investments in the education sector, using data from FONCODES, Peru's population census, Peru's 1994 and 1995 Living Standards Measurement Surveys, and a 1996 household survey conducted by the Peruvian Statistical Institute. They present their results based on various descriptive and econometric techniques, including non-parametric regressions, differences-in-differences, and instrumental variables estimators. They show that FONCODES projects in the education sector have reached poor districts and, to the extent they live in those districts, poor households. FONCODES has had a positive effect on school attendance rates for young children, but not on the likelihood that children will be at an appropriate school level for their age. Among other recommendations, they suggest that FONCODES consider random assignment of some education projects for a sub-sample of the population, to test the robustness of the study's assumptions and results. Lack of disaggregated data on such measures as the time children spend in school, pupil-teacher ratios, and scholastic achievement precluded analysis of the impact of FONCODES education projects on school quality. Collecting such data, and understanding how improvements in school infrastructure interact with other school-level changes to produce more learning, should be a research priority.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2229",
+    "url": "http://documents.worldbank.org/curated/en/608751468758387436/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.024113",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

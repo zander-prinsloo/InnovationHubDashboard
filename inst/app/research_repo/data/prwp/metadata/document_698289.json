@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is demand for polluting goods manageable an econometric study of car ownership and use in Mexico",
+    "idno": "698289",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698289",
+      "title": "Is demand for polluting goods manageable an econometric study of car ownership and use in Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eskeland, Gunnar S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feyzioglu, Tarhan N."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DEC"
+      }
+    ],
+    "date_created": "1994/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698289"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c6012"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c6012"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Charging for social marginal costs is efficient regardless of price elasticities, but the importance of getting prices \"right\" is greater the more manageable, or elastic, the demand. In efficient pollution control programs, options to make cars cleaner are combined optimally with demand conservation. The roles played by \"cleaner cars\" as compared with \"fewer trips\" are determined by empirical parameters: cheap, clean technologies would imply a great role for cleaner cars, while high demand elasticities lead to a greater role for demand reduction. In seminal research, evisence was found to support the hypothesis that demand for commodities such as gasoline should have lower price elasticities and higher income elasticities in developing than in industrial countries. The authors estimate a model of gasoline demand and car ownership in Mexico, using a panel of annual observations by state. Key features they introduce are instrumental variables on different data and the treatment of (1) possible dynamics, (2) measurement errors in the data, and (3) unobserved characteristics in individual states. They use tests of serial correlation in the residuals to model the dynamics properly. The resulting model is one of almost immediate adjustment, with a short-term price elasticity for gasoline close to the long-term estimate of -0.8. The model displays elasticities that are lower (for income) and higher (for price) than those hypothesized, and are within the range of elasticities found in industrial countries. Byproducts of the model: The elasticity of car purchases with respect to gasoline prices is positive. Scrappage decisions are affected by income and by car and gasoline prices. And these elasticities are not significantly different in the richer states. For policy purposes, these findings do not support \"elasticity pessimism\" The use of car services is sensitive to pricing, which suggests that consumers, for some of their demand, have reasonably good alternatives to car services. Consideration of external costs - such as accidents, congestion, air pollution, and road damage - thus involve considerable demand conservation.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1309",
+    "url": "http://documents.worldbank.org/curated/en/244091468776964574/Is-demand-for-polluting-goods-manageable-an-econometric-study-of-car-ownership-and-use-in-Mexico",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.966372",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

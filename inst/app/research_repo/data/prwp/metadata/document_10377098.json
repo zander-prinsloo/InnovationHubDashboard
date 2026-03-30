@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic modeling of income, different types of capital and natural disasters",
+    "idno": "10377098",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10377098",
+      "title": "Economic modeling of income, different types of capital and natural disasters",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Markandya,Anil"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pedroso-Galinato, Suzette"
+      }
+    ],
+    "date_created": "2009/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10377098"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b7ba2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b7ba2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides empirical estimates of the impacts of natural disasters on different forms of capital (with a focus on human and intangible capital and natural capital), and on real gross domestic product per capita. The types of disaster considered are droughts, earthquakes, floods, and storms and their impacts are measured in terms of the number of people affected or people affected per capita. The authors find statistically significant reductions on the values of human and intangible capital and land capital as a consequence of the disasters, and these reductions are greater when the impacts last for longer periods. Based on the assumption that natural disasters indirectly affect the level of income via losses in capital, the authors estimate a Cobb-Douglas production function using the different forms of capital as inputs. The losses in income are found to vary across different countries and the type of natural disaster studied. However, a common finding is that the losses in income depend generally on two factors: the relative magnitude of impacts of a natural disaster and the values of different forms of capital. The estimates in this paper are national level figures and cannot be useful in predicting the cost of damages at the local level, where much larger amounts can be experienced per capita. Nevertheless, the estimates provide some indication of magnitudes for different disasters and for different groups of countries. More work and more data are needed to get a dynamic profile for the losses of capital and income. But given the study's results, the time profile is estimated to range typically between two and five years.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4875",
+    "url": "http://documents.worldbank.org/curated/en/446631468331915650/pdf/WPS4875.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.611726",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

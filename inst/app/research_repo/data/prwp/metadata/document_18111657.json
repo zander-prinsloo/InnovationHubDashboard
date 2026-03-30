@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Benefit incidence with incentive effects, measurement errors and latent heterogeneity",
+    "idno": "18111657",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18111657",
+      "title": "Benefit incidence with incentive effects, measurement errors and latent heterogeneity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chen, Shaohua"
+      }
+    ],
+    "date_created": "2013/08/01",
+    "date_available": "2013/08/01",
+    "date_published": "2013/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18111657"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b9001"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b9001"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Empirical studies of tax and benefit incidence routinely ignore behavioral responses and measurement errors. This paper offers an econometric method of estimating the mean benefit withdrawal rate (marginal tax rate) allowing for incentive effects, measurement errors, and correlated latent heterogeneity in incidence. Under the method's identifying assumptions, a feasible instrumental variables estimator corrects for incentive effects and measurement errors, and provides a bound for the true value when there is correlated incidence heterogeneity. A case study for a large cash transfer program in China indicates that past methods of assessing benefit incidence using either nominal official rates or raw tabulations from survey data are deceptive. The program entails a nominal 100 percent benefit withdrawal rate -- a poverty trap. However, the paper finds that the actual rate is much lower, and clearly too low in the light of the literature on optimal income taxation. The paper discusses likely reasons based on the qualitative observations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6573",
+    "url": "http://documents.worldbank.org/curated/en/877301468331780079/pdf/WPS6573.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.518869",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

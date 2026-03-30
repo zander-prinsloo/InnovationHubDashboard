@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Livelihood Impacts of Refugees on Host Communities : Evidence from Ethiopia",
+    "idno": "33819680",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33819680",
+      "title": "Livelihood Impacts of Refugees on Host Communities : Evidence from Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Walelign,Solomon Zena"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang Sonne,Soazic Elise"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seshan,Ganesh Kumar"
+      }
+    ],
+    "date_created": "2022/05/16",
+    "date_available": "2022/05/16",
+    "date_published": "2022/05/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33819680"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-6f3a1d0a-eaf5-442f-8376-7b29ba4aedcd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-6f3a1d0a-eaf5-442f-8376-7b29ba4aedcd"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10044"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Most refugee hosting communities are characterized by high levels of poverty with precarious livelihood conditions, low access to public services, and underdeveloped infrastructure. While the unexpected inflow of refugees might bring both constraints and opportunities for improving and maintaining local livelihoods in these communities, the understanding of these effects remains limited. Using a household level micro data set from a 2018 baseline survey of the Ethiopia Development Response to Displacement Impacts Project, this paper assesses the impact of refugee inflow on the livelihood strategies of host communities with respect to diversification and agricultural commercialization. The endogeneity of refugee inflow is addressed by exploiting differences in factors that influence refugee arrival in the host communities. Specifically, the analysis uses potential refugee inflow as an instrument, which is the product of population density and intensity of conflicts (number of fatalities per event) in the closest region of the origin country to the refugee camp weighted by the distance of the refugee camp to the closest region. The paper also constructs an aggregate index to proxy households’ livelihood diversification strategies. The findings show that refugee inflow brings substantial benefits to host communities by creating significant jobs, in which people engage as secondary occupations, and triggers an increasing demand for livestock products. Specifically, while no effect was found on diversification of activities such as a primary occupation and crop product sales, a 1 percent increase in refugee inflow leads to a 2.7 percent rise in diversification of livelihood activities as a secondary occupation and a 15.9 percent increase in the value of livestock product sales. These effects tend to be heterogeneous across refugee hosting regions and the gender of the household head: negative effects were mainly observed in Gambella region, which hosts the largest refugee population in the country, and male-headed households were more likely to benefit from the refugee presence for the whole sample. The paper identifies households' increased engagement in different livelihood activities and access to markets as a potential mechanism for the observed effects. The findings add to the growing literature on the socioeconomic impacts of refugee inflow on host communities by showing an overall positive effect on the livelihoods and welfare of receiving communities.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10044",
+    "url": "http://documents.worldbank.org/curated/en/099509505162226375/pdf/IDU06f3a1d0a0eaf50442f0837607b29ba4aedcd.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.201682",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

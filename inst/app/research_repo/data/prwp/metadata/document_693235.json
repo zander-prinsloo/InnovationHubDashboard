@@ -1,0 +1,129 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Financial structure and bank profitability",
+    "idno": "693235",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693235",
+      "title": "Financial structure and bank profitability",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt, Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Huizinga, Harry"
+      }
+    ],
+    "date_created": "2000/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693235"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b055b8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b055b8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Countries differ in the extent to which their financial systems are bank-based or market-based. The financial systems of Germany and Japan, for example, are considered bank-based because banks play a leading role in mobilizing savings, allocating capital, overseeing investment decisions of corporate managers, and providing risk management vehicles. The systems of the United States, and the United Kingdom are considered more market-based. Using bank-level data for a large number of industrial and developing countries, the authors present evidence about the impact of financial development, and structure on bank performance. They measure the relative importance of bank or market finance by the relative size of stock aggregates, by relative trading or transaction volumes, and by indicators of relative efficiency. They show that in developing countries, both banks and stock markets are less developed, but financial systems tend to be more bank-based. The richer the country, the more active are all financial intermediaries. The greater the development of a country's banks, the tougher is the competition, the greater is the efficiency, and the lower are the bank margins, and profits. The more under-developed the stock market, the greater are the bank profits. But financial structure per se does not have a significant, independent influence on bank margins, and profits.",
+    "ref_country": [
+      {
+        "name": "Japan",
+        "code": "JPN"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GBR"
+      },
+      {
+        "name": "Germany",
+        "code": "DEU"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; OTH ; Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2430",
+    "url": "http://documents.worldbank.org/curated/en/364151468749353823/Financial-structure-and-bank-profitability",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.004793",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

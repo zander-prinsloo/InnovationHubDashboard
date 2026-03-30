@@ -1,0 +1,148 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The rise of China and labor market adjustments in Latin America",
+    "idno": "23173043",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "23173043",
+      "title": "The rise of China and labor market adjustments in Latin America",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Artuc,Erhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rojas Alvarado,Luis Diego"
+      }
+    ],
+    "date_created": "2015/01/01",
+    "date_available": "2014/12/31",
+    "date_published": "2014/12/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "23173043"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c25f69"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c25f69"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assesses the impact of the rise of China on the trade of Latin American and Caribbean economies. The study proposes an index to measure the impact on trade, which suggests sizable effects, especially in Argentina, Brazil, Chile, Honduras, Mexico, and Paraguay. The paper uses the index and a model of labor mobility, to calculate the impact of China's growth on labor markets in Argentina, Brazil, and Mexico. The resulting evidence suggests that the rise of China has had positive effects on agriculture and mining in Argentina and Brazil, which offset negative impacts on manufacturing industries, thus leaving total employment and real wages virtually unchanged in the long run. In contrast, the estimated impacts of China's rise on Mexico imply that the sizable shock to manufacturing was not offset by the positive shocks on mining and agriculture, reducing employment in the long run. The paper also discusses the effect of China on the degree of informality in these three economies and contrasts short-run and long-run effects on employment and wages across industries.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PRY"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Honduras",
+        "code": "HND"
+      },
+      {
+        "name": "China",
+        "code": "CHN"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7155",
+    "url": "http://documents.worldbank.org/curated/en/975981468019161171/pdf/WPS7155.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.330885",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

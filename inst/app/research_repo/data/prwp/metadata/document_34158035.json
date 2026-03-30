@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Resilience of SMEs and Large Firms in the COVID-19 Pandemic : A Decomposition Analysis",
+    "idno": "34158035",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34158035",
+      "title": "The Resilience of SMEs and Large Firms in the COVID-19 Pandemic : A Decomposition Analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amin,Mohammad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolevski,Filip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Islam,Asif Mohammed"
+      }
+    ],
+    "date_created": "2023/09/08",
+    "date_available": "2023/09/08",
+    "date_published": "2023/09/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34158035"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-58d31390-c5b0-4ec8-b3f3-62ea60f8268d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-58d31390-c5b0-4ec8-b3f3-62ea60f8268d"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10562"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study analyzes the difference in the decline in sales between small and medium-size enterprises and large firms (the &#x201c;gap&#x201d;) following the outbreak of COVID-19 in 19 developing countries. The decline in sales as a percentage of the pre-pandemic level was bigger for small and medium-size enterprises by 12.2 percentage points. The paper uses the Kitagawa-Oaxaca-Blinder and quantile decomposition methods to estimate individual factors&#x2019; contributions to the gap at the mean and across the sales decline distribution. Several important results emerge. First, relative to large firms, small and medium-size enterprises faced greater incidence of input supply disruptions during the pandemic, had lower initial labor productivity levels, and were concentrated in country-industry cells with a bigger sales declines. These differences in the level of factors widened the gap. Small and medium-size enterprises also suffered more than large firms from a given level of financial constraints, input supply disruptions, and country-industry-specific factors, and benefitted less from a given level of initial labor productivity. These differences in the returns to factors also widened the gap. Second, the gap was much larger at the relatively high quantiles of sales decline distribution, indicating that relative to large firms, small and medium-size enterprises were much less resilient to large shocks than small shocks. Third, individual factors&#x2019; contribution to the gap varied across the sales decline distribution. Thus, the optimal policy mix depends on the size of the shock. Fourth, there were some important differences between geographical regions in what drove the gap. Thus, an eclectic policy approach is needed that duly accounts for the prevailing local conditions.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10562",
+    "url": "http://documents.worldbank.org/curated/en/099310009082313020/pdf/IDU058d313900c5b004ec80b3f3062ea60f8268d.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.186141",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

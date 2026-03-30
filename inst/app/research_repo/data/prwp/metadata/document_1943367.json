@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Markups, returns to scale, and productivity : a case study of Singapore's manufacturing sector",
+    "idno": "1943367",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1943367",
+      "title": "Markups, returns to scale, and productivity : a case study of Singapore's manufacturing sector",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kee,Hiau Looi"
+      }
+    ],
+    "date_created": "2002/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1943367"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05d7b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05d7b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The results of this paper challenge the conventional wisdom in the literature that productivity plays no role in the economic development of Singapore. Properly accounting for market power and returns to scale technology, the estimated average productivity growth is twice as large as the conventional total factor productivity (TFP) measures. Using a standard growth accounting (production function) technique, Young (1992, 1995) found no sign of TFP growth in the aggregate economy and the manufacturing sector of Singapore. Based on Young's results, Krugman (1994) claimed that there was no East Asia miracle as all the economic growth in Singapore could be attributed to its capital accumulation in the past three decades. Citing evidence on nondiminishing market rates of return to capital investment in Singapore during the period of fast growth as an indication of high productivity growth, Hsieh (1999) challenged Young's findings using the dual approach. But all of these papers maintained the assumptions of perfect competition and constant returns to scale and used only aggregate macro-level data. Kee uses industry level data and focuses on Singapore's manufacturing sector. She develops an empirical methodology to estimate industry productivity growth in the presence of market power and nonconstant returns to scale. The estimation of industry markups and returns to scale in this paper combines both the production function (primal) and the cost function (dual) approaches while controlling for input endogeneity and selection bias. The results of a fixed effect panel regression show that all industries in the manufacturing sector violate at least one of the two assumptions. Relaxing the assumptions leads to an estimated productivity growth that is on average twice as large as the conventional TFP calculation. Kee concludes that productivity growth plays a nontrivial role in the manufacturing sector.",
+    "ref_country": [
+      {
+        "name": "Singapore",
+        "code": "SGP"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2857",
+    "url": "http://documents.worldbank.org/curated/en/871411468776069449/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:34.374022",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

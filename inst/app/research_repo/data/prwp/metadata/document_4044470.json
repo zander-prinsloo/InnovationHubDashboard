@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Governance and bank valuation",
+    "idno": "4044470",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "4044470",
+      "title": "Governance and bank valuation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Caprio, Gerard; Laeven, Luc; Levine, Ross"
+      }
+    ],
+    "date_created": "2004/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "4044470"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b054f2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b054f2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Which public policies and ownership structures enhance the governance of banks? The authors construct a new database on the ownership of banks internationally and then assess the ramifications of ownership, shareholder protection laws, and supervisory and regulatory policies on bank valuations. Except in a few countries with very strong shareholder protection laws, banks are not widely held, but rather families or the state tend to control banks. The authors find that: (i) Larger cash flow rights by the controlling owner boosts valuations; (ii) Stronger shareholder protection laws increase valuations; and (iii) Greater cash flow rights mitigate the adverse effects of weak shareholder protection laws on bank valuations. These results are consistent with the views that expropriation of minority shareholders is important internationally, that laws can restrain this expropriation, and concentrated cash flow rights represent an important mechanism for governing banks. Finally, the evidence does not support the view that empowering official supervisory and regulatory agencies will increase the market valuation of banks.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3202",
+    "url": "http://documents.worldbank.org/curated/en/934651468779179139/pdf/wps3202governance.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.205115",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global Bank Lending under Climate Policy",
+    "idno": "33957762",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33957762",
+      "title": "Global Bank Lending under Climate Policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt,Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pedraza Morales,Alvaro Enrique"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pulga,Fredy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruiz Ortega,Claudia"
+      }
+    ],
+    "date_created": "2022/12/15",
+    "date_available": "2022/12/15",
+    "date_published": "2022/12/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33957762"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-19acc0cf-3a1e-437c-b215-006703b3fb3f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-19acc0cf-3a1e-437c-b215-006703b3fb3f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10266"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "What is the response of bank foreign subsidiaries to climate policy in their host countries? This paper finds that global banks with high environmental performance increase their presence in countries after local authorities strengthen their climate-related actions. Through their foreign subsidiaries, these banks expand their credit by 4.6 percent following an increase of one-standard deviation in the host country&#x2019;s climate policy index. Importantly, the paper does not find evidence that banks with low environmental scores exit in response to climate initiatives. The findings show that strengthening climate policy might be a win-win strategy for policymakers&#x2014;in addition to addressing carbon emission reduction, climate-related initiatives also appear to attract foreign capital from lenders with strong preferences for green assets.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10266",
+    "url": "http://documents.worldbank.org/curated/en/099355212152265521/pdf/IDU019acc0cf03a1e0437c0b2150006703b3fb3f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.285265",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

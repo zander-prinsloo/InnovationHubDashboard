@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impacts of metering and climate conditions on residential electricity demand : the case of Albania",
+    "idno": "13324651",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "13324651",
+      "title": "The impacts of metering and climate conditions on residential electricity demand : the case of Albania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      }
+    ],
+    "date_created": "2011/01/01",
+    "date_available": "2011/01/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "13324651"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c1529"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c1529"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Albania is among the most vulnerable countries to external energy shocks and climatic conditions, because of its high dependency on hydropower for electricity. Given highly volatile international energy prices and expected global warming, it is becoming increasingly important to manage the demand for electricity. However, the country has long been faced with a significant problem of electricity metering. About one-third of total energy is lost for technical and nontechnical reasons. This paper estimates the residential demand function by applying a two-stage system equation method for an endogenous censored variable, because the lack of metering makes the electricity consumption partially observable for the econometrician. It is found that metering is important to curb non-essential electricity use by households. The electricity demand could also be reduced by raising the first block rate and lowering the second block rate and the threshold between the two blocks. In addition, weather conditions and home appliance ownership would affect the demand for electricity. But the latter looks more influential than the former.",
+    "ref_country": [
+      {
+        "name": "Albania",
+        "code": "ALB"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5520",
+    "url": "http://documents.worldbank.org/curated/en/765571468000877976/pdf/WPS5520.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:04.335207",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

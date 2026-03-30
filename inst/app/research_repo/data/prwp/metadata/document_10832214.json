@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are there diminishing returns to transfer size in conditional cash transfers",
+    "idno": "10832214",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10832214",
+      "title": "Are there diminishing returns to transfer size in conditional cash transfers",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Filmer, Deon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schady, Norbert"
+      }
+    ],
+    "date_created": "2009/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10832214"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aaa72"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aaa72"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is increasing evidence that conditional cash transfer programs can have large impacts on school enrollment, including in very poor countries. However, little is known about which features of program design -- including the amount of the cash that is transferred, how frequently conditions are monitored, whether non-complying households are penalized, and the identity or gender of the cash recipients -- account for the observed outcomes. This paper analyzes the impact of one feature of program design -- namely, the magnitude of the transfer. The analysis uses data from a program in Cambodia that deliberately altered the transfer amounts received by otherwise comparable households. The findings show clear evidence of diminishing marginal returns to transfer size despite the fact that even the larger transfers represented on average only 3 percent of the consumption of the median recipient households. If applicable to other settings, these results have important implications for other programs that transfer cash with the explicit aim of increasing school enrollment levels in developing countries.",
+    "ref_country": [
+      {
+        "name": "Cambodia",
+        "code": "KHM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4999",
+    "url": "http://documents.worldbank.org/curated/en/256221468016739759/pdf/WPS4999.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other economic management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.398838",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

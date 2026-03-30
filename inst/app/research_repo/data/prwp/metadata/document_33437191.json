@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Climate Modeling for Macroeconomic Policy : A Case Study for Pakistan",
+    "idno": "33437191",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33437191",
+      "title": "Climate Modeling for Macroeconomic Policy : A Case Study for Pakistan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Burns,Andrew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jooste,Charl"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schwerhoff,Gregor"
+      }
+    ],
+    "date_created": "2021/09/23",
+    "date_available": "2021/09/23",
+    "date_published": "2021/09/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33437191"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0889d8fb4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0889d8fb4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9780"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As the effects of climate change become increasingly evident, the design and implementation of climate-aware policies have assumed a more central role in the macroeconomic policy debate. With this has come an increasing recognition of the importance of introducing climate into the economic policy making tools used by central economic policy making agencies (such as ministries of finance and ministries of planning). This paper integrates climate outcomes into a macro-structural model for Pakistan, the kind of model that is suitable for use on a regular basis by ministry staff. The model includes the standard set of variables and economic logic that are necessary for the kinds of forecasting, economic policy, and budgetary planning analysis typically conducted by central ministries. In addition to standard outputs (unemployment, inflation, gross domestic product growth, and fiscal and current accounts), the model generates climate outcomes (tons of carbon emitted and economic and health damages due to higher temperatures and pollution). These outcomes are generated when specific climate policies such as mitigation are analyzed, but also when other policies are analyzed that might have unanticipated climate impacts. The paper describes the changes made to the World Bank’s standard macro structural model, MFMod, in integrated climate outcomes, climate policies, and the economic impacts of climate on Pakistan’s economy. Notably, carbon-tax scenarios show that a $20 carbon tax can reduce emissions in Pakistan by 36 percent by 2050. Gross domestic product impacts could also be positive, if the revenues from the carbon tax were used to reduce reliance on heavily distorting taxes. The model also quantifies associated co-benefits from reduced local air pollution and better health and productivity outcomes. In the absence of action to restrain climate change, the model suggests that increased temperatures and rain variability could reduce output by as much as 10 percent compared with a scenario where global temperature rises were minimized.",
+    "ref_country": [
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9780",
+    "url": "http://documents.worldbank.org/curated/en/747101632403308927/pdf/Climate-Modeling-for-Macroeconomic-Policy-A-Case-Study-for-Pakistan.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.468061",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

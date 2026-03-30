@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Spatial correlations in panel data",
+    "idno": "696862",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696862",
+      "title": "Spatial correlations in panel data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Driscoll, John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay, Aart"
+      }
+    ],
+    "date_created": "1995/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696862"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05742"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05742"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In many empirical applications involving combined time-series and cross-sectional data, the residuals from different cross-sectional units are likely to be correlated with one another. This is the case in applications in macroeconomics and international economics where the cross-sectional units may be countries, states, or regions observed over time. Spatial correlations among such cross-sections may arise for a number of reasons, ranging from observed common shocks such as terms of trade oil shocks, to unobserved contagion or neighborhood effects which propagate across countries in complex ways. The authors observe that presence of such spatial correlations in residuals complicates standard inference procedures that combine time-series and cross-sectional data since these techniques typically require the assumption that the cross-sectional units are independent. When this assumption is violated, estimates of standard errors are inconsistent, and hence are not useful for inference. And standard correction for spatial correlations will be valid only if spatial correlations are of particular restrictive forms. The authors propose a correlation for spatial correlations that does not require strong assumptions concerning their form and how show it is superior to a number of commonly used alternatives.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1553",
+    "url": "http://documents.worldbank.org/curated/en/944831468739460842/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:52.078165",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

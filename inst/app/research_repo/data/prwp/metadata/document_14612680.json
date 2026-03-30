@@ -1,0 +1,140 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Who uses bottled gas evidence from households in developing countries",
+    "idno": "14612680",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14612680",
+      "title": "Who uses bottled gas evidence from households in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bacon,Robert W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kojima,Masami"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhou, Xin"
+      }
+    ],
+    "date_created": "2011/07/01",
+    "date_available": "2011/07/01",
+    "date_published": "2011/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14612680"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c9196"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c9196"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Household surveys in Guatemala, India, Indonesia, Kenya, Pakistan, and Sri Lanka were analyzed using a two-stage Heckman model to examine the factors influencing the decision to use liquefied petroleum gas (stage 1) and, among users, the quantity consumed per person (stage 2). In the first stage, liquefied petroleum gas selection in all six countries increased with household expenditure and the highest level of education attained by female and male household members. Electricity connection increased, and engagement in agriculture and increasing household size decreased, liquefied petroleum gas selection in five countries; urban residence increased selection in four countries; and rising firewood and kerosene prices increased selection in three countries each. In the second stage, the quantity of liquefied petroleum gas consumed increased with rising household expenditure and decreasing price of liquefied petroleum gas in every country. Urban residence increased and engagement in agriculture decreased liquefied petroleum gas consumption. Surveys in Albania, Brazil, Mexico, and Peru, which did not report quantities, were also examined by calculating quantities using national average prices. Although fuel prices faced by individual households could not be tested, the findings largely supported those from the first six countries. Once the education levels of men and women were separately accounted for, the gender of the head of household was not statistically significant in most cases across the ten countries. Where it was significant (five equations), the sign of the coefficient was positive for men, possibly suggesting that female-headed households are burdened with unmeasured economic disadvantages, making less cash available for purchasing liquefied petroleum gas.",
+    "ref_country": [
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      },
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "Africa ; East Asia and Pacific ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5731",
+    "url": "http://documents.worldbank.org/curated/en/955941468269402062/pdf/WPS5731.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.346057",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

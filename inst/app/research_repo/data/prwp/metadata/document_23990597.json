@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Debiasing on a roll: changing gambling behavior through experiential learning",
+    "idno": "23990597",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "23990597",
+      "title": "Debiasing on a roll: changing gambling behavior through experiential learning",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abel,Simon Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cole,Shawn Allen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zia,Bilal Husnain"
+      }
+    ],
+    "date_created": "2015/02/01",
+    "date_available": "2015/02/01",
+    "date_published": "2015/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "23990597"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c254ce"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c254ce"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper tests experiential learning as a debiasing tool against gambling and lottery behavior in South Africa. The study implemented a simple, interactive dice game that simulates worsening winning odds of rolling sixes as more dice are added to the game. The analysis exploits two levels of exogenous variation, first from random assignment into the debiasing game, and second from the number of rolls it takes to obtain the sixes. Treated individuals who needed above-median number of rolls to obtain simultaneous sixes are significantly less likely than the control group to gamble or play the lottery in the following year. The converse is true for individuals who needed below-median number of rolls, suggesting a perverse treatment effect among this group. The analysis also finds suggestive evidence that the debiasing affected the sensitivity to varying winning odds. Changes in entertainment utility or risk preferences cannot explain these findings, rather the results are consistent with changes in risk beliefs.",
+    "ref_country": [
+      {
+        "name": "Southern Africa",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7195",
+    "url": "http://documents.worldbank.org/curated/en/496091468304853412/pdf/WPS7195.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.819094",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

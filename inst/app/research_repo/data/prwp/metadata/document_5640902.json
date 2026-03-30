@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A macroeconomic framework for quantifying growth and poverty reduction strategies in Niger",
+    "idno": "5640902",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5640902",
+      "title": "A macroeconomic framework for quantifying growth and poverty reduction strategies in Niger",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bayraktar,Nihal"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pinto Moreira,Emmanuel"
+      }
+    ],
+    "date_created": "2005/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5640902"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b3efc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b3efc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors apply the dynamic macroeconomic framework developed by Agénor, Bayraktar, and El Aynaoui (2004) to Niger. As in the original model, linkages between foreign aid, public investment (disaggregated into education, infrastructure, and health), and growth are explicitly captured. Although the nominal exchange rate is fixed, the relative price of domestic goods is endogenous, thereby allowing for potential Dutch disease effects associated with increases in aid. The authors assess the impact of policy shocks on poverty by using partial growth elasticities. They perform various policy experiments, including an increase in the level of foreign aid, a reallocation of public investment toward infrastructure, and neutral and non-neutral cuts in tariffs. The simulations show the dynamic tradeoffs that these policies entail with respect to growth and poverty reduction in Niger.",
+    "ref_country": [
+      {
+        "name": "Niger",
+        "code": "NER"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3506",
+    "url": "http://documents.worldbank.org/curated/en/681551468759348987/A-macroeconomic-framework-for-quantifying-growth-and-poverty-reduction-strategies-in-Niger",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:25.741934",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

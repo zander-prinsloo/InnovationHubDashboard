@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Implications of Choice of Second Stage Selection Method on Sampling Error and Non-Sampling Error : Evidence from an IDP Camp in South Sudan",
+    "idno": "34241150",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34241150",
+      "title": "Implications of Choice of Second Stage Selection Method on Sampling Error and Non-Sampling Error : Evidence from an IDP Camp in South Sudan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Himelein,Kristen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wild,Michael"
+      }
+    ],
+    "date_created": "2024/01/18",
+    "date_available": "2024/01/18",
+    "date_published": "2024/01/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34241150"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-85fa1625-4305-4829-9ed6-284e2ea25794"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-85fa1625-4305-4829-9ed6-284e2ea25794"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10675"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The most common sampling approach for cross-sectional household surveys in the developing world is a stratified two-stage design, where the first stage is usually a sample from a census-based area frame, and the second stage is a random sample of households from each of the areas selected in the first stage. To overcome the problem of outdated census frame information, it is common to conduct a household listing operation within these areas. However, these listing operations come with severe implications for survey costs, timeframe, as well as quality. To avoid such second-stage operations, some surveys choose alternate approaches for their second-stage operation. This paper compares five of these approaches, namely, satellite mapping, segmentation, grid square, the north method, and random walk, through simulations based on a census conducted in a refugee camp in South Sudan. The paper compares the simulated approach with the estimates derived from the actual experiment and finds that all the resulting estimates are biased. Nevertheless, in addition to their practical challenges, the satellite mapping, segmentation, and grid square approaches exhibit the smallest bias. Although random walk shows the worst performance in the simulations, it regains ground in its implementation, especially vis-&#xe0;-vis the north method, where implementation adds most significantly to its bias. In conclusion, most probability-based methods perform better than non-probability methods like random walk and are therefore preferrable when no traditional household listing can take place. Although it is important to consider the theoretical properties of sampling approaches, implementation is at least as important. Training, implementation modalities, and monitoring of compliance are key factors in the overall performance.",
+    "ref_country": [
+      {
+        "name": "South Sudan",
+        "code": "SSD"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10675",
+    "url": "http://documents.worldbank.org/curated/en/099450101182424685/pdf/IDU185fa1625143051482919ed61284e2ea25794.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.205899",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

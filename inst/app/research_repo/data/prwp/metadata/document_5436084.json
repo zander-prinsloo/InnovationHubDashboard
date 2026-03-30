@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Schooling and labor market impacts of a natural policy experiment",
+    "idno": "5436084",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5436084",
+      "title": "Schooling and labor market impacts of a natural policy experiment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patrinos,Harry Anthony"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sakellariou,Chris"
+      }
+    ],
+    "date_created": "2004/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5436084"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058a2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058a2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors use a nationally representative household survey to estimate returns to schooling in Venezuela from instrumental variables based on a supply-side intervention in the education market. These estimates apply to a subgroup of liquidity-constrained individuals, in the spirit of the Local Average Treatment Effect (LATE) literature. Returns to schooling estimates which apply to a subgroup of individuals affected by the policy intervention may be more interesting from a policy perspective than the return to the \"average\" individual. The authors use an instrument based on the 1980 education reform (the Organic Law of Education) which provided for nine years of compulsory basic education. They also obtain alternative estimates using father's education as an instrument, in an attempt to derive high and low estimates of returns to schooling in Venezuela. The estimates are consistent with recent findings suggesting that the effect of education, at least for certain subgroups affected by a policy intervention, is as large, or larger than what is suggested by OLS estimates.",
+    "ref_country": [
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3460",
+    "url": "http://documents.worldbank.org/curated/en/974371468765342714/pdf/WPS3460.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.178927",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic parameters of deforestation",
+    "idno": "698105",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698105",
+      "title": "Economic parameters of deforestation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "von Amsberg, Joachim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DEC"
+      }
+    ],
+    "date_created": "1994/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698105"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b3892"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b3892"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent debate about how timber prices affect deforestation has focused mainly on how log export bans (imposed in many developing countries to protect domestic timber processing) affect deforestation. One side argues that the lower domestic timber prices that result from banning log exports increase deforestation by making forestry less profitable than competing land uses, such as agriculture. The other argues that lower timber prices reduce profits from logging, so they slow down deforestation caused by logging. The author argues that the conflicting views result from simplistic analysis that ignores differences between types of forest. The two positions are reconciled by distinguishing between unmanaged forests (for example, biologically mature, previously unlogged primary forests) and managed forests (such as forest plantations cultivated for periodic harvest). This distinction allows the derivation of unambiguous comparative static results and is useful because many nontimber benefits from forests (such as biodiversity conservation) are associated mainly with unmanaged forests. The distinction between managed and unmanaged forests leads to both unconventional and conventional results. All things being equal, a lower timber price results in larger areas of unmanaged forests and smaller areas of managed forests. That is, measures that reduce the producer price for timber (for example, import restrictions in timber-consuming countries and export restrictions in timber-producing countries) are suitable as a second-best policy to reduce the pressure on unmanaged forest frontiers. Most logging in tropical forests occurs in unmanaged forests, so the claim that trade restrictions (such as log export bans) increase deforestation is inconsistent with profit-maximizing land use. A fee on land used for logging is preferable to a tax on timber output, which is far more common but encourages logging waste. Technological interventions that increase the intensity of forestry or alternative land uses are an ambiguous instrument for the conservation of unmanaged forests. If demand elasticity for outputs is high, an intervention that increases the intensity of agriculture, logging, or other land uses increases incentive for conversion of unmanaged forests. The building of roads is particularly harmful to the conservation of unmanaged forests, as it increases incentives for logging and subsequent alternative land uses. Proper pricing of forest lands would increase land prices and lead to market-driven intensification accompanied by forest protection. Such pricing policies would be preferable to a technological intervention that increases land use intensity with ambiguous outcomes for forest protection. If unmanaged forest is converted to agriculture, the effect of lowering the decisionmaker's discount rate depends on the size of timber rents from logging unmanaged forests. If the standing timber has high commercial value, a lower discount rate would slow conversion of unmanaged forests. If the standing timber has no commercial value, logging is an investment for obtaining future benefits of alternate land use. A lower discount rate would stimulate this investment and increase the conversion of unmanaged forests. Also, if unmanaged forests are converted to managed forests, a lower discount rate can increase conversion since profits from managed forestry are higher with a lower discount rate.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1350",
+    "url": "http://documents.worldbank.org/curated/en/113261468740984341/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.783937",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

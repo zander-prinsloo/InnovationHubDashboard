@@ -1,0 +1,137 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Short and long-run integration : do capital controls matter",
+    "idno": "1561500",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1561500",
+      "title": "Short and long-run integration : do capital controls matter",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaminsky,Graciela Laura"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler,Sergio L."
+      }
+    ],
+    "date_created": "2001/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1561500"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c52"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c52"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors study whether capital controls affect the link between domestic and foreign stock market prices and interest rates. To examine the characteristics of international market integration and the effects of capital controls in the short and long run, they apply band-pass filter techniques to data from six emerging economics during the 1990s. They find that markets seem to be linked more at longer horizons. Equity prices seem to be more connected internationally than interest rates. They also find little evidence that controls effectively segment domestic markets from foreign markets. And when they do, the effects seem to be short-lived. Moreover, the effects of controls on outflows do not seem to differ from those of controls on inflows. For example, controls on outflows in Venezuela during the 1994 crisis, and unremunerated reserve requirements in Chile and Colombia during a capital-inflow episode, seem to have shielded domestic markets at the most at very high frequencies. The degree of financial sophistication does not seem to affect the authors' conclusion on the insulation provided by capital controls. True, more developed financial markets, such as those in Brazil, are more closely linked to international markets than those in Colombia and Venezuela, which are far more illiquid. But capital controls do not seem to provide an extra cushion against international spillovers even in less developed markets.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      },
+      {
+        "name": "Thailand",
+        "code": "THA"
+      },
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2660",
+    "url": "http://documents.worldbank.org/curated/en/871251468769744472/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.240739",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Intrahousehold inequality and child gender bias in Ethiopia",
+    "idno": "9954700",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9954700",
+      "title": "Intrahousehold inequality and child gender bias in Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koohi-Kamali, Feridoon"
+      }
+    ],
+    "date_created": "2008/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9954700"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a2fec"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a2fec"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The Rothbarth model of intrahousehold resource allocation has consistently failed to detect child gender bias in many applications over the past two decades. This paper challenges the current consensus that the Rothbarth method is not effective in revealing child gender bias from consumption behavior of adults. It proposes an approach to the Rothbarth model that restricts its application to samples of nuclear households, and employs an index of child gender based on the number of children in the household and related to a specific selective mechanism of discrimination. It demonstrates the effectiveness of this approach with an application to a 2005-06 Ethiopian consumption survey of 21,299 households conducted by Ethiopia's Statistical Authority, covering both urban and rural areas. The paper presents the first clear and extensive evidence of discrimination against girls by all four adult goods employed, and the outcome persists, in various degrees, when reexamined with a lower definition of child age, and with female-headed households. The findings provide support for gender-based policies in child-health and education in Ethiopia.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4755",
+    "url": "http://documents.worldbank.org/curated/en/996101468251996959/pdf/WPS4755.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.329381",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

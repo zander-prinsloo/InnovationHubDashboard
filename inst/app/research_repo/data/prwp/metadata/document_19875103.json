@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Predicting bank insolvency in the Middle East and North Africa",
+    "idno": "19875103",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19875103",
+      "title": "Predicting bank insolvency in the Middle East and North Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calice,Pietro"
+      }
+    ],
+    "date_created": "2014/07/01",
+    "date_available": "2014/07/01",
+    "date_published": "2014/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19875103"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bb3f4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bb3f4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses a panel of annual observations for 198 banks in 19 Middle East and North Africa countries over 2001-12 to develop an early warning system for forecasting bank insolvency based on a multivariate logistic regression framework. The results show that the traditional CAMEL indicators are significant predictors of bank insolvency in the region. The predictive power of the model, both in-sample and out-of-sample, is reasonably good, as measured by the receiver operating characteristic curve. The findings of the paper suggest that banking supervision in the Middle East and North Africa could be strengthened by introducing a fundamentals-based, off-site monitoring system to assess the soundness of financial institutions.",
+    "ref_country": [
+      {
+        "name": "Middle East and North Africa",
+        "code": "MNA"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6969",
+    "url": "http://documents.worldbank.org/curated/en/452091468052821335/pdf/WPS6969.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.668812",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

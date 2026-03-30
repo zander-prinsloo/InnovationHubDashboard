@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does uncertainty matter A stochastic dynamic analysis of bankable emission permit trading for global climate change policy",
+    "idno": "7549905",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7549905",
+      "title": "Does uncertainty matter A stochastic dynamic analysis of bankable emission permit trading for global climate change policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Fan"
+      }
+    ],
+    "date_created": "2007/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7549905"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aaa5b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aaa5b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Emission permit trading is a centerpiece of the Kyoto Protocol which allows participating nations to trade and bank greenhouse gas permits under the Framework Convention on Climate Change. When market conditions evolve stochastically, emission trading produces a dynamic problem, in which anticipation about the future economic environment affects current banking decisions. In this paper, the author explores the effect of increased uncertainty over future output prices and input costs on the temporal distribution of emissions. In a dynamic programming setting, a permit price is a convex function of stochastic prices of electricity and fuel. Increased uncertainty about future market conditions increases the expected permit price and causes a risk-neutral firm to reduce ex ante emissions so as to smooth out marginal abatement costs over time. The convexity results from the asymmetric impact of changes in counterfactual emissions on the change of marginal abatement costs. Empirical analysis corroborates the theoretical prediction. The author finds that a 1 percent increase in electricity price volatility measured by the annualized standard deviation of percentage price change is associated with an average decrease in the annual emission rate by 0.88 percent. Numerical simulation suggests that high uncertainty could induce substantially early abatements, as well as large compliance costs, therefore imposing a tradeoff between environmental benefits and economic efficiency. The author discusses policy implications for designing an effective and efficient global carbon market.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4215",
+    "url": "http://documents.worldbank.org/curated/en/616411468141892391/pdf/wps4215.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.699662",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "International Comparisons of Poverty in South Asia",
+    "idno": "30711109",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30711109",
+      "title": "International Comparisons of Poverty in South Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Islam,Tonmoy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yanez Pagans,Monica"
+      }
+    ],
+    "date_created": "2018/12/19",
+    "date_available": "2018/12/19",
+    "date_published": "2018/12/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30711109"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0867c4414"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0867c4414"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the methodological differences underlying the construction of the national consumption aggregates that are used to estimate international poverty rates for all countries in the South Asia region, including Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. The analysis draws on a regional dataset of standardized consumption aggregates to assess the sensitivity of international poverty rates to the items included in national consumption aggregates. A key feature of the standardized aggregate is that it includes the reported value of housing rent for urban Indian homeowners. Using the standardized consumption aggregates reduces the international poverty rate in South Asia by 1.3 percentage points, or about 18.5 million people. Comparing standardized and non-standardized monetary welfare indicators to other nonmonetary indicators suggests that the latter are more consistent with the standardized consumption aggregates. Overall, the results strongly suggest that harmonizing the construction of welfare measures, particularly the treatment of imputed rent, can meaningfully improve the accuracy of international poverty comparisons.",
+    "ref_country": [
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8683",
+    "url": "http://documents.worldbank.org/curated/en/805971545243107437/pdf/WPS8683.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.101361",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

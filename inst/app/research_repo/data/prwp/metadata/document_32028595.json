@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Determinants of Social Distancing and Economic Activity during COVID-19 : A Global View",
+    "idno": "32028595",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32028595",
+      "title": "Determinants of Social Distancing and Economic Activity during COVID-19 : A Global View",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney,William F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Taskin,Temel"
+      }
+    ],
+    "date_created": "2020/05/12",
+    "date_available": "2020/05/12",
+    "date_published": "2020/05/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32028595"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08790d716"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08790d716"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper uses Google mobility data to identify the determinants of social distancing during the 2020 COVID-19 outbreak. The findings for the United States indicate that much of the decrease in mobility is voluntary, driven by the number of COVID-19 cases and proxying for greater awareness of risk. Non-pharmaceutical interventions such as closing nonessential businesses, sheltering in place, and school closings are also effective, although with a total contribution dwarfed by the voluntary actions. This suggests that much social distancing will happen regardless of the presence of non-pharmaceutical interventions and that restrictions may often function more like a coordinating device among increasingly predisposed individuals than repressive measures per se. These results are consistent across country income groups, with only the poorest countries showing limited effect of non-pharmaceutical interventions and no voluntary component, consistent with resistance to abandon sources of livelihood. The paper also confirms the direct impact of the voluntary component on economic activity, by showing that the majority of the fall in restaurant reservations in the United States and movie spending in Sweden occurred before the imposition of any non-pharmaceutical interventions. Widespread voluntary de-mobilization implies that releasing constraints may not yield a V-shaped recovery if the reduction in COVID risk is not credible.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9242",
+    "url": "http://documents.worldbank.org/curated/en/325021589288466494/pdf/Determinants-of-Social-Distancing-and-Economic-Activity-during-COVID-19-A-Global-View.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.841869",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

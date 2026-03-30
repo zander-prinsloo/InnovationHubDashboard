@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Cohort size and youth employment outcomes",
+    "idno": "19455980",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19455980",
+      "title": "Cohort size and youth employment outcomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wolff, Claudia"
+      }
+    ],
+    "date_created": "2014/04/01",
+    "date_available": "2014/04/01",
+    "date_published": "2014/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19455980"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ca4f6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ca4f6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper utilizes a cross-country panel of 83 developing countries to examine how changes in cohort size are correlated with subsequent employment outcomes for workers at different ages. The results depend on countries' level of development. In low-income countries, young adults that are born into smaller cohorts are less likely to work, but school attendance remains unchanged. In middle-income countries, young adults in smaller cohorts are less likely to be unemployed and more likely to work outside of agriculture. Neither pattern can be discerned among older adults, although the estimates are imprecise. In sum, reductions in cohort size are associated with moderate improvements in employment outcomes for youth in middle-income countries, but there is scant evidence that these improvements persist into adulthood.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6848",
+    "url": "http://documents.worldbank.org/curated/en/899331468337201835/pdf/WPS6848.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.340501",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

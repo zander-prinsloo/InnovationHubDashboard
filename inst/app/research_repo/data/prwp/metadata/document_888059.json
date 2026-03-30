@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is inequality bad for business : a non-linear microeconomic model of wealth effects on self-employment",
+    "idno": "888059",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "888059",
+      "title": "Is inequality bad for business : a non-linear microeconomic model of wealth effects on self-employment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mesnard, Alice"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      }
+    ],
+    "date_created": "2001/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "888059"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ba2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ba2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "It is widely assumed that pervasive credit market failures mean that a person's current wealth is critical to whether or not that person can take up opportunities to start a new business. The authors show that inequality in wealth can be either good or bad for the level of entrepreneurship in an economy, depending on how diminishing returns to capital interact with borrowing constraints at the microeconomic level. They use nonparametric regression methods to study wealth effects on business start-ups among migrants returning to their home country, Tunisia. They include controls for heterogeneity, with specification tests for the nonseparable effects with wealth and for selection bias. There is no evidence of increasing returns at low wealth. The aggregate number of business start-ups is an increasing function of aggregate wealth but a decreasing function of wealth inequality. In other words, at any given mean, the higher the initial inequality of wealth, the lower the rate of new business start-ups, through the existence of diminshing returns to capital given liquidity constraints. In this sense, the results suggest that inequality is bad for business--but the size of this effect is small. The findings do not constitute a case for public redistribution of wealth as a means of stimulating business activity. There should probably be more research on interventions to reduce liquidity constraints.",
+    "ref_country": [
+      {
+        "name": "Tunisia",
+        "code": "TUN"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2527",
+    "url": "http://documents.worldbank.org/curated/en/392291468781557264/Is-inequality-bad-for-business-a-non-linear-microeconomic-model-of-wealth-effects-on-self-employment",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:37.818844",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

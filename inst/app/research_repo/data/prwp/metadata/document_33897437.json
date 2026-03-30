@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How Accurate Is a Poverty Map Based on Remote Sensing Data ? An Application to Malawi",
+    "idno": "33897437",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33897437",
+      "title": "How Accurate Is a Poverty Map Based on Remote Sensing Data ? An Application to Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Der Weide,Roy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blankespoor,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbers,Chris T.M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      }
+    ],
+    "date_created": "2022/09/13",
+    "date_available": "2022/09/13",
+    "date_published": "2022/09/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33897437"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-fcecbbc0-4dd3-41cc-8836-d1c57c5ffe04"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-fcecbbc0-4dd3-41cc-8836-d1c57c5ffe04"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10171"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assesses the reliability of poverty maps derived from remote-sensing data. Employing data for Malawi, it first obtains small area estimates of poverty by combining the Malawi household expenditure survey from 2010/11 with unit record population census data from 2008. It then ignores the population census data and obtains a second poverty map for Malawi by combining the survey data with predictors of poverty derived from remote sensing data. This allows for a clean comparison between the two poverty maps. The findings are encouraging - although that assessment depends somewhat on the evaluation criteria employed. The two approaches reveal the same patterns in the geography of poverty. However, there are instances where the two approaches obtain markedly different estimates of poverty. Poverty maps obtained using remote sensing data may do well when the decision maker is interested in comparisons of poverty between assemblies of areas, yet may be less reliable when the focus is on estimates for specific small areas.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Western and Central Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10171",
+    "url": "http://documents.worldbank.org/curated/en/099419209132236954/pdf/IDU0fcecbbc004dd3041cc088360d1c57c5ffe04.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.221405",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

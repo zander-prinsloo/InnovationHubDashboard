@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "COVID-19 Vaccine Hesitancy in 53 Developing Countries : Levels, Trends, and Reasons for Hesitancy",
+    "idno": "33906365",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33906365",
+      "title": "COVID-19 Vaccine Hesitancy in 53 Developing Countries : Levels, Trends, and Reasons for Hesitancy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dayton,Julia M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Edochie,Ifeanyi Nzegwu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cojocaru,Alexandru"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deudibe,Gildas Bopahbe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kakietek,Jakub Jan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kim,Yeon Soo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Montes,Jose"
+      }
+    ],
+    "date_created": "2022/09/26",
+    "date_available": "2022/09/26",
+    "date_published": "2022/09/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33906365"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-0dcb6062-35fc-4630-8980-26592b384da5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-0dcb6062-35fc-4630-8980-26592b384da5"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10191"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents new evidence on the levels and trends of vaccine hesitancy in developing countries based on harmonized high-frequency phone surveys from more than 120,000 respondents in 53 low- and middle-income countries. These countries represent a combined 30 percent of the population of low- and middle-income countries. On average across countries, one in five adults is hesitant about the COVID-19 vaccine, with the most cited reasons for hesitancy being concerns about the safety of the vaccine, followed by concerns about its efficacy. Between late 2020 and the first half of 2021, there tended to be little change in levels of hesitancy except in Iraq, Malawi, and Uzbekistan, where hesitancy increased. COVID-19 vaccine hesitancy is higher among female, young, less educated, and rural respondents, after controlling for selected observable characteristics. Country estimates of vaccine hesitancy from the high-frequency phone surveys are correlated with but lower than those from earlier studies, which often relied on less representative survey samples. The results suggest that vaccine hesitancy in developing countries, while less prevalent than previously thought, will be an important and enduring obstacle to recovery from the pandemic.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10191",
+    "url": "http://documents.worldbank.org/curated/en/099500109262235034/pdf/IDU00dcb6062035fc0463008980026592b384da5.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.979445",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

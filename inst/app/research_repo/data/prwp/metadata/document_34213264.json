@@ -1,0 +1,174 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are Ride-Hailing Services and Public Transport Complements or Substitutes ? Evidence from the Opening of Jakarta’s MRT System",
+    "idno": "34213264",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34213264",
+      "title": "Are Ride-Hailing Services and Public Transport Complements or Substitutes ? Evidence from the Opening of Jakarta’s MRT System",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bosker,Maarten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roberts,Mark"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tiwari,Sailesh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wibisana,Putu Sanjiwacika"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wihardja,Maria Monica"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yanurzha,Ramda"
+      }
+    ],
+    "date_created": "2023/12/12",
+    "date_available": "2023/12/12",
+    "date_published": "2023/12/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34213264"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4517b3d3-12db-4c4d-8eb6-3acc2bb9d18f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4517b3d3-12db-4c4d-8eb6-3acc2bb9d18f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10640"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Motorbike-based ride-hailing services are widespread in many of the most congested cities in the developing world. These services often predate the construction of modern public mass rapid transit systems. Ride-hailing services may complement such investments by providing important first and last mile connectivity. However, it has also been argued that they undermine the viability of mass rapid transit systems as people prefer to use ride-hailing services given their convenience and low prices. This paper applies an event study research design to proprietary, high-frequency data from one of Indonesia&#x2019;s largest ride-hailing services, Gojek. The findings show that the opening of stations on Jakarta&#x2019;s first mass rapid transit line led to large increases in ride-hailing activity in the immediate vicinities of the stations. This was accompanied by a significant decline in the average distance of ride-hailing trips to and from the station locations. These findings are consistent with ride-hailing services complementing public transport by providing first and last mile connectivity to the newly opened mass rapid transit system. Interestingly, this holds for both commuting and non-commuting trips and is strongest for mass rapid transit station locations that were not already served by Jakarta&#x2019;s bus rapid transit system.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10640",
+    "url": "http://documents.worldbank.org/curated/en/099322112122328638/pdf/IDU04517b3d3012db04c4d08eb603acc2bb9d18f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict policies",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict solutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.430688",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

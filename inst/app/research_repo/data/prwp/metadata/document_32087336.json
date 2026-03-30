@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Winners and Losers from COVID-19 : Global Evidence from Google Search",
+    "idno": "32087336",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32087336",
+      "title": "Winners and Losers from COVID-19 : Global Evidence from Google Search",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abay,Kibrom A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hirfrfot,Kibrom Tafere"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Woldemichael,Andinet"
+      }
+    ],
+    "date_created": "2020/06/02",
+    "date_available": "2020/06/02",
+    "date_published": "2020/06/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32087336"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0879d13de"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0879cc845"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As COVID-19 continues to wreak havoc across the world, researchers are attempting to quantify the economic fallout from the pandemic as it continues to unfold. Estimating the economic impacts of a prevailing pandemic is fraught with uncertainties about the epidemiology of the disease and the breadth of disruption of economic activities. This paper employs historical and near real-time Google search data to estimate the immediate impacts of COVID-19 on demand for selected services across 182 countries. The analysis exploits the temporal and spatial variations in the spread of the virus and finds that demand for services that require face-to-face interaction, such as hotels, restaurants and retail trade, has substantially contracted. In contrast, demand for services that can be performed remotely or provide solutions to the challenges of reduced personal interactions, such as information and communications technology (ICT), and deliveries, has increased significantly. In a span of three months, the pandemic has resulted in a 63 percent reduction in demand for hotels, while increasing demand for ICT by a comparable rate. The impacts appear to be driven by supply contractions, due to social distancing and lockdown measures, and demand shocks as consumers shelter in place, with the latter dominating for most services. The magnitude of the changes in demand varies considerably with government responses to the pandemic.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9268",
+    "url": "http://documents.worldbank.org/curated/en/821821591104924698/pdf/Winners-and-Losers-from-COVID-19-Global-Evidence-from-Google-Search.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.659642",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

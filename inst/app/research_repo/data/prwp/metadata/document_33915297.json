@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Machine Learning Guided Outlook of Global Food Insecurity Consistent with Macroeconomic Forecasts",
+    "idno": "33915297",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33915297",
+      "title": "Machine Learning Guided Outlook of Global Food Insecurity Consistent with Macroeconomic Forecasts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andree,Bo Pieter Johannes"
+      }
+    ],
+    "date_created": "2022/10/11",
+    "date_available": "2022/10/11",
+    "date_published": "2022/10/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33915297"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e396273b-8036-47c8-82f8-86f52e55c9ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e396273b-8036-47c8-82f8-86f52e55c9ac"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10202"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Motivated by the deterioration in global food security conditions, this paper develops a parsimonious machine learning model to derive a multi-year outlook of global severe food insecurity from macro-economic projections. The objective is to provide forecasts that are internally consistent with wider economic assessments, allowing both food security policies and economic development policies to be informed by a cohesive set of expectations. The model is validated on holdout data that explicitly test the ability to forecast new data from history and extrapolate beyond observed intervals. It is then applied to the World Economic Outlook database of April 2022 to project the severely food insecure population across all 144 World Bank lending countries. The analysis estimates that the global severely food insecure population may remain above 1 billion through 2027 unless large-scale interventions are made. The paper also explores counterfactual scenarios, first to investigate additional risks in a downside economic scenario, and second, to investigate whether restoring macroeconomic targets is sufficient to revert food insecurity back to pre-pandemic levels. The paper concludes that the proposed model provides a robust and low-cost approach to maintain reliable long-term projections and produce scenario analyses that can be revised systematically and interpreted within the context of available economic outlooks.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10202",
+    "url": "http://documents.worldbank.org/curated/en/099224110112215850/pdf/IDU0e396273b08036047c8082f8086f52e55c9ac.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.875917",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

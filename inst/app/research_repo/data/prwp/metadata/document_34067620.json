@@ -1,0 +1,248 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exporting and Technology Adoption in Brazil",
+    "idno": "34067620",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34067620",
+      "title": "Exporting and Technology Adoption in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cirera,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Comin,Diego Adolfo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vargas Da Cruz,Marcio Jose"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lee,Kyungmin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soares Martins Neto,Antonio"
+      }
+    ],
+    "date_created": "2023/05/25",
+    "date_available": "2023/05/24",
+    "date_published": "2023/05/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34067620"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8a49040c-5cf8-4b0e-b49c-5491ff9582d8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8a49040c-5cf8-4b0e-b49c-5491ff9582d8"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10454"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is limited evidence on the role of participating in international trade in the diffusion of technologies. This paper analyzes the impact of exporting on firms&#x2019; adoption of more sophisticated technologies, using a novel dataset, the Firm-level Adoption of Technology survey, which includes more than 1,500 firms in Brazil. The survey provides detailed information on the use of more than 300 technologies, combined with data from Brazil&#x2019;s census of formal workers and export data from the Ministry of Trade. To address critical endogeneity concerns, the analysis applies difference-in-differences with multiple periods to examine the effects of entering export markets on technology adoption. The findings show that exporting has a positive effect on firms&#x2019; likelihood of adopting advanced technologies in business functions related to business administration, production planning, supply chain management, and quality control, which are important for managing tasks associated with export activities.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10454",
+    "url": "http://documents.worldbank.org/curated/en/099747305242332491/pdf/IDU08a49040c05cf804b0e0b49c05491ff9582d8.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "business enabling environment",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "jobs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "innovation and technology policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "pandemic response",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disease control",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict solutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "job creation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict policies",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.180507",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

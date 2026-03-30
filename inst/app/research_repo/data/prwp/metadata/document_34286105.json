@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does Africa Need More Roads in the Digital Age ? Evidence of Complementarities in Infrastructure",
+    "idno": "34286105",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34286105",
+      "title": "Does Africa Need More Roads in the Digital Age ? Evidence of Complementarities in Infrastructure",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lebrand,Mathilde Sylvie Maria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mongoue,Arcady"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pongou,Roland"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Fan"
+      }
+    ],
+    "date_created": "2024/03/21",
+    "date_available": "2024/03/21",
+    "date_published": "2024/03/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34286105"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e135d75d-4e20-4ce1-bffe-bf74ec415a50"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e135d75d-4e20-4ce1-bffe-bf74ec415a50"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10730"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates whether the expansion of fast internet networks complements or substitutes for the development of roads to improve market access and create more and higher-skilled jobs in Africa. The paper combines the geographic locations of households and firms with the locations of main roads and optical-fiber nodes in 25 Sub-Saharan African countries. Using the difference-in-differences and instrumental variables approaches and leveraging the history of post-independence road building and the timing of the arrival of submarine internet, the paper examines the impacts of access to these two types of infrastructure, both in isolation and in combination. The findings show that improving access to both has large and positive complementary effects. On average, the additional impacts on employment from combining access to both types of infrastructure are 22 percent larger than the sum of their isolated effects. The findings suggest that a big push for combined investments in fast internet and road access could enhance economic development in Africa overall. Firms and workers in urban locations, female workers, and workers with higher levels of education gain the most from the complementarities that emerge.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10730",
+    "url": "http://documents.worldbank.org/curated/en/099205403212436510/pdf/IDU1e135d75d14e2014ce11bffe1bf74ec415a50.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.838871",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

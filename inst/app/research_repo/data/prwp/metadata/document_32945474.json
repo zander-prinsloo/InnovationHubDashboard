@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global Value Chains and Deep Integration",
+    "idno": "32945474",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32945474",
+      "title": "Global Value Chains and Deep Integration",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baccini,Leonardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fiorini,Matteo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoekman,Bernard M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Altomonte,Carlo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Colantone,Italo"
+      }
+    ],
+    "date_created": "2021/03/25",
+    "date_available": "2021/03/25",
+    "date_published": "2021/03/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32945474"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08842639a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08842639a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9598"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "How does trade affect the design of preferential trade agreements (PTAs)? What is the role of global value chains (GVCs)? The authors answer these questions by empirically investigating the causal impact of gross and value-added trade on the depth of PTAs. To solve the critical issue of endogeneity of trade flows for trade policy, the identification strategy exploits a recent transportation shock: the sharp increase in the maximum size of container ships, which has more than tripled between 1995 and 2007. The key variation in our instrument hinges on the fact that only deep-water ports can accommodate new larger ships. The strategy is flexible enough to generate excludable instruments for different value-added components of exports. This allows us to assess how the design (depth) of PTAs is affected not only by gross exports but more specifically by GVC-trade as captured by indicators of trade in domestic and foreign value added. The authors find that trade occurring through GVCs increases the probability of forming deep PTAs, i.e., agreements that include provisions that go beyond the coverage of the WTO. These GVC-trade effects are larger than those of gross exports, which include flows that are unrelated to GVCs. The results indicate that GVCs are one important driver of deep preferential liberalization.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9598",
+    "url": "http://documents.worldbank.org/curated/en/274761616680730068/pdf/Global-Value-Chains-and-Deep-Integration.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.702474",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

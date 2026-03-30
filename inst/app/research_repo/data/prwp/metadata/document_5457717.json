@@ -1,0 +1,144 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Import demand elasticities and trade distortions",
+    "idno": "5457717",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5457717",
+      "title": "Import demand elasticities and trade distortions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kee,Hiau Looi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nicita,Alessandro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olarreaga,Marcelo"
+      }
+    ],
+    "date_created": "2004/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5457717"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05466"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05466"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To study the effects of tariffs on gross domestic product (GDP), one needs import demand elasticities at the tariff line level that are consistent with GDP maximization. These do not exist. The authors modify Kohli's (1991) GDP function approach to estimate demand elasticities for 4,625 imported goods in 117 countries. Following Anderson and Neary (1992, 1994) and Feenstra (1995), they use these estimates to construct theoretically sound trade restrictiveness indices, and GDP losses associated with existing tariff structures. Countries are revealed to be 30 percent more restrictive than their simple or import-weighted average tariffs would suggest. Thus, distortion is nontrivial. GDP losses are largest in China, Germany, India, Mexico, and the United States.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "China",
+        "code": "CHN"
+      },
+      {
+        "name": "Germany",
+        "code": "DEU"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; Europe and Central Asia ; Latin America & Caribbean ; South Asia ; Rest Of The World ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3452",
+    "url": "http://documents.worldbank.org/curated/en/197731468773104970/pdf/WPS3452.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.341001",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

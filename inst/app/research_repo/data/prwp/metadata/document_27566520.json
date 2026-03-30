@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Rural non-farm employment and household welfare : evidence from Malawi",
+    "idno": "27566520",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27566520",
+      "title": "Rural non-farm employment and household welfare : evidence from Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adjognon,Guigonan Serge"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Liverpool-Tasie,Saweda Lenis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De La Fuente,Alejandro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Benfica,Rui Manuel"
+      }
+    ],
+    "date_created": "2017/06/08",
+    "date_available": "2017/06/08",
+    "date_published": "2017/06/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27566520"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084c6e08a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084c67124"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses nationally representative panel data and a combination of econometric approaches, to explore linkages between rural non-farm activities (wage and self-employment) and household welfare in rural Malawi. The paper analyzes the average treatment effects and distributional effects on participants' welfare indicators, such as households' per capita consumption expenditures. Then it investigates the effects of non-farm activities on the use of agricultural inputs, one channel through which non-farm employment might improve the welfare of rural households. Although participation in non-farm activities is not randomly assigned in the data, the identification strategy relies on fixed effects and correlated random effects estimation methods, dealing effectively with time invariant heterogeneity, coupled with geographical covariate adjustments, controlling for time varying differences in local market conditions and employment opportunities. The results suggest that non-farm wage employment and non-farm self-employment are welfare improving and poverty reducing. However, households at the lower tail of the wealth distribution benefit significantly less from participation than the wealthiest. Although the results support the promotion of the rural non-farm economy for poverty reduction purposes, they indicate that targeted interventions that improve poor households’ access to high-return non-farm opportunities are likely to lead to bigger successes in curbing rural poverty.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8096",
+    "url": "http://documents.worldbank.org/curated/en/161961496951955142/pdf/WPS8096.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.778065",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

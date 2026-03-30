@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Mixtures of g-priors for Bayesian Model Averaging with economic application",
+    "idno": "14643155",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14643155",
+      "title": "Mixtures of g-priors for Bayesian Model Averaging with economic application",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ley,Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steel, Mark F.J."
+      }
+    ],
+    "date_created": "2011/07/01",
+    "date_available": "2011/07/01",
+    "date_published": "2011/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14643155"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c2a3e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c2a3e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the issue of variable selection in linear regression modeling, where there is a potentially large amount of possible covariates and economic theory offers insufficient guidance on how to select the appropriate subset. In this context, Bayesian Model Averaging presents a formal Bayesian solution to dealing with model uncertainty. The main interest here is the effect of the prior on the results, such as posterior inclusion probabilities of regressors and predictive performance. The authors combine a Binomial-Beta prior on model size with a g-prior on the coefficients of each model. In addition, they assign a hyperprior to g, as the choice of g has been found to have a large impact on the results. For the prior on g, they examine the Zellner-Siow prior and a class of Beta shrinkage priors, which covers most choices in the recent literature. The authors propose a benchmark Beta prior, inspired by earlier findings with fixed g, and show it leads to consistent model selection. Inference is conducted through a Markov chain Monte Carlo sampler over model space and g. The authors examine the performance of the various priors in the context of simulated and real data. For the latter, they consider two important applications in economics, namely cross-country growth regression and returns to schooling. Recommendations for applied users are provided.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5732",
+    "url": "http://documents.worldbank.org/curated/en/422911468157501101/pdf/WPS5732.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.357371",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

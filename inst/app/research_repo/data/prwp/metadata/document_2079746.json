@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the impact of communication costs on international trade",
+    "idno": "2079746",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2079746",
+      "title": "Assessing the impact of communication costs on international trade",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fink, Carsten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mattoo, Aaditya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Neagu, Ileana Cris"
+      }
+    ],
+    "date_created": "2002/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2079746"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05e9e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05e9e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent research suggests that trade costs influence the pattern of specialization and trade, but there is limited empirical research on the determinants of trade costs. The existing literature identifies a range of barriers that separate nations, but then typically focuses only on transport costs. Although communication costs figure prominently in intuitive explanations and casual observations, they have played little role in the formal analysis of trade costs. The authors seek to examine whether this neglect matters, and whether the inclusion of the magnitude and variation of communication costs across partner countries can add value to existing explanations of the pattern of trade. The authors develop a simple multi-sector model of \"impeded\" trade that generates hypotheses in a gravity-type estimation framework. The main proxies for bilateral communication costs are the per-minute country-to-country calling prices charged in the importing and exporting countries. The use of bilateral variations in prices yields estimates that are superior to the ones obtained from country-specific measures of communication infrastructure used in previous studies. The authors find that international variations in communication costs have a significant influence on bilateral trade flows, at the aggregate level and for most individual sectors disaggregated according to the 2-digit SITC classification. Since information and communication needs are likely to be much greater for differentiated goods, the authors test whether trade in these products is more sensitive to variations in the costs of communication. Using the Rauch classification of product heterogeneity, the estimates suggest that the impact of communication costs on trade in differentiated products is as much as one-third larger than on trade in homogenous products. Finally, the authors verify, to the extent possible, that the significance of communication costs is not driven by their endogeneity or by omitted variables.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2929",
+    "url": "http://documents.worldbank.org/curated/en/416001468766470641/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:33.765537",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are markets learning : behavior in the secondary market for Brady bonds",
+    "idno": "694986",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "694986",
+      "title": "Are markets learning : behavior in the secondary market for Brady bonds",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barbone, Luca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Forni, Lorenzo"
+      }
+    ],
+    "date_created": "1997/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "694986"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b45"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b45"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors analyze some aspects of the market for Brady bonds (restructured debt in developing countries). They focus on how the debt crisis in Mexico in 1994 affected risk assessment (as measured by the stripped spread) in other Brady countries, especially Poland. Their main finding: The risk premium (in a single country) has a behavior (one unit root), consistent with the hypothesis that it reflects new market information. Among stripped yields, co-movements of sovereign risk premia were stronger during the period of highest volatility in the Mexican crisis. In the case study of Mexico and Poland, they do not reject cointegration for the period July 1994-July 1995; they do reject it for July 1995-July 1996. The crisis had a strong permanent effect on risk assessment in Mexico (about 55 basis points). Different Brady bonds responded differently to the Mexican crisis. Countries with similar pre-crisis means and volatility reacted similarly (in terms of absolute deviation and the degree of co-movement with the Mexican bonds). Other factors (region, oil producers, date of Brady deal) did not explain observed patterns. There was convergence of volatility during the highly volatile period of the Mexican crisis. These results suggest that traders' behavior in assessing the sovereign risk of Brady countries is not constant over time, and responds especially to the level of market uncertainty. Herd behavior increases with risk, leading (in a volatile environment) to even more volatility. Learning is likely to spill over because traders have limited experience with, and limited information about, developing countries. The decrease in co-movements of sovereign risk premia in the second period of the sample could indicate that markets were learning -that is, gathering information about, and experience in, the developing countries, so that the issue of learning spillover was less relevant. But it could also signal that no relevant shock existed to generate such spillover effects, although the market was still vulnerable to country-specific shocks. On that issue, further research is needed.",
+    "ref_country": [
+      {
+        "name": "Poland",
+        "code": "POL"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1734",
+    "url": "http://documents.worldbank.org/curated/en/682191468776056126/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:50.597203",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

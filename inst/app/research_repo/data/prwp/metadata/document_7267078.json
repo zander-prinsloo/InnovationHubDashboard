@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Road network upgrading and overland trade expansion in Sub-Saharan Africa",
+    "idno": "7267078",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7267078",
+      "title": "Road network upgrading and overland trade expansion in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Buys,Piet"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deichmann,Uwe Klaus"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler, David"
+      }
+    ],
+    "date_created": "2006/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7267078"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b82c5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b82c5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent research suggests that isolation from regional and international markets has contributed significantly to poverty in many Sub-Saharan African countries. Numerous empirical studies identify poor transport infrastructure and border restrictions as significant deterrents to trade expansion. In response, the African Development Bank has proposed an integrated network of functional roads for the subcontinent. Drawing on new econometric results, the authors quantify the trade-expansion potential and costs of such a network. They use spatial network analysis techniques to identify a network of primary roads connecting all Sub-Saharan capitals and other cities with populations over 500,000. The authors estimate current overland trade flows in the network using econometrically-estimated gravity model parameters, road transport quality indicators, actual road distances, and estimates of economic scale for cities in the network. Then they simulate the effect of feasible continental upgrading by setting network transport quality at a level that is functional, but less highly developed than existing roads in countries like South Africa and Botswana. The authors assess the costs of upgrading with econometric evidence from a large World Bank database of road project costs in Africa. Using a standard approach to forecast error estimation, they derive a range of potential benefits and costs. Their baseline results indicate that continental network upgrading would expand overland trade by about $250 billion over 15 years, with major direct and indirect benefits for the rural poor. Financing the program would require about $20 billion for initial upgrading and $1 billion annually for maintenance. The authors conclude with a discussion of supporting institutional arrangements and the potential cost of implementing them.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4097",
+    "url": "http://documents.worldbank.org/curated/en/441351468194327279/pdf/wps4097.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:17.625339",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

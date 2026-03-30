@@ -1,0 +1,168 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Can subjective questions on economic welfare be trusted evidence for three developing countries",
+    "idno": "18661004",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18661004",
+      "title": "Can subjective questions on economic welfare be trusted evidence for three developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beegle,Kathleen G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kastelic,Kristen Himelein"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion,Martin"
+      }
+    ],
+    "date_created": "2013/12/01",
+    "date_available": "2013/12/01",
+    "date_published": "2013/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18661004"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c8144"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c8144"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "While self-assessments of welfare have become popular for measuring poverty and estimating welfare effects, the methods can be deceptive given systematic heterogeneity in respondents' scales. Little is known about this problem. This study uses specially-designed surveys in three countries, Tajikistan, Guatemala, and Tanzania, to study scale heterogeneity. Respondents were asked to score stylized vignettes, as well as their own household. Diverse scales are in evidence, casting considerable doubt on the meaning of widely-used summary measures such as subjective poverty rates. Nonetheless, under the identifying assumptions of the study, only small biases are induced in the coefficients on widely-used regressors for subjective poverty and welfare.",
+    "ref_country": [
+      {
+        "name": "Tajikistan",
+        "code": "TJK"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GTM"
+      }
+    ],
+    "spatial_coverage": "Africa ; Europe and Central Asia ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6726",
+    "url": "http://documents.worldbank.org/curated/en/785471468175776386/pdf/WPS6726.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "vulnerability assessment and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural non-farm income generation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.209536",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

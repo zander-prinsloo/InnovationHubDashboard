@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Evaluating a targeted social program when placement is decentralized",
+    "idno": "693463",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693463",
+      "title": "Evaluating a targeted social program when placement is decentralized",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wodon, Quentin"
+      }
+    ],
+    "date_created": "1998/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693463"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05665"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05665"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "An assessment of the welfare gains from a targeted social program can be seriously biased unless it takes proper account of the endogeneity of program participation. Bias comes from two sources of placement endogeneity: the purposive targeting of the geographic areas to receive the program, and the targeting of individual recipients within selected areas. Decentralization of program placement decisions is common, because of the administrative cost of centralized placement decisions and the fact that local groups and governments are likely to be better informed about who most needs help. But full decentralization is uncommon; the center typically retains control of broad geographic targeting. The authors argue that partial decentralization of program placement decisions creates control and instrumental variables useful for identifying program benefits. The central allocation to a local level of government is presumably based on observable indicators. The central allocation will also influence the allocation to an individual but is unlikely to determine outcomes at the individual level conditional on individual program participation. So with suitable controls for the welfare-relevant geographic characteristics determining program placement decisions, the center's allocation across areas can be used as an instrumental variable for individual participation. The authors use Bangladesh's Food for Education program to illustrate their approach. A single post-intervention cross-sectional household survey was used to identify the impact of the program on school attendance, using geographic placement at the village level as an instrument for individual program placement. To deal with bias from the endogeneity of village selection, the authors used a detailed community survey coordinated with the household survey to control for likely sources of heterogeneity in geographic influences on school attendance, consistent with prior information on how the government targeted the program geographically. They found that the programs had significant and sizable impacts on school attendance. At mean points, the program's incentive increased attendance by 24 percent of the maximum feasible days of schooling. A regression estimator ignoring the purposive program placement was found to result in a substantial underestimation of the program's impact. Indeed, the simplest possible control group method--assuming that nonparticipants provide a valid counterfactual--performed much better than a regression method treating placement as exogenous.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1945",
+    "url": "http://documents.worldbank.org/curated/en/581991468743412524/Evaluating-a-targeted-social-program-when-placement-is-decentralized",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:45.217907",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

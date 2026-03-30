@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Income risk, income mobility and welfare",
+    "idno": "16900833",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16900833",
+      "title": "Income risk, income mobility and welfare",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krebs, Tom"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krishna, Pravin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney, William F."
+      }
+    ],
+    "date_created": "2012/10/01",
+    "date_available": "2012/10/01",
+    "date_published": "2012/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16900833"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bd106"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bd106"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a framework for the quantitative analysis of individual income dynamics, mobility and welfare. Individual income is assumed to follow a stochastic process with two (unobserved) components, component representing measurement error or transitory income shocks and an Autoregressive (AR(1)) component representing persistent changes in income. The analysis uses a tractable consumption-saving model with labor income risk and incomplete markets to relate income dynamics to consumption and welfare, and derive analytical expressions for income mobility and welfare as a function of the various parameters of the underlying income process. The empirical application of the framework using data on individual incomes from Mexico provides striking results. Much of measured income mobility is driven by measurement error or transitory income shocks and therefore (almost) welfare-neutral. A smaller part of measured income mobility is due to either welfare-reducing income risk or welfare-enhancing catching-up of low-income individuals with high-income individuals, both of which have economically significant effects on social welfare. Decomposing mobility into its fundamental components is thus seen to be crucial from the standpoint of welfare evaluation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6254",
+    "url": "http://documents.worldbank.org/curated/en/197051468171845830/pdf/wps6254.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "legal institutions for a market economy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public expenditure",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial management and procurement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.662444",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

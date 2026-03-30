@@ -1,0 +1,230 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Literature Review on Productivity and Growth in Brazil",
+    "idno": "34386215",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34386215",
+      "title": "A Literature Review on Productivity and Growth in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Veloso,Fernando Augusto Adeodato"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zaourak,Gabriel Roberto"
+      }
+    ],
+    "date_created": "2024/09/04",
+    "date_available": "2024/09/04",
+    "date_published": "2024/09/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34386215"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-94991f00-2c34-40e3-9cd4-de95fa22118b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-94991f00-2c34-40e3-9cd4-de95fa22118b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10897"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Productivity growth in Brazil has not kept pace with developed and emerging economies, despite progress in achieving macroeconomic stability and implementing reforms in product and input markets. This paper reviews the literature on reforms and growth in Brazil to understand the factors that have hindered productivity growth. The paper discusses the impact of competitive distortions on productivity, the effect of structural change on productivity growth, and the evidence on misallocation and growth dynamics. Additionally, the paper analyzes the direct and indirect effects of several reforms, such as trade liberalization and formalization policies. Based on the main lessons from this review, the paper proposes a potential reform agenda to improve improve productivity in Brazil in the coming years and narrow the income gap with developed countries.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10897",
+    "url": "http://documents.worldbank.org/curated/en/099445309042436654/pdf/IDU194991f0012c34140e319cd41de95fa22118b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disease control",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "pandemic response",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "tax policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public expenditure policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection delivery systems",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "migration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "remittances and diaspora engagement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.382968",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

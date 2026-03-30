@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using administrative data to evaluate municipal reforms : an evaluation of the impact of Minas Facil Expresso",
+    "idno": "17369910",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17369910",
+      "title": "Using administrative data to evaluate municipal reforms : an evaluation of the impact of Minas Facil Expresso",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bruhn, Miriam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McKenzie, David"
+      }
+    ],
+    "date_created": "2013/02/01",
+    "date_available": "2013/02/21",
+    "date_published": "2013/02/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17369910"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d1394"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d1394"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Efforts to make it easier for firms to register formally are the most common form of business regulatory reform over the past decade. While there is evidence that large reforms have resulted in some increases in registration rates, recent experimental evidence suggests very few informal firms choose to register when given information about how to do so. This raises the question of whether it is productive for governments to continue to extend simplification efforts to all firms, especially those in more remote areas where many of the benefits of registering may be reduced. This study uses administrative data to evaluate the impact of Minas Facil Expresso, a program in the state of Minas Gerais, Brazil, which attempted to expand a business start-up simplification program to more remote municipalities. Using difference-in-differences with 56 months of registration data for 822 municipalities, the analysis finds introducing these units actually led to a reduction in registration rates, and no change in tax revenues. The paper uses this evaluation to illustrate the design choices and issues involved in using administrative data to evaluate reforms, with the goal of also providing a template that can be used for evaluating similar reforms elsewhere.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6368",
+    "url": "http://documents.worldbank.org/curated/en/671871468222600421/pdf/wps6368.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.951691",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

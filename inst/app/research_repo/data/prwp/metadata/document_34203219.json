@@ -1,0 +1,216 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Where Is Poverty Concentrated ? New Evidence Based on Internationally Consistent Urban and Poverty Measurements",
+    "idno": "34203219",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34203219",
+      "title": "Where Is Poverty Concentrated ? New Evidence Based on Internationally Consistent Urban and Poverty Measurements",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nakamura,Shohei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Combes,Pierre Philippe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moellerherm,Robin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robert,Charlotte Genevieve Julka"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roberts,Mark"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stewart,Benjamin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yakubenko,Slava"
+      }
+    ],
+    "date_created": "2023/11/27",
+    "date_available": "2023/11/27",
+    "date_published": "2023/11/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34203219"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-47ac48f0-62ea-4222-9878-cda70c42240d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-47ac48f0-62ea-4222-9878-cda70c42240d"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10620"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The lack of comparable urban definitions across countries has presented a significant challenge in effectively addressing poverty in both urban and rural areas. This study aims to tackle this issue by comparing subnational poverty statistics across countries, integrating internationally consistent definitions of urban areas into the World Bank&#x2019;s official global poverty measurement framework. Focusing primarily on 16 Sub-Saharan African countries, the analysis reveals that poverty rates tend to be lower in densely populated urban areas. However, the findings also highlight that urban areas have a higher concentration of impoverished populations than previously estimated. These results underscore the importance of employing consistent urban definitions in cross-country poverty analysis and call for a reevaluation of geographically targeted policies to expedite poverty reduction efforts.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10620",
+    "url": "http://documents.worldbank.org/curated/en/099823311272312886/pdf/IDU047ac48f0062ea04222098780cda70c42240d.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "urban development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "spatial growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.555780",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade, Outsourcing, and the Environment",
+    "idno": "34236745",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34236745",
+      "title": "Trade, Outsourcing, and the Environment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Artuc,Erhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sommer,Konstantin Heinrich Ludwig"
+      }
+    ],
+    "date_created": "2024/01/11",
+    "date_available": "2024/01/11",
+    "date_published": "2024/01/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34236745"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e2f5c11c-1f06-4c5c-9f51-696a41248dec"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e2f5c11c-1f06-4c5c-9f51-696a41248dec"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10665"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the effects of carbon taxation and border carbon adjustments in a setting where firms can choose to respond to taxation by abating or by outsourcing part of their production. For this, this paper sets up a general equilibrium trade model, calibrated with world trade and input-output data that features a discrete choice production structure, where the producers choose between outsourcing or abating emission-intensive intermediate production steps. The paper finds that border adjustments that cannot target scope 3 emissions can lead to outsourcing, and thus leakage, further down the value chain, but nevertheless induce higher abatement both in the countries that impose the border adjustment and in the ones affected by it.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10665",
+    "url": "http://documents.worldbank.org/curated/en/099321301112414585/pdf/IDU1e2f5c11c11f0614c5c19f511696a41248dec.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.263817",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

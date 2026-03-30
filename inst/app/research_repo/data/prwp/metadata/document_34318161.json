@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Gender, Social Support, and Political Speech : Evidence from Twitter",
+    "idno": "34318161",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34318161",
+      "title": "Gender, Social Support, and Political Speech : Evidence from Twitter",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Heath,Rachel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Der Weide,Roy"
+      }
+    ],
+    "date_created": "2024/05/14",
+    "date_available": "2024/05/14",
+    "date_published": "2024/05/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34318161"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-0dc0a59c-b9c3-4e20-9a23-284ab8953df8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-0dc0a59c-b9c3-4e20-9a23-284ab8953df8"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10769"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite evidence that women&#x2019;s political preferences differ from those of men, women are less likely to participate in political and social discussions on Twitter and other social media. Following recent evidence that in-person social support matters for women&#x2019;s political participation, women are hypothesized to form similarly supportive communities online. This paper tests this hypothesis using data from Twitter. The collected data comprises 451 hashtags on a broad range of (non-mutually exclusive) topics: social, gender, racial, LGBTQ, religion, youth, education, economic, health, COVID, climate, political, security, entertainment and lifestyle, and the Middle East and Northern Africa. The empirical results indicate that women are more likely to participate when the debate(s) feature female influential voices. This finding supports the potential role of mutual support in bolstering women&#x2019;s participation in important debates.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Middle East and North Africa",
+        "code": "MNA"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10769",
+    "url": "http://documents.worldbank.org/curated/en/099736305142429235/pdf/IDU10dc0a59c1b9c314e2019a231284ab8953df8.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.463748",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

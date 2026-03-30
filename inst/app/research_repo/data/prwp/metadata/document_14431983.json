@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Deconstructing herding : evidence from pension fund investment behavior",
+    "idno": "14431983",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14431983",
+      "title": "Deconstructing herding : evidence from pension fund investment behavior",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Raddatz, Claudio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler, Sergio L."
+      }
+    ],
+    "date_created": "2011/06/01",
+    "date_available": "2011/06/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14431983"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bc571"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bc571"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Pension funds have been expected to invest in a wide range of securities and provide liquidity to domestic capital markets since they are the most sophisticated investors, with plenty of resources to gather private information and manage portfolios professionally. However, by analyzing unique, monthly asset-level data from the pioneer case of Chile, this paper shows that pension funds tend to herd. This is consistent with pension funds copying each other in their investment strategies as a way to extract information, boost returns, and reduce risk. The authors compute measures of herding across asset classes (equities, government bonds, and private sector bonds) and at different pension fund industry levels. The results show that pension funds herd more in assets for which they have less market information and when risk increases. Moreover, herding is more prevalent across funds that narrowly compete with each other, that is, when comparing funds of the same type across pension fund administrators. There is much less herding within pension fund administrators and across pension fund administrators as a whole. This herding pattern is consistent with incentives for managers to be close to industry benchmarks, which might be driven by both market forces and regulation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5700",
+    "url": "http://documents.worldbank.org/curated/en/878641468017384510/pdf/WPS5700.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.670039",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

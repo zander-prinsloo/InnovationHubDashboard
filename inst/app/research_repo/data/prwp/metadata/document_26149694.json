@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impacts of sovereign rating on sub-sovereign bond ratings in emerging and developing economies",
+    "idno": "26149694",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26149694",
+      "title": "Impacts of sovereign rating on sub-sovereign bond ratings in emerging and developing economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mohapatra,Sanket"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nose,Manabu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ratha,Dilip K."
+      }
+    ],
+    "date_created": "2016/03/30",
+    "date_available": "2016/03/30",
+    "date_published": "2016/03/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26149694"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084d8ffaa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08424898b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores factors that affect the distance between sovereign credit ratings and the ratings assigned to new foreign-currency bonds issued by sub-sovereign entities (such as private non-financial corporations, financial firms, and public sector enterprises) in 47 emerging markets and developing economies. Censored and double-hurdle regression models are used to estimate the relative contributions of bond-level, issuer-level, and macroeconomic factors that determine this distance, separately for those rated at or below the sovereign rating and those rated above. For the three-quarters or more of sub-sovereign bond ratings that are constrained by the sovereign rating ceiling, a Tobit regression model shows a smaller distance—suggesting stronger sovereign-corporate linkages—for public sector enterprises and financial firms relative to other firms. Riskier global financial conditions are also associated with sub-sovereign bonds being rated closer to the sovereign rating. For the small number of sub-sovereign bonds rated higher than the sovereign rating, a double-hurdle model shows that certain debt features—such as bonds backed by future-flow receivables or other collateral, or structured as Special Purpose Vehicles (SPV)—significantly raise the likelihood of piercing the sovereign rating ceiling and also increase the distance above the sovereign ceiling.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7618",
+    "url": "http://documents.worldbank.org/curated/en/841091467995047270/pdf/WPS7618.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.439113",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

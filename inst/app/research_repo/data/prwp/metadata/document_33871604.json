@@ -1,0 +1,133 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Putting a Price on Safety — A Hedonic Price Approach to Flood Risk in African Cities",
+    "idno": "33871604",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33871604",
+      "title": "Putting a Price on Safety — A Hedonic Price Approach to Flood Risk in African Cities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Erman,Alvina Elisabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dallmann,Ingrid"
+      }
+    ],
+    "date_created": "2022/07/21",
+    "date_available": "2022/07/21",
+    "date_published": "2022/07/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33871604"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b6fb0698-cadc-4539-8efb-daf3293b3149"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b6fb0698-cadc-4539-8efb-daf3293b3149"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10127"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses a hedonic property price function to estimate the relationship between flood risk and rents in four Sub-Saharan Africa cities: Accra, Antananarivo, Dar es Salaam, and Addis Ababa. The analysis relies on household survey data collected after flood events in the cities. Flood risk is measured with self-reported data on past flood exposure and perception of future risk of flooding of households. The study finds that flood risk is associated with lower rents in Accra, Antananarivo, and Addis Ababa, ranging from 14 to 56 percent lower. In contrast, risk is associated with higher rent in Dar es Salaam, which could be potentially attributed to a combination of lack of awareness of flood risk among renters, high transaction costs and omitted variable bias. For example, only 12 percent of households living in flood-prone areas were aware of the flood risk when they moved in. In Antananarivo, job density is associated with higher rents while in Accra and Addis Ababa, higher job density is associated with lower rents. Results are negative but not significant in Dar es Salaam. When interacting job density with flood risk for each city, the negative effect of job density on rents is higher (in absolute value) when flood risk is high in Accra and Addis Ababa, and the positive effect of job density on rents becomes negative when flood risk is high in Antananarivo. This relationship is not found in Dar es Salaam. The finding seems to suggest that access to jobs is a factor driving people to settle in flood-prone areas.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MDG"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10127",
+    "url": "http://documents.worldbank.org/curated/en/099947307212239604/pdf/IDU0b6fb06980cadc0453908efb0daf3293b3149.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.626267",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

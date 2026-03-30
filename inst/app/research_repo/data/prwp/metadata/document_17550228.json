@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are microcredit participants in Bangladesh trapped in poverty and debt",
+    "idno": "17550228",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17550228",
+      "title": "Are microcredit participants in Bangladesh trapped in poverty and debt",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khandker,Shahidur R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Samad,Hussain A."
+      }
+    ],
+    "date_created": "2013/04/01",
+    "date_available": "2013/04/01",
+    "date_published": "2013/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17550228"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b7400"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b7400"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper addresses whether microcredit participants in Bangladesh are trapped in poverty and debt, as many critics have argued in recent years. Analysis of data from a long panel survey over a 20-year period confirms this is not the case, although numerous participants have been with microcredit programs for many years. The results of the analysis suggest that participants derive a variety of benefits from microcredit: It helps them to earn income and consume more, accumulate assets, invest in children's schooling, and be lifted out of poverty. This is not to say that non-participants have failed to progress over the same period. Both participants and non-participants have gained as the economy has grown; however, the rates of poverty reduction have been higher for participants. Testing the net effect of microcredit programs requires applying an econometric method that controls for why some households participated and others did not, conditional on their initial characteristics. In addition, the method must control for time-varying, unobserved heterogeneity that affects everyone over time, albeit in possibly different ways. The paper's econometric estimates show significant welfare gains resulting from microcredit participation, especially for women. They also show that the accrued benefits of borrowing outweigh accumulated debt. As a result, households' net worth has increased, and both poverty and the debt-asset ratio have declined.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6404",
+    "url": "http://documents.worldbank.org/curated/en/793121468205172292/pdf/wps6404.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "micro",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "small and medium enterprise support",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.502621",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

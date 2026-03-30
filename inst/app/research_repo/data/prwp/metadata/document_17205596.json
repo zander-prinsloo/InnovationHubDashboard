@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is foreign aid fungible evidence from the education and health sectors",
+    "idno": "17205596",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17205596",
+      "title": "Is foreign aid fungible evidence from the education and health sectors",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van de Sijpe, Nicolas"
+      }
+    ],
+    "date_created": "2013/01/01",
+    "date_available": "2013/01/01",
+    "date_published": "2013/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17205596"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c35e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c35e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper adopts a new approach to the issue of foreign aid fungibility. In contrast to most existing empirical studies, panel data are employed that contain information on the specific purposes for which aid is given. This allows linking aid that is provided for education and health purposes to recipient public spending in these sectors. In addition, aid flows that are recorded on a recipient's budget are distinguished from those that are not recorded on budget, and the previous failure to differentiate between on- and off-budget aid is shown to produce biased estimates of fungibility. Sector program aid is the measure of on-budget aid, whereas technical cooperation serves as a proxy for off-budget aid. The appropriate treatment of off-budget aid leads to lower fungibility estimates than those reported in many previous studies. Specifically, in both sectors and across a range of specifications, technical cooperation, which is the largest component of total education and health aid, leads to, at most, a small displacement of recipient public expenditures.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6346",
+    "url": "http://documents.worldbank.org/curated/en/263971468332365429/pdf/wps6346.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.253133",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

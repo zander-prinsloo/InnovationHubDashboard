@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impact of export destinations on firm performance",
+    "idno": "18798318",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18798318",
+      "title": "Impact of export destinations on firm performance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cebeci,Tolga"
+      }
+    ],
+    "date_created": "2014/01/01",
+    "date_available": "2014/01/01",
+    "date_published": "2014/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18798318"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d71af"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d71af"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper evaluates the role of export destinations on productivity, employment, and wages of Turkish firms by comparing the performance of firms that export to low-income destinations and high-income destinations with firms that do not export. A combination of propensity score matching and difference-in-differences methods are employed on a rich set of firm observables, including sector, region, employment, total factor productivity (TFP), capital intensity, wages, support from government, ownership, and the research and development intensity of firms. Four sets of findings emerge from the analysis: i) Export entry has a positive causal effect on firm TFP and employment and this effect is strengthened as a firm continues to export. ii) In contrast, export entry has a moderate wage effect that emerges only with a lag. iii) Unlike exporting to high-income destinations, exporting to low-income destinations does not result in significantly higher firm TFP and wages. iv) The employment effect of exporting to low-income destinations is comparable to that of exporting to high-income destinations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6743",
+    "url": "http://documents.worldbank.org/curated/en/213571468336585456/pdf/WPS6743.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.881657",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Why do some oil-rich countries perform better than others",
+    "idno": "27475913",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27475913",
+      "title": "Why do some oil-rich countries perform better than others",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iqbal,Farrukh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kiendrebeogo,Youssouf"
+      }
+    ],
+    "date_created": "2017/05/17",
+    "date_available": "2017/05/17",
+    "date_published": "2017/05/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27475913"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084b8c66d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084b8c66d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Progress in child mortality reduction and education attainment varies widely among oil-rich countries. This paper investigates the causes of this variation using an empirical model that departs from the available literature in allowing for explicit measurement of the impact of initial levels of child mortality and education attainment. The results show that the following four variables are statistically significant and robust across various specifications: public spending on health and education, economic growth rates, caloric sufficiency, and initial levels of child mortality and education attainment. Further analysis was conducted to determine the economic significance of these factors by examining the contribution of each to the fitted growth rates (as a deviation from the sample mean) of child mortality and secondary school enrollment for 14 oil-rich developing countries. The analysis reveals some interesting patterns. First, initial conditions dominate the results for education attainment: the initial level of secondary school enrollment in 1980 is the dominant factor in explaining subsequent improvements in 10 of the 14 oil-rich developing countries for which calculations could be performed. Second, policy factors worked in different ways in different countries. A high degree of caloric sufficiency enabled countries in the Middle East and North Africa to reduce child mortality faster, while low levels of caloric sufficiency prevented African oil-rich countries, such as Angola and the Republic of Congo, from making progress. Third, levels of public spending were not economically critical for gains in school enrollment, although they were important in a few country cases for improvements in child mortality rates.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8066",
+    "url": "http://documents.worldbank.org/curated/en/306711495024778264/pdf/WPS8066.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:37.039370",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

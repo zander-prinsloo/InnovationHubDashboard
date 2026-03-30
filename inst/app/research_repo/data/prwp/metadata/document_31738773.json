@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Religion and Sanitation Practices",
+    "idno": "31738773",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31738773",
+      "title": "Religion and Sanitation Practices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adukia,Anjali"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alsan,Marcella"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Babiarz,Kim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goldhaber-Fiebert,Jeremy D."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Prince,Lea"
+      }
+    ],
+    "date_created": "2020/01/29",
+    "date_available": "2020/01/29",
+    "date_published": "2020/01/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31738773"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087563fcc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087563ed9"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/40776"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Infant mortality among Hindus is higher than among Muslims in India, and religious differences in sanitation practices have been cited as a contributing factor. To explore whether religion itself is associated with differences in sanitation practices, this study compares sanitation practices of Hindus and Muslims living in the same locations using three nationally-representative data sets from India. Across all three data sets, the unconditional religion-specific gap in latrine ownership and latrine use declines by approximately two-thirds when conditioning on location characteristics or including location fixed effects. Further, the estimates do not show evidence of religion-specific differences in other sanitation practices, such as handwashing or observed fecal material near homes. Household sanitation practices vary substantially across areas of India, but religion itself has less direct influence when considering differences between Hindus and Muslims within the same location.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9131",
+    "url": "http://documents.worldbank.org/curated/en/881251580311599776/pdf/Religion-and-Sanitation-Practices.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.608754",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

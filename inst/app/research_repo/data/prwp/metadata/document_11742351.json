@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Dysfunctional finance : positive shocks and negative outcomes",
+    "idno": "11742351",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11742351",
+      "title": "Dysfunctional finance : positive shocks and negative outcomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoff, Karla"
+      }
+    ],
+    "date_created": "2010/01/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11742351"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c1856"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c1856"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper shows how badly a market economy may respond to a positive productivity shock in an environment with asymmetric information about project quality: some, all, or even more than all the benefits from the increase in productivity may be dissipated. In the model, based on Bernanke and Gertler (1990), entrepreneurs with a low default probability are charged the same interest rate as entrepreneurs with a high default probability. The implicit subsidy from good types to bad means that the marginal entrant will have a negative-value project. An example is presented in which, after a positive productivity shock, the presence of enough bad type's forces the interest rate so high that it drives all entrepreneurs out of the market. This happens in an industry in which there are good projects that are productive. The problem is that they are contaminated in the capital market by bad projects because of the banks inability to distinguish good projects from bad. One possible explanation for the lack of development in some countries is that screening institutions are sufficiently weak that impersonal financial markets cannot function. If industrialization entails learning spillovers concentrated within national boundaries, and if initially informational asymmetries are sufficiently great that the capital market does not emerge, then neither industrialization nor the learning that it would foster will occur.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5183",
+    "url": "http://documents.worldbank.org/curated/en/995071468171579726/pdf/WPS51830Replac10as0previous0record1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "legal institutions for a market economy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public expenditure",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial management and procurement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.369837",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

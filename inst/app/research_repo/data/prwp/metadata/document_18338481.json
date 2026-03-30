@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Population, poverty, and climate change",
+    "idno": "18338481",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18338481",
+      "title": "Population, poverty, and climate change",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Das Gupta, Monica"
+      }
+    ],
+    "date_created": "2013/10/01",
+    "date_available": "2013/10/01",
+    "date_published": "2013/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18338481"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828be84e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828be84e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The literature is reviewed on the relationships between population, poverty, and climate change. While developed countries are largely responsible for global warming, the brunt of the fallout will be borne by the developing world, in lower agricultural output, poorer health, and more frequent natural disasters. Carbon emissions in the developed world have leveled off, but are projected to rise rapidly in the developing world due to their economic growth and population growth -- the latter most notably in the poorest countries. Lowering fertility has many benefits for the poorest countries. Studies indicate that, in high fertility settings, fertility decline facilitates economic growth and poverty reduction. It also reduces the pressure on livelihoods, and frees up resources to cope with climate change. And it helps avert some of the projected global warming, which will benefit these countries far more than those that lie at higher latitudes and/or have more resources to cope with climate change. Natural experiments indicate that family planning programs are effective in helping reduce fertility, and that they are highly pro-poor in their impact. While the rest of the world wrestles with the complexities of reducing emissions, the poorest countries will gain much from simple programs to lower fertility.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6631",
+    "url": "http://documents.worldbank.org/curated/en/116181468163465130/pdf/WPS6631.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.432209",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

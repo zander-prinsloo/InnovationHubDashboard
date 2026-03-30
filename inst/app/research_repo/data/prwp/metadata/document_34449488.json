@@ -1,0 +1,242 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Implementing 30x30 : Lessons from Country Case Studies",
+    "idno": "34449488",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34449488",
+      "title": "Implementing 30x30 : Lessons from Country Case Studies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blankespoor,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David J."
+      }
+    ],
+    "date_created": "2025/01/24",
+    "date_available": "2025/01/24",
+    "date_published": "2025/01/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34449488"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-22f63dd6-f93d-42be-a3dc-3dd4a2eff9a1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-22f63dd6-f93d-42be-a3dc-3dd4a2eff9a1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11045"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The publication of nearly 600,000 new species occurrence maps using Global Biodiversity Information Facility data provides an opportunity to reassess international species protection with broader representation for plants, invertebrates, and other species. This development aligns with the global 30x30 initiative, where 188 governments have committed to expanding terrestrial and marine protection to cover 30 percent of the planet by 2030. This study leverages Global Biodiversity Information Facility occurrence maps to identify new opportunities for species protection in 10 countries in Latin America (Brazil, Costa Rica, and Ecuador), Africa (Cameroon, South Africa, and Madagascar), and the Asia-Pacific region (Papua New Guinea, the Philippines, India, and China). By focusing on individual countries, the paper emphasizes the importance of local conservation stewardship. Both terrestrial and marine cases are analyzed, with particular attention to endemic species. Unlike previous efforts, this approach assigns equal weight to all vertebrates, invertebrates, plants, and other species mapped in the database. A spatially efficient algorithm identifies priority localities for establishing new protected areas to safeguard unprotected species. The findings reveal that initial conditions, such as existing protection levels and the spatial clustering of unprotected species, greatly influence outcomes. Unprotected species are shown to be spatially clustered in some countries but not in others, and the representation of different taxa among unprotected species is found to vary significantly across countries. Some countries can achieve full protection within the 30 percent territorial limit, while others may need to exceed it. However, in all cases, spatial clustering enables significant protection gains through modest expansions of protected areas, demonstrating a path forward for enhancing biodiversity conservation within global commitments.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CRI"
+      },
+      {
+        "name": "Ecuador",
+        "code": "ECU"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CMR"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MDG"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PNG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      },
+      {
+        "name": "China",
+        "code": "CHN"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11045",
+    "url": "http://documents.worldbank.org/curated/en/099643201242514265/pdf/IDU122f63dd61f93d142be1a3dc13dd4a2eff9a1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "renewable natural resources asset management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "biodiversity",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "oceans",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.083021",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

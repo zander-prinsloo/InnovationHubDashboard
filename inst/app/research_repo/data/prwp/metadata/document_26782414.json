@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The globe and the circle : geometry and economic geography as tribute to Thales and Nash",
+    "idno": "26782414",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26782414",
+      "title": "The globe and the circle : geometry and economic geography as tribute to Thales and Nash",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Basu,Kaushik"
+      }
+    ],
+    "date_created": "2016/09/12",
+    "date_available": "2016/09/12",
+    "date_published": "2016/09/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26782414"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08463772b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08456f740"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The geometry of the line and the circle has been used in economics for a long time to understand location choice and political positioning in democratic polity. This paper draws on some elementary ideas from geometry and game theory to extend some of the analysis to beyond lines and circles, to the globe or the sphere. In the spirit of recreational geometry, the paper is focused on demonstrating some abstract results concerning Nash equilibria on the globe. It is hoped that this will help us understand better the robustness of median voter theorems and why stores position themselves the way they do.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7819",
+    "url": "http://documents.worldbank.org/curated/en/914341473712725914/pdf/WPS7819.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.067474",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

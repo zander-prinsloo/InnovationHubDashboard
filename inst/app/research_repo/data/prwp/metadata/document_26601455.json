@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Geopolitics, aid, and growth: the impact of UN security council membership on the effectiveness of aid",
+    "idno": "26601455",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26601455",
+      "title": "Geopolitics, aid, and growth: the impact of UN security council membership on the effectiveness of aid",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dreher,Axel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eichenauer,Vera Z."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gehring,Kai"
+      }
+    ],
+    "date_created": "2016/07/26",
+    "date_available": "2016/07/26",
+    "date_published": "2016/07/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26601455"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08449057f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08449057f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper investigates the effects of short-term political motivations on the effectiveness of foreign aid. Specifically, the paper tests whether the effect of aid on economic growth is reduced by the share of years a country served on the United Nations Security Council (UNSC) in the period the aid is committed, which provides quasi-random variation in aid. The results show that the effect of aid on growth is significantly lower when aid was committed during a country's tenure on the UNSC. This holds when we restrict the sample to Africa, which follows the strictest norm of rotation on the UNSC and thus where UNSC membership can most reliably be regarded as exogenous. Two conclusions arise from this. First, short-term political favoritism reduces the effectiveness of aid. Second, results of studies using political interest variables as instruments for overall aid arguably estimate the effect of politically motivated aid and thus a lower bound for the effect of all aid.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7771",
+    "url": "http://documents.worldbank.org/curated/en/619661469554033034/pdf/WPS7771.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.392467",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

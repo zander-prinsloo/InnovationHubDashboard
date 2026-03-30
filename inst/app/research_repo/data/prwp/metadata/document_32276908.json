@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The State of Land Use in Northern Nigeria : A Landsat-Based Mapping Framework",
+    "idno": "32276908",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32276908",
+      "title": "The State of Land Use in Northern Nigeria : A Landsat-Based Mapping Framework",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sedano,Fernando"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Molini,Vasco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azad,M Abul Kalam"
+      }
+    ],
+    "date_created": "2020/07/27",
+    "date_available": "2020/07/27",
+    "date_published": "2020/07/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32276908"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087c09130"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087c09130"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study developed a land cover and land use mapping framework specifically designed for agricultural systems in the Sudan-Sahel region. The mapping approach extracts information from inter- and intra-annual vegetation dynamics from dense stacks of Landsat 8 images. The framework was applied to create a 30-meter spatial resolution land use map focusing on the 2015 agricultural landscapes in northern Nigeria. The map provides up-to-date information with a high level of spatial and thematic detail, resulting in a more precise characterization of agriculture in the region. The map reveals that agriculture is the main land use in the region. Arable land represents on average 52.5 percent of the area, which is higher than the reported national average for Nigeria (38.4 percent). Irrigated agriculture covers nearly 2.2 percent of the total area, reaching nearly 20 percent of the cultivated land when traditional floodplain agriculture systems are included, which is above the reported national average (0.63 percent). There is significant variability in land use in the region. This study demonstrates the feasibility of multitemporal medium-resolution remote sensing data to provide detailed, up-to-date information on agricultural systems in the arid and sub-arid landscapes of the Sahel region.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9335",
+    "url": "http://documents.worldbank.org/curated/en/789051595858091451/pdf/The-State-of-Land-Use-in-Northern-Nigeria-A-Landsat-Based-Mapping-Framework.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.030193",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Institutions and firms' return to innovation : evidence from the world bank enterprise survey",
+    "idno": "19654205",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19654205",
+      "title": "Institutions and firms' return to innovation : evidence from the world bank enterprise survey",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jaramillo Gutierrez,Patricio Alejandro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen, Ha"
+      }
+    ],
+    "date_created": "2014/06/01",
+    "date_available": "2014/06/01",
+    "date_published": "2014/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19654205"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c4c82"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c4c82"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper poses a question: do firms in developing countries not innovate because they are unwilling to? The question moves away from the conventional focus on the obstacles (such as the lack of access to finance) that hinder firms' innovation ability. The World Bank's Enterprise Survey is used first to estimate the return to firms' innovation across many developing countries, in terms of sales and sales per worker. Then the return to innovation is compared across countries with different levels of institutional quality. In countries with lower institutional quality (specifically, rule of law, regulatory quality, property and patent right protection), the return to firms' innovation is lower. This suggests that poor institutional environment lowers firms' return to innovation and hence discourages them from investing in researching and adopting new products.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6918",
+    "url": "http://documents.worldbank.org/curated/en/514641468149397500/pdf/WPS6918.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.915162",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

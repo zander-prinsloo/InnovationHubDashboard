@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Applying Machine Learning and Geolocation Techniques to Social Media Data (Twitter) to Develop a Resource for Urban Planning",
+    "idno": "32638295",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32638295",
+      "title": "Applying Machine Learning and Geolocation Techniques to Social Media Data (Twitter) to Develop a Resource for Urban Planning",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Milusheva,Svetoslava Petkova"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Marty,Robert Andrew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bedoya Arguelles,Guadalupe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Williams,Sarah Elizabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Resor,Elizabeth Landsdowne"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Legovini,Arianna"
+      }
+    ],
+    "date_created": "2020/12/04",
+    "date_available": "2020/12/04",
+    "date_published": "2020/12/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32638295"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0880779ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0880779ac"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "With all the recent attention focused on big data, it is easy to overlook that basic vital statistics remain difficult to obtain in most of the world. This project set out to test whether an openly available dataset (Twitter) could be transformed into a resource for urban planning and development. The hypothesis is tested by creating road traffic crash location data, which are scarce in most resource-poor environments but essential for addressing the number one cause of mortality for children over age five and young adults. The research project scraped 874,588 traffic-related tweets in Nairobi, Kenya, applied a machine learning model to capture the occurrence of a crash, and developed an improved geoparsing algorithm to identify its location. The project geolocated 32,991 crash reports in Twitter for 2012-20 and clustered them into 22,872 unique crashes to produce one of the first crash maps for Nairobi. A motorcycle delivery service was dispatched in real-time to verify a subset of crashes, showing 92 percent accuracy. Using a spatial clustering algorithm, portions of the road network (less than 1 percent) were identified where 50 percent of the geolocated crashes occurred. Even with limitations in the representativeness of the data, the results can provide urban planners useful information to target road safety improvements where resources are limited.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9488",
+    "url": "http://documents.worldbank.org/curated/en/407261607111342557/pdf/Applying-Machine-Learning-and-Geolocation-Techniques-to-Social-Media-Data-Twitter-to-Develop-a-Resource-for-Urban-Planning.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.658922",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

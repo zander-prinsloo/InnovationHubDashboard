@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Sectoral Decomposition of Convergence in Labor Productivity : A Re-examination from a New Dataset",
+    "idno": "33382745",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33382745",
+      "title": "Sectoral Decomposition of Convergence in Labor Productivity : A Re-examination from a New Dataset",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dieppe,Alistair Matthew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matsuoka,Hideaki"
+      }
+    ],
+    "date_created": "2021/09/01",
+    "date_available": "2021/09/01",
+    "date_published": "2021/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33382745"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0889375a2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0889375a2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9767"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates how the sector-specific source or the changing sectoral composition of labor productivity has contributed to aggregate beta convergence, using a newly constructed eight-sector database. The main findings are twofold. First, both within and sectoral reallocation have become important drivers of aggregate convergence in labor productivity. Second, agricultural productivity growth has been a significant contributor to aggregate convergence, whereas catch-up in other sectors has only contributed a small amount to convergence. The strong growth of the agriculture sector has been the most important driver of aggregate productivity convergence even though agricultural productivity itself in low-income countries is weakly converging to that in advanced economies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9767",
+    "url": "http://documents.worldbank.org/curated/en/490901630527256426/pdf/Sectoral-Decomposition-of-Convergence-in-Labor-Productivity-A-Re-examination-from-a-New-Dataset.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.557323",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

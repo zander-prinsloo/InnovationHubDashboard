@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Macroeconomic Effects of Macroprudential Policy : Evidence from a Narrative Approach",
+    "idno": "33887382",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33887382",
+      "title": "The Macroeconomic Effects of Macroprudential Policy : Evidence from a Narrative Approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rojas Alvarado,Luis Diego"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vegh,Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vuletin,Guillermo Javier"
+      }
+    ],
+    "date_created": "2022/08/24",
+    "date_available": "2022/08/24",
+    "date_published": "2022/08/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33887382"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4a228ead-c602-4e6b-b1e0-2a61b8860edb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4a228ead-c602-4e6b-b1e0-2a61b8860edb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10145"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the macroeconomic effects of macroprudential policy&#x2014;in the form of legal reserve requirements&#x2014;in three Latin American countries (Argentina, Brazil, and Uruguay). To correctly identify innovations in changes in legal reserve requirements, a narrative approach&#x2014;based on contemporaneous reports from the IMF and central banks in the spirit of Romer and Romer (2010)&#x2014;is developed in which each change is classified into endogenous or exogenous to the business cycle. This distinction is critical in understanding the macroeconomic effects of reserve requirements. In particular, while output falls in response to exogenous increases in legal reserve requirements, it is not affected when using all changes and relying on traditional time-identifying strategies. This bias reflects the practical relevance of the misidentification of endogenous countercyclical changes in reserve requirements. The empirical frontier is also pushed along two important dimensions. First, in measuring legal reserve requirements, both the different types of legal reserve requirements in terms of maturity and currency of denomination as well as the structure of deposits are taken in account. Second, since in practice reserve requirement policy is tightly linked to monetary policy, the study jointly analyze the macroeconomic effects of changes in central bank interest rates. To properly identify exogenous central bank interest rate shocks, the Romer and Romer (2004) strategy is used.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Uruguay",
+        "code": "URY"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10145",
+    "url": "http://documents.worldbank.org/curated/en/099542508242283333/pdf/IDU04a228ead0c60204e6b0b1e002a61b8860edb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.361093",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

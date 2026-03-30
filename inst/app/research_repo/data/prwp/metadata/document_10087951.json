@@ -1,0 +1,129 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Almost random : evaluating a large-scale randomized nutrition program in the presence of crossover",
+    "idno": "10087951",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10087951",
+      "title": "Almost random : evaluating a large-scale randomized nutrition program in the presence of crossover",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alderman,Harold H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Linnemayr,Sebastian"
+      }
+    ],
+    "date_created": "2008/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10087951"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d6881"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d6881"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Large-scale randomized interventions have the potential to uncover the causal effect of programs applying to a large population, thereby improving on the insights gained from currently dominant smaller randomized studies. However, the external validity gained through larger interventions typically implies less supervision and often comes at the cost of some deviation from the randomization plan. This paper investigates the impact of the Nutrition Enhancement Program, which aims to improve child nutrition in Senegal based on a large-scale randomized community intervention. The analysis explicitly deals with deviation from the planned treatment and suggests approaches for combining ex-post adjustments such as propensity score matching with the randomized treatment plan. The authors do not detect a strong overall program impact on the outcome measure of weight-for-age based on planned treatment status, but do find an impact on the youngest children. Moreover, the project impact is clearer when the analysis considers treatment crossover using alternative estimators of two-stage least-squares and propensity score matching. The findings underscore the importance of addressing the shortcomings of large-scale randomization interventions in a systematic manner in order to understand the selection process that can guide further implementation of such projects, as well as to expose the true, causal effect of such programs.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4784",
+    "url": "http://documents.worldbank.org/curated/en/462971468152956856/pdf/WPS4784.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "nutrition and food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.246516",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

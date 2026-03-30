@@ -1,0 +1,152 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Early childhood development through an integrated program : evidence from the Philippines",
+    "idno": "6783625",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6783625",
+      "title": "Early childhood development through an integrated program : evidence from the Philippines",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Armecin, Graeme"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behrman,Jere R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Duazo, Paulita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ghuman,Sharon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gultiano, Socorro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "King,Elizabeth M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lee, Nannette"
+      }
+    ],
+    "date_created": "2006/05/01",
+    "date_available": "2006/05/11",
+    "date_published": "2006/05/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6783625"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828acd4c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828acd4c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "More attention and resources have been devoted in recent years to early childhood development (ECD) in low- and middle-income countries. Rigorous studies on the effectiveness of ECD-related programs for improving children's development in various dimensions in the developing world are scant. The authors evaluate an important ECD initiative of the Philippine government using longitudinal data collected over three years on a cohort of 6,693 children age 0-4 years at baseline in two \"treatment\" regions and a \"control\" region that did not receive the intervention. The initiative includes a wide range of health, nutrition, early education, and social services programs. The authors estimate its impact by using \"intent-to-treat\" difference-in-difference propensity score matching estimators to control for a variety of observed characteristics measured at the municipality, barangay, household, and child level and unobserved fixed characteristics, with differential impacts by age of children and duration of exposure to the program. There has been a significant improvement in the cognitive, social, motor, and language development, and in short-term nutritional status of children who reside in ECD program areas compared to those in non-program areas, particularly for those under age four at the end of the evaluation period. The proportions of children below age four with worms and diarrhea also have been lowered significantly in program compared to non-program areas, but there are effects in the opposite direction for older children so the overall impact on these two indicators is mixed.",
+    "ref_country": [
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3922",
+    "url": "http://documents.worldbank.org/curated/en/514641468096251700/pdf/wps3922.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:22.088752",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

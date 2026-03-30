@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Competition and Firm Recovery Post-COVID-19",
+    "idno": "33617836",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33617836",
+      "title": "Competition and Firm Recovery Post-COVID-19",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bruhn,Miriam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt,Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Singer,Dorothe"
+      }
+    ],
+    "date_created": "2021/11/16",
+    "date_available": "2021/11/16",
+    "date_published": "2021/11/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33617836"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088b7a961"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088b7968f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9851"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the impact of the COVID-19 crisis on the reallocation of economic activity across firms, and whether this reallocation depends on the competition environment. The paper uses the World Bank&#x2019;s Enterprise Surveys COVID-19 Follow-up Surveys for about 8,000 firms in 23 emerging and developing countries in Europe and Central Asia, matched with 2019 Enterprise Surveys data. It finds that during the COVID-19 crisis, economic activity was reallocated toward firms with higher pre-crisis labor productivity. Countries with a strong competition environment experienced more reallocation from less productive to more productive firms than countries with a weak competition environment. The evidence also suggests that reallocation from low- to high-productivity firms during the COVID-19 crisis was stronger compared with pre-crisis times. Finally, the analysis shows that government support measures implemented in response to the crisis may have adverse effects on competition and productivity growth since support went to less productive and larger firms, regardless of their pre-crisis innovation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9851",
+    "url": "http://documents.worldbank.org/curated/en/132651637073660006/pdf/Competition-and-Firm-Recovery-Post-COVID-19.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.804404",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

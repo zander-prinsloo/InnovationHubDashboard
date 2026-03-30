@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Firms’ locational choice and infrastructure development in Tanzania : instrumental variable spatial autoregressive model",
+    "idno": "24637459",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24637459",
+      "title": "Firms’ locational choice and infrastructure development in Tanzania : instrumental variable spatial autoregressive model",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Humphreys,Richard Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Melibaeva,Sevara"
+      }
+    ],
+    "date_created": "2015/06/15",
+    "date_available": "2015/06/15",
+    "date_published": "2015/06/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24637459"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082f31dd7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082f31dd7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Agglomeration economies are among the most important factors in increasing firm productivity. However, there is little evidence supportive of this in Africa. Using the firm registry database in Tanzania, this paper examines a new application of the logit approach with two empirical issues taken into account: spatial autocorrelation and endogeneity of infrastructure placement. The paper finds significant agglomeration economies. It is also found that firms are more likely to be located where local connectivity and access to markets are good. The paper finds that dealing with infrastructure endogeneity and spatial autocorrelation in the empirical model is important. According to the exogeneity test, infrastructure variables are likely endogenous. The spatial autoregressive term is significant. As expected, therefore, there are positive externalities of firm location choice around the neighboring areas.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7305",
+    "url": "http://documents.worldbank.org/curated/en/228621468178183193/pdf/WPS7305.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.937913",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Risk management prospects for Egyptian cotton",
+    "idno": "699142",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699142",
+      "title": "Risk management prospects for Egyptian cotton",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Varangis, Panos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thigpen, Elton"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Takamasa Akiyama"
+      }
+    ],
+    "date_created": "1993/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699142"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a604b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a604b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors examine risk management options for Egyptian cottons, the export prices for which are volatile. They use regression analysis to establish whether Egyptian cotton's prices can be effectively hedged by using existing futures contracts on the New York Cotton Exchange. They find no relationship between the movements in prices of Egyptian long and extra-long cottons and prices for the base quality of U.S. medium staple cotton traded on the New York futures market. (Probably because Egyptian cotton prices are government-determined, U.S. medium staple cotton prices are influenced by price support policies unrelated to the longer staple markets, and the fiber of the cottons analyzed have different physical characteristics.) So, the New York cotton futures market's No. 2 contract is not an appropriate mechanism for hedging the price risk facing Egyptian cotton under present procedures for determining prices - and probably not under market-determined prices. If the cotton market in Egypt is liberalized, cotton prices there may correlate more with prices elsewhere - especially for the longer staple cottons. The authors extend their regression analysis to the prices of other medium staple cottons - Australian, Central Asian, Mexican, Pakistani, and Turkish - to determine how they behave relative to U.S. medium staple cotton prices. None of these prices had short-term movements closely related to U.S. cotton prices, indicating mainly the influence of domestic policies on the U.S. market. Again, the New York futures No. 2 contract does not provide a satisfactory hedge for these cottons. The cotton futures contract recently introduced in New York (world cotton contract) - based on the Cotlook A Index - may prove useful for hedging the price risk for some cottons (especially Australian, Central Asian, and Pakistani) but apparently not Egyptian cotton. The authors recommend (together with privatizing the industry) establishing a domestic spot market to give transparency to the price-forming process. When the spot market is functioning well, establishing a forward market could provide a hedging instrument for Egyptian cotton.",
+    "ref_country": [
+      {
+        "name": "Egypt, Arab Republic of",
+        "code": "EGY"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1077",
+    "url": "http://documents.worldbank.org/curated/en/857801468744274005/Risk-management-prospects-for-Egyptian-cotton",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.391992",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

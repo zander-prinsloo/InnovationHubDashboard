@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Informal sector heterogeneity and income inequality : evidence from the Democratic Republic of Congo",
+    "idno": "29555601",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29555601",
+      "title": "Informal sector heterogeneity and income inequality : evidence from the Democratic Republic of Congo",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adoho,Franck M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Doumbia,Djeneba"
+      }
+    ],
+    "date_created": "2018/02/01",
+    "date_available": "2018/02/01",
+    "date_published": "2018/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29555601"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0855f7b8b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0855f5527"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses 1-2-3 survey data on the Democratic Republic of Congo to analyze heterogeneity in the informal sector. It empirically identifies three types of entrepreneurs in the sector. The first group of entrepreneurs—top performers -- is growth oriented and enjoys greater access to capital. The second group—constrained gazelles -- includes entrepreneurs who share many characteristics, especially management skills, with the top performers, but operate with less capital. The third group—survivalists—comprises firms struggling to grow. Based on logit and fixed effect ordinary least squares models, the results presented in this paper show that poverty and income inequality are more common among constrained gazelles and survivalists. The paper also shows that income inequality is explained mainly by educational disparities and lack of credit access among entrepreneurs. Additionally, the outcomes of a Blinder-Oaxaca decomposition show that the performance of firms is a key factor in explaining differences in income. Examining the drivers of performance, the paper finds that human capital and managerial skills are important engines of performance.",
+    "ref_country": [
+      {
+        "name": "Congo, Democratic Republic of",
+        "code": "COD"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8328",
+    "url": "http://documents.worldbank.org/curated/en/984711517510605615/pdf/WPS8328.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.127249",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

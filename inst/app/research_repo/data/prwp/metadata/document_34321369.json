@@ -1,0 +1,241 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Comparative Impacts of Input Subsidies, Irrigation Investments, and Social Cash Transfers on Food and Nutrition Security in Malawi",
+    "idno": "34321369",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34321369",
+      "title": "Comparative Impacts of Input Subsidies, Irrigation Investments, and Social Cash Transfers on Food and Nutrition Security in Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matita,Mirriam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zingwe,David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dizon,Felipe Jr Fadullon"
+      }
+    ],
+    "date_created": "2024/05/20",
+    "date_available": "2024/05/20",
+    "date_published": "2024/05/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34321369"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f657cd6a-83a5-4392-b079-c9d6c882a4c7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f657cd6a-83a5-4392-b079-c9d6c882a4c7"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10778"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study examines the impact of farm input subsidies, food and cash transfers, and irrigation investments on the dietary diversity, food consumption scores, and coping strategy index in Malawi. Despite the potential for synergies to address a range of vulnerabilities affecting food consumption, very few studies focus on combined program effects. The analysis employs three-waves of integrated household panel surveys for Malawi from 2013, 2016, and 2019, and uses instrumental variable Poisson and Tobit regression to address endogeneity. The findings show weak joint program participation effects, which may be due to program design or data limitations in this evaluation. Households that receive food and cash transfers showed improvements in diet diversity and the food consumption score. Input subsidies were less effective in helping households cope with food insecurity and reduced diet diversity and the food consumption score. This suggests that overreliance on agricultural input subsidies may lead to reduced variety in food consumption. Policies that are aimed at more linkages between programs should also diversity and rebalance public spending to reduce food and nutrition insecurity.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10778",
+    "url": "http://documents.worldbank.org/curated/en/099336405202431646/pdf/IDU1f657cd6a183a5143921b0791c9d6c882a4c7.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "urban infrastructure and service delivery",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "nutrition",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public expenditure policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "nutrition and food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.463342",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

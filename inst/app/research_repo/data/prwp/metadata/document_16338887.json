@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the causal effects of conflict on education in Côte d'Ivoire",
+    "idno": "16338887",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16338887",
+      "title": "Estimating the causal effects of conflict on education in Côte d'Ivoire",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dabalen,Andrew L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paul,Saumik"
+      }
+    ],
+    "date_created": "2012/06/01",
+    "date_available": "2012/06/01",
+    "date_published": "2012/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16338887"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b58ec"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b58ec"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the causal effects of civil war on years of education in the context of a school-going age cohort that is exposed to armed conflict in Cote d'Ivoire. Using year and department of birth to identify an individual's exposure to war, the difference-in-difference outcomes indicate that the average years of education for a school-going age cohort is .94 years fewer compared with an older cohort in war-affected regions. To minimize the potential bias in the estimated outcome, the authors use a set of victimization indicators to identify the true effect of war. The propensity score matching estimates do not alter the main findings. In addition, the outcomes of double-robust models minimize the specification errors in the model. Moreover, the paper finds the outcomes are robust across alternative matching methods, estimation by using subsamples, and other education outcome variables. Overall, the findings across different models suggest a drop in average years of education by a range of .2 to .9 fewer years.",
+    "ref_country": [
+      {
+        "name": "Cote d'Ivoire",
+        "code": "CIV"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6077",
+    "url": "http://documents.worldbank.org/curated/en/614711468244189279/pdf/WPS6077.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.830139",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

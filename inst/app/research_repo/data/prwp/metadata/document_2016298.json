@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the distributional impact of public policy",
+    "idno": "2016298",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2016298",
+      "title": "Assessing the distributional impact of public policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Essama-Nssah, B."
+      }
+    ],
+    "date_created": "2002/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2016298"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b059ca"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b059ca"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Economic development necessarily changes the welfare of socioeconomic groups to various degrees, depending on differences in their social arrangements. The challenge for policymakers is to select the changes that will be most socially desirable. The author demonstrates the usefulness of distributional analysis for social evaluation and, more specifically, for welfare evaluation, using data from the 1994 Integrated Household Survey in Guinea. Because the international community has declared poverty eradication a fundamental objective of development, the author uses a poverty-focused approach to social evaluation based on the maximum principle. This principle offers a unifying framework for analyzing the socioeconomic impact of public policy by using a wide variety of evaluation functions, inequality indicators (like the extended Gini coefficient), and poverty indices (such as Sen's index and the members of the Foster-Greer-Thorbecke family). The author also examines, within the context of commodity taxation, how to identify socially desirable policy options using both the dominance criterion and abbreviated social welfare functions. He includes computer routines for calculating various welfare indices and for plotting the relevant concentration curves.",
+    "ref_country": [
+      {
+        "name": "Guinea",
+        "code": "GIN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2883",
+    "url": "http://documents.worldbank.org/curated/en/559061468771571968/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:33.966040",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

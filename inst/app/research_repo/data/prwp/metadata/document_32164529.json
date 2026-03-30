@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Women in the Pipeline : A Dynamic Decomposition of Firm Pay Gaps",
+    "idno": "32164529",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32164529",
+      "title": "Women in the Pipeline : A Dynamic Decomposition of Firm Pay Gaps",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Das,Jishnu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Joubert,Clement Jean Edouard"
+      }
+    ],
+    "date_created": "2020/06/23",
+    "date_available": "2020/06/23",
+    "date_published": "2020/06/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32164529"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087abe1b7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087abbe16"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes a new decomposition method to understand how gender pay gaps arise within firms. The method accounts for pipeline effects, nonstationary environments, and dynamic interactions between pay gap components. This paper assembles a new data set covering all employees at the World Bank Group between 1987 and 2015 and shows that historical differences in the positions for which men and women were hired account for 77 percent of today's average salary difference, dwarfing the roles of entry salaries, salary growth, or retention. Forward simulations show that 20 percent of the total gap can be assigned to pipeline effects that would resolve mechanically with time.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9295",
+    "url": "http://documents.worldbank.org/curated/en/922611592934616383/pdf/Women-in-the-Pipeline-A-Dynamic-Decomposition-of-Firm-Pay-Gaps.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.518303",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

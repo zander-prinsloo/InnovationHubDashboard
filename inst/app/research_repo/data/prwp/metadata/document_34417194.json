@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Yielding Insights : Machine Learning-Driven Imputations to Filling Agricultural Data Gaps",
+    "idno": "34417194",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34417194",
+      "title": "Yielding Insights : Machine Learning-Driven Imputations to Filling Agricultural Data Gaps",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yacoubou Djima,Ismael Claude Ignanda"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tiberti,Marco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      }
+    ],
+    "date_created": "2024/11/04",
+    "date_available": "2024/11/04",
+    "date_published": "2024/11/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34417194"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e826032d-5dfa-438b-89e3-d30757a1d769"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e826032d-5dfa-438b-89e3-d30757a1d769"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10964"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper addresses the challenge of missing crop yield data in large-scale agricultural surveys, where crop-cutting, the most accurate method for yield measurement, is often limited due to cost constraints. Multiple imputation techniques, supported by machine learning models are used to predict missing yield data. This method is validated using survey data from Mali, which includes both crop-cut and self-reported yield information. The analysis covers several crops, providing insights into the importance of different predictors, including farmer-reported yields and geo-spatial variables, and the conditions under which the approach is valid. The findings show that machine learning-based imputations can provide accurate yield estimates, especially for crops with low intercropping rates and higher commercialization. However, survey-to-survey imputations are less accurate than within-survey imputations, suggesting limitations in extrapolating data across different survey rounds. The study contributes valuable insights into improving cost-efficiency in agricultural surveys and the potential of imputation methods.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10964",
+    "url": "http://documents.worldbank.org/curated/en/099853011042416192/pdf/IDU1e826032d15dfa1438b189e31d30757a1d769.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.800313",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the Impacts of Transport Corridor Development in Kazakhstan : Application of Dynamic Panel Data Models to Firm Registry Data",
+    "idno": "33908609",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33908609",
+      "title": "Estimating the Impacts of Transport Corridor Development in Kazakhstan : Application of Dynamic Panel Data Models to Firm Registry Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      }
+    ],
+    "date_created": "2022/09/29",
+    "date_available": "2022/09/29",
+    "date_published": "2022/09/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33908609"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c68da3b7-61a6-42a8-b39f-fcd67f3dea5f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c68da3b7-61a6-42a8-b39f-fcd67f3dea5f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10196"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Large-scale transport infrastructure investment can facilitate structural transformation by changing firm behavior. Although its impact is evident over the long term, an important empirical challenge is potential endogeneity of infrastructure placement. By using the dynamic panel data regression, the paper examines the impacts of massive road corridor investment under the Nurly Zhol program in Kazakhstan. The paper takes advantage of detailed micro shipping data to capture historical changes in transport connectivity over the past 10 years. While the average travel speed has slightly increased, transport costs have been nearly halved. The estimated translog cost functions indicate that local market accessibility is the most important factor to boost firm productivity. The elasticity was 0.24 in absolute terms. Inventory is found to be a major cost factor for firms. It is found that a 10-percent improvement in accessibility to large cities, such as Astana and Almaty, could allow firms to reduce their inventory by 8.7 percent. The market accessibility is found to foster firm agglomerations, but agglomeration economies do not seem to translate into higher firm productivity. This is possibly because the Kazakh economy still lacks effective forward or backward linkages across industries.",
+    "ref_country": [
+      {
+        "name": "Kazakhstan",
+        "code": "KAZ"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10196",
+    "url": "http://documents.worldbank.org/curated/en/099313309292296795/pdf/IDU0c68da3b7061a6042a80b39f0fcd67f3dea5f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.913116",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Externalities and production efficiency",
+    "idno": "437745",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437745",
+      "title": "Externalities and production efficiency",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eskeland, Gunnar S."
+      }
+    ],
+    "date_created": "2000/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437745"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0567a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0567a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author brings together two of government's primary challenges: environmental protection, and taxation to generate revenues. If negative externalities can be reduced not only by changes in consumption patterns, but also by making each activity cleaner (abatement efforts), how shall inducements to various approaches be combined? If negative externalities are caused by agents as different as consumers, producers, and government, how does optimal policy combine inducements to reduce pollution? Intuitively it seems right to tax emissions neutrally, based on marginal damages - no matter which activity pollutes, or whether the polluter is rich or poor, consumer or producer, private or public. The author provides a theoretical basis for such simplicity. Three assumptions are critical to his analysis: 1) Returns to scale do not influence the traditional problem of revenue generation. 2) consumers have equal access to pollution abatement opportunities (but he also relaxes this assumption). 3) Planners can differentiate policy instruments (emission taxes or abatement standards) by polluting good, and by whether the polluter is a consumer, producer, or government, but they cannot differentiate such instruments (or commodity taxes) by personal characteristics, or make them non-linear in individual emissions. Among the author's findings and conclusions: Abatement efforts and consumption adjustments at all stages are optimally stimulated by a uniform emission tax, levied simply where emissions occur. It simplifies things that the optimal abatement is independent of whether the car is used by government, firms, or households - for weddings, or for work. It also simplifies implementation, that the stimulus to abatement at one stage (say, the factory) is independent of whether it yields emission reductions from the factory, or form others (say, from car owners who by the factory's products). Finally, ministers of finance and of the environment should coordinate efforts, but they need not engage in each other's business. The minister of environment need not know which commodities are elastic in demand, and thus would bear a low commodity tax. The finance minister need not know which commodities or agents pollute or who pays emissions taxes.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2319",
+    "url": "http://documents.worldbank.org/curated/en/913381468740698907/Externalities-and-production-efficiency",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:40.044944",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

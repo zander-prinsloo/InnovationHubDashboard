@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Lost Human Capital : Teacher Knowledge and Student Achievement in Africa",
+    "idno": "31049894",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31049894",
+      "title": "The Lost Human Capital : Teacher Knowledge and Student Achievement in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bold,Tessa"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Filmer,Deon P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Molina,Ezequiel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Svensson,Jakob"
+      }
+    ],
+    "date_created": "2019/05/07",
+    "date_available": "2019/05/07",
+    "date_published": "2019/05/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31049894"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086c58d65"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086c58d65"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In many low-income countries, teachers do not master the subject they are teaching, and children learn little while attending school. Using unique data from nationally representative surveys of schools in seven Sub-Saharan African countries, this paper proposes a methodology to assess the effect of teacher subject content knowledge on student learning when panel data on students are not available. The paper shows that data on test scores of the student's current and the previous year's teachers, and knowledge of the correlation structure of teacher knowledge across time and grades, allow estimating two structural parameters of interest: the contemporaneous effect of teacher content knowledge, and the extent of fade out of teacher impacts in earlier grades. The paper uses these structural estimates to understand the magnitude of teacher effects and simulate the impacts of various policy reforms. Shortfalls in teachers' content knowledge account for 30 percent of the shortfall in learning relative to the curriculum, and about 20 percent of the cross-country difference in learning in the sample. Assigning more students to better teachers would potentially lead to substantial cost-savings, even if there are negative class-size effects. Ensuring that all incoming teachers have the officially mandated effective years of education, along with increasing the time spent on teaching to the officially mandated schedule, could almost double student learning within the next 30 years.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8849",
+    "url": "http://documents.worldbank.org/curated/en/149531557254443590/pdf/The-Lost-Human-Capital-Teacher-Knowledge-and-Student-Achievement-in-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.673507",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

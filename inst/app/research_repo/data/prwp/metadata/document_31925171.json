@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are Inflows of FDI Good for Russian Exporters",
+    "idno": "31925171",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31925171",
+      "title": "Are Inflows of FDI Good for Russian Exporters",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Poupakis,Stavros"
+      }
+    ],
+    "date_created": "2020/04/02",
+    "date_available": "2020/04/02",
+    "date_published": "2020/04/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31925171"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0877afa15"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0877afa15"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study examines whether foreign direct investment inflows facilitate upgrading of export quality in host countries. The analysis focuses on the Russian Federation and uses customs data merged with firm-level information from Orbis. The results show a positive relationship between the quality of products exported by domestic firms and the presence of foreign affiliates in the upstream (input-supplying) industries. This relationship is present irrespective of export destination or foreign direct investment origin. The results are robust to using different proxies to measure product quality.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9201",
+    "url": "http://documents.worldbank.org/curated/en/113561585854440194/pdf/Are-Inflows-of-FDI-Good-for-Russian-Exporters.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.113940",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Why manufacturing firms produce some electricity internally",
+    "idno": "696541",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696541",
+      "title": "Why manufacturing firms produce some electricity internally",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kyu Sik Lee"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anas, Alex"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verma, Satyendra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Murray,"
+      }
+    ],
+    "date_created": "1996/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696541"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b053a0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b053a0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many manufacturers in developing countries produce their own electricity because the public supply is unavailable or unreliable. The authors develop a model of the firm in which electricity is produced internally, with scale economies. The model explains the observed behavior (prevalent in Nigeria, common in Indonesia, and rare in Thailand) that firms supplement their purchases of publicly produced electricity with electricity produced internally. To prepare an econometric estimate, they specify a translog model. In Nigeria, where firms exhibit excess capacity, generators are treated as a fixed input, whereas in Indonesia, where firms are expanding, they are variable. They confirm strong scale economies in internal power production in both Nigeria and Indonesia. Shadow price analysis for both countries shows that smaller firms would pay much more for public power than larger firms would. Instead of giving quantity discounts, public monopolies should charge the larger firms more and the smaller firms less than they presently charge. In Nigeria, the large firms would make intensive use of their idle generating capacity, while in Indonesia their would expand their facilities. In both countries, small users would realize savings by having to rely less on expensive endogenous power.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Thailand",
+        "code": "THA"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "Africa ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1605",
+    "url": "http://documents.worldbank.org/curated/en/609501468759847360/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.700494",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

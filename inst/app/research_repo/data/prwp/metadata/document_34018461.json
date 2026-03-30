@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of Infrastructure on Development Outcomes: A Meta-Analysis",
+    "idno": "34018461",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34018461",
+      "title": "The Impact of Infrastructure on Development Outcomes: A Meta-Analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,Vivien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gorgulu,Nisan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jain,Dhruv"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Straub,Stéphane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vagliasindi,Maria"
+      }
+    ],
+    "date_created": "2023/03/09",
+    "date_available": "2023/03/09",
+    "date_published": "2023/03/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34018461"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8a9d8af4-f7d5-487e-8372-8744c048b215"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8a9d8af4-f7d5-487e-8372-8744c048b215"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10350"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a meta-analysis of the infrastructure research done over more than three decades, using a database of over a thousand estimates from 221 papers reporting outcome elasticities. The analysis casts a wide net to include the transport, energy, and digital or information and communication technology (ICT) sectors, and the whole set of outcomes covered in the literature, including output, employment and wages, inequality and poverty, trade, education and health, population, and environmental aspects. The results allow for an update of the underlying parameters of interest, the &#x201c;true&#x201d; underlying infrastructure elasticities, accounting for publication bias, as well as for heterogeneity stemming from both study design and context, with a particular focus on developing countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10350",
+    "url": "http://documents.worldbank.org/curated/en/099510203092318515/pdf/IDU18a9d8af41f7d51487e1837218744c048b215.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.832651",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

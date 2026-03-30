@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exports and Women Workers in Formal Firms",
+    "idno": "32782228",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32782228",
+      "title": "Exports and Women Workers in Formal Firms",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amin,Mohammad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Islam,Asif Mohammed"
+      }
+    ],
+    "date_created": "2021/01/27",
+    "date_available": "2021/01/27",
+    "date_published": "2021/01/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32782228"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088224113"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088224113"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Theory suggests several ways in which exporting may benefit women’s employment. However, the empirical evidence is mixed and limited, especially for developing countries. This paper uses firm-level survey data for 91 developing countries to estimate the relationship between exporting and the share of women workers at the firm. The analysis pays close attention to endogeneity concerns. First, it proxies a given firms’ exports by the average exports of all other firms in the same country-year-industry cell. Second, it exploits the repeated cross-section nature of the data and analyzes how changes over time in exporting activity are associated with changes in the share of women workers. The strategy is more immune to endogeneity problems than pure cross-section regressions. Third, it tests several mechanism or mediating factors as predicted by the theory through which exporting impacts women’s employment prospects. The predictions are confirmed in the data, an unlikely scenario if exports were a mere proxy for other correlated drivers of women’s employment. The results show a large, positive impact of higher exports on the share of women workers. A conservative estimate is that for each percentage point increase in the ratio of exports to total sales, the share of women workers increases by 0.16 percentage point. Consistent with the theoretical predictions, this positive relationship is much larger (more positive) in industries that rely more on women workers, in country-industry pairs where competitive pressure is largely from international markets in comparison to less competitive domestic markets, when social attitudes and labor laws are more favorable toward women’s work, and when the law and order situation is more business friendly.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9527",
+    "url": "http://documents.worldbank.org/curated/en/239241611764251805/pdf/Exports-and-Women-Workers-in-Formal-Firms.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.381846",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

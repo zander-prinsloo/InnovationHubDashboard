@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does the village fund matter in Thailand",
+    "idno": "10846344",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10846344",
+      "title": "Does the village fund matter in Thailand",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Boonperm, Jirawan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haughton,Jonathan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khandker,Shahidur R."
+      }
+    ],
+    "date_created": "2009/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10846344"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8b91"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8b91"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper evaluates the impact of the Thailand Village and Urban Revolving Fund on household expenditure, income, and assets. The revolving fund was launched in 2001 when the Government of Thailand promised to provide a million baht (about $22,500) to every village and urban community in Thailand as working capital for locally-run rotating credit associations. The money  about $2 billion in total  was quickly disbursed to locally-run committees in almost all of Thailands 74,000 villages and more than 4,500 urban (including military) communities. By May 2005, the committees had lent a total of about $8 billion, with an average loan of $466. Using data from the Thailand Socioeconomic Surveys of 2002 and 2004, each of which surveys almost 35,000 households, the authors find that the borrowers were disproportionately poor and agricultural. A propensity score matching model finds that Fund borrowing in 2004 was associated with, on average, 1.9 percent more income, 3.3 percent more expenditure, and about 5 percent more ownership of durable goods. These results are broadly consistent with the results from instrumental variables models (where the identifying instrument was the inverse of village size), which however show a smaller (marginal) effect. Households that borrowed both from the revolving fund and from the Bank of Agriculture and Agricultural Cooperatives gained substantially more in terms of higher income than those who borrowed from either one or the other or from neither.",
+    "ref_country": [
+      {
+        "name": "Thailand",
+        "code": "THA"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5011",
+    "url": "http://documents.worldbank.org/curated/en/211531468173353857/pdf/WPS5011.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "micro",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "small and medium enterprise support",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.436288",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

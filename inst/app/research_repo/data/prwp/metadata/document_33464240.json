@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Commodity Price Shocks : Order within Chaos",
+    "idno": "33464240",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33464240",
+      "title": "Commodity Price Shocks : Order within Chaos",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baffes,John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kabundi,Alain Ntumba"
+      }
+    ],
+    "date_created": "2021/10/04",
+    "date_available": "2021/10/04",
+    "date_published": "2021/10/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33464240"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088a30fef"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088a30fef"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9792"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The prices of 27 internationally traded commodities are decomposed into transitory and permanent shocks by applying an ideal band-pass filter to monthly data from 1970–2020. The two types of shocks contributed roughly equally to price variations, but with wide heterogeneity. Permanent shocks ac-counted for two-thirds of the variability in agricultural prices but less than 30 percent in energy prices. The transitory shock component revealed three medium-term cycles. The first (from the early 1970s to the mid-1980s) and third (from the early 2000s to 2020 onward) exhibit similar duration and involve almost all commodities, while the second (spanning the 1990s) is mostly applicable to metals, with the notable absence of energy. The permanent shock components differ across commodities, with an up-ward trend for most industrial commodities and downward trend for agriculture. Moreover, the permanent component of commodity prices where investment is irreversible, including energy, metals, and tree crops, exhibits a high degree of nonlinearities, which also coincide with the two post–World War II supercycles. By contrast, the permanent component of annual agricultural prices is linear, reflecting greater flexibility in investment allocation and input use of these commodities. Prices of commodities subjected to widespread policy interventions, such as international commodity agreements, exhibit persistent deviations from linear trends.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9792",
+    "url": "http://documents.worldbank.org/curated/en/693261633374058029/pdf/Commodity-Price-Shocks-Order-within-Chaos.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.401179",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

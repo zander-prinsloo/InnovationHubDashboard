@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Socioeconomic Outcomes of Native Groups in Argentina",
+    "idno": "34353723",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34353723",
+      "title": "The Socioeconomic Outcomes of Native Groups in Argentina",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dal Bó,Pedro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez,Janet Carolina De Los Angeles"
+      }
+    ],
+    "date_created": "2024/06/28",
+    "date_available": "2024/06/28",
+    "date_published": "2024/06/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34353723"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-770203d2-3d81-4ba5-86c5-491855b667b1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-770203d2-3d81-4ba5-86c5-491855b667b1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "https://doi.org/10.1596/1813-9450-10834"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study uses individual-level census data from Argentina to examine the socioeconomic disparities between Native and non-Native people. Native people fare worse across a variety of indicators, including housing, education, employment, and health. On average, the observed disparities amount to 12 percent of the standard deviation and persist even after controlling for factors such as geographic location. Furthermore, there are differences in the intergenerational transmission of education between Natives and non-Natives: for each level of education of the parents, the children of Natives have, on average, fewer years of education than the children of non-Natives. Finally, the study also reveals large differences between Native groups: while some achieve average outcomes that surpass those of the non-Native population, others significantly lag behind. Notably, these differences are correlated with a characteristic of their pre-Columbian economy: the practice of agriculture.",
+    "ref_country": [
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10834",
+    "url": "http://documents.worldbank.org/curated/en/099310206282421212/pdf/IDU1770203d213d8114ba5186c51491855b667b1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.940661",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

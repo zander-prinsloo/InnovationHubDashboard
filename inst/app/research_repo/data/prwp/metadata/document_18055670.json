@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "From guesstimates to GPStimates : land area measurement and implications for agricultural analysis",
+    "idno": "18055670",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18055670",
+      "title": "From guesstimates to GPStimates : land area measurement and implications for agricultural analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carletto,Calogero"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gourlay,Sydney"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winters,Paul Conal"
+      }
+    ],
+    "date_created": "2013/07/01",
+    "date_available": "2013/07/01",
+    "date_published": "2013/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18055670"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d165f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d165f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Land area measurement is a fundamental component of agricultural statistics and analysis. Yet, commonly employed self-reported land area measures used in most analysis are not only potentially measured with error, but these errors may be correlated with agricultural outcomes. Measures employing Global Positioning Systems, on the other hand, while not perfect especially on smaller plots, are likely to provide more precise measures and errors less correlated with agricultural outcomes. This paper uses data from four African countries to compare the use of self-reported and Global Positioning Systems land measures to (1) examine the differences between the measures, (2) identify the sources of the differences, and (3) assess the implications of the different measures on agricultural analysis focusing on the inverse productivity relationship. The results indicate that self-reported land areas systematically differ from Global Positioning Systems land measures and that this difference leads to potentially biased estimates of the relationship between land and productivity.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6550",
+    "url": "http://documents.worldbank.org/curated/en/476181468327003343/pdf/From-guesstimates-to-GPStimates-land-area-measurement-and-implications-for-agricultural-analysis.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.621890",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

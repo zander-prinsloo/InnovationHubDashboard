@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic approaches to modeling fertility determinants : a selective review",
+    "idno": "699129",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699129",
+      "title": "Economic approaches to modeling fertility determinants : a selective review",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arroyo III, Cristino R."
+      }
+    ],
+    "date_created": "1993/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699129"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c722f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c722f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author reviews critical models of fertility in which the fertility decision is regarded as the outcome of economic choice behavior. He considers, separately, two classes of models. The first are static lifetime fertility models that explain lifetime fertility aggregates and are exemplified by the work of Easterlin-Crimmins (1983), Rosenweig and Schultz (1985), and Montgomery (1987). The second are dynamic stochastic fertility models that have been used to analyze intertemporal or intergenerational decisions on birth-timing and birth-spacing. These are represented by the work of Wolpin (1984), Newman (1988), and the macroeconomic model of Barro and Becker (1989). The author discusses issues concerning the theoretical specifications and the econometric implementation of these models. With respect to the choice of modeling paradigm, he notes that static lifetime choice models, while relatively easy to implement, are restrictive in scope. The lifetime decision framework abstracts from the sequential nature of the fertility decision and cannot therefore adequately address how changes in the time profile of costs of contraception, wages, incomes, mother's education, or mortality risks affect fertility variables. Static models also cannot explain stylized empirical regularities with time dimensions, such as convergence of fertility rates across countries, the tendency for women to space births as their number of children increases, or the countercyclicality of U.S. fertility to the business cycle. The author recommends that for the most complete treatment of fertility issues, the analyst should adopt a dynamic-stochastic view of the fertility decision.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1085",
+    "url": "http://documents.worldbank.org/curated/en/358651468765925903/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.309431",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

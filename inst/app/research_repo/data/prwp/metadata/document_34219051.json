@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Macroeconomic Effects of Cash Transfers : Evidence from Brazil",
+    "idno": "34219051",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34219051",
+      "title": "The Macroeconomic Effects of Cash Transfers : Evidence from Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galego Mendes,Arthur"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Miyamoto,Wataru"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Thuy Lan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pennings,Steven Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feler,Leo"
+      }
+    ],
+    "date_created": "2023/12/19",
+    "date_available": "2023/12/19",
+    "date_published": "2023/12/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34219051"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b5ff3e10-c920-420b-8956-4c04fc38e0af"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b5ff3e10-c920-420b-8956-4c04fc38e0af"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10652"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides new evidence on the macroeconomic impact of cash transfers in developing countries. Using a Bartik-style identification strategy, the paper documents that Brazil&#x2019;s Bolsa Familia transfer program leads to a large and persistent increase in relative state-level GDP, formal employment, and informal employment. A state receiving 1% of GDP in extra transfers grows 2.2ppts faster in the first year, with R$100,000 of extra transfers generating five formal-equivalent jobs, half of which are informal. Consistent with a demand-side mechanism, the effects are concentrated in non-tradable sectors. However, an open-economy New Keynesian model only partially captures the high multipliers estimated.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10652",
+    "url": "http://documents.worldbank.org/curated/en/099423212192325062/pdf/IDU1b5ff3e101c9201420b1895614c04fc38e0af.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.362066",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Urbanization and property rights",
+    "idno": "25260752",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25260752",
+      "title": "Urbanization and property rights",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cai,Yongyang"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Selod,Harris"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steinbuks,Jevgenijs"
+      }
+    ],
+    "date_created": "2015/11/10",
+    "date_available": "2015/11/10",
+    "date_published": "2015/11/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25260752"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0831a9c6a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0831a7b22"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Since the industrial revolution, the economic development of Western Europe and North America was characterized by continuous urbanization accompanied by a gradual phasing-in of urban land property rights over time. Today, however, the evidence in many fast urbanizing low-income countries points towards a different trend of “urbanization without formalization”, with potentially adverse effects on long-term economic growth. This paper aims to understand the causes and the consequences of this phenomenon, and whether informal city growth could be a transitory or a persistent feature of developing economies. A dynamic stochastic equilibrium model of a representative city is developed, which explicitly accounts for the joint dynamics of land property rights and urbanization. The calibrated baseline model describes a city that first grows informally, with the growth of individual incomes leading to a phased-in purchase of property rights in subsequent periods. The model demonstrates that land tenure informality does not necessarily vanish in the long term, and the social optimum does not necessarily imply a fully formal city, neither in the transition, nor in the long run. The welfare effects of policies, such as reducing the cost of land tenure formalization, or protecting informal dwellers against evictions are subsequently investigated, throughout the short-term transition and in the long-term stationary state.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7486",
+    "url": "http://documents.worldbank.org/curated/en/827371467999377785/pdf/WPS7486.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.427363",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

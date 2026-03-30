@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Demand growth versus market share gains : decomposing world manufacturing import growth",
+    "idno": "17390433",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17390433",
+      "title": "Demand growth versus market share gains : decomposing world manufacturing import growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aksoy, M. Ataman"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ng, Francis"
+      }
+    ],
+    "date_created": "2013/02/01",
+    "date_available": "2013/02/01",
+    "date_published": "2013/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17390433"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bbf61"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bbf61"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper decomposes manufacturing import growth rates in a selected set of large industrial and developing countries (five industrial and eight developing) and measures the relative contributions of domestic demand and market share changes for two separate periods 1991/92 - 2001/02 and 2001/02 - 2007/08. It also shows the shares of imports both from the rest of the world and from developing countries for aggregate and three-digit manufacturing sectors. Import growth is much higher during the 2000s driven by higher demand growth rates. While market share changes explain most of the growth during the 1990s, its contribution is relatively smaller during the 2000s. Imports from developing countries have grown much faster both in industrial and developing country markets driven primarily by market share changes. However, more than half of market share gains by developing countries are caused by the exports of China, which accounts for more than 70 percent of market share gains of developing countries in the sample countries during the 2000s. Despite rapid growth, developing countries' share in the gross absorption of the sample countries is still low and can expand substantially even if demand growth is much lower in the near future.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6375",
+    "url": "http://documents.worldbank.org/curated/en/347051468150310351/pdf/wps6375.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "export development and competitiveness",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other trade and integration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.974697",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

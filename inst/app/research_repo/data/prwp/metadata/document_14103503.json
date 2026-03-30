@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Evaluating public per-student subsidies to low-cost private schools : regression-discontinuity evidence from Pakistan",
+    "idno": "14103503",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14103503",
+      "title": "Evaluating public per-student subsidies to low-cost private schools : regression-discontinuity evidence from Pakistan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barrera-Osorio, Felipe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Raju,Dhushyanth"
+      }
+    ],
+    "date_created": "2011/04/01",
+    "date_available": "2011/04/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14103503"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bc0c3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bc0c3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study estimates the causal effects of a public per-student subsidy program targeted at low-cost private schools in Pakistan on student enrollment and schooling inputs. Program entry is ultimately conditional on achieving a minimum stipulated student pass rate (cutoff) in a standardized academic test. This mechanism for treatment assignment allows the application of regression-discontinuity (RD) methods to estimate program impacts at the cutoff. Data on two rounds of entry test takers (phase 3 and phase 4) are used. Modeling the entry process of phase-4 test takers as a sharp RD design, the authors find evidence of large positive impacts on the number of students, teachers, classrooms, and blackboards. Modeling the entry process of phase-3 test takers as a partially-fuzzy RD design given treatment crossovers, they do not find evidence of significant program impacts on outcomes of interest. The latter finding is likely due to weak identification arising from a small jump in the probability of treatment at the cutoff.",
+    "ref_country": [
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5638",
+    "url": "http://documents.worldbank.org/curated/en/540371468082733515/pdf/WPS5638.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.921075",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

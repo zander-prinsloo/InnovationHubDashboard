@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are microcredit borrowers in Bangladesh over-indebted",
+    "idno": "18111659",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18111659",
+      "title": "Are microcredit borrowers in Bangladesh over-indebted",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Faruqee,Rashidur R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khandker,Shahidur R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Samad,Hussain A."
+      }
+    ],
+    "date_created": "2013/08/01",
+    "date_available": "2013/08/01",
+    "date_published": "2013/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18111659"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b78bb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b78bb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Microcredit programs in Bangladesh have experienced spectacular growth in recent years, with a growing number of borrowers availing credit from multiple microcredit agencies. There is a growing concern that if there are not sufficient returns to borrowing from microfinance institutions (MFIS), some borrowers might be taking loans that they will not be able to repay. A household may be considered over-indebted, for example, if its debt liability exceeds 40 percent of its income or assets. Using a long panel of household survey data from Bangladesh, the paper finds that some 26 percent of microcredit borrowers are over-indebted on this measure versus 22 percent of non-microcredit borrowers. Econometric analysis suggests that both MFI competition and multiple borrowing raise indebtedness. However, repeated borrowing, while it affects short-term liability adversely, does affect the long-term debt-asset ratio favorably. That is, repeated borrowing helps increase assets more than debt over time. Microcredit borrowers in Bangladesh are thus not necessarily over-indebted. But when borrowing is seen as protection against shocks such as floods even at the cost of being indebted, MFIs may offer micro-insurance schemes to safeguard borrowers against economic shocks.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6574",
+    "url": "http://documents.worldbank.org/curated/en/967641468210580595/pdf/WPS6574.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "micro",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "small and medium enterprise support",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.518756",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

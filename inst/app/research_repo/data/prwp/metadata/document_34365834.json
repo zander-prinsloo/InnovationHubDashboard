@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Electricity Transition in MFMod : A Methodological Note with Applications",
+    "idno": "34365834",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34365834",
+      "title": "Electricity Transition in MFMod : A Methodological Note with Applications",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jooste,Charl"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcisaac,Florent John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haider,Alexander"
+      }
+    ],
+    "date_created": "2024/07/17",
+    "date_available": "2024/07/17",
+    "date_published": "2024/07/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34365834"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-7b8800dc-d406-40bd-8ce4-e64ce1541ef5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-7b8800dc-d406-40bd-8ce4-e64ce1541ef5"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10854"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper describes power sector modeling methodologies for the World Bank&#x2019;s macrostructural model &#x2014; MFMod. Macrostructural models generally do not model sectors, such as the power sector, in detail, limiting their capacity to represent deep system transformation (for example, low-carbon energy transitions). The main constraints to adequate sector modeling are data availability and technological representation of the power system. Time-series data for specific production factors across sectors do not exist consistently for most countries in World Bank models. This paper describes two distinct methods to overcome this constraint: (i) using a more granular representation of the production function and (ii) linking the macrostructural model with the World Bank's electricity planning models. These methods provide a more nuanced technical representation of deep transformations, enabling discussions on their macroeconomic consequences. The paper provides results for Mauritania and South Africa. These methodologies serve as a blueprint for macroeconomic modeling of energy transitions in this class of models.",
+    "ref_country": [
+      {
+        "name": "Mauritania",
+        "code": "MRT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10854",
+    "url": "http://documents.worldbank.org/curated/en/099534207172413272/pdf/IDU17b8800dc1d406140bd18ce41e64ce1541ef5.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.746914",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

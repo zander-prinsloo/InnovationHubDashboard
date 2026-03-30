@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An analysis of repressed inflation in three transitional economies",
+    "idno": "699041",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699041",
+      "title": "An analysis of repressed inflation in three transitional economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feltenstein, Andrew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jiming Ha"
+      }
+    ],
+    "date_created": "1993/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699041"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a3bbb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a3bbb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In centrally planned economies, domestic prices do not respond flexibly to market forces, so economic disequilibria - including repressed inflation - persist. The authors assess the extent of repressed inflation in Czechoslovakia, Poland, and Romania between 1980 and 1990. First, they develop a simultaneous equation model, which stipulates that the repressed inflation is caused by the difference in growth rate between households' money holdings and retail sales in the economy. Following are the model's basic assumptions: a stable demand for money function exists where the demand for real quasi-money depends on the level of real income and the expected rate of inflation; inflationary expectations are formed under an adaptive scheme in which expected inflation for the next period depends on the error made in predicting the current period's true inflation; the real stock of quasi-money balances adjusts to the desired level, after a time lag. The authors then derive a reduced-form equation on real quasi-money holdings, and estimate it with quarterly data for Czechoslovakia and Poland, and with annual data for Romania. Based on the estimated equation, they derive the true inflation rate for each economy. Finally, they determine the significance of the repressed inflation in each economy through statistical tests on parameters of the estimated equation. These are the authors' main findings: during 1980-90 in Czechoslovakia, repressed inflation was insignificant, the demand for money was mostly for transaction purposes, and inflationary expectations were almost myopic; in Poland, repressed inflation was significant but decreasing after 1987, and inflationary expectations adjusted fairly rapidly; and in Romania, repressed inflation was serious throughout the period, and inflationary expectations adjusted quite rapidly. This economic model needs to be refined and the data used need to be improved. But the paper's findings are broadly consistent with the results of most other studies.",
+    "ref_country": [
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1132",
+    "url": "http://documents.worldbank.org/curated/en/690291468744281196/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.008806",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

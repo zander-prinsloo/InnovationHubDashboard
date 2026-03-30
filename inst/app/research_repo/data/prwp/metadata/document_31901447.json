@@ -1,0 +1,140 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Relationship between Female Labor Force Participation and Violent Conflicts in South Asia",
+    "idno": "31901447",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31901447",
+      "title": "The Relationship between Female Labor Force Participation and Violent Conflicts in South Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robertson,Raymond"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Acevedo,Gladys C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morales,Matias"
+      }
+    ],
+    "date_created": "2020/03/26",
+    "date_available": "2020/03/26",
+    "date_published": "2020/03/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31901447"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08776c31e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08776c31e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the link between the prevalence of violent conflicts and extremely low female labor force participation rates in South Asia. The Labor Force Surveys from Bangladesh, Sri Lanka, India, and Pakistan are merged with the Global Terrorism Database to estimate the relationship between terrorist attacks and female labor supply. Geographical data on exposure to violence are used to compare administrative units exposed to attacks with those not exposed. The analysis finds that one additional attack reduces female labor force participation rates by about 0.008 percentage point, on average. Violence has less impact on male labor participation, thus widening the gender labor participation gap. The paper tests the added -- worker effect theory -- which posits that violence might increase female labor force participation as women try to make up for lost household income—and finds mixed evidence: greater prevalence of attacks may encourage married women to work more hours, but when the environment gets more risky, all women work fewer hours. The paper also finds that violence decreases female labor participation less where it was already higher and has a progressively greater impact on lowering female labor participation where the number of attacks is higher.",
+    "ref_country": [
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9195",
+    "url": "http://documents.worldbank.org/curated/en/151821585229322211/pdf/The-Relationship-between-Female-Labor-Force-Participation-and-Violent-Conflicts-in-South-Asia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.179178",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

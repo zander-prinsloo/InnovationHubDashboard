@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How inertia and limited potentials affect the timing of sectoral abatements in optimal climate policy",
+    "idno": "16563648",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16563648",
+      "title": "How inertia and limited potentials affect the timing of sectoral abatements in optimal climate policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meunier,Lola Guylaine Dany J C L S P P"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vogt-Schilb,Adrien Camille"
+      }
+    ],
+    "date_created": "2012/08/01",
+    "date_available": "2012/08/01",
+    "date_published": "2012/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16563648"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b67ce"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b67ce"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the optimal timing of greenhouse gas abatement efforts in a multi-sectoral model with economic inertia, each sector having a limited abatement potential. It defines economic inertia as the conjunction of technical inertia -- a social planner chooses investment on persistent abating activities, as opposed to choosing abatement at each time period independently -- and increasing marginal investment costs in abating activities. It shows that in the presence of economic inertia, optimal abatement efforts (in dollars per ton) are bell-shaped and trigger a transition toward a low-carbon economy. The authors prove that optimal marginal abatement costs should differ across sectors: they depend on the global carbon price, but also on sector-specific shadow costs of the sectoral abatement potential. The paper discusses the impact of the convexity of abatement investment costs: more rigid sectors are represented with more convex cost functions and should invest more in early abatement. The conclusion is that overlapping mitigation policies should not be discarded based on the argument that they set different marginal costs (`\"different carbon prices\"') in different sectors.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6154",
+    "url": "http://documents.worldbank.org/curated/en/730421468330048560/pdf/WPS6154.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.223212",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

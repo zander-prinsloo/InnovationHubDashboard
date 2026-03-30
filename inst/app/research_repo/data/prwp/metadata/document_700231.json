@@ -1,0 +1,114 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Analyzing the effects of U.S. agricultural policy on Mexican agricultural markets using the MEXAGMKTS model",
+    "idno": "700231",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700231",
+      "title": "Analyzing the effects of U.S. agricultural policy on Mexican agricultural markets using the MEXAGMKTS model",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "O'Mara,Gerald T."
+      }
+    ],
+    "date_created": "1990/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700231"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8d43"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8d43"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses results from simulations of the FAIRMODEL, USAGMKTS, and MEXAGMKTS models to analyze the effects of changes in U.S. agricultural policy on Mexican agricultural markets. The author concludes that under a scenario of trade liberalization for Mexico, Mexican agricultural production, prices, and trade are quite sensitive to agricultural policy changes in the U.S. The genesis of the research project was the perception that agricultural policies in Mexico (and many other countries) are often second best responses to the negative side effects of broad economic policies aimed primarily at macroeconomic and international trade objectives. The paper also discusses the role of agriculture in Mexican economic policy, and MEXAGMKTS, FAIR and USAGMKTS models. The paper includes an analysis of the sensitivity of Mexican agricultural markets to U.S. agricultural policy and a brief summary of the implications of the results.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS447",
+    "url": "http://documents.worldbank.org/curated/en/186901468761700041/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:04.556485",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

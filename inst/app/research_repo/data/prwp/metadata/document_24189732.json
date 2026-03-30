@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fossil fuel subsidies : approaches and valuation",
+    "idno": "24189732",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24189732",
+      "title": "Fossil fuel subsidies : approaches and valuation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kojima,Masami"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koplow,Doug"
+      }
+    ],
+    "date_created": "2015/03/23",
+    "date_available": "2015/03/23",
+    "date_published": "2015/03/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24189732"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c69984"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c69984"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Numbers ranging from half a trillion to two trillion dollars have been cited in recent years for global subsidies for fossil fuels. How are these figures calculated and why are they so different? The most commonly used methods for measuring subsidies are the price-gap approach -- quantifying the gap between free-market reference prices and the prices charged to consumers -- the inventory approach, which constructs an inventory of government actions benefiting production and consumption of fossil fuels. Practitioners are not faced with two choices. The two methods are complementary and should be used together -- price gaps cause distortions throughout the economy and quantification is needed for improving pricing policies; an inventory is useful for examining budgetary allocation. An inventory based on a full accounting framework for producer and consumer support estimates in fact captures price gaps as market transfers to producers or consumers. Differences in subsidy valuation arise from assumptions made to compensate for missing data and the scope of subsidy measurement. Having a common understanding of terms and standardizing calculation methods would go a long way in enabling comparison of subsidies across countries and sectors, benchmarking pricing, and assessing subsidy policies. Subsidy measurement should not be viewed as a one-off exercise to inform subsidy reform strategies. Just as subsidy reform in many countries does not have a clear end but is a continuous process of adjustment, so too is subsidy tracking. Devoting resources to data collection and analysis to track subsidies on a continuous basis can bring rich dividends by increasing transparency and enabling informed decisions.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7220",
+    "url": "http://documents.worldbank.org/curated/en/961661467990086330/pdf/WPS7220.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.629676",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

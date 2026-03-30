@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty-specific purchasing power parities in Africa",
+    "idno": "27765717",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27765717",
+      "title": "Poverty-specific purchasing power parities in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dikhanov,Yuri M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hamadeh,Nada"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vigil Oliver,William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Degefu,Tefera Bekele"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Song,Inyoung"
+      }
+    ],
+    "date_created": "2017/07/18",
+    "date_available": "2017/07/18",
+    "date_published": "2017/07/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27765717"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084deedf4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084deedf4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper revisits the issue of poverty-specific purchasing power parities (PPPs), using the most recent (2011) International Comparison Program (ICP) results. The World Bank's global poverty count uses a common international poverty line -- currently $1.90 at 2011 international prices—based on the ICP PPPs for consumption. The use of these PPPs is often criticized for two reasons. First, the ICP PPPs are based on patterns of aggregate household consumption, not the consumption of the poor. Second, the basket of goods and services used for collecting prices for the ICP is not poverty specific. On the first issue, using data from 28 African countries, the paper concludes that the poverty-specific PPPs estimated with household expenditure survey weights are very similar to the ICP PPPs. On the second issue, poverty-specific PPPs were estimated after removing items deemed to be irrelevant for the poor. The overall effect of removing these items from consumption PPPs is shown to be negligible.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8150",
+    "url": "http://documents.worldbank.org/curated/en/271051500404610210/pdf/WPS8150.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.376342",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

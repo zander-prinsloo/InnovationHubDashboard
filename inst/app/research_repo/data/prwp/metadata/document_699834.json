@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Moderate inflation",
+    "idno": "699834",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699834",
+      "title": "Moderate inflation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dornbusch, Rudiger"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fischer, Stanley"
+      }
+    ],
+    "date_created": "1991/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699834"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ac909"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ac909"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Inflation persists at moderate rates (15-30 percent) in all the countries that successfully reduced triple-digit inflation in the 1980s. Several other countries--for example, Colombia--have experienced moderate inflation for prolonged periods. The authors introduce types of theories of persistent inflation. Theories emphasizing seigniorage as a source of government finance and those emphasizing the costs of ending inflation were detailed. They examine the sources and persistence of episodes of moderate inflation. Most episodes were triggered by commodity price shocks and were brief. Very few ended in higher inflation. This report presents case studies of eight countries, including three that now suffer from moderate inflation and four that successfully moved down to single-digit inflation rates. The authors analyze the roles of seigniorage, indexation and disindexation, the exchange rate commitment, and monetary and fiscal policy. The evidence suggests that seigniorage plays, at most, a modest role in the persistence of moderate inflation and that such inflation can be reduced only at a substantial short-term cost to growth.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS807",
+    "url": "http://documents.worldbank.org/curated/en/280941468740426292/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:02.165063",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

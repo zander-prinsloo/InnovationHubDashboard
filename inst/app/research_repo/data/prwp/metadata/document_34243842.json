@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Rural Labor and Long Recall Loss",
+    "idno": "34243842",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34243842",
+      "title": "Rural Labor and Long Recall Loss",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ambler,Kate"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Herskowitz,Sylvan Rene"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maredia,Mywish Karimbhai"
+      }
+    ],
+    "date_created": "2024/01/23",
+    "date_available": "2024/01/23",
+    "date_published": "2024/01/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34243842"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f0a4a5fa-7a29-46e9-9386-90683a48ead2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f0a4a5fa-7a29-46e9-9386-90683a48ead2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10680"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Surveys frequently rely on annual recall to capture individuals&#x2019; labor activities over the preceding year. This paper uses a panel of rural households in Malawi for a survey experiment to test the effect of a long, annual recall window on reported labor supply relative to a set of quarterly interviews. The paper documents large losses in reported labor participation using the long recall window with reductions of over 20 percent of reported activities and months worked and a 2.5 times greater incidence of reported unemployment relative to the shorter window. These losses are greater for activities further in the past and especially for individuals whose labor supply is reported by other family members, reaching up to 50 percent for some outcomes. The profile of households&#x2019; primary respondents, predominantly male and older, and differential effects by age further suggest that long recall may cause meaningful biases in the resulting data for women and younger household members.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10680",
+    "url": "http://documents.worldbank.org/curated/en/099314301232420189/pdf/IDU1f0a4a5fa17a29146e919386190683a48ead2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.148665",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

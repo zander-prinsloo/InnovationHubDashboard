@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Climate Shocks and Their Effects on Food Security, Prices, and Agricultural Wages in Afghanistan",
+    "idno": "34435562",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34435562",
+      "title": "Climate Shocks and Their Effects on Food Security, Prices, and Agricultural Wages in Afghanistan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gbadegesin,Tosin Kolajo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andree,Bo Pieter Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Braimoh,Ademola"
+      }
+    ],
+    "date_created": "2024/12/12",
+    "date_available": "2024/12/12",
+    "date_published": "2024/12/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34435562"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8ea67e26-7065-4cf2-842c-d1f2cfc6bedd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8ea67e26-7065-4cf2-842c-d1f2cfc6bedd"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10999"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study examines the effects of climate and weather shocks on Afghanistan's agricultural economy, with an emphasis on food security, prices, and wages. By utilizing a dynamical model and a unique data set that includes monthly global and local food prices, agricultural wages, unofficial exchange rates, and local climate data, the research provides econometric estimates of the impacts of droughts and floods. The findings reveal that both flooding and drought significantly increase food insecurity, directly and indirectly. Directly, these climatic shocks are linked to heightened risks of food insecurity in the following months, even when controlling for price and wage fluctuations. Indirectly, droughts and floods drive up food prices and depress agricultural wages, further exacerbating food insecurity. The study suggests that enhancing climate resilience in the agriculture sector could mitigate these risks, stabilize local food prices and wages, and strengthen food security and the broader agricultural economy. The results also show that price data effectively capture food security shocks from various non-economic sources, and can serve as a versatile monitoring tool in situations where detailed data on food security are unavailable.",
+    "ref_country": [
+      {
+        "name": "Afghanistan",
+        "code": "AFG"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10999",
+    "url": "http://documents.worldbank.org/curated/en/099903212122414533/pdf/IDU18ea67e261706514cf21842c1d1f2cfc6bedd.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.514966",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

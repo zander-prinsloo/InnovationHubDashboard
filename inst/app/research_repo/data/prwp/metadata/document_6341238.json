@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of the strong euro on the real effective exchange rates of the two Francophone African CFA Zones",
+    "idno": "6341238",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6341238",
+      "title": "The impact of the strong euro on the real effective exchange rates of the two Francophone African CFA Zones",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zafar,Ali"
+      }
+    ],
+    "date_created": "2005/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6341238"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828afbbb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828afbbb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author estimates the degree of misalignment of the CFA franc since the introduction of the euro in 1999. Using a relative purchasing power parity-based methodology, he develops a monthly panel time series dataset for both the Economic and Monetary Community of Central Africa (CEMAC) zone and the West African Economic and Monetary Union (UEMOA) zone to compute a trade-weighted real effective exchange rate indexed series from January 1999 to December 2004. The author's main finding is that the real effective exchange rate appreciated by close to 8 percent in UEMOA and 7 percent in CEMAC, influenced by volatility in the euro-dollar bilateral exchange rate and conservative monetary policies in the two zones, resulting in a partial loss of competitiveness in export markets. The lower appreciation in Central Africa can be explained by lower inflation in CEMAC than in UEMOA and by the greater trade with higher inflation East Asian countries, partially offset by the peg to the dollar. However, the inclusion of \"unrecorded trade\" results in an appreciation of only 6 percent in the UEMOA zone and 6 percent in the CEMAC zone due to higher inflation in the two countries with unmonitored cross-border flows, Ghana and Nigeria. Using time series econometrics, an Engle-Granger two stage procedure for cointegration, and an error correction framework, a single equation modeling of the real exchange rate from 1970 to 2005 as a function of terms of trade, economic openness, aid inflows, and a dummy representing the 1994 devaluation, the author finds little statistical evidence of a long-run equilibrium exchange rate that is a vector of economic fundamentals. The dummy explains most of the real exchange rate behavior in the two zones, while openness in UEMOA has contributed to an appreciation of the real effective exchange rate.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3751",
+    "url": "http://documents.worldbank.org/curated/en/354601468192878241/pdf/wps3751.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.905801",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

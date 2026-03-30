@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An Axiomatic Study Contrasting the Two Main Poverty Line Rules",
+    "idno": "34112864",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34112864",
+      "title": "An Axiomatic Study Contrasting the Two Main Poverty Line Rules",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Decerf,Benoit Marie A"
+      }
+    ],
+    "date_created": "2023/07/06",
+    "date_available": "2023/07/06",
+    "date_published": "2023/07/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34112864"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-7caab8c2-d4ad-46b9-bff8-0634798d979f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-7caab8c2-d4ad-46b9-bff8-0634798d979f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10519"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The poverty line rule defines how the poverty line&#x2019;s nominal monetary amount should be adjusted to prices and preferences. Official poverty lines are based on either of two main rules. &#x201c;Objective&#x201d; poverty lines capture the cost of a fixed list of achievements. &#x201c;Welfaristic&#x201d; poverty lines capture the cost of a fixed level of welfare. Longstanding debates oppose their respective proponents. This paper proposes the first axiomatic study contrasting these two types of poverty lines. The framework considers both heterogeneous prices and heterogeneous preferences. The results clarify the normative principles that differentiate them and shed some light on these debates. Which type of poverty line satisfies stronger versions of the axioms depends on the extent of preferences heterogeneity and thus on the application for which poverty is monitored.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10519",
+    "url": "http://documents.worldbank.org/curated/en/099314007062347190/pdf/IDU17caab8c21d4ad146b91bff810634798d979f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.652476",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

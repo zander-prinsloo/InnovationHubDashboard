@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Food security and wheat prices in Afghanistan : a distribution-sensitive analysis of household-level impacts",
+    "idno": "16204162",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16204162",
+      "title": "Food security and wheat prices in Afghanistan : a distribution-sensitive analysis of household-level impacts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "D'Souza,Anna"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolliffe,Dean Mitchell"
+      }
+    ],
+    "date_created": "2012/04/01",
+    "date_available": "2012/04/04",
+    "date_published": "2012/04/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16204162"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b1b15"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b1b15"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the impact of increases in wheat flour prices on household food security using unique nationally-representative data collected in Afghanistan from 2007 to 2008. It uses a new estimator, the Unconditional Quantile Regression estimator, based on influence functions, to examine the marginal effects of price increases at different locations on the distributions of several food security measures. The estimates reveal that the negative marginal effect of a price increase on food consumption is two and a half times larger for households that can afford to cut the value of food consumption (75th quantile) than for households at the bottom (25th quantile) of the food-consumption distribution. Similarly, households with diets high in calories reduce intake substantially, but those at the bottom of the calorie distribution (25th quantile) make very small changes in intake as a result of the price increases. In contrast, households at the bottom of the dietary diversity distribution make the largest adjustments in the quality of their diets, since such households often live at subsistence levels and cannot make large cuts in caloric intake without suffering serious health consequences. These results provide empirical evidence that when faced with staple-food price increases, food-insecure households sacrifice quality (diversity) in order to protect calories. The large differences in behavioral responses of households that lie at the top and bottom of these distributions suggest that policy analyses relying solely on ordinary least squares estimates may be misleading.",
+    "ref_country": [
+      {
+        "name": "Afghanistan",
+        "code": "AFG"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6024",
+    "url": "http://documents.worldbank.org/curated/en/204711467995795735/pdf/Food-security-and-wheat-prices-in-Afghanistan-a-distribution-sensitive-analysis-of-household-level-impacts.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.188778",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

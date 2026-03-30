@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Usus Fructus : Taking Account of Property Use Rights in Household Wealth Measurement",
+    "idno": "34397018",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34397018",
+      "title": "Usus Fructus : Taking Account of Property Use Rights in Household Wealth Measurement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "D'Alessio,Giovanni"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Neri,Daniella Allegra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Toma,Irene"
+      }
+    ],
+    "date_created": "2024/09/30",
+    "date_available": "2024/09/30",
+    "date_published": "2024/09/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34397018"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ff073a92-99d4-42a9-a9c4-5e4ad789b860"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ff073a92-99d4-42a9-a9c4-5e4ad789b860"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10936"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper discusses the inclusion of usufruct rights in household wealth estimates, emphasizing the theoretical rationale for adjusting traditional estimates that do not include this component. It then applies this concept to the Italian context using Survey on Household Income and Wealth data. Despite usufruct being relatively rare (around 3 percent of residential homes), adjusting for it impacts the wealth distribution, with some increases characterizing younger households. Overall, adjusted estimates show a significant decrease in the concentration indices compared with unadjusted ones. These findings suggest the importance of considering this component in standard household wealth estimates, particularly in countries where use rights are more common.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10936",
+    "url": "http://documents.worldbank.org/curated/en/099449009302493032/pdf/IDU1ff073a92199d4142a91a9c415e4ad789b860.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.039564",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

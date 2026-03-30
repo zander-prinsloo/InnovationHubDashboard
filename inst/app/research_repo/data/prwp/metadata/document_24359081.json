@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Asset price effects of peer benchmarking : evidence from a natural experiment",
+    "idno": "24359081",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24359081",
+      "title": "Asset price effects of peer benchmarking : evidence from a natural experiment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Acharya,Sushant"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pedraza Morales,Alvaro Enrique"
+      }
+    ],
+    "date_created": "2015/04/14",
+    "date_available": "2015/04/14",
+    "date_published": "2015/04/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24359081"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082db9413"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082db9413"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the effects of peer benchmarking by institutional investors on asset prices. To identify trades purely due to peer benchmarking as separate from those based on fundamentals or private information, the paper exploits a natural experiment involving a change in a government imposed underperformance penalty applicable to Colombian pension funds. This change in regulation is orthogonal to stock fundamentals and only affects incentives to track peer portfolios allowing the authors to identify the component of demand due to peer benchmarking. The authors find that peer effects among pension fund managers generate excess in stock return volatility, with stocks exhibiting short-term abnormal returns followed by returns reversal in the subsequent quarter. Additionally, peer benchmarking produces an excess in comovement across stock returns beyond the correlation implied by fundamentals.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7239",
+    "url": "http://documents.worldbank.org/curated/en/311461467980553834/pdf/WPS7239.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.460997",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,164 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Income diversification patterns in rural Sub-Saharan Africa : reassessing the evidence",
+    "idno": "20378029",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20378029",
+      "title": "Income diversification patterns in rural Sub-Saharan Africa : reassessing the evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Davis,Benjamin K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Di Giuseppe,Stefania"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zezza,Alberto"
+      }
+    ],
+    "date_created": "2014/11/01",
+    "date_available": "2014/11/01",
+    "date_published": "2014/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20378029"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b462b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b462b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Is Africa's rural economy transforming as its economies grow? This paper uses comparable income aggregates from 41 national household surveys from 22 countries to explore the extent of income diversification among rural households in Sub-Saharan Africa, and to look at how income diversification in Sub-Saharan Africa compares with other regions, taking into account differences in levels of development. The paper also seeks to understand how geography drives income diversification, focusing on the role of agricultural potential and distance to urban areas. The countries in the African sample have higher shares of on-farm income (63 versus 33 percent) and lower shares on nonagricultural wage income (8 and 21 percent) compared with countries of other regions. Specialization in on-farm activities continues to be the norm in rural Africa (52 percent of households, 21 percent in other regions). In terms of welfare, specialization in nonagricultural income-generating activities stochastically dominates farm-based strategies in all of the countries in our African sample. Crop income is still important for welfare, however, and even at higher levels of household income, crop activities continue to play an important complementary role. Regardless of distance and integration in the urban context, when agro-climatic conditions are favorable, farming remains the occupation of choice for most households in the African countries for which the study has geographically explicit information. When urban integration is low and agricultural conditions more difficult, the picture is mixed, with households more likely to engage more fully in nonfarm activities in Niger and Malawi, but less likely to do so in Uganda and Tanzania.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7108",
+    "url": "http://documents.worldbank.org/curated/en/861761468340796327/pdf/Income-diversification-patterns-in-rural-Sub-Saharan-Africa-reassessing-the-evidence.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other environment and natural resources management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural non-farm income generation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other human development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "nutrition and food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural services and infrastructure",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.682206",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

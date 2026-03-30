@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Foreign banks and international transmission of monetary policy : evidence from the syndicated loan market",
+    "idno": "27081770",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27081770",
+      "title": "Foreign banks and international transmission of monetary policy : evidence from the syndicated loan market",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt,Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Horvath,Balint Laszlo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Huizinga,Harry P."
+      }
+    ],
+    "date_created": "2017/01/09",
+    "date_available": "2017/01/09",
+    "date_published": "2017/01/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27081770"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084855f73"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084855f73"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses loan-level data from 124 countries over 1995–2015 to examine the transmission of monetary policy through the cross-border syndicated loan market. The results show that the expansion of monetary policy increases cross-border credit supply especially to weaker firms. However, greater foreign bank presence in the borrower country appears to reduce the potentially destabilizing impact of lower policy interest rates on cross-border lending, as it attenuates increases in loan volume and maturity while magnifying increases in collateralization and covenant use. The mitigating effect of foreign banking presence in the borrowing country on the transmission of monetary policy is robust to controlling for borrower-country economic and financial development, and a range of borrower and lender country policies and institutions, including the strength of bank regulation and supervision, exchange rate flexibility, and restrictions on capital flows. The findings qualify the characterization of international banks as sources of credit instability, and suggest that foreign bank entry can improve the stability of cross-border credit in the face of international monetary policy shocks.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7937",
+    "url": "http://documents.worldbank.org/curated/en/190371483993294665/pdf/WPS7937.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.981218",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

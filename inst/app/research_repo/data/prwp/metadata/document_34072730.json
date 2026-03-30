@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade and Civil Conflicts",
+    "idno": "34072730",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34072730",
+      "title": "Trade and Civil Conflicts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Assem Mohammed G Hassan Ahmed,Hoda"
+      }
+    ],
+    "date_created": "2023/05/31",
+    "date_available": "2023/05/31",
+    "date_published": "2023/05/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34072730"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a32a89fd-5022-4460-a873-ad25dcba77eb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a32a89fd-5022-4460-a873-ad25dcba77eb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10465"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the impact of civil conflicts on international trade. First, it quantifies how much civil conflicts suppress trade and explores the underlying mechanisms within a structural gravity model. Trade openness can lower the risk of civil conflicts because expected gains from international trade could discourage both governments and rebels from igniting conflicts (deterrence mechanism). Alternatively, international trade could act as a substitute for internal trade, lowering the opportunity cost of civil conflicts (insurance mechanism). This paper empirically investigates both mechanisms. Second, the paper investigates the spillovers of civil conflicts on trade for neighboring countries uninvolved in the conflict. Third, it examines if the impact of civil conflicts is contemporaneous or persistent through time. The paper uses data on violent civil conflicts and international and intra-national trade data from 142 countries to estimate a structural gravity trade model for 1989-2006. The results show that civil conflicts in a country can reduce its trade with other countries by over 40 percent. Spillovers of neighboring civil conflicts are also highly detrimental. Finally, the impact of civil conflicts is highly persistent through time and increases with the duration of the conflict.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10465",
+    "url": "http://documents.worldbank.org/curated/en/099905205312330455/pdf/IDU0a32a89fd05022044600a8730ad25dcba77eb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.095294",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

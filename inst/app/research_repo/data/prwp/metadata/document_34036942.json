@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Why Do People Move ? A Data-Driven Approach to Identifying and Predicting Gender-Specific Aspirations to Migrate",
+    "idno": "34036942",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34036942",
+      "title": "Why Do People Move ? A Data-Driven Approach to Identifying and Predicting Gender-Specific Aspirations to Migrate",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Halim,Daniel Zefanya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seetahul,Suneha"
+      }
+    ],
+    "date_created": "2023/04/06",
+    "date_available": "2023/04/06",
+    "date_published": "2023/04/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34036942"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5ba8d1e9-ec2a-46e5-bdf1-fbe727c45e00"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5ba8d1e9-ec2a-46e5-bdf1-fbe727c45e00"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10396"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Work-related migration has many potential drivers. While current literature has outlined a theoretical framework of various &#x201c;push-pull&#x201d; factors affecting the likelihood of international migration, empirical papers are often constrained by the scarcity of detailed data on migration, especially in developing countries, and are forced to look at few of these factors in isolation. When detailed data is available, researchers may face arbitrary choices of which variables to include and how to sequence their inclusion. As male and female migrants tend to face occupational segregation, the determinants of migration likely differ by gender, which compounds these data challenges. To overcome these three issues, this paper uses a rich primary household survey among migrant communities in Indonesia and employs two supervised machine-learning methods to identify the top predictors of migration by gender: random forests and least absolute shrinkage and selection operator stability selection. The paper confirms some determinants established by earlier studies and reveals several additional ones, as well as identifies differences in predictors by gender.",
+    "ref_country": [
+      {
+        "name": "East Asia and Pacific",
+        "code": "EAP"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10396",
+    "url": "http://documents.worldbank.org/curated/en/099554304062330779/pdf/IDU05ba8d1e90ec2a046e50bdf10fbe727c45e00.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.560763",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

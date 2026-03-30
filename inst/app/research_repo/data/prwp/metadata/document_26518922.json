@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimation of climate change damage functions for 140 regions in the GTAP9 database",
+    "idno": "26518922",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26518922",
+      "title": "Estimation of climate change damage functions for 140 regions in the GTAP9 database",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roson,Roberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sartori,Martina"
+      }
+    ],
+    "date_created": "2016/06/23",
+    "date_available": "2016/06/23",
+    "date_published": "2016/06/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26518922"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0843f8f28"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0843f8f28"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Climate change damage (or, more correctly, impact) functions relate variations in temperature (or other climate variables) to economic impacts in various dimensions, and are at the basis of quantitative modeling exercises for the assessment of climate change policies. This document provides a summary of results from a series of meta-analyses aimed at estimating parameters for six specific damage functions, referring to: sea level rise, agricultural productivity, heat effects on labor productivity, human health, tourism flows, and households' energy demand. All parameters of the damage functions are estimated for each of the 140 countries and regions in the Global Trade Analysis Project 9 data set. To illustrate the salient characteristics of the estimates, the change in real gross domestic product is approximated for the different effects, in all regions, corresponding to an increase in average temperature of +3°C. After considering the overall impact, the paper highlights which factor is the most significant one in each country, and elaborates on the distributional consequences of climate change.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7728",
+    "url": "http://documents.worldbank.org/curated/en/175901467994702565/pdf/WPS7728.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.718175",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

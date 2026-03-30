@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of policies to control motor vehicle emissions in Mumbai, India",
+    "idno": "7186273",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7186273",
+      "title": "The impact of policies to control motor vehicle emissions in Mumbai, India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ramos Bento,Antonio Miguel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cropper,Maureen L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Takeuchi,Akie"
+      }
+    ],
+    "date_created": "2006/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7186273"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828acbbb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828acbbb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the impact of measures to reduce emissions from passenger transport, specifically buses, cars, and two-wheelers in Mumbai. These include converting diesel buses to compressed natural gas (CNG), as the Indian Supreme Court required in Delhi, which would necessitate an increase in bus fares to cover the cost of pollution controls. The authors model an increase in the price of gasoline, which should affect the ownership and use of cars and two-wheelers, as well as imposing a license fee on cars to retard growth in car ownership. The impact of each policy on emissions depends not only on how the policy affects the mode that is regulated, but on shifts to other modes. The results suggest that the most effective policy to reduce emissions from passenger vehicles-in terms of the total number of tons of PM10 (particulate matter that measure less than or equal to 10 micrometers in aerodynamic diameter) reduced-is to convert diesel buses to CNG. The conversion of 3,391 diesel buses to CNG would result in an emissions reduction of 663 tons of PM10 a year, 14 percent of total emissions from transport. The bus conversion program passes the cost-benefit test. In contrast, the results suggest the elasticities of emissions from transport with respect to a gasoline tax and a tax on vehicle ownership are -0.04 and -0.10 respectively. As a consequence, it would take substantial increases in the gasoline tax or vehicle ownership tax to produce reductions in emissions similar to the bus conversion program. These results, however, reflect the low shares of cars and two-wheelers in the Mumbai emissions inventory and need not apply to cities, such as Delhi, where these shares are higher.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4059",
+    "url": "http://documents.worldbank.org/curated/en/966461468035342649/pdf/wps4059.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.030606",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

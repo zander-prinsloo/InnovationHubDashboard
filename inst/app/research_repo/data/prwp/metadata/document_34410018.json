@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fading Away Informality by Development",
+    "idno": "34410018",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34410018",
+      "title": "Fading Away Informality by Development",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tamkoc,Mehmet Nazim"
+      }
+    ],
+    "date_created": "2024/10/23",
+    "date_available": "2024/10/23",
+    "date_published": "2024/10/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34410018"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-799d9766-5a4d-43f7-9583-8c0d8550037f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-799d9766-5a4d-43f7-9583-8c0d8550037f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10956"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper focuses on the role of development in informality through higher wages and expanded production possibilities. First, it uses informal, plant-level survey data across countries to document that on average, richer countries have smaller informal, unregistered plants in terms of employment. This negative relationship holds even after controlling for plant-level characteristics. Then, a dynamic general equilibrium model with incomplete tax enforcement is developed such that formal and informal plants coexist in equilibrium. The model allows for two groups of agents operating in the informal sector: those with lower abilities than workers, and those with abilities falling between workers and formal managers. In the model, when plants become more productive, some agents operating informally choose to be workers and some of them transition into formality due to higher wages and better production possibilities, which decreases the mean size of informal plants. The quantitative results indicate that around 30 percent of the increase in aggregate output due to higher productivity is associated with a roughly one-quarter decline in the mean size of informal plants.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10956",
+    "url": "http://documents.worldbank.org/curated/en/099204410232416130/pdf/IDU1799d976615a4d143f71958318c0d8550037f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.846005",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,149 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Effect of Carbon Taxes on Aggregate Productivity: The Case of the Dominican Republic",
+    "idno": "34400144",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34400144",
+      "title": "The Effect of Carbon Taxes on Aggregate Productivity: The Case of the Dominican Republic",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferro,Esteban"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mare,Davide Salvatore"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Miguel Liriano,Faruk"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patino Pena,Fausto Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Quezada,Maria Gabriela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zeni,Federica"
+      }
+    ],
+    "date_created": "2024/10/04",
+    "date_available": "2024/10/04",
+    "date_published": "2024/10/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34400144"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-95b3218e-262d-451c-abee-6072cafe6017"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-95b3218e-262d-451c-abee-6072cafe6017"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10944"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the impact of implementing a carbon tax on aggregate total factor productivity in the Dominican Republic through the resource allocation channel. It incorporates energy inputs&#x2014;electricity and fuel&#x2014;into firms&#x2019; production functions, allowing predictions of potential changes in resource allocation due to the carbon tax. The theoretical implications of the model indicate that the carbon tax has a heterogeneous effect on firms&#x2019; input choices, contingent on the level of firms&#x2019; existing input market distortions. Moreover, the model suggests that in economies in which more productive firms are less distorted, the carbon tax can decrease aggregate total factor productivity. In contrast, when more productive firms are more distorted, the carbon tax can increase or decrease aggregate total factor productivity. Utilizing detailed firm-level data from 2009 to 2018, covering up to 118,000 firms, this paper finds that a carbon tax is more effective when levied on fuels rather than electricity. For the majority of sectors in the sample, the paper finds that existing distortions in energy consumption are positively correlated with firm-level productivity. Moreover, the quantitative results show that the introduction of the carbon tax shifts the burden of market distortions from high productivity firms to low productivity ones, generating aggregate total factor productivity gains for most sectors in the Dominican Republic. Overall, this study underscores the importance of considering existing input market distortions when analyzing the impact of environmental taxes.",
+    "ref_country": [
+      {
+        "name": "Dominican Republic",
+        "code": "DOM"
+      },
+      {
+        "name": "Central America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10944",
+    "url": "http://documents.worldbank.org/curated/en/099342410042420382/pdf/IDU195b3218e1262d1451c1abee16072cafe6017.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.994039",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

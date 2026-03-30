@@ -1,0 +1,244 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impacts and Sources of Air Pollution in Tbilisi, Georgia",
+    "idno": "34213420",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34213420",
+      "title": "Impacts and Sources of Air Pollution in Tbilisi, Georgia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baquie,Sandra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behrer,Arnold Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Du,Xinming"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fuchs Tarlovsky,Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nozaki,Natsuko Kiso"
+      }
+    ],
+    "date_created": "2023/12/12",
+    "date_available": "2023/12/12",
+    "date_published": "2023/12/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34213420"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-2641249b-ee45-48c6-b231-7ec0644d38d2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-2641249b-ee45-48c6-b231-7ec0644d38d2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10643"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Air pollution profoundly impacts welfare, causing more deaths globally than malnutrition, AIDS, tuberculosis, and malaria combined. In the Georgian capital, Tbilisi, air pollution levels exceed international standards and surpass levels in other cities in the region. The average monthly PM2.5 concentration in Tbilisi is 20 Micrograms per cubic meter, four times higher than the World Health Organization&#x2019;s annual recommended limit. This paper uses multiple data sources &#x2014; administrative data, satellite imagery, private real estate transactions, and traffic data &#x2014; to estimate the impact of air pollution on the health and productivity of people in Tbilisi. It estimates that a 1 percent increase in PM2.5 levels corresponds to a 0.24 percent increase in respiratory hospitalization rates. A 1 percent increase in PM2.5 is also associated with a 0.2 percent decrease in rental prices. All the estimates are lower bounds of the total impact of air pollution as they only account for short-term consequences. The study shows that traffic and industrial activity are significant drivers of air pollution in Tbilisi. The paper also estimates the positive co-benefits of potential carbon pricing policies from air pollution reduction. Adopting a carbon tax of $25 per ton would reduce hospitalizations by 0.44 percent per district by 2036, while increasing rental prices by 0.38 percent.",
+    "ref_country": [
+      {
+        "name": "Georgia",
+        "code": "GEO"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10643",
+    "url": "http://documents.worldbank.org/curated/en/099646212122322612/pdf/IDU02641249b0ee45048c60b23107ec0644d38d2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disease control",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "pandemic response",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "macroeconomic & structural policy modelling",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "structural transformation and economic diversification",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.441485",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

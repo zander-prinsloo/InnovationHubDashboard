@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor and women's nutrition : a study of energy expenditure, fertility, and nutritional status in Ghana",
+    "idno": "699557",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699557",
+      "title": "Labor and women's nutrition : a study of energy expenditure, fertility, and nutritional status in Ghana",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Higgins, Paul A"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alderman, Harold"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DEC"
+      }
+    ],
+    "date_created": "1992/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699557"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c7d29"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c7d29"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Economic approaches to health and nutrition have focused largely on measures of child nutrition and related variables (such as birth weight) as indicators of household production of nutritional outcomes. But when dealing with adult nutrition, economists have to address an issue that has generated tremendous controversy in the clinical nutrition literature. That issue is heterogeneity in an individual's energy expenditures. Preschoolers' energy expenditure also differs, but the differences are small enough to be ignored. Not so for adults, whose waking hours are devoted mostly to labor activities of which the energy costs vary enormously. Variables measuring time allocation to various types of labor tasks were used to proxy differences in energy expenditure. Parity has also been hypothesized to be an important determinant of female nutritional health in high fertility countries - with rapid reproductive cycling contributing to a cumulative nutritional decline. But the \"maternal depletion syndrome\" remains controversial. Much of the evidence to date has been impressionistic - or the results of studies based on small, nonrandom cohorts. Higgins and Alderman used a two-step instrumental variables technique to get consistent estimates of the structural parameters. Energy expenditure, as embodied in individual time allocations over the previous seven days, was found to be an important determinant of women's nutritional status. Time devoted to agricultural tasks, in particular, had a strong negative effect. The results also appear to confirm the existence of a maternal depletion syndrome. Perhaps more important, evidence was found of a substantial downward bias of the calorie-elasticity estimate when the energy expenditure proxies were excluded.",
+    "ref_country": [
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1009",
+    "url": "http://documents.worldbank.org/curated/en/554001468770982613/Labor-and-womens-nutrition-a-study-of-energy-expenditure-fertility-and-nutritional-status-in-Ghana",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.562799",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

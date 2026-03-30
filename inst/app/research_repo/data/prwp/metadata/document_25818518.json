@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The great recession and job loss spillovers : impact of tradable employment shocks on supporting services",
+    "idno": "25818518",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25818518",
+      "title": "The great recession and job loss spillovers : impact of tradable employment shocks on supporting services",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Ha Minh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rezaei,Shawheen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Agarwal,Divya"
+      }
+    ],
+    "date_created": "2016/01/22",
+    "date_available": "2016/01/22",
+    "date_published": "2016/01/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25818518"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08820fc22"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0840f1308"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the spillover effects of job losses via input-output linkages during the Great Recession. Exploiting exogenous variation in tradable employment shocks across U.S. counties, the paper finds that job losses in a county's tradable sectors cause further job losses in the county's supporting services. For a given county, a 10 percent exogenous decline in tradable employment reduces supporting industries' employment by 3.8 percent. In addition, a county’s regional supporting services are relatively less affected by its tradable job losses than its local supporting services are, which reinforces the argument that the spillovers are due to input-output linkages.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Rest Of The World",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7543",
+    "url": "http://documents.worldbank.org/curated/en/503591468195544224/pdf/The-great-recession-and-job-loss-spillovers-impact-of-tradable-employment-shocks-on-supporting-services.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.991677",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

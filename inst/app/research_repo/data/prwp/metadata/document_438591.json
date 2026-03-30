@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Quitting and labor turnover : microeconomic evidence and macroeconomic consequences",
+    "idno": "438591",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438591",
+      "title": "Quitting and labor turnover : microeconomic evidence and macroeconomic consequences",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krebs, Tom"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney, William F."
+      }
+    ],
+    "date_created": "1999/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438591"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04da5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04da5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Combining microeconomic evidence with macroeconomic theory, the authors present an integrated approach to wage and employment determination in an economy where firms pay above market \"efficiency wages\" to prevent trained workers from quitting. The model offers predictions about the behavior of formal employment, labor turnover, and segmentation in response to formal sector productivity shocks (including economic growth and tax reductions), changes in the desirability of self-employment (formal sector tax rates), and the cost of training a new worker. They use panel data from Mexican labor surveys to estimate the quit function derived from the model and the results support their view that transitions from formal salaried work to informal self-employment are quits rather than fires. (Quitting is positively related to the mean self-employment income and the probability of being rehired and negatively related to the mean formal salaried wage.) They then use the parameters estimated from the quit function to calibrate the model economy and simulate the impacts of economic shocks and policy innovations and find the impact on employment, turnover, and segmentation to be substantial.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2068",
+    "url": "http://documents.worldbank.org/curated/en/928491468757210977/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.986674",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

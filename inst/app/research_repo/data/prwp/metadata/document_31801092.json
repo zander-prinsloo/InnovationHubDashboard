@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Modeling Uncertainty in Large Natural Resource Allocation Problems",
+    "idno": "31801092",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31801092",
+      "title": "Modeling Uncertainty in Large Natural Resource Allocation Problems",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cai,Yongyang"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steinbuks,Jevgenijs"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Judd,Kenneth L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jaegermeyr,Jonas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hertel,Thomas W."
+      }
+    ],
+    "date_created": "2020/02/20",
+    "date_available": "2020/02/20",
+    "date_published": "2020/02/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31801092"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08763536d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08763536d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The productivity of the world's natural resources is critically dependent on a variety of highly uncertain factors, which obscure individual investors and governments that seek to make long-term, sometimes irreversible investments in their exploration and utilization. These dynamic considerations are poorly represented in disaggregated resource models, as incorporating uncertainty into large-dimensional problems presents a challenging computational task. This study introduces a novel numerical method to solve large-scale dynamic stochastic natural resource allocation problems that cannot be addressed by conventional methods. The method is illustrated with an application focusing on the allocation of global land resource use under stochastic crop yields due to adverse climate impacts and limits on further technological progress. For the same model parameters, the range of land conversion is considerably smaller for the dynamic stochastic model as compared to deterministic scenario analysis. The scenario analysis can thus significantly overstate the magnitude of expected land conversion under uncertain crop yields.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9159",
+    "url": "http://documents.worldbank.org/curated/en/214641582232800623/pdf/Modeling-Uncertainty-in-Large-Natural-Resource-Allocation-Problems.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.411964",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

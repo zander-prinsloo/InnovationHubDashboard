@@ -1,0 +1,133 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Taxing choices in deficit reduction",
+    "idno": "700115",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700115",
+      "title": "Taxing choices in deficit reduction",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baffes, John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shah, Anwar"
+      }
+    ],
+    "date_created": "1990/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700115"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8cf0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8cf0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper attempts to: (a) determine whether governments have continuously attempted to align revenues or spending to control the deficit; (b) test for causality between taxes and spending; and (c) quantify the causality effects by; (i) estimating an error correction model, and (ii) calculating variance decompositions and impulse responses. The tests were carried out for the countries of Argentina, Brazil, Chile, Mexico, and Pakistan. The results can be summarized as follows: The governments of Brazil, Mexico, and Pakistan seem to have successfully aligned revenues and spending as means of controlling the deficit over the time period examined, while a similar deduction for Argentina and Chile could not be made. For Brazil, Mexico, and Pakistan, strong instantaneous causality runs both directions. In Argentina and Chile, deficit was found to cause and be caused by expenditures. Impulse responses for Mexico and Brazil were found to have short-run effects only, while for Pakistan the effects were more persistent. In terms of variance decompositions it was found that variations in both revenues and spending are explained in most part by past spending. The above results suggest that to control the deficit, Brazil, Mexico, and Pakistan should attempt to raise revenues and curtail expenditures simultaneously, while Argentina and Chile should control public expenditures as a first priority.",
+    "ref_country": [
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS556",
+    "url": "http://documents.worldbank.org/curated/en/972081468743112642/Taxing-choices-in-deficit-reduction",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:03.788841",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

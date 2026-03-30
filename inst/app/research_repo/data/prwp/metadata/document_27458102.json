@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Compensation, diversity and inclusion at the World Bank Group",
+    "idno": "27458102",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27458102",
+      "title": "Compensation, diversity and inclusion at the World Bank Group",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Das,Jishnu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Joubert,Clement Jean Edouard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tordoir,Sander Florian"
+      }
+    ],
+    "date_created": "2017/05/12",
+    "date_available": "2017/05/12",
+    "date_published": "2017/05/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27458102"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084b6d07b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084b6d07b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines salary gaps by gender and nationality at the World Bank Group between 1987 and 2015 using a unique panel of all employees over this period. The paper develops and implements a dynamic simulation approach that models existing gaps as arising from differences in job composition at entry, entry salaries, salary growth and attrition. There are three main findings. First, 76 percent of the $27,400 salary gap across the average male and female staff at the World Bank Group can be attributed to composition effects, whereby men entered the World Bank Group at higher paid positions, particularly in the earlier half of the sample. Second, salary gaps 15 years after joining the World Bank Group can favor either men or women depending on their entry position. Third, for the most common entry-level professional position (known as Grade GF at the World Bank Group) there is a gender gap of 3.5 percent in favor of males 15 years after entry. The majority of this gap (84 percent) is due to differences in salary growth rather than differences in entry salaries or attrition. The pattern of these gaps is similar for staff from different nationalities. The dynamic decomposition method developed here thus identifies specific areas of concern and can be widely applied to the analysis of salary gaps within firms.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8058",
+    "url": "http://documents.worldbank.org/curated/en/181701494593406327/pdf/WPS8058.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:37.105868",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

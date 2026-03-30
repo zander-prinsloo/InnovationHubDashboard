@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What determines demand for freight transport",
+    "idno": "699572",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699572",
+      "title": "What determines demand for freight transport",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bennathan, Esra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fraser, Julie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thompson, Louis S."
+      }
+    ],
+    "date_created": "1992/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699572"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5b61"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5b61"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Decisions about investments in the long-lived assets of transport infrastructure require some assumptions about prospective long-term demand from services using that infrastructure. To improve the basis for such predictions, the authors estimated the long-run determinants of domestic freight transport, using single-equation regressions on a cross-section of data from developed (high-income), developing (low-income) and former socialist economies. They also sought answers to two related questions. First, since statistics on national ton-kilometers of freight transport are much scarcer for developing than for developed countries, what is the scope for generalizing from data on high-income countries? Second, within what limits may one apply results obtained from data on market economies to the prospective evolution of freight transport demand in the socialist transitional economies? They report the following finds, subject to caveats related to the simple methodology used. For the sample of developed countries, and the merged samples of developed plus developing countries, total ton-kilometers of freight transport (excluding transit) are adequately explained by two variables: a country's area and total GDP. Ton-kilometers by road are chiefly explained by GDP; ton-kilometers by rail are explained by country area. Road freight in developed and developing market economies shows very similar response (in additional ton-kilometers) to variations in GDP. But the elasticity of demand for road ton-kilometers with regard to GDP should be about or above 1.25 for developing countries, compared with close to unity for the high-income countries. Demand for rail freight transport appears to be determined in closely similar ways in both groups of countries. Elasticity with GDP appears to be close to unity. Judging from the narrow basis of evidence on socialist economies (China and the former USSR were excluded for technical reasons), transport demand was determined very differently in their systems than in the market economies. The contrasts are almost entirely explained by the differences in the role of, and demand for, rail transport in the different economic systems. The road sector of freight transport, on the other hand, conforms closely to norms in the market economies; the marginal response (additional ton-kilometer for additional GDP) and elasticity with respect to GDP, appear - on the available evidence - to be close to what is found for developed market economies. In short, structural change in the socialist economies is likely to bring about far greater changes in rail freight activity than in road transport.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS998",
+    "url": "http://documents.worldbank.org/curated/en/683781468739249005/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.447191",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

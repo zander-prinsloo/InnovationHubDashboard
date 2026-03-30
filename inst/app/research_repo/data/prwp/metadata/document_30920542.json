@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Swept by the Tide The International Comovement of Capital Flows",
+    "idno": "30920542",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30920542",
+      "title": "Swept by the Tide The International Comovement of Capital Flows",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fernandez Lafuerza,Luis Gonzalo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven,Luis"
+      }
+    ],
+    "date_created": "2019/03/21",
+    "date_available": "2019/03/21",
+    "date_published": "2019/03/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30920542"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086abdbcf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086abdaec"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assesses the international comovement of gross capital flows in a setting simultaneously encompassing aggregate inflows and outflows. It uses as empirical framework a multilevel latent factor model, implemented on flow data for a large sample of countries over more than three decades. On average, common shocks account for over 40 percent of the variance of both inflows and outflows, although with major differences between advanced countries and the rest. Among the former, global and group shocks dominate capital flows, and the same shocks drive gross inflows and outflows. Among the latter countries, idiosyncratic shocks tend to play the leading role, and gross inflows exhibit less commonality with outflows. The latent factors configure an international financial cycle that closely tracks the trends in a handful of global \"push\" variables. Recursive estimation of the factor model reveals a rising trend in the exposure of countries' flows to the international cycle—especially for advanced economies—up to the global financial crisis. Exposure to the cycle is robustly related to countries' external financial openness and the (lack of) flexibility of their exchange rate regime.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8787",
+    "url": "http://documents.worldbank.org/curated/en/746291553173487580/pdf/Swept-by-the-Tide-The-International-Comovement-of-Capital-Flows.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.200654",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How urban concentration affects economic growth",
+    "idno": "437750",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437750",
+      "title": "How urban concentration affects economic growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Henderson, Vernon"
+      }
+    ],
+    "date_created": "2000/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437750"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0568c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0568c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author explores the issue of urban over-concentration econometrically, using data from a panel of 80 to 100 countries every 5 years from 1960 to 1995. He finds the following: 1) At any level of development there is indeed a best degree or national urban concentration. It increases sharply as income rises, up to a per capita income of about $ 5,000 (Penn World table purchasing parity income), before declining modestly. The best degree of concentration declines with country scale. Growth losses from significantly non-optimal concentration are large. Those losses tend to rise with level of development, peaking at a very high level (about 1.5 annual percentage points of economic growth). Results are very robust. 2) In a group of 72 countries in 1990, roughly 30 have satisfactory urban concentration, 24 have excessive concentration, and 5 to 16 countries have too little. 3) The list of countries with highly excessive concentration includes Argentina, Chile, Costa Rica, and Panama (in Latin America); the Republic of Korea and Thailand (in Asia); Congo (in Africa); and Greece, Ireland, and Portugal (in Europe). Many of these countries have explicitly unitary governments or federal structures have traditionally been severely constrained. 4) The list of countries with too little urban concentration includes Belgium (a small, split country) and special cases such as Czechoslovakia and the former Yugoslavia. 5) Urban concentration declines with national scale. It initially rises with income, the peaks at a per capita income of about $ 3,000, before declining. If the largest city in a country is a port, increased trade leads to increased urban concentration. Otherwise, increased trade leads to deconcentration as markets i the hinterland open up to trade. But trade effects are modest. 5) Similarly, more political decentralization (or increased federalism) only modestly reduces urban concentration. However, interregional transport infrastructure - especially dense road networks - significantly reduce urban concentration, an effect that rises with income.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2326",
+    "url": "http://documents.worldbank.org/curated/en/948841468766538563/How-urban-concentration-affects-economic-growth",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.989344",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

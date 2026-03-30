@@ -1,0 +1,155 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Joint Foreign Currency Risk Management Approach for Sovereign Assets and Liabilities",
+    "idno": "30810619",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30810619",
+      "title": "A Joint Foreign Currency Risk Management Approach for Sovereign Assets and Liabilities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cangoz,Mehmet Coskun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sulla,Olga"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,ChunLan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dychala,Christopher Benjamin"
+      }
+    ],
+    "date_created": "2019/02/05",
+    "date_available": "2019/02/05",
+    "date_published": "2019/02/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30810619"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086922b95"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086920cc8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "An asset and liability management framework for managing risks arising from sovereign foreign exchange obligations requires a joint analysis of (i) the external financial liabilities resulting from a country's sovereign debt and (ii) the foreign exchange assets of its central bank. Governments often issue sizable amounts of debt denominated in foreign currencies, subjecting their fiscal positions to foreign exchange volatilities. Prudent management of a sovereign&#x2019;s foreign exchange position under an asset and liability management framework enables governments to mitigate risks at the lowest possible cost, hence increasing resilience to external shocks. Based on the challenges associated with the implementation of an asset and liability management framework, this study recommends a practical approach that includes analysis of the foreign exchange positions of central bank reserves and central government debt portfolios and optimization of the net position. The proposed model is tested, using the foreign exchange reserve and external debt data of seven countries (Albania, Ghana, FYR Macedonia, South Africa, the Republic of Korea, Tunisia, and Uruguay). The paper employs quantitative methods to explore the impact of an overarching asset and liability management strategy and integrated approach on the efficient management of foreign exchange risk. It provides policy recommendations on ways to minimize the risk of foreign exchange mismatches and increase the return on foreign exchange reserves.",
+    "ref_country": [
+      {
+        "name": "Albania",
+        "code": "ALB"
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MKD"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      },
+      {
+        "name": "Korea, Republic of",
+        "code": "KOR"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TUN"
+      },
+      {
+        "name": "Uruguay",
+        "code": "URY"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia ; Africa ; East Asia and Pacific ; Middle East and North Africa ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8728",
+    "url": "http://documents.worldbank.org/curated/en/351021549390632151/pdf/WPS8728.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.618022",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Roads Development Optimization for All-Season Service Accessibility Improvement in Rural Nepal Using a Novel Cost-Time Model and Evolutionary Algorithm",
+    "idno": "32778515",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32778515",
+      "title": "Roads Development Optimization for All-Season Service Accessibility Improvement in Rural Nepal Using a Novel Cost-Time Model and Evolutionary Algorithm",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Heyns,Andries Michiel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Banick,Robert Steven"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Regmi,Suraj"
+      }
+    ],
+    "date_created": "2021/01/26",
+    "date_available": "2021/01/26",
+    "date_published": "2021/01/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32778515"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08826e6a6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0882178d1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Existing methods of prioritizing rural roads for construction in hilly and mountainous settings require expensive data collection or major simplifications of ground conditions. Traditional social surplus based-methods favor economic and political decision criteria over social criteria, despite evidence of the latter's importance, and struggle to scale beyond major roads to feeder roads, forcing local governments with limited capacity to adopt ad-hoc alternative criteria. Using roads proposed for construction in Nepal's remote Karnali province, this paper develops a scalable method to prioritize these roads for inclusion in construction plans with the aim of optimizing potential accessibility improvements to specified services in dry and monsoon seasons -- within Karnali's infrastructure budget constraints. Road-specific improvements in accessibility to services are measured by estimating accessibility changes resulting from each proposed road within a multimodal accessibility model. In this paper, walking across Karnali's mountainous, high-elevation terrain is incorporated as a primary modality -- a rarity in related accessibility literature. These improvements are implemented within heuristic and integer-linear programming optimization models. Optimization-determined solutions were calculated within a day, and substantially outperformed the actual roads selected by Karnali's provincial government in terms of accessibility, efficiency, and political economy.",
+    "ref_country": [
+      {
+        "name": "Nepal",
+        "code": "NPL"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9526",
+    "url": "http://documents.worldbank.org/curated/en/486171611677840463/pdf/Roads-Development-Optimization-for-All-Season-Service-Accessibility-Improvement-in-Rural-Nepal-Using-a-Novel-Cost-Time-Model-and-Evolutionary-Algorithm.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.393568",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

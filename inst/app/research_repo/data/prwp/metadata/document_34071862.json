@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Tax Progressivity in Low-Income Countries",
+    "idno": "34071862",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34071862",
+      "title": "Measuring Tax Progressivity in Low-Income Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thomas,Alastair Geoffrey Arthur"
+      }
+    ],
+    "date_created": "2023/05/30",
+    "date_available": "2023/05/30",
+    "date_published": "2023/05/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34071862"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e90c180f-2d44-491b-9644-8160c39c8678"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e90c180f-2d44-491b-9644-8160c39c8678"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10460"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In addition to raising revenue, tax systems have a key role to play in achieving countries&#x2019; equity goals. An important first step in assessing whether a particular tax system is appropriately supporting those equity goals is to assess the degree of progressivity of the tax system. However, measuring the progressivity of a tax system is challenging for several reasons. Most significantly, data limitations have a large impact on what taxes can be examined, what measurement approaches can be adopted to examine those taxes, and how reliable those approaches are likely to be. This is particularly important for low-income countries where data limitations are typically most significant. Furthermore, there is no single definition of progressivity, or single method for measuring the degree of progressivity of a tax&#x2014;thereby necessitating a range of decisions and value judgements to be made in any analysis. This paper examines and assesses the potential approaches that may be adopted to measure the progressivity of tax systems, and proposes a set of metrics to assess tax progressivity in low-income International Development Association (IDA) countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10460",
+    "url": "http://documents.worldbank.org/curated/en/099726205302311330/pdf/IDU0e90c180f02d440491b0964408160c39c8678.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.119536",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

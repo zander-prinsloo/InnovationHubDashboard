@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Push and pull : a study of international migration from Nepal",
+    "idno": "27172801",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27172801",
+      "title": "Push and pull : a study of international migration from Nepal",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shrestha,Maheshwor"
+      }
+    ],
+    "date_created": "2017/02/08",
+    "date_available": "2017/02/08",
+    "date_published": "2017/02/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27172801"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0849184dd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0849184dd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies migration choices in the presence of liquidity constraints and varying costs of migration. This paper presents a simple theoretical framework that analyzes migration response to both push and pull factors in such settings. This framework implies that a shock to the push factors in the origin leads to differential observed response to migration to various destinations, as the shocks affect different parts of the wealth distribution. The implications of this framework are tested in the context of international migration from Nepal, using a panel of 452 villages observed at three periods in the 2000s. The analysis uses rainfall shocks and deaths due to conflict as \"push\" shocks and growth in manufacturing and construction in destination countries as \"pull\" shocks. The findings show that a rainfall shock that increases household income by US$ 100 increases migration to India by 54 percent but has no effect on migration elsewhere. An increase in conflict, which reduces consumption and amenity of the wealthier more, increases migration abroad, especially from urban areas. An increase in demand from the destination countries, especially the Gulf countries and Malaysia, has strong effects on migration to those destinations. These findings are consistent with the theoretical framework, and suggest the presence of large liquidity constraints. An increase in income can boost migration to India, whereas a reduction in the cost of migration might increase profitable migration elsewhere. The responsiveness to \"pull\" shocks suggests that households are willing to take advantage of these opportunities.",
+    "ref_country": [
+      {
+        "name": "Nepal",
+        "code": "NPL"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7965",
+    "url": "http://documents.worldbank.org/curated/en/318581486560991532/pdf/WPS7965.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.757956",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

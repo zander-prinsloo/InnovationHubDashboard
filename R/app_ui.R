@@ -111,7 +111,7 @@ app_ui <- function(request) {
             )
           ),
           tags$iframe(
-            src   = "research_repo/ids-doc.html",
+            src   = "research_repo/docs-demo.html",
             width = "100%",
             height = "100%",
             allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"

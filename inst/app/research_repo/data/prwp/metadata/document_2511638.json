@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Small and medium enterprises across the globe : a new database",
+    "idno": "2511638",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2511638",
+      "title": "Small and medium enterprises across the globe : a new database",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ayyagari, Meghana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beck, Thorsten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt,Asli"
+      }
+    ],
+    "date_created": "2003/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2511638"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0594d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0594d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper describes a new cross-country database on the importance of small and medium enterprises (SMEs). This database is unique in that it presents consistent and comparable information on the contribution of the SME sector to total employment and GDP across different countries. The dataset improves on existing publicly available datasets on several grounds. First, it extends coverage to a broader set of developing and industrial economies. Second, it provides information on the contribution of the SME sector using a uniform definition of SMEs across different countries, allowing for consistent cross-country comparisons. Third, while we follow the traditional definition of the SME sector as being part of the formal sector, the new database also includes the size of the SME sector relative to the informal sector. This paper describes the sources and the construction of the different indicators, presents descriptive statistics, and explores correlations with other socioeconomic variables.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3127",
+    "url": "http://documents.worldbank.org/curated/en/819161468766822276/Small-and-medium-enterprises-across-the-globe-a-new-database",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.899591",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

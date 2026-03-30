@@ -1,0 +1,185 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Two Decades of Top Income Shares in Honduras",
+    "idno": "34282991",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34282991",
+      "title": "Two Decades of Top Income Shares in Honduras",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Del Carmen,Giselle"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garriga,Santiago"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nuñez,Wilman"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Gouvea Scot De Arruda,Thiago"
+      }
+    ],
+    "date_created": "2024/03/18",
+    "date_available": "2024/03/18",
+    "date_published": "2024/03/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34282991"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-16a7803b-e2ff-44e6-96f8-52799cced739"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-16a7803b-e2ff-44e6-96f8-52799cced739"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10722"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents distributional national accounts for Honduras over 2003&#x2013;2019, using survey microdata, administrative tax records, and national account aggregates. It assembles comprehensive data on formal income for high-income individuals, including information on corporate shareholders, which allows corporate profits to be assigned to their owners. The estimates suggest a high and persistent inequality in the country: the top 1 percent highest earners received approximately 30 percent of the total income over the period, placing Honduras among the most unequal countries in the world. Undistributed corporate profits are the overwhelming income source at the very top of the distribution, highlighting its importance in the measurement of income inequality. Finally, using a panel of tax records, the paper also documents that not only is inequality persistent, but the same individuals are often observed at the top, suggesting that the observed inequality has deep roots.",
+    "ref_country": [
+      {
+        "name": "Honduras",
+        "code": "HND"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10722",
+    "url": "http://documents.worldbank.org/curated/en/099302403182435474/pdf/IDU116a7803b1e2ff144e6196f8152799cced739.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "tax policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.876519",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Child labor, schooling, and child ability",
+    "idno": "15788175",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15788175",
+      "title": "Child labor, schooling, and child ability",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Akresh, Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bagby, Emilie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "de Walque, Damien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kazianga, Harounan"
+      }
+    ],
+    "date_created": "2012/02/01",
+    "date_available": "2012/02/01",
+    "date_published": "2012/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15788175"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c30ab"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c30ab"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using data collected in rural Burkina Faso, this paper examines how children's cognitive abilities influence households' decisions to invest in their education. To address the endogeneity of child ability measures, the analysis uses rainfall shocks experienced in utero or early childhood to instrument for ability. Negative shocks in utero lead to 0.24 standard deviations lower ability z-scores, corresponding with a 38 percent enrollment drop and a 49 percent increase in child labor hours compared with their siblings. Negative education impacts are largest for in utero shocks, diminished for shocks before age two, and have no impact for shocks after age two. The paper links the fetal origins hypothesis and sibling rivalry literatures by showing that shocks experienced in utero not only have direct negative impacts on the child's cognitive ability (fetal origins hypothesis), but also negatively impact the child through the effects on sibling rivalry resulting from the cognitive differences.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5965",
+    "url": "http://documents.worldbank.org/curated/en/662891468157764055/pdf/WPS5965.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.618331",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

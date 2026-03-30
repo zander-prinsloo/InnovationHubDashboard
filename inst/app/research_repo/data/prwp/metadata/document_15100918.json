@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "When starting with the most expensive option makes sense : use and misuse of marginal abatement cost curves",
+    "idno": "15100918",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15100918",
+      "title": "When starting with the most expensive option makes sense : use and misuse of marginal abatement cost curves",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vogt-Schilb,Adrien Camille"
+      }
+    ],
+    "date_created": "2011/09/01",
+    "date_available": "2011/09/01",
+    "date_published": "2011/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15100918"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828af333"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828af333"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This article investigates the use of expert-based Marginal Abatement Cost Curves (MACC) to design abatement strategies. It shows that introducing inertia, in the form of the \"cost in time\" of available options, changes significantly the message from MACCs. With an abatement objective in cumulative emissions (e.g., emitting less than 200 GtCO2 in the 2000-2050 period), it makes sense to implement some of the more expensive options before the potential of the cheapest ones has been exhausted. With abatement targets expressed in terms of emissions at one point in time (e.g., reducing emissions by 20 percent in 2020), it can even be preferable to start with the implementation of the most expensive options if their potential is high and their inertia significant. Also, the best strategy to reach a short-term target is different depending on whether this target is the ultimate objective or there is a longer-term target. The best way to achieve Europe's goal of 20 percent reduction in emissions by 2020 is different if this objective is the ultimate objective or if it is only a milestone in a trajectory toward a 75 percent reduction in 2050. The cheapest options may be sufficient to reach the 2020 target but could create a carbon-intensive lock-in and preclude deeper emission reductions by 2050. These results show that in a world without perfect foresight and perfect credibility of the long-term carbon-price signal, a unique carbon price in all sectors is not the most efficient approach. Sectoral objectives, such as Europe's 20 percent renewable energy target in Europe, fuel-economy standards in the auto industry, or changes in urban planning, building norms and infrastructure design are a critical part of an efficient mitigation policy.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5803",
+    "url": "http://documents.worldbank.org/curated/en/800081468315327866/pdf/WPS5803.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:02.614478",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

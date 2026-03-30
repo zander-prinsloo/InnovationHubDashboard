@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Issues in measuring and modeling poverty",
+    "idno": "696451",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696451",
+      "title": "Issues in measuring and modeling poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion,Martin"
+      }
+    ],
+    "date_created": "1996/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696451"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0539f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0539f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Economists have relied heavily on household incomes or expenditures normalized for differences in household specific prices and demographics in their research and policy advice related to poverty and inequality. Recognizing the conceptual and empirical problems that confound such measures does not mean that they should be ignored. Instead, it indicates the need for supplementary measures to capture the missing items. Implementing a genuinely multidimensional approach will often make the welfare rankings of social states more difficult, but that fact points to the nonrobustness of low-dimensional rankings. This may have its own policy ramifications, with the possibility of correspondence between policy instruments and welfare objectives. The model types used to understand the poverty and inequity determination processes will be affected. Not only will there be more dependent variables to consider, but variables will have potentially complex relationships. These relationships will often be hard to empirically disentangle, despite richer integrated and longitudinal data sets. Such data open rich and relevant agenda for research into the dynamics of poverty along multiple dimensions. A simultaneous attack on these issues from all three fronts - measurement, modeling, and data - offers hope of establishing a credible empirical foundation for public action in fighting poverty.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1615",
+    "url": "http://documents.worldbank.org/curated/en/965061468739145705/Issues-in-measuring-and-modeling-poverty",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.507348",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

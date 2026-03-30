@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global monetary conditions versus country-specific factors in the determination of emerging market debt spreads",
+    "idno": "5846847",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5846847",
+      "title": "Global monetary conditions versus country-specific factors in the determination of emerging market debt spreads",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dailami,Mansoor"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Masson,Paul R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Padou,Jean Jose"
+      }
+    ],
+    "date_created": "2005/06/01",
+    "date_available": "2005/06/07",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5846847"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8a6c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8a6c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors offer evidence that U.S. interest rate policy has an important influence in the determination of credit spreads on emerging market bonds over U.S. benchmark treasuries and therefore on their cost of capital. Their analysis improves on the existing literature and understanding by addressing the dynamics of market expectations in shaping views on interest rate and monetary policy changes and by recognizing nonlinearities in the link between U.S. interest rates and emerging market bond spreads, as the level of interest rates affect the market's perceived probability of default and the solvency of emerging market borrowers. For a country with a moderate level of debt, repayment prospects would remain good in the face of an increase in U.S. interest rates, so there would be little increase in spreads. A country close to the borderline of solvency would face a steeper increase in spreads. Simulations of a 200 basis points (bps) increase in U.S. interest rates show an increase in emerging market spreads ranging from 6 bps to 65 bps, depending on debt/GDP ratios. This would be in addition to the increase in the benchmark U.S. 10 year Treasury rate.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "Rest Of The World ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3626",
+    "url": "http://documents.worldbank.org/curated/en/700491468328562002/pdf/wps36260rev.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.879792",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

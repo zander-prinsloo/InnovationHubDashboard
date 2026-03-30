@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impacts of Lockdown Policies on International Trade in the Philippines",
+    "idno": "33714135",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33714135",
+      "title": "The Impacts of Lockdown Policies on International Trade in the Philippines",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arenas,Guillermo Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Majune,Socrates Kraido"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Montfaucon,Angella Faith Lapukeni"
+      }
+    ],
+    "date_created": "2022/01/26",
+    "date_available": "2022/01/26",
+    "date_published": "2022/01/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33714135"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088caab8b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088caab8b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9911"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The Philippines was among the most infected countries in East Asia at the onset of the COVID-19 outbreak. This study analyzes how international trade on various margins was affected by the country’s own lockdown policies and those of trading partners. Using a monthly series of product-by-country data for the period from January 2019 to December 2020 and an event study design, the paper shows that domestic lockdown measures did not affect international trade but external lockdowns affected both ex- ports and imports. The introduction of lockdown measures by trading partners affected imports more than exports, leading to 7 and 56 percent monthly average drops in export and import values, respectively. Restrictions on internal movements and international travel controls in partner countries were responsible for the drop in exports. The slump in imports was because of workplace closure, stay-at-home requirements, restrictions on internal movement, and international travel controls by trading partners of the Philip- pines. Intermediate goods were the key driver of the drop in imports following foreign lockdowns, reflecting supply disruptions in backward global value chain participation. At the same time, exports of intermediate goods were more resilient to the lockdown policies. Finally, both exports and imports were more affected at the extensive margin than the intensive margin, as lockdown measures hindered interactions among people, in turn reducing the potential of businesses to create new relationships and launch new products in foreign markets. Overall, diversified and geographically dispersed suppliers can help countries adjust better to future disruptions.",
+    "ref_country": [
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9911",
+    "url": "http://documents.worldbank.org/curated/en/412431643226839658/pdf/The-Impacts-of-Lockdown-Policies-on-International-Trade-in-the-Philippines.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.259560",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

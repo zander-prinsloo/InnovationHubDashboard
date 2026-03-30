@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Social capital, houshold welfare, and poverty in Indonesia",
+    "idno": "440921",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440921",
+      "title": "Social capital, houshold welfare, and poverty in Indonesia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grootaert,Christiaan N."
+      }
+    ],
+    "date_created": "1999/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440921"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0538c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0538c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author empirically estimates how social capital affects household welfare and poverty in Indonesia. His focus: household memberships in local associations, an aspect of social capital especially relevant to daily household decisions that affect welfare and consumption. The data suggest that households with higher social capital spend more per capita. They also have more assets, more savings, and better access to credit. To estimate how social capital contributes to household welfare, the author uses a reduced-form model of household welfare, which controls for relevant household and location characteristics. He measures social capital along six dimensions: density of memberships, internal heterogeneity of associations (by age, gender, education, religion, and so on), meeting attendance, active participation in decision-making, payment of dues, and community orientation. The strongest effects come from: A) Number of memberships. Each additional membership (an average of 20 percent increase) raises per capita household spending 1.5 percent. B) Internal heterogeneity. An increase of 20 percent in the heterogeneity index correlates with 3.3 percent more spending. C) Active participation in decision making. An increase of 20 percent in the participation index correlates with 3.2 percent more spending. The author also estimates structural equations and uses instrumental variable estimation and historical data to address the possible endogeneity of the social capital variable and to demonstrate that the causality runs from social capital to household welfare.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2148",
+    "url": "http://documents.worldbank.org/curated/en/738431468751146917/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.002530",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

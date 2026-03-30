@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The slippery slope : explaining the increase in extreme poverty in urban Brazil, 1976-96",
+    "idno": "439791",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "439791",
+      "title": "The slippery slope : explaining the increase in extreme poverty in urban Brazil, 1976-96",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferreira, Francisco H. G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paes de Barrios, Ricar"
+      }
+    ],
+    "date_created": "1999/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "439791"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04db4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04db4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite tremendous macroeconomic instability in Brazil, the country's distributions of urban income in 1976 and 1996 appear, at first glance, deceptively similar. Mean household income per capita was stagnant, with minute accumulated growth (4.3 percent) over the two decades. The Gini coefficient hovered just above 0.59 in both years, and the incidence of poverty (relative to a poverty line of R$60 a month in 1996 prices) remained effectively unchanged over the period, at 22 percent. Behind this apparent stability, however, a powerful combination of labor market, demographic, and educational dynamics was at work, one effect of which was to generate a substantial increase in extreme urban poverty. Using a decomposition methodology based on micro-simulation, which endogenizes labor incomes, individual occupational choices, and decisions about education, the authors show that the distribution of income was being affected by: 1) Three factors that tended to increase poverty-a decline in average returns to education and experience, a negative \"growth\" effect, and unfortunate changes in the structure of occupations and participation in the labor force. 2) Two factors that tended to reduce poverty-improved educational endowments across the board, and a progressive reduction in dependency ratios. The net effect was small and negative for measured inequality overall, and negligible for the incidence of poverty (relative to \"high\" poverty lines). But the net effect was to substantially increase extreme poverty-suggesting the creation of a group of urban households excluded from any labor market and trapped in indigence. Above the 15th percentile, urban Brazilians have \"stayed put\" only by climbing hard up a slippery slope. Counteracting failing returns in both self-employment and the labor market required substantially reduced fertility rates and an average of two extra years of schooling (which still left them undereducated for that income level).",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2210",
+    "url": "http://documents.worldbank.org/curated/en/715011468742197423/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.538729",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

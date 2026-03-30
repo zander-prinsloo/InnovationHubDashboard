@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inflation targeting and exchange rate volatility in emerging markets",
+    "idno": "26507283",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26507283",
+      "title": "Inflation targeting and exchange rate volatility in emerging markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cabral,Rene"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carneiro,Francisco Galrao"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mollick,Andre Varella"
+      }
+    ],
+    "date_created": "2016/06/20",
+    "date_available": "2016/06/20",
+    "date_published": "2016/06/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26507283"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0843e3ea6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0843e3ea6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper investigates the relevance of the exchange rate on the reaction function of the central banks of 24 emerging market economies for the period 2000Q1 to 2015Q2. This is done by first employing fixed-effects ordinary least squares and then system generalized method of the moments techniques. Under fixed effects, the exchange rate is found to be an important determinant in the reaction function of emerging market economies. Allowing for the endogeneity of inflation, output gap, and exchange rate, the exchange rate remains a positive and significant determinant, but less quantitatively relevant across inflation-targeting countries. When the sample is partitioned into targeting and nontargeting countries, the exchange rate remains relevant in the reaction function of the latter group. The results remain robust to splitting the sample at the time of the financial crisis of 2007–09 and suggest that, after the crisis, the central banks of emerging market economies responded only to inflation movements in the interest rate reaction function.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7712",
+    "url": "http://documents.worldbank.org/curated/en/404741467995904010/pdf/WPS7712.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.798413",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

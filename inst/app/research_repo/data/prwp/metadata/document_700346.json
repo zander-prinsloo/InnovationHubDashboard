@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Two sources of bias in standard partial equilibrium trade models",
+    "idno": "700346",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700346",
+      "title": "Two sources of bias in standard partial equilibrium trade models",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laird, Samuel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yeats, Alexander J."
+      }
+    ],
+    "date_created": "1990/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700346"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cc282"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cc282"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The methodological problems associated with standard partial equilibrium models may impart a significant bias in their projections of the trade effects of tariff cuts. First, these models fail to account for the price-raising effects of nontariff barriers (NTBs) that shift the supply curve for imports. This causes the percentage price change associated with any cut in import duties to be overstated, which in turn produces an upward bias in projections of new trade resulting from those cuts. Second, this problem of the interaction of tariffs and NTBs, and the failure to consider the influence of supply constraints, can cause major upward biases in simulation of trade diversion due to preferential tariffs. Using representative estimates of supply elasticities and NTB ad valorem equivalents, this paper shows that the magnitude of this bias may reach several hundred percent or more. It suggests procedures for removing biases in models used to simulate the effects of tariffs and nontariff barriers in international trade.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS374",
+    "url": "http://documents.worldbank.org/curated/en/477381468764359336/Two-sources-of-bias-in-standard-partial-equilibrium-trade-models",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:05.148293",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

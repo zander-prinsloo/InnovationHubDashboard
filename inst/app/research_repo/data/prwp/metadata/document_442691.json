@@ -1,0 +1,141 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Politicians and firms in seven central and eastern European countries",
+    "idno": "442691",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442691",
+      "title": "Politicians and firms in seven central and eastern European countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Claessens,Constantijn A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Djankov, Simeon"
+      }
+    ],
+    "date_created": "1998/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442691"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04e0a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04e0a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors test several propositions derived by Shleifer and Vishny (1994, 1996) about how privatization and stabilization (hard budget constraints) affect enterprise behavior. They document the changes in financing, employment, and operating efficiency that have occurred in more than 6300 manufacturing enterprises in seven Central and Eastern European countries (Bulgaria, Czech Republic, Hungary, Poland, Romania, Slovak Republic, and Slovenia). They then compare the relative performance of privatized and state-owned enterprises. Controlling for institutional differences and the endogeneity of privatization choices, they find that privatization is associated with significant improvements in total factor productivity and reductions in employment. Reductions in soft financing are associated with further productivity gains. State-owned enterprises employ more workers, have lower productivity, receive more financing and direct subsidies, and have higher variable costs than privatized firms, particularly firms privatized for more than three years. Privatized firms also consistently outperform state enterprises in productivity growth. Over time, the role of politicians in allocating bank financing and subsidies appears to have declined, however, and banks have played a greater role in (efficiently) allocating resources. And the institutional environment appears to have improved in most countries, suggesting that the influence of corruption has declined over time. The results--which provide significant support for the Shleifer-Vishny model--demonstrate the beneficial effects of privatization in the presence of stabilization and decreasing corruption.",
+    "ref_country": [
+      {
+        "name": "Bulgaria",
+        "code": "BGR"
+      },
+      {
+        "name": "Poland",
+        "code": "POL"
+      },
+      {
+        "name": "Romania",
+        "code": "ROU"
+      },
+      {
+        "name": "Hungary",
+        "code": "HUN"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SVN"
+      },
+      {
+        "name": "Slovak Republic",
+        "code": "SVK"
+      },
+      {
+        "name": "Czechia",
+        "code": "CZE"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1954",
+    "url": "http://documents.worldbank.org/curated/en/979731468742479600/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:44.869766",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

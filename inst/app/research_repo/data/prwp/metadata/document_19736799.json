@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Deals and delays : firm-level evidence on corruption and policy implementation times",
+    "idno": "19736799",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19736799",
+      "title": "Deals and delays : firm-level evidence on corruption and policy implementation times",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Freund,Caroline"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallward-Driemeier,Mary C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rijkers,Bob"
+      }
+    ],
+    "date_created": "2014/06/01",
+    "date_available": "2014/06/01",
+    "date_published": "2014/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19736799"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6b9b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6b9b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines whether demands for bribes for particular government services are associated with expedited or delayed policy implementation. The \"grease the wheels\" hypothesis, which contends that bribes act as speed money, implies three testable predictions. First, on average, bribe requests should be negatively correlated with wait times. Second, this relationship should vary across firms, with those with the highest opportunity cost of waiting being more likely to pay and face shorter delays. Third, the role of grease should vary across countries, with benefits larger where regulatory burdens are greatest. The data are inconsistent with all three predictions. According to the preferred specifications, ceteris paribus, firms confronted with demands for bribes take approximately 1.5 times longer to get a construction permit, operating license, or electrical connection than firms that did not have to pay bribes and, respectively, 1.2 and 1.4 times longer to clear customs when exporting and importing. The results are robust to controlling for firm fixed effects and at odds with the notion that corruption enhances efficiency.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6949",
+    "url": "http://documents.worldbank.org/curated/en/761381468340846567/pdf/WPS6949.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.668858",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

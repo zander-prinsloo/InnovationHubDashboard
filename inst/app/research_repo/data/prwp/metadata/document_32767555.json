@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Unintended Consequences of Deportations : Evidence from Firm Behavior in El Salvador",
+    "idno": "32767555",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32767555",
+      "title": "The Unintended Consequences of Deportations : Evidence from Firm Behavior in El Salvador",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bandiera,Antonella Agostina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dinarte Diaz,Lelys Ileana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rozo Villarraga,Sandra Viviana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmidt-Padilla,Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sviatschi,Maria Micaela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winkler,Hernan Jorge"
+      }
+    ],
+    "date_created": "2021/01/21",
+    "date_available": "2021/01/21",
+    "date_published": "2021/01/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32767555"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088430ba0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0881f2bd4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9521"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Can repatriation inflows impact firm behavior in origin countries? This paper examines this question in the context of repatriation inflows from the United States and Mexico to El Salvador. The paper combines a rich longitudinal data set covering all formal firms in El Salvador with individual-level data on all registered repatriations from 2010 to 2017. The empirical strategy combines variation in the municipality of birth of individuals repatriated over 1995-2002—before a significant change in deportation policies—with annual variation in aggregate inflows of repatriations to El Salvador. The findings show that repatriations have large negative effects on the average wages of formal workers. This is mainly driven by formal firms in sectors that face more intense competition from the informal sector, which deportees are more likely to join. Repatriation inflows also reduce total employment among formal firms in those sectors. Given that most deportees spend less than a month abroad, these findings suggest that the experience of being detained and deported can have strong negative effects not only on the deportees, but also on their receiving communities.",
+    "ref_country": [
+      {
+        "name": "El Salvador",
+        "code": "SLV"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9521",
+    "url": "http://documents.worldbank.org/curated/en/488291611240337342/pdf/The-Unintended-Consequences-of-Deportations-Evidence-from-Firm-Behavior-in-El-Salvador.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.405849",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

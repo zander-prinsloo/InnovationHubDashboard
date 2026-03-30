@@ -1,0 +1,118 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Academic peer effects with different group assignment policies : residential tracking versus random assignment",
+    "idno": "19135855",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19135855",
+      "title": "Academic peer effects with different group assignment policies : residential tracking versus random assignment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garlick, Robert"
+      }
+    ],
+    "date_created": "2014/02/01",
+    "date_available": "2014/02/01",
+    "date_published": "2014/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19135855"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c2b43"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c2b43"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the relative academic performance of students tracked or randomly assigned to South African university dormitories. Tracked or streamed assignment creates dormitories where all students obtained similar scores on high school graduation examinations. Random assignment creates dormitories that are approximately representative of the population of students. Tracking lowers students' mean grades in their first year of university and increases the variance or inequality of grades. This result is driven by a large negative effect of tracking on low-scoring students' grades and a near-zero effect on high-scoring students' grades. Low-scoring students are more sensitive to changes in their peer group composition and their grades suffer if they live only with low-scoring peers. In this setting, residential tracking has undesirable efficiency (lower mean) and equity (higher variance) effects. The result isolates a pure peer effect of tracking, whereas classroom tracking studies identify a combination of peer effects and differences in teacher behavior across tracked and untracked classrooms. The negative pure peer effect of residential tracking suggests that classroom tracking may also have negative effects unless teachers are more effective in homogeneous classrooms. Random variation in peer group composition under random dormitory assignment also generates peer effects. Living with higher-scoring peers increases students' grades and the effect is larger for low-scoring students. This is consistent with the aggregate effects of tracking relative to random assignment. However, using peer effects estimated in randomly assigned groups to predict outcomes in tracked groups yields unreliable predictions. This illustrates a more general risk that peer effects estimated under one peer group assignment policy provide limited information about how peer effects might work with a different peer group assignment policy.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6787",
+    "url": "http://documents.worldbank.org/curated/en/430371468155376698/pdf/WPS6787.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other human development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.835117",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

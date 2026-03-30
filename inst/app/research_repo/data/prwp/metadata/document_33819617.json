@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Normative Indicators Combining Poverty and Mortality : A Survey",
+    "idno": "33819617",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33819617",
+      "title": "Normative Indicators Combining Poverty and Mortality : A Survey",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Decerf,Benoit Marie A"
+      }
+    ],
+    "date_created": "2022/05/16",
+    "date_available": "2022/05/16",
+    "date_published": "2022/05/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33819617"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-03ff3c52-3a69-4405-bd03-e5fb8d3af225"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-03ff3c52-3a69-4405-bd03-e5fb8d3af225"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10042"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper surveys the small branch of welfare economics that studies indicators combining poverty and mortality. The paper distinguishes two reasons for constructing such indicators. The first reason is to perform multidimensional well-being comparisons. For this purpose, mortality has (negative) intrinsic value. The key question relates to the trade-off that the indicator makes between poverty and mortality, that is, between the quality and quantity of life. A lifecycle utility approach suggests expressing this trade-off as the number of years spent in poverty that is deemed equivalent to one year lost to mortality. The second reason is to investigate the instrumental role that selective mortality—the fact that the poor tend to die earlier—has on the evolution of poverty measures. Then, the key question is how to define the counterfactual situation against which the instrumental impact of mortality is assessed.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10042",
+    "url": "http://documents.worldbank.org/curated/en/099402105162241895/pdf/IDU003ff3c5203a69044050bd030e5fb8d3af225.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.179024",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

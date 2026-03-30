@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the half-life of theoretically founded real exchange rate misalignments",
+    "idno": "17582694",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17582694",
+      "title": "Estimating the half-life of theoretically founded real exchange rate misalignments",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kubota,Megumi"
+      }
+    ],
+    "date_created": "2013/04/01",
+    "date_available": "2013/04/01",
+    "date_published": "2013/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17582694"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d040f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d040f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper models empirically the short and long-term behavior of the real exchange rate misalignment -- a key variable in academic and policy circles. The equilibrium real exchange rate is derived from a theoretical model with intertemporal external equilibrium and internal equilibrium (in traded and non-traded markets) based on the current account dynamics and Harrod-Balassa-Samuelson productivity, respectively. This provides a bridge between theory and empirics that links the real exchange rate and its fundamentals (terms of trade, the ratio of net foreign assets to gross domestic product, and productivity differentials). The paper contributes to the literature by: (a) estimating an unrestricted vector error correction model that examines the short-term dynamics of real exchange rate misalignments and links these deviations with shocks to fundamentals from 1970 to 2010, and (b) computing the speed of reversion of real exchange rate misalignments with respect to a fundamentals-based equilibrium level. The paper reconciles two strands of the empirical literature that estimate the half-life of purchasing power parity deviations: one, the linear adjustment model that renders the consensus half-life estimates of purchasing power parity deviations, and another, the non-linear adjustment model of purchasing power parity deviations. The model estimates the half-life of real exchange rate deviations from their fundamental equilibrium at approximately 2.8 years. Consequently, about 25 percent of the real exchange rate deviation from its equilibrium level is corrected in the next year. Approximately 43 percent of the countries in the sample have a half-life of real exchange rate deviations from equilibrium less than 2.5 years -- which is consistent with predictions from non-linear mean reversion models.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6411",
+    "url": "http://documents.worldbank.org/curated/en/103991468180277436/pdf/wps6411.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.779613",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

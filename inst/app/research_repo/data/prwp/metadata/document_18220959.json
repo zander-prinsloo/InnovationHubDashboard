@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Middle-income traps : a conceptual and empirical survey",
+    "idno": "18220959",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18220959",
+      "title": "Middle-income traps : a conceptual and empirical survey",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Im,Fernando Gabriel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rosenblatt,David"
+      }
+    ],
+    "date_created": "2013/09/01",
+    "date_available": "2013/09/01",
+    "date_published": "2013/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18220959"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b45f9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b45f9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In recent years, the term \"middle-income trap\" has entered common parlance in the development policy community. The term itself often has not been precisely defined in the incipient literature. This paper discusses in more detail definitional issues on the so-called middle-income trap. The paper presents evidence in terms of both absolute and relative thresholds. To get a better understanding of whether the performance of the middle-income trap has been different from other income categories, the paper examines historical transition phases in the inter-country distribution of income based on previous work in the literature. Transition matrix analysis provides little support for the idea of a middle-income trap. Analysis of cross-country patterns of growth provides additional support for the conclusions in the paper, which closes with a general discussion of potential policy implications.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6594",
+    "url": "http://documents.worldbank.org/curated/en/969991468339571076/pdf/WPS6594.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.134384",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

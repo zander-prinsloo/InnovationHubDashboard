@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identifying Urban Areas by Combining Human Judgment and Machine Learning : An Application to India",
+    "idno": "31807703",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31807703",
+      "title": "Identifying Urban Areas by Combining Human Judgment and Machine Learning : An Application to India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galdo,Virgilio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Li,Yue-000316086"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rama,Martin G."
+      }
+    ],
+    "date_created": "2020/02/24",
+    "date_available": "2020/02/24",
+    "date_published": "2020/02/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31807703"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087653ad1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087653ad1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes a methodology for identifying urban areas that combines subjective assessments with machine learning, and applies it to India, a country where several studies see the official urbanization rate as an under-estimate. For a representative sample of cities, towns and villages, as administratively defined, human judgment of Google images is used to determine whether they are urban or rural in practice. Judgments are collected across four groups of assessors, differing in their familiarity with India and with urban issues, following two different protocols. The judgment-based classification is then combined with data from the population census and from satellite imagery to predict the urban status of the sample. The Logit model, and LASSO and random forests methods, are applied. These approaches are then used to decide whether each of the out-of-sample administrative units in India is urban or rural in practice. The analysis does not find that India is substantially more urban than officially claimed. However, there are important differences at more disaggregated levels, with “other towns” and “census towns” being more rural, and some southern states more urban, than is officially claimed. The consistency of human judgment across assessors and protocols, the easy availability of crowd-sourcing, and the stability of predictions across approaches, suggest that the proposed methodology is a promising avenue for studying urban issues.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS0160",
+    "url": "http://documents.worldbank.org/curated/en/920791582554716856/pdf/Identifying-Urban-Areas-by-Combining-Human-Judgment-and-Machine-Learning-An-Application-to-India.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.411853",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

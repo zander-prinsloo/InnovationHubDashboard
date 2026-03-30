@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimation and inference for actual and counterfactual growth incidence curves",
+    "idno": "27075287",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27075287",
+      "title": "Estimation and inference for actual and counterfactual growth incidence curves",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferreira,Francisco H. G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Firpo,Sergio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galvao,Antonio F."
+      }
+    ],
+    "date_created": "2017/01/05",
+    "date_available": "2017/01/05",
+    "date_published": "2017/01/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27075287"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084841c9c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084841c9c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Different episodes of economic growth display widely varying distributional characteristics, both across countries and over time. Growth is sometimes accompanied by rising and sometimes by falling inequality. Applied economists have come to rely on the Growth Incidence Curve, which gives the quantile-specific rate of income growth over a certain period, to describe and analyze the incidence of economic growth. This paper discusses the identification conditions, and develops estimation and inference procedures for both actual and counterfactual growth incidence curves, based on general functions of the quantile potential outcome process over the space of quantiles. The paper establishes the limiting 0 distribution of the test statistics of interest for those general functions, and proposes resampling methods to implement inference in practice. The proposed methods are illustrated by a comparison of the growth processes in the United States and Brazil during 1995-2007. Although growth in the average real wage was disappointing in both countries, the distribution of that growth was markedly different. In the United States, wage growth was mediocre for the bottom 80 percent of the sample, but much more rapid for the top 20 percent. In Brazil, conversely, wage growth was rapid below the median, and negative at the top. As a result, inequality rose in the United States and fell markedly in Brazil.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; Rest Of The World ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7933",
+    "url": "http://documents.worldbank.org/curated/en/953201483623365115/pdf/WPS7933.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.002673",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

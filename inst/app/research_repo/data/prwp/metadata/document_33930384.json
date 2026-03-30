@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Model of Amazon Deforestation, Trade and Labor Market Dynamics",
+    "idno": "33930384",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33930384",
+      "title": "A Model of Amazon Deforestation, Trade and Labor Market Dynamics",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Porcher,Charly Jason Gaby"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hanusch,Marek"
+      }
+    ],
+    "date_created": "2022/11/02",
+    "date_available": "2022/11/02",
+    "date_published": "2022/11/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33930384"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c70e2b69-4bc5-44f0-ab57-83ff92196da8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c70e2b69-4bc5-44f0-ab57-83ff92196da8"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10163"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a dynamic spatial equlibrium model of Amazon deforestation, accounting for trade and labor markets dynamics. It uses this model to study the impact of local sectoral shocks and policies on deforestation. Conditional on the assumptions on key parameters, the analysis suggests the following: 1) an increase in external commodity demand increases deforestation; 2) agricultural productivity gains within the Amazon region likely increase deforestation (but reduce deforestation in the rest of the world) 3) manufacturing productivity in urban centers in the Amazon region decreases deforestation, especially if manufacturing firms have short rural value chains and if complemented by investments in education and training and measures to attract skills; 4) reducing transport costs increases deforestation unless it sufficiently supports higher export competitiveness of urban production; and 5) industrial policy focused on raising urban productivity, especially in sectors with short rural value chains, can reduce deforestation. The paper then discusses how policies aimed at increasing local sectoral productivity in the Amazon region could complement other measures specifically aimed at protecting the forest. Among such measures are incentivizing governments to designate undesignated public forests, enforcing forest protection laws (command and control), incentivizing afforestation, and creating alternative livelihoods for farmers in rural and urban areas.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10163",
+    "url": "http://documents.worldbank.org/curated/en/099329011022242501/pdf/IDU0c70e2b6904bc5044f00ab57083ff92196da8.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.707331",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

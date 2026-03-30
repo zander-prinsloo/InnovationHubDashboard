@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What drives firm productivity growth ?",
+    "idno": "10278780",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10278780",
+      "title": "What drives firm productivity growth ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anos Casero,Paloma"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Udomsaph,Charles Chatree"
+      }
+    ],
+    "date_created": "2009/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10278780"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c8f43"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c8f43"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents new evidence on the causal links between changes in the business environment and firm productivity growth. It contributes to the literature in three important aspects. First, it constructs a unique database merging information from two large firm-level databases. The samples of both databases are merged on four criteria-country, sub-national location, firm size, and year-producing a panel of 22,004 firms in eight economies of Eastern Europe and the former Soviet Union: Bulgaria, Croatia, Czech Republic, Estonia,, Poland, Romania, Serbia, and Ukraine. Second, the paper addresses shortcomings of earlier studies, namely reverse causation, multicollinearity, and unreliable productivity estimates. Firm productivity growth is estimated drawing on corporate financial data from manufacturing firms included in the AMADEUS database. Changes in the business environment are estimated from the World Bank Enterprise Surveys conducted in 2002 and 2005. Multicollinearity problems in the full model regression are mitigated by constructing a set of six aggregate indicators of the business environment (using principal component analysis). The paper finds that, over the period 2001 to 2004, an increase of one standard deviation in infrastructure quality, financial development, governance, labor market flexibility, labor quality, and market competition raises the total factor productivity of the average firm by 9.8, 7.8, 3.2, 3.4, 5.8, and 3 percent, respectively. Lastly, the paper decomposes firm productivity growth and ranks the relative impact of changes in these six aspects of the business environment by country, by firm size, and by industry.",
+    "ref_country": [
+      {
+        "name": "Poland",
+        "code": "POL"
+      },
+      {
+        "name": "Romania",
+        "code": "ROU"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      },
+      {
+        "name": "Estonia",
+        "code": "EST"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BGR"
+      },
+      {
+        "name": "Croatia",
+        "code": "HRV"
+      },
+      {
+        "name": "Czechia",
+        "code": "CZE"
+      },
+      {
+        "name": "Serbia",
+        "code": "SRB"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4841",
+    "url": "http://documents.worldbank.org/curated/en/436161468251428516/pdf/WPS4841.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.835368",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

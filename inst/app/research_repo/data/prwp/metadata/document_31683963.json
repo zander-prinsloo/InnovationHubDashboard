@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Targeting Benefit of Conditional Cash Transfers",
+    "idno": "31683963",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31683963",
+      "title": "The Targeting Benefit of Conditional Cash Transfers",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bergstrom,Katy Ann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dodds,William"
+      }
+    ],
+    "date_created": "2020/01/06",
+    "date_available": "2020/01/06",
+    "date_published": "2020/01/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31683963"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0874a7862"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0874a7862"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Conditional cash transfers (CCTs) are a popular type of social welfare program that make payments to households conditional on human capital investments in children. Compared to unconditional cash transfers (UCTs), CCTs may exclude some low-income households as access is tied to normal investments in children. This paper argues that conditionalities on children's school enrollment offer an unexplored targeting benefit over UCTs: CCTs target money to households that forgo a discrete amount of child income. This paper shows that the size of this targeting benefit is directly related to the distribution of parental incomes, the size of forgone child incomes, and two elasticities already popular in the literature: the income effect of a UCT and the price effect of a CCT. These elasticities are estimated for a large CCT program in rural Mexico, Progresa, using variation in transfers to younger siblings to identify income effects. In this setting, the analysis finds that the targeting benefit is almost as large as the cost of excluding some low-income households; this implies that 41 percent of the Progresa budget should go to a CCT over a UCT based on targeting grounds alone.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9101",
+    "url": "http://documents.worldbank.org/curated/en/401581578321660452/pdf/The-Targeting-Benefit-of-Conditional-Cash-Transfers.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.846696",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The air connectivity index : measuring integration in the global air transport network",
+    "idno": "14491791",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14491791",
+      "title": "The air connectivity index : measuring integration in the global air transport network",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arvis, Jean-François"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shepherd,Benjamin A."
+      }
+    ],
+    "date_created": "2011/06/01",
+    "date_available": "2011/06/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14491791"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf8ea"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf8ea"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors construct a new measure of connectivity in the global air transport network, covering 211 countries and territories for the year 2007. It is grounded in network analysis methods, and is based on a gravity-like model that is familiar from the international trade and regional science literatures. It is a global measure of connectivity, in the sense that it captures the full range of interactions among all network nodes, even when there is no direct flight connection between them. The best connected countries are the United States, Canada, and Germany; the United States' score is more than two-thirds higher than the next placed country's, and connectivity overall follows a power law distribution that is fully consistent with the hub-and-spoke nature of the global air transport network. The measure of connectivity is closely correlated with important economic variables, such as the degree of liberalization of air transport markets, and the extent of participation in international production networks. It provides a strong basis for future research in areas such as air and maritime transport, as well as international trade.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5722",
+    "url": "http://documents.worldbank.org/curated/en/859151468161649899/pdf/WPS5722.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.656459",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

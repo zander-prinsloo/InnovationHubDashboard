@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Disaster Crop Production Losses Using Survey Microdata : Evidence from Sub-Saharan Africa",
+    "idno": "33757861",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33757861",
+      "title": "Measuring Disaster Crop Production Losses Using Survey Microdata : Evidence from Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Markhof,Yannick Valentin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ponzini,Giulia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wollburg,Philip Randolph"
+      }
+    ],
+    "date_created": "2022/03/14",
+    "date_available": "2022/03/14",
+    "date_published": "2022/03/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33757861"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d29e1e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088d29e1e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9968"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Every year, disasters account for billions of dollars in crop production losses in low- and middle-income countries and particularly threaten the lives and livelihoods of those depending on agriculture. With climate change accelerating, this burden will likely increase in the future and accurate, micro-level measurement of crop losses will be important to understand disasters’ implications for livelihoods, prevent humanitarian crises, and build future resilience. Survey data present a large, rich, highly disaggregated information source that is trialed and tested to the specifications of smallholder agriculture common in low- and middle-income countries. However, to tap into this potential, a thorough understanding of and robust methodology for measuring disaster crop production losses in survey microdata is essential. This paper exploits plot-level panel data for almost 20,000 plots on 8,000 farms in three Sub-Saharan African countries with information on harvest, input use, and different proxies of losses; household and community-level data; as well data from other sources such as crop cutting and survey experiments, to provide new insights into the reliability of survey-based crop loss estimates and their attribution to disasters. The paper concludes with concrete recommendations for methodology and survey design and identifies key avenues for further research.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9968",
+    "url": "http://documents.worldbank.org/curated/en/324181647280329139/pdf/Measuring-Disaster-Crop-Production-Losses-Using-Survey-Microdata-Evidence-from-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.802478",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does Participation in Global Value Chains Reduce Spatial Inequalities within Countries",
+    "idno": "32986587",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32986587",
+      "title": "Does Participation in Global Value Chains Reduce Spatial Inequalities within Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grover,Arti Goswami"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      }
+    ],
+    "date_created": "2021/04/09",
+    "date_available": "2021/04/09",
+    "date_published": "2021/04/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32986587"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0884a9e43"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0884a9e43"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9619"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines whether a country’s participation in global value chains supports spatial convergence in the domestic economy. In theory, production disintegration through “unbundling” makes industrial development less lumpy, providing opportunities for smaller cities to plug and play in niche spaces while not having to fight the agglomeration economies offered by large metropolitan areas. Using data on the size distribution of cities within countries and the Organisation for Economic Co-operation and Development’s Trade in Value Added database, the paper finds that integration in global value chains is strongly associated with greater concentration in large urban agglomerations, not less. A unit standard deviation increase in domestic value added in exports of intermediate products is associated with a decline of 0.1 standard deviation in the Zipf coefficient, an index measuring spatial dispersion. Spatial concentration is strongest for global value chains involving knowledge-intensive business services and high-technology manufacturing.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9619",
+    "url": "http://documents.worldbank.org/curated/en/172431618022755760/pdf/Does-Participation-in-Global-Value-Chains-Reduce-Spatial-Inequalities-within-Countries.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.625746",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

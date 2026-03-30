@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Natural Capital and Sovereign Bonds",
+    "idno": "32966734",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32966734",
+      "title": "Natural Capital and Sovereign Bonds",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Dieter"
+      }
+    ],
+    "date_created": "2021/04/01",
+    "date_available": "2021/04/01",
+    "date_published": "2021/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32966734"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0884674f6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0884674f6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9606"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Natural capital is related to government bonds through the macroeconomy and credit risks. This paper estimates this relationship from the long-term, between-country view and the short-term, within-country view. The paper cautions against the former, as it is dominated by income differences. These are de facto ingrained, as they cannot be overcome by short-term policy efforts. The within-country view is unaffected by the ingrained income bias and leaves room for recent natural capital changes to affect bond yields. The paper finds that non-renewables (fossil fuels and mineral assets) raise bond yields, possibly due to the resource curse. Renewables (forests and agricultural wealth) lower borrowing costs because they are economically worthwhile investments. Protected areas are more likely to be luxury investments.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9606",
+    "url": "http://documents.worldbank.org/curated/en/628001617289818802/pdf/Natural-Capital-and-Sovereign-Bonds.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.659172",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

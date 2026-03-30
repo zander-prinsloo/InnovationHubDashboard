@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An empirical analysis of the annuity rate in Chile",
+    "idno": "6822636",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6822636",
+      "title": "An empirical analysis of the annuity rate in Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morales,Marco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rocha, Roberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thorburn,Craig W."
+      }
+    ],
+    "date_created": "2006/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6822636"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a494b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a494b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Empirical analyses of annuities markets have been limited to a few industrial countries and restricted by data limitations. Chile provides excellent conditions for research on annuities because of the depth of its market and the availability of data. The authors use a panel of life insurance company data to examine econometrically the main determinants of the annuity rate, defined as the internal rate of return on annuities. The results indicate that the annuity rate is determined by the risk-free interest rate, the share of privately-issued higher yield securities in the portfolio of providers as a proxy for the spread over the risk-free rate, the leverage of providers, the level of broker's commissions, the market share of individual providers, the level of the premium, and the degree of market competition. The results also show that efforts to improve market transparency produced structural shifts in the parameters of the annuity rate equation. The results are consistent with separate research on money's worth ratios, and indicate the need to develop appropriate financial instruments, allowing providers to hedge their risks while extracting higher returns, and also to ensure competition and transparency in annuities markets, in order to ensure good outcomes for annuitants.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3929",
+    "url": "http://documents.worldbank.org/curated/en/972391468236081806/pdf/wps3929.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.945671",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Novel Approach to the Automatic Designation of Predefined Census Enumeration Areas and Population Sampling Frames : A Case Study in Somalia",
+    "idno": "31323820",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31323820",
+      "title": "A Novel Approach to the Automatic Designation of Predefined Census Enumeration Areas and Population Sampling Frames : A Case Study in Somalia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Qader,Sarchil"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lefebvre,Veronique"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ninneman,Amy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Himelein,Kristen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bengtsson,Linus"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tatem,Andy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bird,Tomas"
+      }
+    ],
+    "date_created": "2019/08/08",
+    "date_available": "2019/08/08",
+    "date_published": "2019/08/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31323820"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086faa984"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086faa984"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Enumeration areas are the operational geographic units for the collection, dissemination, and analysis of census data and are often used as a national sampling frame for various types of surveys. Traditionally, enumeration areas are created by manually digitizing small geographic units on high-resolution satellite imagery or physically walking the boundaries of units, both of which are highly time, cost, and labor intensive. In addition, creating enumeration areas requires considering the size of the population and area within each unit. This is an optimization problem that can best be solved by a computer. This paper, for the first time, produces an automatic designation of predefined census enumeration areas based on high-resolution gridded population and settlement data sets and using publicly available natural and administrative boundaries. This automated approach is compared with manually digitized enumeration areas that were created in urban areas in Mogadishu and Hargeisa for the United Nations Population Estimation Survey for Somalia in 2014. The automatically generated enumeration areas are consistent with standard enumeration areas, including having identifiable boundaries to field teams on the ground, and appropriate sizing and population for coverage by an enumerator. Furthermore, the automated urban enumeration areas have no gaps. The paper extends this work to rural Somalia, for which no records exist of previous enumeration area demarcations. This work shows the time, labor, and cost-saving value of automated enumeration area delineation and points to the potential for broadly available tools that are suitable for low-income and data-poor settings but applicable to potentially wider contexts.",
+    "ref_country": [
+      {
+        "name": "Somalia",
+        "code": "SOM"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8972",
+    "url": "http://documents.worldbank.org/curated/en/810771565268760366/pdf/A-Novel-Approach-to-the-Automatic-Designation-of-Predefined-Census-Enumeration-Areas-and-Population-Sampling-Frames-A-Case-Study-in-Somalia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.869412",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

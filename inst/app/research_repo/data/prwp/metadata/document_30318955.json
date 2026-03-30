@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The aggregate income losses from childhood stunting and the returns to a nutrition intervention aimed at reducing stunting",
+    "idno": "30318955",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30318955",
+      "title": "The aggregate income losses from childhood stunting and the returns to a nutrition intervention aimed at reducing stunting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galasso,Emanuela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff, Adam"
+      }
+    ],
+    "date_created": "2018/08/01",
+    "date_available": "2018/08/01",
+    "date_published": "2018/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30318955"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086151166"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085e3aae5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper undertakes two calculations, one for all developing countries, the other for 34 developing countries that together account for 90 percent of the world's stunted children. The first calculation asks how much lower a country's per capita income is today as a result of some of its workers having been stunted in childhood. The analysis uses a development accounting framework, relying on micro-econometric estimates of the effects of childhood stunting on adult wages, through the effects on years of schooling, cognitive skills, and height, parsing out the relative contribution of each set of returns to avoid double counting. The estimates show that, on average, the per capita income penalty from stunting is around 7 percent. The second calculation estimates the economic value and the costs associated with scaling up a package of nutrition interventions using the same methodology and set of assumptions used in the first calculation. The analysis considers a package of 10 nutrition interventions for which data are available on the effects and costs. The estimated rate-of-return from gradually introducing this program over a period of 10 years in the 34 countries is17 percent, and the corresponding benefit-cost ratio is 15:1.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8536",
+    "url": "http://documents.worldbank.org/curated/en/528901533144584145/pdf/WPS8536.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.529227",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

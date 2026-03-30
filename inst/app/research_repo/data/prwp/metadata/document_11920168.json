@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Benefit incidence analysis : are government health expenditures more pro-rich than we think",
+    "idno": "11920168",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11920168",
+      "title": "Benefit incidence analysis : are government health expenditures more pro-rich than we think",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff, Adam"
+      }
+    ],
+    "date_created": "2010/03/01",
+    "date_available": "2010/03/10",
+    "date_published": "2010/03/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11920168"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b0c29"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b0c29"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "It is generally accepted that government health expenditures should disproportionately benefit the poor. And yet in most developing countries the opposite is the case. This paper examines the implications of a central assumption of benefit incidence analysis, namely that the unit cost of a government-provided service bears no relation to the out-of-pocket payments paid by the patient. It argues that a more plausible assumption is that larger out-of-pocket payments for a given unit of utilization reflect more (or more costly) services being delivered. The paper compares -- theoretically and empirically -- the standard constant-cost assumption with two alternatives, namely that the cost of care in a specific episode of utilization is (a) proportional to or (b) linearly related to the amount of money paid out-of-pocket by the patient. An interesting special case of the linear relationship is where subsidies are focused on a basic unit of care and additional costs are met dollar-for-dollar by additional fees. The paper shows that if fees are more pro-rich than utilization, government spending will be least pro-rich under the constant-cost assumption and most pro-rich under the proportionality assumption. The linear assumption results in a concentration index for subsidies that lies between these two extremes. These results are borne out in an analysis of the incidence of government health spending in Vietnam (a country where fees are more pro-rich than utilization); indeed, under the constant-cost assumption, subsidies are pro-poor while they are pro-rich under the proportionality assumption. The paper also considers the biases created by not allowing for insurance reimbursements.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5234",
+    "url": "http://documents.worldbank.org/curated/en/172301468316141695/pdf/WPS5234.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.129137",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

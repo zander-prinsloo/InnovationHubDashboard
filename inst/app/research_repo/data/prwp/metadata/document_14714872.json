@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Decomposing the great trade collapse : products, prices, and quantities in the 2008-2009 crisis",
+    "idno": "14714872",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14714872",
+      "title": "Decomposing the great trade collapse : products, prices, and quantities in the 2008-2009 crisis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haddad, Mona"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Harrison, Ann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hausman, Catherine"
+      }
+    ],
+    "date_created": "2011/08/01",
+    "date_available": "2011/08/03",
+    "date_published": "2011/08/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14714872"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b10d6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b10d6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors identifies a new set of stylized facts on the 2008-2009 trade collapse that they hope can be used to shed light on the importance of demand and supply-side factors in explaining the fall in trade. In particular, they decompose the fall in international trade into product entry and exit, price changes, and quantity changes for imports by Brazil, the European Union, Indonesia, and the United States. When the authors aggregate across all products, most of the countries analyzed experienced a decline in new products, a rise in product exit, and falls in quantity for product lines that continued to be traded. The evidence suggests that the intensive rather than extensive margin mattered the most, consistent with studies of other countries and previous recessionary periods. On average, quantities declined and prices fell. However, these average effects mask enormous differences across different products. Price declines were driven primarily by commodities. Within manufacturing, while most quantity changes were negative, in most cases price changes moved in the opposite direction. Consequently, within manufacturing, there is some evidence consistent with the hypothesis that supply side frictions played a role. For the United States, price increases were most significant in sectors which are typically credit constrained.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Europe",
+        "code": "-"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; Europe and Central Asia ; Rest Of The World ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5749",
+    "url": "http://documents.worldbank.org/curated/en/132411468021239566/pdf/WPS5749.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.065107",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

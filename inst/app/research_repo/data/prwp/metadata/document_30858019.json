@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Integration and Price Transmission in Key Food Commodity Markets in India",
+    "idno": "30858019",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30858019",
+      "title": "Integration and Price Transmission in Key Food Commodity Markets in India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Boffa,Mauro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Varela,Gonzalo J."
+      }
+    ],
+    "date_created": "2019/02/25",
+    "date_available": "2019/02/25",
+    "date_published": "2019/02/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30858019"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0869d29e6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0869d29e6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines patterns of market integration for food commodities in India. First, it tests the extent of domestic spatial market integration for retail and wholesale markets in 2006–14 and 2008–15, respectively, and looks at patterns of price transmission of shocks from international sources. Second, it measures vertical integration from wholesale to retail markets and tests for asymmetric speed of adjustment to shocks. Third, it examines the determinants of spatial integration. The results reveal that in India, food markets are imperfectly integrated across space, with the law of one price being systematically rejected, with heterogeneities across states and products. There is substantial co-movement between wholesale and retail prices, although integration is still imperfect in all commodities but one: rice, for which perfect vertical integration cannot be rejected. Retail prices adjust faster when wholesale prices rise than when wholesale prices fall. The analysis of the determinants of spatial integration reveals that prior to implementation of the Goods and Services Tax, the mere act of crossing a state border increased prices; unexploited gains from arbitrage persisted after considering the effects of transport costs; and information frictions and menu costs reduced market integration.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8755",
+    "url": "http://documents.worldbank.org/curated/en/896891551117861857/pdf/WPS8755.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.417451",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

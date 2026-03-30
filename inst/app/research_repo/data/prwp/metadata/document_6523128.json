@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Network effects of the productivity of infrastructure in developing countries",
+    "idno": "6523128",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6523128",
+      "title": "Network effects of the productivity of infrastructure in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hurlin,Christophe"
+      }
+    ],
+    "date_created": "2006/01/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6523128"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6138"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6138"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using panel data models, the author examines the threshold effects of the productivity of infrastructure investment in developing countries. He considers various specifications of an augmented production function that allow for endogenous thresholds. More precisely, these specifications are tested in a panel threshold regression model. The author's main robust result is the presence of strong threshold effects in the relationship between output and private and public inputs. Whatever the transition mechanism used, the testing procedures lead to strong rejection of the linearity of this relationship. In particular, the productivity of infrastructure investment generally exhibits some network effects. When the available stock of infrastructure is very low, investment in this sector has the same productivity as noninfrastructure investment. On the contrary, when a minimum network is available, the marginal productivity of infrastructure investment is generally largely greater than the productivity of other investment. Finally, when the main network is achieved, its marginal productivity becomes similar to the productivity of other investment.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3808",
+    "url": "http://documents.worldbank.org/curated/en/169791468330983079/pdf/wps3808.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.151241",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

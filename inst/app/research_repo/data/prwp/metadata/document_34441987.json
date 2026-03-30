@@ -1,0 +1,195 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty Projections for Pakistan : Nowcasting and Forecasting",
+    "idno": "34441987",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34441987",
+      "title": "Poverty Projections for Pakistan : Nowcasting and Forecasting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barriga Cabanillas,Oscar Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kishwar,Shabana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meyer,Moritz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nasir,Muhammad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Qazi,Maria"
+      }
+    ],
+    "date_created": "2024/12/30",
+    "date_available": "2024/12/30",
+    "date_published": "2024/12/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34441987"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-7bf933d2-9761-4409-8caf-f63cb8d5bfdc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-7bf933d2-9761-4409-8caf-f63cb8d5bfdc"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11010"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In the fiscal year 2018/19, 21.9 percent of the population in Pakistan lived below the national poverty line. Since then, the COVID-19 pandemic, devastating floods in 2022, and a macro-fiscal crisis with record inflation have profoundly impacted economic activity and income-earning opportunities. The absence of a new household survey limits the ability to ascertain the implications of these different shocks on household welfare and poverty. Up-to-date welfare information is crucial for formulating appropriate policy responses to crises that directly affect households&#x2019; socioeconomic well-being. To overcome the lack of current data, this paper proposes a microsimulation tool that combines microdata from the latest national household survey with high-frequency macro indicators to produce nowcasts and forecasts of poverty. The tool models household consumption by using individual and household characteristics and accounts for changes in labor markets, inflation, social transfers, and remittances. The results account for household-specific inflation rates, which reflect systematic variation in household consumption patterns and sector-specific growth rates. Using the preferred specification, the findings suggest that in the fiscal year 2022/23, the poverty rate stood at 25.3 percent, an increase of seven percentage points compared to the 2021/22 period, and representing about 13 million additional people falling into poverty. Moreover, in addition to the projected increase in poverty, poor households face disproportionately higher welfare losses and get pushed deeper into poverty.",
+    "ref_country": [
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11010",
+    "url": "http://documents.worldbank.org/curated/en/099459512302438604/pdf/IDU17bf933d2197611440918caf1f63cb8d5bfdc.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "institutional strengthening and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.394361",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

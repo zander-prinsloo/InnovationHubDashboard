@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "From Theory to Practice : Open Government Data, Accountability, and Service Delivery",
+    "idno": "31130555",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31130555",
+      "title": "From Theory to Practice : Open Government Data, Accountability, and Service Delivery",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jelenic,Michael Christopher"
+      }
+    ],
+    "date_created": "2019/06/04",
+    "date_available": "2019/06/04",
+    "date_published": "2019/06/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31130555"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08741ea2d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086d53c40"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Open data and open government data have recently attracted much attention as a means to innovate, add value, and improve outcomes in a variety of sectors, public and private. Although some of the benefits of open data initiatives have been assessed in the past, particularly their economic and financial returns, it is often more difficult to evaluate their social and political impacts. In the public sector, a murky theory of change has emerged that links the use of open government data with greater government accountability as well as improved service delivery in key sectors, including health and education, among others. In the absence of cross-country empirical research on this topic, this paper asks the following: Based on the evidence available, to what extent and for what reasons is the use of open government data associated with higher levels of accountability and improved service delivery in developing countries? To answer this question, the paper constructs a unique data set that operationalizes open government data, government accountability, service delivery, as well as other intervening and control variables. Relying on data from 25 countries in Sub-Saharan Africa, the paper finds a number of significant associations between open government data, accountability, and service delivery. However, the findings suggest differentiated effects of open government data across the health and education sectors, as well as with respect to service provision and service delivery outcomes. Although this early research has limitations and does not attempt to establish a purely causal relationship between the variables, it provides initial empirical support for claims about the efficacy of open government data for improving accountability and service delivery.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8873",
+    "url": "http://documents.worldbank.org/curated/en/410191559670657041/pdf/From-Theory-to-Practice-Open-Government-Data-Accountability-and-Service-Delivery.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.545811",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

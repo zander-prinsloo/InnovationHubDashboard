@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are international food price spikes the source of Egypt's high inflation",
+    "idno": "16620776",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16620776",
+      "title": "Are international food price spikes the source of Egypt's high inflation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Al-Shawarby, Sherine"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Selim,Hoda"
+      }
+    ],
+    "date_created": "2012/08/01",
+    "date_available": "2012/08/01",
+    "date_published": "2012/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16620776"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c2f0d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c2f0d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines whether domestic inflation spikes in Egypt during 2001-2011 were primarily the result of external food price shocks. To estimate the pass-through of international food price inflation to domestic price inflation, two different methodologies are used: a two-step regression model estimates the pass-through in the long run, and a vector autoregression model provides the short-run estimates. The empirical evidence confirms that pass-through is high in the short term, but not in the long run. More precisely, the results show that (i) long-run pass-through to domestic food inflation is relatively low, lying between 13 and 16 percent, while the long-term spill-over from domestic food inflation to core inflation is moderate, lying around 60 percent; (ii) in the short term, pass-through is relatively high, estimated around 29 percent after 6 months and around two-thirds after a year, but the spill-over effect to core inflation is limited; (iii) international food price shocks explain only a small portion of domestic inflation shocks in both the short and long terms; and (iv) international price inflation has asymmetric effects on domestic prices.",
+    "ref_country": [
+      {
+        "name": "Egypt, Arab Republic of",
+        "code": "EGY"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6177",
+    "url": "http://documents.worldbank.org/curated/en/545831468234313522/pdf/wps6177.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.235342",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

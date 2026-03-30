@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The effect of product standards on agricultural exports from developing countries",
+    "idno": "17940296",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17940296",
+      "title": "The effect of product standards on agricultural exports from developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferro,Esteban"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Otsuki,Tsunehiro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wilson,John S."
+      }
+    ],
+    "date_created": "2013/06/01",
+    "date_available": "2013/06/01",
+    "date_published": "2013/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17940296"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c21f1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c21f1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors create a standards restrictiveness index using newly available data on maximum residue levels of pesticides for 61 importing countries. The paper analyzes the impact that food safety standards have on international trade of agricultural products. The findings suggest that more restrictive standards are associated, on average, with a lower probability of observing trade. However, after controlling for sample selection and the proportion of exporting firms in a gravity model, the analysis finds that the effect of standards on trade intensity is indistinguishable from zero. This is consistent with the assumption that meeting stringent standards increases primarily the fixed costs of exporting. Once firms enter the market, however, standards do not impact the level of exports. The analysis also finds a greater marginal effect of BRICS (Brazil, Russia, India, China, and South Africa) standards on the probability of trade, relative to other countries' standards, keeping in mind however that on average BRICS standards are less restrictive. The analysis also suggests that exporters in low-income countries are more adversely affected by stricter standards.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6518",
+    "url": "http://documents.worldbank.org/curated/en/510841468331834886/pdf/WPS6518.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "trade facilitation and market access",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.157812",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

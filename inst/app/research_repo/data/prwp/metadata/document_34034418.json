@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identifying and Monitoring Priority Areas for Methane Emissions Reduction",
+    "idno": "34034418",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34034418",
+      "title": "Identifying and Monitoring Priority Areas for Methane Emissions Reduction",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David"
+      }
+    ],
+    "date_created": "2023/04/03",
+    "date_available": "2023/04/03",
+    "date_published": "2023/04/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34034418"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b6e46d1c-63ae-4616-9aa5-75bdd9e50999"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b6e46d1c-63ae-4616-9aa5-75bdd9e50999"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10391"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper identifies high-priority areas for methane emissions reduction and estimates recent emissions changes in those areas using atmospheric concentration data from the European Space Agency&#x2019;s Sentinel-5P satellite platform. The modeling approach is illustrated with three case studies: landfills in Spain (Madrid), irrigated rice production in India (Karnal district, Haryana state), and oil production in Iraq (Al Amarah district, Maysan governorate). For each case, the paper estimates two change models by fixed effects: the monthly trend in methane concentration from January 2019 to November 2022, and the difference between mean concentration in 2022 and the previous three years. The paper estimates the change models for 775 high-priority areas and finds that cases with decreasing methane emissions are outnumbered four to one by cases with increasing emissions. The paper also analyzes trends in high-priority areas for seven major methane source sectors (agricultural soils, livestock, gas, oil, coal, landfills, and wastewater) and finds only two where emissions decreases outnumber increases (gas and oil). Among World Bank income groups, decreases outnumber increases in high-income economies but increases are hugely dominant in the other three groups. The paper concludes with a presentation of summary emissions trend reports for all 775 high-priority areas, with accompanying maps and an Excel file. As satellite-based monitoring becomes more widely employed, such reports will provide a useful template for judging further progress toward fulfillment of the Global Methane Pledge.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10391",
+    "url": "http://documents.worldbank.org/curated/en/099328304032318842/pdf/IDU1b6e46d1c163ae1461619aa5175bdd9e50999.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.571800",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

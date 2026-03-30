@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A primer on human capital",
+    "idno": "29520472",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29520472",
+      "title": "A primer on human capital",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Flabbi,Luca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gatti,Roberta V."
+      }
+    ],
+    "date_created": "2018/01/19",
+    "date_available": "2018/01/19",
+    "date_published": "2018/01/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29520472"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085578bf4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085578bf4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This note summarizes some of the key contributions in the macro- and micro- economic literature on the pathways linking human capital and income growth. Rather than completeness, the objective of this work is to distill some of the most relevant threads in the evolution of these literatures using a human capital lens, with a view to provide a useful yet parsimonious conceptual framework and an update on empirical results. The note first describes the human capital model (section 1). It then outlines the main theoretical elements of growth theory and presents empirical results from the cross-country regressions and development accounting literature to gauge to what extent human capital affects growth at the aggregate level (sections 2, 3 and 4). The note then reviews the micro empirical literature estimating labor income returns of human capital investments (sections 5 and 6). The conclusion draws comparisons between the two empirical approaches and provides a brief critical assessment on how to interpret the empirical results. Investing in human capital is a promising strategy to attain stable and positive growth. The magnitude of the effects is country-specific and varies depending on the population of interest, the policy under consideration, and the human capital component considered.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8309",
+    "url": "http://documents.worldbank.org/curated/en/514331516372468005/pdf/WPS8309.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.279294",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

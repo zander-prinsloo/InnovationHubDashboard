@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Investigating corruption",
+    "idno": "748707",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "748707",
+      "title": "Investigating corruption",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Prendergast, Canice"
+      }
+    ],
+    "date_created": "2000/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "748707"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05e06"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05e06"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Agency theory has had little to say about the control of bureaucratic corruption, perhaps the greatest agency problem that exists. The author considers the role of incentive contracting in reducing corruption through the use of independent investigations-a common way to monitor corruption. In simple settings, bureaucratic corruption can be suppressed by rewarding and penalizing bureaucrats, depending on the independent investigators' findings. But the author shows that incentive contracts can change behavior in both undesirable and beneficial ways. He analyzes three possible harmful behavioral responses to investigations. 1) Many investigations are (officially) instigated by customer complaints. Bureaucrats could become overinterested in \"keeping the customer happy,\" even when it is not efficient to do so. 2) Bureaucrats often have private information on how cases should be handled, information that is hard for investigators to verify. The author shows that investigations can give bureaucrats excessive incentives to \"do things by the book,\" offering decisions that are more likely to be consistent with the opinions of their superiors. 3) Bureaucrats sometimes collect bribes to \"look the other way\"-that is, ignore known transgressions. A solution to this problem might be to offer rewards for bringing cases to light, but a bureaucrat could then waste resources by generating \"nuisance cases\" simply to receive the bonus. In each of these cases, harmful responses to investigations and incentives may be costly enough that it would be more efficient simply to pay a flat wage and accept some corruption. In other words, incentive contracts may not work so well in reducing bureaucratic corruption, because of the variety of dysfunctional responses that investigations may elicit. It may be best to limit investigations to cases where the investigator can find direct evidence of wrongdoing (for example, cash being handed over, or bureaucrats living beyond their means).",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2500",
+    "url": "http://documents.worldbank.org/curated/en/561641468766833302/Investigating-corruption",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:37.862932",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Oil price instability, hedging, and an oil stabilization fund : the case of Venezuela",
+    "idno": "698441",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698441",
+      "title": "Oil price instability, hedging, and an oil stabilization fund : the case of Venezuela",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Claessens,Constantijn A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Varangis, Panos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DEC"
+      }
+    ],
+    "date_created": "1994/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698441"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d6239"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d6239"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The Venezuelan government and PDVSA (Venezuela's state oil companies) are both exposed to oil price instability. Given the existing tax structure, PDVSA has a higher exposure than the government, especially when prices drop below $18-20 a barrel. The authors show that the volatility of prices for crude oil is higher (but not significant) than the volatility of prices for refined oil products. And both prices are highly correlated. So, there is not much strength to the argument that Venezuela, being now mainly an exporter of refined products, faces less volatility than when it was exporting mainly crude oil. The basis risk for hedging Venezuelan crude oil was founded to be higher than for other crudes of comparable quality in the region. One explanation could be the pricing policies Venezuela follows, which leads Venezuelan crude oil prices to deviate for long periods from international prices. The basis risk in Venezuelan refined products is much lower and at acceptable levels for risk management. The issue of liquidity is concentrated in contracts for periods of less than a year. For products, the liquidity is concentrated in the nearest 4-5 months. So, for short-term hedges (6-9 months ahead), there is sufficient liquidity for Venezuela to hedge a substantial part of its exports. For longer-term hedges, the over-the-counter market is the more appropriate vehicle. In either case, it will not usually be the case that all production or exports should be hedged. The authors also examined the issue of an oil stabilization fund. For an oil stabilization fund to be effective several preconditions must be met. Most notably: oil prices should not follow a random walk; financial markets are incomplete; and there are large adjustment costs. These conditions do likely apply in Venezuela. Venezuela's best strategy would be to remove as much short-term oil price risk as possible by using short-dated hedging instruments (such as futures, options, or short-dated swaps) and to also do some longer term hedging (using mainly over-the-counter options and long-dated swaps). They also find that an oil stabilization fund should be complemented by using market-based risk management tools. The oil stabilization fund could then be used to manage any remaining interperiod oil price risk to the extent considered necessary.",
+    "ref_country": [
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1290",
+    "url": "http://documents.worldbank.org/curated/en/232631468761735134/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.214874",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

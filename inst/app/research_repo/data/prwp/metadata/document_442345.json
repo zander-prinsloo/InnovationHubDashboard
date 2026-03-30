@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Between group inequality and targeted transfers",
+    "idno": "442345",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442345",
+      "title": "Between group inequality and targeted transfers",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wodon,Quentin T."
+      }
+    ],
+    "date_created": "1999/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442345"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05584"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05584"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author provides two extensions to Yitzhaki and Lerman's group decomposition of the Gini index. First, he analyzes stratification (within the group) and inequality (between groups) along several dimensions at once. This makes the determinants of inequality more understandable. Second, he derives the impact on the Gini of marginal changes in income or consumption by group. This can be used to evaluate targeted redistributive policies or to assess the impact of exogenous shocks by group. He applies the analysis to data from Bangladesh, with a focus on how inequality affects land ownership, education, and occupation. Education appears to be a stronger determinant of inequality than occupation, with land ownership ranking third. Marginal targeted transfers and taxes have more effect on redistribution when applied to education (from the well-educated to the illiterate) or occupation groups (from officials and managers to tenants and agricultural workers).",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2075",
+    "url": "http://documents.worldbank.org/curated/en/605331468742542573/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.698586",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

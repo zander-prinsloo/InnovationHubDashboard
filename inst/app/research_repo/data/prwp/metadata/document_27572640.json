@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Heterogeneous effects of rural electrification: evidence from Bangladesh",
+    "idno": "27572640",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27572640",
+      "title": "Heterogeneous effects of rural electrification: evidence from Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Samad,Hussain A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Fan"
+      }
+    ],
+    "date_created": "2017/06/12",
+    "date_available": "2017/06/12",
+    "date_published": "2017/06/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27572640"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084c7ea66"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084c7ea66"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Achieving universal access to electricity is one of the most important energy policy goals set by governments in the developing world. The recent empirical literature, however, paints a mixed picture about the economic viability of rural electrification. Although many studies find substantial socioeconomic benefits from rural electrification, others propose that these benefits are overstated. This paper examines the hypothesis that the magnitude and the nature of benefits associated with electrification are highly context dependent. Using a panel data of 7,018 rural households in Bangladesh for 2005 and 2010, the paper explores two underlying determinants of the heterogeneity: the quality of electricity supply and the number of years of being connected to the grid. The analysis uses an instrumental variable and propensity-score-weighed fixed-effects model to address potential endogeneity of electricity adoption. The analysis finds that power outages have a negative impact on almost all development outcomes considered, while some benefits of electrification accrue only over the long run. The overall gain from expanding access to and improving reliability of electricity supply in Bangladesh is estimated to be US$2.3 billion a year.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8102",
+    "url": "http://documents.worldbank.org/curated/en/904491497275742546/pdf/WPS8102.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.697927",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

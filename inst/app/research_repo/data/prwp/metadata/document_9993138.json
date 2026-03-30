@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Catastrophe risk pricing : an empirical analysis",
+    "idno": "9993138",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9993138",
+      "title": "Catastrophe risk pricing : an empirical analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lane,Morton N."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mahul,Olivier"
+      }
+    ],
+    "date_created": "2008/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9993138"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aec27"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aec27"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The price of catastrophe risks is viewed by many to be too high and/or too volatile. Catastrophe risk practitioners point out that, contrary to standard insurance, such as automobile insurance, catastrophe re-insurance is exposed to infrequent but potentially very large losses. It thus requires keeping a large amount of capital in hand, generating a cost of capital to be added to the long-term expected loss. This paper pulls together data from about 250 catastrophe bonds issued on the capital markets to investigate how catastrophe risks are priced. The analysis reveals that catastrophe risk prices are a function of the underlying peril, the expected loss, the wider capital market cycle, and the risk profile of the transaction. The market-based catastrophe risk price is estimated to be 2.69 times the expected loss over the long term, that is, the long-term average multiple is 2.69. When adjusted from the market cycle, the multiple is estimated at 2.33. Peak perils like US Wind are shown to have a much higher multiple than that of non-peak perils like Japan Wind, revealing the diversification of credit from the market.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4765",
+    "url": "http://documents.worldbank.org/curated/en/567461468316162114/pdf/WPS4765.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.282112",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

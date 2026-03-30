@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Predicting project outcomes : a simple methodology for predictions based on project ratings",
+    "idno": "26718952",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26718952",
+      "title": "Predicting project outcomes : a simple methodology for predictions based on project ratings",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blanc,Marc"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Esmail,Talib B. K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mascarell,Caroline"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez,Joseph Rukshan"
+      }
+    ],
+    "date_created": "2016/08/22",
+    "date_available": "2016/08/22",
+    "date_published": "2016/08/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26718952"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084506a31"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084506a31"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The downgrading of projects at the closing from moderately satisfactory to moderately unsatisfactory has been a persistent problem in the World Bank and a particular problem in the World Bank's East Asia and Pacific region since 2012. Through analysis of the projects that exited the East Asia and Pacific region's portfolio in fiscal years 2012 and 2013, this paper derives a prediction model based on ratings for implementation progress and achievement of development objectives during project supervision. The model, used in combination with other indicators of project progress toward outcomes, appears to improve on existing methods for assessing the downgrade risk.",
+    "ref_country": [
+      {
+        "name": "East Asia and Pacific",
+        "code": "EAP"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7800",
+    "url": "http://documents.worldbank.org/curated/en/811121471888014033/pdf/WPS7800.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.168715",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

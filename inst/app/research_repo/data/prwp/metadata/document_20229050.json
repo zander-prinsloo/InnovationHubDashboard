@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A comprehensive review of empirical and modeled HIV incidence trends (1990-2012)",
+    "idno": "20229050",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20229050",
+      "title": "A comprehensive review of empirical and modeled HIV incidence trends (1990-2012)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fraser-Hurt,Nicole"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Prestidge,Marelize"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Harimurti,Pandu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Taaffe,Jessica Elizabeth"
+      }
+    ],
+    "date_created": "2014/09/01",
+    "date_available": "2014/09/01",
+    "date_published": "2014/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20229050"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d0e54"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d0e54"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "An accurate measurement of HIV incidence is a key for policy makers and HIV program managers directing national HIV response. However, there is no perfect method to measure or estimate the rate at which new HIV infections occur in a population. This review compiles and triangulates longitudinal HIV incidence and prevalence data from published studies and trials, national reports and surveys, and the Joint United Nations Programme on HIV/AIDS estimates from the Spectrum model, focusing on 20 countries in Sub-Saharan Africa with generalized HIV epidemics. Three main points can be taken from this analysis of HIV incidence trends. First, modeled HIV incidence and nationally reported HIV prevalence levels in young females suggest that national HIV incidence has declined since 2000 in all except three countries analyzed (stable estimated HIV trends in Burkina Faso, Burundi, and Uganda), but trial and survey data suggest that in some demographics, HIV incidence remains critically high. Second, all modeled national HIV incidence curves and most empirically observed trends commenced a downward trajectory prior to the introduction of anti-retroviral therapy programs around 2004, suggesting the contribution of other factors, such as HIV prevention programs and natural epidemic dynamics, to this decline. Third, modeled HIV incidence estimates, including the incidence peaks in the past, exhibit much variation between Spectrum model versions and when new data are added, emphasizing the uncertainty of model outputs and the need to use incidence estimates with caution.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7042",
+    "url": "http://documents.worldbank.org/curated/en/287591468336289246/pdf/WPS7042.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.344415",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

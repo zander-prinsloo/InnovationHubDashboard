@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Regional economic growth in Mexico : recent evolution and the role of governance",
+    "idno": "12568620",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12568620",
+      "title": "Regional economic growth in Mexico : recent evolution and the role of governance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rosenblatt,David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Weiss,Eli"
+      }
+    ],
+    "date_created": "2010/07/01",
+    "date_available": "2010/07/21",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12568620"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb28a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb28a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There has been substantial research in recent years examining the regional evolution of economic growth across states in Mexico -- with a particular focus on the post North American Free Trade Agreement period. There is also a vast literature using cross-country regressions to examine institutional determinants of economic growth, including government transparency, or \"corruption,\" as a key institutional variable. This paper uses more recently available data for Mexican states to both update the general state convergence/divergence literature, and incorporate into the analysis more recently developed state level indicators of institutional factors related to government transparency. The authors do not find a systematic relationship between measures of government transparency and gross domestic product per capita growth in Mexico during 2001-2005; however, they do find that corruption is negatively associated with the level of state gross domestic product per capita. The contrasting results may imply that more years of data are necessary to be able to establish statistically significant relationships between state growth rates and measures of corruption.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5369",
+    "url": "http://documents.worldbank.org/curated/en/456161468281335588/pdf/WPS5369.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.114717",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

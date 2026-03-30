@@ -1,0 +1,137 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Agricultural intensification : the status in six African countries",
+    "idno": "20389880",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20389880",
+      "title": "Agricultural intensification : the status in six African countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Binswanger-Mkhize, Hans P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Savastano, Sara"
+      }
+    ],
+    "date_created": "2014/11/01",
+    "date_available": "2014/11/01",
+    "date_published": "2014/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20389880"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb3ab"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb3ab"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The Boserup-Ruthenberg framework has long been used to explain and understand the determinants of agricultural growth, the nature of the intensification of farming systems, investment, and technology adoption. The literature has produced an extensive body of evidence that summarizes or tests the hypothesis in Africa and often found it confirmed. However, in the past two decades, rapid population growth has put African farming systems under stress. At the same time, there has been a sharp increase in urbanization and economic growth that is providing new market opportunities for farmers. It is therefore necessary to investigate whether this has resulted in rapid intensification of farming systems, permitting rapid agricultural growth and maintenance or increase in the incomes of the farming population. This paper describes the status of intensification in six African countries using the first round of data from the Living Standards Measurement Study-Integrated Surveys on Agriculture. In addition, the paper (i) develops internationally comparable measures of overall agro-ecological crop potential and urban gravity in the farmers' location and (ii) estimates the causal impact of agro-ecological potential and urban gravity on population density, infrastructure, and market access and on a range of agricultural intensification variables. The paper shows that the new measures have relevant explanatory power. The descriptive analysis shows that the patterns of intensification observed across countries suggest several inconsistencies with Boserup-Ruthenberg. The paper also finds that urban gravity, except for its impact on crop intensities, has little impact on other intensification indicators.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Niger",
+        "code": "NER"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7116",
+    "url": "http://documents.worldbank.org/curated/en/983971468311446722/pdf/WPS7116.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.829226",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The dynamics of poverty and the effectiveness of Poland's safety net (1993-96)",
+    "idno": "439728",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "439728",
+      "title": "The dynamics of poverty and the effectiveness of Poland's safety net (1993-96)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Okrasa, Wlodzimierz"
+      }
+    ],
+    "date_created": "1999/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "439728"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05783"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05783"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author analyzes how the incidence of household endowments and the allocation of social benefits affect families' transitions into and out of poverty. Using panel data for 1993-96 from Poland's Household Budget Survey, and a framework based on sample survival analysis techniques, the author evaluates how various policies will affect households with specific characteristics that make them likely to become poor or to move out of poverty under different scenarios (including whether or not they receive a given amount of a particular type of social transfer). He also discusses how non-income sources of welfare, such as savings, credits, and loans, affect the likelihood that families will become or stop being poor. He concludes that family allowances and unemployment benefits, the two major social programs analyzed, have significant but different effects on different groups of households (characterized in terms of age, gender, marital status, and educational attainment of the head of household; the size, type, location, and sector of employment of the family or household; and the year in which the household fell into poverty). If the share of the family allowances in total household income were reduced by 1 percent, for example, the average length of poverty would be increased by roughly 2 percent. But a 1 percent change in unemployment benefits would yield a 3 percent change in the average duration of poverty. Differences in hazard rates for various subgroups would be even greater. Households in villages were much more likely to fall into poverty than households in cities and large towns, but the poor in towns and cities had more difficulty exiting poverty. There was generally less poverty mobility among households headed by public sector employees than among those headed by employees in the private sector. Families with three or more children and one-parent families (and grandparents with children) faced the greatest risk of being poor; single-person households and childless married couples were the least endangered . Small nuclear families with one or two children and families without children fell between these two extremes.",
+    "ref_country": [
+      {
+        "name": "Poland",
+        "code": "POL"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2221",
+    "url": "http://documents.worldbank.org/curated/en/959601468776427969/The-dynamics-of-poverty-and-the-effectiveness-of-Polands-safety-net-1993-96",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.013106",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

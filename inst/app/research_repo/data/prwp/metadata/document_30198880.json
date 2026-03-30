@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Deep trade agreements and global value chains",
+    "idno": "30198880",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30198880",
+      "title": "Deep trade agreements and global value chains",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laget,Edith"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Osnago,Alberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rocha,Nadia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruta,Michele"
+      }
+    ],
+    "date_created": "2018/06/25",
+    "date_available": "2018/06/25",
+    "date_published": "2018/06/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30198880"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085c8f5bd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085c8f5bd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Preferential trade agreements have become deeper over time, often encompassing policy areas that go beyond traditional trade policy, such as investment, competition, and intellectual property rights protection. In the literature, a prominent argument why countries sign \"deep\" agreements is to promote and facilitate the operation of global value chains. This paper exploits a new data set on the content of trade agreements and data on trade in value added and in parts and components, to quantify the impact of the depth of trade agreements on bilateral cross-border production linkages. The results show that adding a policy area to a trade agreement increases the domestic value added of intermediates (forward global value chain linkages) and the foreign value added of intermediates (backward global value chain linkages) by 0.48 and 0.38 percent, respectively. At the sectoral level, the positive impact of deep trade agreements is higher for higher value-added industries, suggesting that deep agreements help countries to integrate in industries with higher levels of value added. For a larger sample of countries and years, the results confirm that an additional provision in a trade agreement increases bilateral trade in parts and components by 0.3 percent. The content of trade agreements also matters for global value chain integration, but the impact varies by income group. Provisions outside the current mandate of the World Trade Organization (investment and competition policy) drive the effect of trade agreements on North-South trade in parts and components. Provisions under the current World Trade Organization mandate (tariff reduction and customs facilitation) drive the effect of trade agreements on South-South trade in parts and components.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8491",
+    "url": "http://documents.worldbank.org/curated/en/356541529933295649/pdf/WPS8491.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.790317",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

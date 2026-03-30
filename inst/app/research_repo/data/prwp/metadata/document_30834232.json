@@ -1,0 +1,102 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Human Capital",
+    "idno": "30834232",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30834232",
+      "title": "Measuring Human Capital",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [],
+    "date_created": "2019/02/14",
+    "date_available": "2019/02/14",
+    "date_published": "2019/02/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30834232"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087e669c3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08697d64e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Students around the world are going to school but many of them are not learning -- an emerging gap in human capital formation. To understand this gap, this paper introduces a new global data set measuring learning in 164 countries. The data cover 98 percent of the world’s population from 2000 to 2017. The data set will be publicly available and updated at regular intervals by the World Bank and is designed to serve as a public good to accelerate global policy and research agendas focused on quality education and human capital formation. The paper presents several motivating facts in a first application of the data: (a) although enrollment has increased worldwide, learning progress is more limited; (b) girls outperform boys on learning -- a positive gender gap -- in contrast to a negative gender gap observed for schooling; (c) human capital when measured by both schooling and learning accounts for between a fifth to half of cross-country income differences -- a middle ground in the recent development accounting literature and (d) average estimates mask important underlying heterogeneity by country income status and region. These stylized facts demonstrate the potential of this new global dataset to reveal insights into the relationship between human capital and economic development.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8742",
+    "url": "http://documents.worldbank.org/curated/en/540801550153933986/pdf/Measuring-Human-Capital.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.475530",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

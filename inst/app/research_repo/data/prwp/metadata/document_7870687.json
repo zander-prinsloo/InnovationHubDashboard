@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Climate change adaptation in Africa : a microeconomic analysis of livestock choice",
+    "idno": "7870687",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7870687",
+      "title": "Climate change adaptation in Africa : a microeconomic analysis of livestock choice",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mendelsohn,Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seo,Sungno Niggol"
+      }
+    ],
+    "date_created": "2007/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7870687"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828afc0c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828afc0c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses quantitative methods to examine the way African farmers have adapted livestock management to the range of climates found across the African continent. The authors use logit analysis to estimate whether farmers adopt livestock. They then use three econometric models to examine which species farmers choose: a primary choice multinomial logit, an optimal portfolio multinomial logit, and a demand system multivariate probit. Comparing the results of the three methods of estimating species selection reveals that the three approaches yield similar results. Using data from over 9,000 African livestock farmers in 10 countries, the analysis finds that farmers are more likely to choose to have livestock as temperatures increase and as precipitation decreases. Across all methods of estimating choice, livestock farmers in warmer locations are less likely to choose beef cattle and chickens and more likely to choose goats and sheep. As precipitation increases, cattle and sheep decrease but goats and chickens increase. The authors simulate the way farmers' choices might change with a set of uniform climate changes and a set of climate model scenarios. The uniform scenarios predict that warming and drying would increase livestock ownership but that increases in precipitation would decrease it. The climate scenarios predict a decrease in the probability of beef cattle and an increase in the probability of sheep and goats, and they predict that more heat-tolerant animals will dominate the future African landscape.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4277",
+    "url": "http://documents.worldbank.org/curated/en/378811468768308962/pdf/wps4277.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.120804",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

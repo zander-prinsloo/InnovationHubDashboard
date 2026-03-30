@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Paying the price for unreliable power supplies : in-house generation of electricity by firms in Africa",
+    "idno": "10509366",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10509366",
+      "title": "Paying the price for unreliable power supplies : in-house generation of electricity by firms in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,Vivien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steinbuks,Jevgenijs"
+      }
+    ],
+    "date_created": "2009/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10509366"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c1462"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c1462"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper documents the prevalence of in-house generation of electric power by firms in Sub-Saharan Africa and attempts to identify the underlying causes. The analysis is based on two data sources. The UDI World Electric Power Plants Data Base (WEPP), a global inventory of electric power generating units, provides a detailed inventory of in-house generation at the country level. The World Bank's Enterprise Survey Database captures business perceptions of the obstacles to enterprise growth for 8,483 currently operating firms in 25 African countries. Overall, so-called own generation by firms-which has been on the rise in recent years-accounts for about 6 percent of installed generation capacity in Sub-Saharan Africa (equivalent to at least 4,000 MW of installed capacity). However, this share doubles to around 12 percent in the low-income countries, the post-conflict countries, and more generally on the Western side of the continent. In a handful of countries own generation represents more than 20 percent of capacity. Rigorous empirical analysis shows that unreliable public power supplies is far from being the only or even the largest factor driving generator ownership. Firm characteristics have a major influence-in particular, the probability of owning a generator doubles in large firms relative to small ones. Our model predicts that the prevalence of own generation would remain high (at around 20 percent) even if power supplies were perfectly reliable, suggesting that other factors, such as emergency back-up and export regulations, play a critical role in the decision to own a generator.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4913",
+    "url": "http://documents.worldbank.org/curated/en/341551468191961797/pdf/WPS4913.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.324776",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

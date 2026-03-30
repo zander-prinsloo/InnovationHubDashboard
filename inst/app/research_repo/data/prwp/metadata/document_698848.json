@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Effects of tax reform on Argentina's revenues",
+    "idno": "698848",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698848",
+      "title": "Effects of tax reform on Argentina's revenues",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morisset, Jacques"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Izquierdo, Alejandro"
+      }
+    ],
+    "date_created": "1993/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698848"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5ac5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5ac5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Too often, a good tax policy proposal is considered sufficient to improve the tax system - too little consideration is given to weaknesses in tax administration, perhaps because of measurement problems. Analyzing legal and administrative measures and quantitatively evaluating their impact on tax revenues is generally arduous. The authors develop a simple approach to assessing how tax effort affects tax revenues (performance). By \"tax effort\" they mean changes in tax legislation (except changes in nominal taxes), tax administration, and individual taxpayers attitudes toward tax evasion. Changes in tax administration include increasing tax penalties, new technologies, and administrative reform. They measure tax effort as a residual: the variations in tax revenues that cannot be explained by changes in economic variables and tax structures. Using this approach, one can easily identify factors that influence tax revenues over time, and understand the behavior of tax revenues in developing countries, particularly where macroeconomic conditions are volatile. The authors apply this approach to Argentina; it can easily be applied to other countries. Their main conclusions in this application follow. The administrative dimension of tax reform is at the heart of Argentina's recent fiscal adjustment. Since 1991, tax effort is an average 80 percent higher than during the preceding (temporary) successful adjustment period (under the Austral Plan). An efficient tax administration and an improvement in taxpayer compliance levels appear to precede rather than follow increases in tax revenues. Tax effort is influenced significantly by such macrovariables as GDP growth and inflation, as well as by political (in)stability. It is influenced less by such fiscal variables as alternative sources of financing. In Argentina, the sequence of the tax effort was, first, to broaden the potential value added tax base, and then to reduce tax evasion through higher tax penalties and improvements in the basic functions of tax administration (inspection, audits, tax management, and personnel policy).",
+    "ref_country": [
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1192",
+    "url": "http://documents.worldbank.org/curated/en/121411468767424385/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.792530",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

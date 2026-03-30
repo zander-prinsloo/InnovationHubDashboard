@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Beyond Political Connections : A Measurement Model Approach to Estimating Firm-level Political Influence in 41 Economies",
+    "idno": "33862123",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33862123",
+      "title": "Beyond Political Connections : A Measurement Model Approach to Estimating Firm-level Political Influence in 41 Economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Francis,David C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kubinec ,Robert"
+      }
+    ],
+    "date_created": "2022/07/05",
+    "date_available": "2022/07/05",
+    "date_published": "2022/07/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33862123"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-158ecaac-1be1-4fd8-a04a-3c9cf1992a74"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-158ecaac-1be1-4fd8-a04a-3c9cf1992a74"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10119"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper considers the political influence of private firms. While such influence is frequently discussed, there is limited analysis of how firms combine political interactions, and under what conditions, to gain influence. The exception is the large literature on firms with political connections, with findings generally showing large gains to firms with those direct relationships. This paper extends the discussion of influence beyond political connections alone and uses a rich firm-level data set from 41 economies, which includes information on several interactions with political actors. Using a Bayesian item response theory (IRT) measurement model, an index of Political Influence is estimated, with the prior assumption that political connections yield more influence. Membership in a business association is found to enhance influence, while such influence is offset by bribes, state ownership, firm size, and a reliance on collective lobbying. Political Influence is found to be broadly higher in economies with poorer governance but more dispersed in those with better governance. Within economies, higher influence is associated with a higher likelihood of reporting a small number of competitors, higher sales, and lower labor inputs relative to sales. These findings are robust across several models that incorporate high-dimensional fixed effects, incorporating measurement error in the index, and varying these relationships over several governance measures.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10119",
+    "url": "http://documents.worldbank.org/curated/en/099855207052233298/pdf/IDU0158ecaac01be104fd80a04a03c9cf1992a74.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.682832",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

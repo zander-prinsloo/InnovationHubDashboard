@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A multiple correspondence analysis approach to the measurement of multidimensional poverty in Morocco, 2001-2007",
+    "idno": "16364520",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16364520",
+      "title": "A multiple correspondence analysis approach to the measurement of multidimensional poverty in Morocco, 2001-2007",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ezzrar, Abdeljaouad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2012/06/01",
+    "date_available": "2012/06/01",
+    "date_published": "2012/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16364520"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ca1f7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ca1f7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The measurement of multidimensional poverty has been advocated by most welfare scholars and is experiencing a growth in interest, partly explained by controversial debates that have emerged across academics and practitioners. This paper follows one of the least explored approaches -- Multiple Correspondence Analysis -- to assess multidimensional poverty in Morocco between 2001 and 2007. Multiple Correspondence Analysis provides two major advantages for the measurement of multidimensional poverty: it generates a matrix of \"weights\" based on the variance-covariance matrix of all welfare dimensions selected and provides a natural approach for constructing a composite welfare indicator that satisfies essential poverty ordering axioms. The application shows that poverty in Morocco has declined according to both monetary and multidimensional indicators and that these findings are robust to stochastic dominance tests. The paper concludes that the sustained positive growth that Morocco experienced during the last decade has translated in improvements in living conditions well beyond monetary returns.",
+    "ref_country": [
+      {
+        "name": "Morocco",
+        "code": "MAR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6087",
+    "url": "http://documents.worldbank.org/curated/en/681991468276307907/pdf/WPS6087.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.889945",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Job quality and poverty in Latin America",
+    "idno": "27044113",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27044113",
+      "title": "Job quality and poverty in Latin America",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brummund,Peter"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mann,Christopher Ryan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Castelan,Carlos"
+      }
+    ],
+    "date_created": "2016/12/21",
+    "date_available": "2016/12/21",
+    "date_published": "2016/12/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27044113"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0847f0368"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0847f0368"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Labor market dynamics have played a significant role in the remarkable social gains experienced across Latin America over the recent past. Assessing the quality of employment, beyond the perspective of income, to include other fundamental aspects of jobs --such as whether jobs are secure, provide benefits, or allow human capital accumulation -- can shed light on the sustainability of these achievements. This is particularly pertinent given the region's current economic slowdown. Using harmonized data for 17 countries in Latin America, this paper connects the role of job quality with the recent process of inclusive growth across the region, and particularly with how individuals worked their way out of poverty. The paper first proposes a multi-dimensional measure for job quality, and then uses this measure to compare job quality across countries and over time. The paper also studies some of the correlates of job quality and the relationship between job quality and poverty. The main finding is that job quality across the region began to increase since 2004, coupled with the favorable terms of trade brought to the region by the commodities super cycle of the 2000s. The best predictors of job quality are age, gender, education, formal employment, and union membership. Both health and retirement benefits are the dimensions of job quality that are best correlated with not living in poverty.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7927",
+    "url": "http://documents.worldbank.org/curated/en/484611482350883806/pdf/WPS7927.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.057949",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

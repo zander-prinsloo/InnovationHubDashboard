@@ -1,0 +1,114 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How child labor and child schooling interact with adult labor",
+    "idno": "440292",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440292",
+      "title": "How child labor and child schooling interact with adult labor",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ray, Ranjan"
+      }
+    ],
+    "date_created": "1999/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440292"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05776"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05776"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using data from Peruvian and Pakistani household surveys, the author tests the hypotheses of a positive association between child labor hours and poverty and a negative association between child schooling and poverty. Both hypotheses are confirmed using Pakistani data but not using Peruvian data. What explains these divergent results? The link between household poverty and child labor is much stronger in Pakistan than in Peru - perhaps partly because Pakistani schools are not as good as those in Peru, and perhaps partly because Pakistani families value education less, especially for girls. Also, Peruvian children combine schooling with employment, unlike Pakistani children. Rising wages for men significantly reduce the labor hours of Peruvian girls. Strong complementarity exists between the labor market for women and that for girls in Pakistan. Providing good schools in South Asia could help reduce child labor and break the strong link there between poverty and hours spent in child labor. Data from both countries confirm the positive role more adult education can play in improving child welfare. Adult education's impact on child labor is considerably greater in Pakistan than in Peru. One generation's lack of skills and education causes the next to remain un-educated and unskilled as well.",
+    "ref_country": [
+      {
+        "name": "Pakistan",
+        "code": "PAK"
+      },
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "South Asia ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2179",
+    "url": "http://documents.worldbank.org/curated/en/872121468759553614/How-child-labor-and-child-schooling-interact-with-adult-labor",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.721242",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

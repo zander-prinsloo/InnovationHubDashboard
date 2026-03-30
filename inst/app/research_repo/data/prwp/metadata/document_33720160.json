@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Resource-Backed Loans in Sub-Saharan Africa",
+    "idno": "33720160",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33720160",
+      "title": "Resource-Backed Loans in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mihalyi,David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hwang,Jyhjong"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rivetti,Diego"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cust,James Frederick"
+      }
+    ],
+    "date_created": "2022/02/02",
+    "date_available": "2022/02/02",
+    "date_published": "2022/02/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33720160"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088cc1665"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088cc1665"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9923"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the characteristics of resource-backed lending across Sub-Saharan Africa. To shed light on this type of lending, the paper presents new information on 30 resource-backed loans between 2004 and 2018, identified through publicly available information. These loans were concentrated in a few countries, where they represented a sizable fraction of all borrowing and were typically taken by central governments and state-owned enterprises. Although the loan terms are mostly opaque, where data are available, the study finds that such loans are not cheaper than regular loans. The paper highlights opportunities to transparency and offers some suggestions for improving the governance of collateralized borrowings across developing countries.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9923",
+    "url": "http://documents.worldbank.org/curated/en/369931643829886430/pdf/Resource-Backed-Loans-in-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.178061",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

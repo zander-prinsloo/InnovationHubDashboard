@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An empirical macroeconomic model for policy design : the case of Chile",
+    "idno": "699955",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699955",
+      "title": "An empirical macroeconomic model for policy design : the case of Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Solimano, Andres"
+      }
+    ],
+    "date_created": "1991/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699955"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a7397"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a7397"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors construct, estimate, and simulate a macroeconomic model for Chile. This model allows aggregate supply and demand factors to interact in determining such key economic variables as inflation, the real wage, the real exchange rate, real output and employment, and the current account balance. The model ensures the consistency of different aggregates by imposing the relevant budget constraints on the fiscal sector, the central bank, and the balance of payments. To this consistent framework, the model adds behavioral equations with sound analytical foundations. The authors use model simulations to explore the effects of domestic policies and external shocks (like a balanced-budget fiscal expansion, a policy of increased growth in minimum wages, a fall in world copper prices, and an oil price shock). These simulations help illustrate the effects of economic policies and external factors that shape current policy discussions in Chile.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS709",
+    "url": "http://documents.worldbank.org/curated/en/499421468743110933/An-empirical-macroeconomic-model-for-policy-design-the-case-of-Chile",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:02.797424",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

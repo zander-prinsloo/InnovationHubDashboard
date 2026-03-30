@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Natural Resources and Total Factor Productivity Growth in Developing Countries : Testing A New Methodology",
+    "idno": "30763939",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30763939",
+      "title": "Natural Resources and Total Factor Productivity Growth in Developing Countries : Testing A New Methodology",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hamilton,Kirk E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Naikal,Esther G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lange,Glenn-Marie"
+      }
+    ],
+    "date_created": "2019/01/16",
+    "date_available": "2019/01/16",
+    "date_published": "2019/01/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30763939"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0868803db"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0868803db"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Estimates of total factor productivity growth, a measure of increases in the efficiency of production, have traditionally been based on a two-factor model of labor and fixed capital. Because profits are measured residually in the System of National Accounts, they implicitly include rents on natural resource exploitation, with the result that the contribution of fixed capital to growth in the inputs to gross domestic product is misstated, particularly in resource dependent developing countries. This leads to incorrect measures of total factor productivity growth. Using data on natural resources from the World Bank's Wealth of Nations database and methods combining the Solow growth accounting model with recent work at the Organisation for Economic Co-operation and Development, this paper makes new estimates of total factor productivity growth for 74 developing countries over 1996-2014. In the aggregate, including natural resources as a factor of production increases estimated total factor productivity growth across all country income classes and regions of the world when compared with the traditional two-factor approach. In addition, the estimated total factor productivity growth including natural resources is less volatile over time in the great majority of countries compared with the traditional approach. The availability of World Bank data on natural resource quantities and rents for a wide range of countries suggests that natural resources should be included in total factor productivity growth estimation going forward. Further research could focus on the distinctive roles played by different natural resource endowments.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8704",
+    "url": "http://documents.worldbank.org/curated/en/565561547645473522/pdf/WPS8704.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.883077",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

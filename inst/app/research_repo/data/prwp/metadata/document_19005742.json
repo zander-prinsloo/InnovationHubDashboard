@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "\"Crowding in\" and the returns to government investment in low-income countries",
+    "idno": "19005742",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19005742",
+      "title": "\"Crowding in\" and the returns to government investment in low-income countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eden, Maya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay, Aart"
+      }
+    ],
+    "date_created": "2014/02/01",
+    "date_available": "2014/02/01",
+    "date_published": "2014/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19005742"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b38d6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b38d6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the effect of government investment on private investment in a sample of 39 low-income countries. Fluctuations in a predetermined component of disbursements on loans from official creditors to developing country governments are used as an instrument for fluctuations in public investment. The analysis finds evidence of \"crowding in\": an extra dollar of government investment raises private investment by roughly two dollars, and output by 1.5 dollars. To understand the implications for the return to public investment, a CES production function with public and private capital as inputs is calibrated. For most countries in the sample, the returns to government investment exceed the world interest rate. However, for some countries that already have high government investment rates, the return to further investment is below the world interest rate.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6781",
+    "url": "http://documents.worldbank.org/curated/en/183961468154154131/pdf/WPS6781.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "debt management and fiscal sustainability",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "macroeconomic management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other economic management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.869140",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

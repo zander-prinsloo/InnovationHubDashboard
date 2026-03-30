@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Rate-Based Emissions Trading with Overlapping Policies : Insights from Theory and an Application to China",
+    "idno": "34380085",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34380085",
+      "title": "Rate-Based Emissions Trading with Overlapping Policies : Insights from Theory and an Application to China",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fischer,Carolyn"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Qu,Chenfei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goulder,Lawrence H."
+      }
+    ],
+    "date_created": "2024/08/21",
+    "date_available": "2024/08/21",
+    "date_published": "2024/08/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34380085"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-2092fd8d-6e40-4fe2-b9b1-5230cfba2a5f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-2092fd8d-6e40-4fe2-b9b1-5230cfba2a5f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10872"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Jurisdictions that rely on emissions trading to control emissions often utilize other environmental or energy policies as well, including policies to support renewable energy and reduce energy consumption. Overlapping policies produce economic interactions that can lead to quite different outcomes from what might be predicted after examining individual policies separately. Prior literature on policy interactions has primarily focused on cap-and-trade systems, where aggregate emissions are fixed by regulation but emissions prices respond. However, jurisdictions are increasingly turning to alternative forms of emissions markets, including a range of rate-based emissions trading systems, in which both emissions quantities and prices are flexible and the significance of policy interactions is less understood. This paper extends the literature by considering the outcomes under a range of emissions trading systems&#x2014;not only cap-and-trade, but also several forms of tradable performance standards&#x2014;and under a variety of overlapping policies, including subsidies to renewables and taxes on electricity. An analytical model stylized on the electricity sector demonstrates that an overlapping subsidy to renewable energy drives down emission prices and expands output under all types of emissions trading systems, but emissions quantities differ with tradable performance standards&#x2014;emissions increase with renewable subsidies under a uniform, sectorwide tradable performance standard but decrease when the performance standard only covers emitters, excluding clean sources from receiving tradable credits. Taxing electricity consumption reduces emission prices and total output under all types of emissions trading systems and reduces emissions under all tradable performance standards. With cap-and-trade, the presence of an overlapping renewables subsidy or electricity consumption tax implies higher efficiency costs. Under certain tradable performance standards, however, these measures can reduce distortions and enhance cost-effectiveness. A numerical general equilibrium model offers quantitative assessments of the impacts of overlaps on emissions, production, prices, and costs, under China&#x2019;s planned emissions trading system and alternative designs. The overlaps in China&#x2019;s current stated policy for 2020 to 2035 reduce the cost per ton of abatement of its system of differentiated emitter performance standards by 20&#x2013;30 percent; optimizing renewable portfolio standards could further reduce costs by 10 percent, and transitioning to uniform benchmarks for emitting power generators could save another 10&#x2013;15 percent. Still, cap-and-trade without overlapping policies would be most cost-effective. The findings highlight the need to consider the choice of emissions trading systems and overlapping policies together when undertaking reforms.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10872",
+    "url": "http://documents.worldbank.org/curated/en/099733008212419312/pdf/IDU12092fd8d16e4014fe21b9b115230cfba2a5f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.491008",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

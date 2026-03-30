@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Weak instruments in growth regressions : implications for recent cross-country evidence on inequality and growth",
+    "idno": "25462798",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25462798",
+      "title": "Weak instruments in growth regressions : implications for recent cross-country evidence on inequality and growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay,Aart C."
+      }
+    ],
+    "date_created": "2015/11/13",
+    "date_available": "2015/11/13",
+    "date_published": "2015/12/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25462798"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0831b5b38"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0831b5b38"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper revisits four recent cross-country empirical studies on the effects of inequality on growth. All four studies report strongly significant negative effects, using the popular system generalized method of moments estimator that is frequently used in cross-country growth empirics. This paper shows that the internal instruments relied on by this estimator in these inequality-and-growth regressions are weak, and that weak instrument-consistent confidence sets for the effect of inequality on growth include a wide range of positive and negative values. This suggests that strong conclusions about the effect of inequality on growth— in either direction—cannot be drawn from these studies. This paper also systematically explores a wide range of alternative sets of internal instruments, and finds that problems of weak instruments are pervasive across these alternatives. More generally, the paper illustrates the importance of documenting instrument strength, basing inferences on procedures that are robust to weak instruments, and considering alternative instrument sets when using the system generalized method of moments estimator for cross-country growth empirics.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7494",
+    "url": "http://documents.worldbank.org/curated/en/841781468198003536/pdf/WPS7494.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.416342",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

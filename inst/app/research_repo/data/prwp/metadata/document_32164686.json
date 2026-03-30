@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Growth and Risk : A View from International Trade",
+    "idno": "32164686",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32164686",
+      "title": "Growth and Risk : A View from International Trade",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krishna,Pravin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levchenko,Andrei A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney,William F."
+      }
+    ],
+    "date_created": "2020/06/23",
+    "date_available": "2020/06/23",
+    "date_published": "2020/06/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32164686"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087abe344"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087abe344"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the cross-country patterns of risky innovation and growth through the lens of international trade. It uses a simple theoretical framework of risky quality upgrading by firms under varying levels of financial development to derive two predictions. First, the mean rate of quality growth and the corresponding cross-sectional variance of quality growth in a country are positively correlated. Second, both the mean and variance of quality changes are positively correlated with the country's level of financial development. The paper tests these two hypotheses using data on disaggregated (Harmonized System 10- digit) bilateral exports to the United States. The patterns in the data are consistent with the theory. The mean and the variance of quality growth are strongly positively correlated with each other. Countries with greater financial depth are systematically characterized by higher mean and higher variance in the growth of product quality. The findings suggest a mean-variance trade-off in product quality improvements along the development path. Increases in financial depth do not imply lower variability of changes in the product space.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9296",
+    "url": "http://documents.worldbank.org/curated/en/699231592936066374/pdf/Growth-and-Risk-A-View-from-International-Trade.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.506170",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The export-productivity link in Brazilian manufacturing firms",
+    "idno": "24775845",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24775845",
+      "title": "The export-productivity link in Brazilian manufacturing firms",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cirera,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Máñez,J.A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rochina,M.E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanchis,J.A."
+      }
+    ],
+    "date_created": "2015/07/13",
+    "date_available": "2015/07/13",
+    "date_published": "2015/07/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24775845"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082ff0bfb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082ff0bfb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the link between exports and total factor productivity in Brazilian manufacturing firms over the period 2000–08. The Brazilian experience is instructive, as it is a case of an economy that expanded aggregate exports significantly, but with stagnant aggregate growth in total factor productivity. The paper first estimates firm-level total factor productivity under alternative assumptions (exogenous and endogenous law of motion for productivity) following a GMM procedure. In turn, the analysis uses stochastic dominance techniques to assess whether the ex ante most productive firms are those that start exporting (self-selection hypothesis). Finally, the paper tests whether exporting boosts firms’ total factor productivity growth (learning-by-exporting hypothesis) using matching techniques to control for the possibility that selection into exports may not be a random process. The results confirm the self-selection hypothesis and show that starting to export yields additional growth in total factor productivity that emerges since the firm’s first year of exporting but lasts only one year. Further, this extra total factor productivity growth is much higher under the assumption of an endogenous law of motion for productivity, which reinforces the importance of accounting for firm export status to study the evolution of productivity.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7365",
+    "url": "http://documents.worldbank.org/curated/en/918461467998237248/pdf/WPS7365.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.523537",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

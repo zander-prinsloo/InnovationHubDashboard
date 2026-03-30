@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Accounting for toxicity risks in pollution control : does it matter",
+    "idno": "438647",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438647",
+      "title": "Accounting for toxicity risks in pollution control : does it matter",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta, Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laplante, Benoit"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meisner, Crai"
+      }
+    ],
+    "date_created": "1998/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438647"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05e68"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05e68"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The accounting and public release of information about industrial toxic pollution emissions is meeting increasing criticism in that these listings typically do not account for the different toxicity risks associated with different pollutants. A firm emitting a large amount of relatively harmless substance is ranked as a heavier polluter than a firm emitting a small quantity of a potent substance. Such \"unweighted\" rankings of firms, it is argued, may lead to misallocation of resources and a wrong prioritization of efforts in pollution control. This is a particular problem in developing countries, where sources for pollution control are typically scarce. To account for varying toxicity risk, a number of organizations have developed thresholds or exposure limits for various pollutants. But many toxicity risk factors and methods are currently available, and different risk indicators yield different results and hence priorities. So the authors review seven risk methods and construct 10 sets of toxicity risk factors from those indicators. They apply those factors to the 3,426 industrial municipalities of Brazil and explore Rio de Janeiro and Sao Paulo in detail. After ranking states and municipalities for their pollution intensity, results indicate that at the state level, risk-weighted rankings remain largely the same across the 10 sets of toxicity risk factors used in this paper. By and large the result also holds true at the municipal level. Although at the state level the unweighted ranking is relatively similar to the risk-weighted ranking, at the municipal level significant differences were found between the risk-weighted and unweighted rankings. These findings suggest that it is important for environmental regulators to weight pollutants for their relative toxicity risk when developing priorities for pollution control efforts at the industrial or regional level. But at high levels of aggregation, the choice of indicator need not be the subject of immense debate.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2002",
+    "url": "http://documents.worldbank.org/curated/en/463581468769888135/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:44.118018",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

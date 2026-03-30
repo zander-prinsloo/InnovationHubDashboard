@@ -1,0 +1,147 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty Imputation in Contexts without Consumption Data : A Revisit with Further Refinements",
+    "idno": "33587847",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33587847",
+      "title": "Poverty Imputation in Contexts without Consumption Data : A Revisit with Further Refinements",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carletto,Calogero"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abanokova,Kseniya"
+      }
+    ],
+    "date_created": "2021/11/05",
+    "date_available": "2021/11/05",
+    "date_published": "2021/11/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33587847"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088b2b5c7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088b2b5c7"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9838"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A key challenge with poverty measurement is that household consumption data are often unavailable or infrequently collected or may be incomparable over time. In a development project setting, it is seldom feasible to collect full consumption data for estimating the poverty impacts. While survey-to-survey imputation is a cost-effective approach to address these gaps, its effective use calls for a combination of both ex-ante design choices and ex-post modeling efforts that are anchored in validated protocols. This paper refines various aspects of existing poverty imputation models using 14 multi-topic household surveys conducted over the past decade in Ethiopia, Malawi, Nigeria, Tanzania, and Vietnam. The analysis reveals that including an additional predictor that captures household utility consumption expenditures—as part of a basic imputation model with household-level demographic and employment variables—provides poverty estimates that are not statistically significantly different from the true poverty rates. In many cases, these estimates even fall within one standard error of the true poverty rates. Adding geospatial variables to the imputation model improves imputation accuracy on a cross-country basis. Bringing in additional community-level predictors (available from survey and census data in Vietnam) related to educational achievement, poverty, and asset wealth can further enhance accuracy. Yet, there is within-country spatial heterogeneity in model performance, with certain models performing well for either urban areas or rural areas only. The paper provides operationally-relevant and cost-saving inputs into the design of future surveys implemented with a poverty imputation objective and suggests directions for future research.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "Africa West ; Africa East ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9838",
+    "url": "http://documents.worldbank.org/curated/en/914731636124765122/pdf/Poverty-Imputation-in-Contexts-without-Consumption-Data-A-Revisit-with-Further-Refinements.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.920271",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

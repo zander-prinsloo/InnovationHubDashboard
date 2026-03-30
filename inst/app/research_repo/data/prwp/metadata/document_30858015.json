@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are Public Sector Workers in Developing Countries Overpaid Evidence from a New Global Data Set",
+    "idno": "30858015",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30858015",
+      "title": "Are Public Sector Workers in Developing Countries Overpaid Evidence from a New Global Data Set",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gindling,T. H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hasnain,Zahid"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shi,Rong"
+      }
+    ],
+    "date_created": "2019/02/25",
+    "date_available": "2019/02/25",
+    "date_published": "2019/02/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30858015"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0869d29e3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0869d29e3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the public sector wage premium using nationally representative household surveys from 91 countries. The public sector generally pays a wage premium compared to all private sector salaried employees, but the size of the premium is sensitive to the choice of the private sector comparator and varies considerably by worker characteristics. For most countries, the average premium disappears when the public sector is compared to only formal sector private employees, especially when controlling for occupation. The public sector wage premium is higher for women and low-skilled workers. In contrast, high-skilled public sector employees are most often paid the same as their private sector counterparts or may even pay a penalty for working in the public sector. Consistent with this, the public sector premium is greater for employees with less education, those working in lower paid occupations, and those whose earnings fall in the lower part of the conditional earnings distribution. Across countries, the wage premium is only weakly associated with countries’ level of development. These findings nuance the existing consensus that public sector workers tend to enjoy a significant wage premium over their private sector counterparts, and that this premium is especially large in low-income countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8754",
+    "url": "http://documents.worldbank.org/curated/en/398361551117216050/pdf/WPS8754.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.403710",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

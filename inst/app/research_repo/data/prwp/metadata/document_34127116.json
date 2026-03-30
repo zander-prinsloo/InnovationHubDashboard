@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Minding the Gap : Aid Effectiveness, Project Ratings and Contextualization",
+    "idno": "34127116",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34127116",
+      "title": "Minding the Gap : Aid Effectiveness, Project Ratings and Contextualization",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goldemberg,Diana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jordan,Luke Simon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kenyon,Thomas"
+      }
+    ],
+    "date_created": "2023/07/31",
+    "date_available": "2023/07/31",
+    "date_published": "2023/07/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34127116"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-fc5d219f-d389-4588-bfb2-d9cc719ef84a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-fc5d219f-d389-4588-bfb2-d9cc719ef84a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10532"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper applies novel techniques to long-standing questions of aid effectiveness. It first replicates findings that donor finance is discernibly but weakly associated with sector outcomes in recipient countries. It then shows robustly that donors' own ratings of project success provide limited information on the contribution of those projects to development outcomes. By training a machine learning model on World Bank projects, the paper shows instead that the strongest predictor of these projects&#x2019; contribution to outcomes is their degree of adaptation to country context, and the largest differences between ratings and actual impact occur in large projects in institutionally weak settings.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10532",
+    "url": "http://documents.worldbank.org/curated/en/099434007312336860/pdf/IDU0fc5d219f0d389045880bfb20d9cc719ef84a.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.583621",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

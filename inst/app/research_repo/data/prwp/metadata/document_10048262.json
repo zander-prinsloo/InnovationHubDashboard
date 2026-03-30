@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Bank financing for smes around the world : drivers, obstacles, business models, and lending practices",
+    "idno": "10048262",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10048262",
+      "title": "Bank financing for smes around the world : drivers, obstacles, business models, and lending practices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beck, Thorsten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt, Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Peria, Maria Soledad"
+      }
+    ],
+    "date_created": "2008/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10048262"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b16cd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b16cd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using data from a survey of 91 banks in 45 countries, the authors characterize bank financing to small and medium enterprises (SMEs) around the world. They find that banks perceive the SME segment to be highly profitable, but perceive macroeconomic instability in developing countries and competition in developed countries as the main obstacles. To serve SMEs banks have set up dedicated departments and decentralized the sale of products to the branches. However, loan approval, risk management, and loan recovery functions remain centralized. Compared with large firms, banks are less exposed to small enterprises, charge them higher interest rates and fees, and experience more non-performing loans from lending to them. Although there are some differences in SMEs financing across government, private, and foreign-owned banks - with the latter being more likely to engage in arms-length lending - the most significant differences are found between banks in developed and developing countries. Banks in developing countries tend to be less exposed to SMEs, provide a lower share of investment loans, and charge higher fees and interest rates. Overall, the evidence suggests that the lending environment is more important than firm size or bank ownership type in shaping bank financing to SMEs.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4785",
+    "url": "http://documents.worldbank.org/curated/en/706131468159334938/pdf/WPS4785.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other financial and private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.212065",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

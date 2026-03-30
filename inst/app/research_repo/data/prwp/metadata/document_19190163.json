@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Financial constraints, working capital and the dynamic behavior of the firm",
+    "idno": "19190163",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19190163",
+      "title": "Financial constraints, working capital and the dynamic behavior of the firm",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chan,Rosanna"
+      }
+    ],
+    "date_created": "2014/03/01",
+    "date_available": "2014/03/01",
+    "date_published": "2014/03/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19190163"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bb59c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bb59c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Financial constraints are widespread in developing countries, where even short-term credit is limited. Finance held by firms as working capital is a substantial proportion of sales revenue, yet the role of working capital is largely neglected by existing models of financial constraints. This paper presents a dynamic model of the firm that incorporates working capital by introducing a delay between factor payments and the receipt of revenue. In contrast with previous models, the working capital model predicts that firms under binding constraints will substitute between labor and capital in response to demand shocks, causing investment to be countercyclical. For firms near the margin of being constrained, constraints bind when positive production opportunities arise. Output growth is therefore constrained in response to positive shocks but not to negative shocks. Simulations suggest that models without working capital may understate the predicted effects of financial constraints on production efficiency, firm profit and growth over time. The predictions are tested with the Bangladesh Panel Survey data for manufacturing firms. Consistent with the theory, there is evidence that constraints bind when output price increases, that investment by constrained firms is countercyclical, and that output response to positive shocks is dampened for firms that are sometimes constrained. The results also are important for policy. In order to maximize growth, efforts to relieve credit constraints should be focused on periods when demand shocks are high.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6797",
+    "url": "http://documents.worldbank.org/curated/en/671161468153856096/pdf/WPS6797.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.709656",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

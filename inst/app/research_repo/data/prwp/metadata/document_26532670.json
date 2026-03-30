@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty and policy selectivity of World Bank trust funds",
+    "idno": "26532670",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26532670",
+      "title": "Poverty and policy selectivity of World Bank trust funds",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eichenauer,Vera"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack,Stephen"
+      }
+    ],
+    "date_created": "2016/06/28",
+    "date_available": "2016/06/28",
+    "date_published": "2016/06/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26532670"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08440f895"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08440f895"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Over the past decade, donors of foreign aid quadrupled their annual contributions to trust funds at the World Bank. This earmarking of contributions to donors' preferred recipient countries and issues has raised concerns about the alignment of trust funds with the performance-based allocations of aid by the International Development Association, the World Bank's concessional lending arm, and raises the question of the role of this new \"multi-bi\" aid channel. This study finds that the cross-country allocations of aggregate trust fund aid are poverty- and policy-selective. In this respect, they are much more similar to allocations from the International Development Association than from bilateral donors. The allocations of trust fund types that are more closely controlled by donor countries—recipient-executed and single-donor trust funds—are more strongly related to the strategic interests of donor countries than trust fund aid in general. Trust funds for health and education aid are poverty selective and positively correlated with the World Bank's assessment of the quality of countries' sector policies, while environmental trust funds are neither poverty selective nor correlated with the assessed quality of countries' environmental policies. Overall, the evidence indicates that multi-bi funds administered by the World Bank do not undermine the International Development Association’s allocation criteria.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7731",
+    "url": "http://documents.worldbank.org/curated/en/495141467122731170/pdf/WPS7731.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.707436",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,114 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the health effects of air pollutants : a method with an application to Jakarta",
+    "idno": "698385",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698385",
+      "title": "Estimating the health effects of air pollutants : a method with an application to Jakarta",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ostro,Bart D."
+      }
+    ],
+    "date_created": "1994/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698385"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6f4b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6f4b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To develop efficient strategies for pollution control, it is essential to assess both the costs of control and the benefits that may result. These benefits will often included improvements in public health, including reductions in both morbidity and premature mortality. Until recently, there has been little guidance about how to calculate the benefits of air pollution controls and how to use those estimates to assign priorities to different air pollution control strategies. The author describes a method for quantifying the benefits of reduced ambient concentrations of pollutants (such as ozone and particulate matter) typically found in urban areas worldwide. The author then applies the method to data on Jakarta, Indonesia, an area characterized by little wind, high population concentration (8 million people), congested roads, and ambient air pollution. The magnitude of the benefits of pollution control depend on the level of air pollution, the expected effects on health of the pollutants (dose-response), the size of the population affected and the economic value of these effects. The results for Jakarta suggest that significant benefits result from reducing exposure to both outdoor and indoor air pollutants. For example, if annual concentrations of particulate matter were reduced to the midpoint of the World Health Organization guideline (and former U.S. ambient standard), the estimates indicate a reduction per year of 1,400 premature deaths (with a range of 900 to 1,900), 49,000 emergency room visits, 600,000 asthma attacks, 7.6 million restricted activity days (including work loss), 124,000 cases of bronchitis in children, and 37 million minor respiratory symptoms. In the case of Jakarta, the methodology suggests that reducing exposure to lead and nitrogen dioxide should also be a high priority. An important consequence of ambient lead pollution is a reduction in learning abilities for children, measured as I.Q loss. Apart from that, reducing the proportion of respirable particles can reduce the amount of illness and premature mortality. Clearly, air pollution represents a significant public health hazard to residents of Jakarta and other cities consistently exposed to high levels of air pollution, such as Bangkok, Mexico City, and Santiago, Chile.",
+    "ref_country": [
+      {
+        "name": "East Asia and Pacific",
+        "code": "EAP"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1301",
+    "url": "http://documents.worldbank.org/curated/en/355391468752348015/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.146214",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Testing the induced innovation hypothesis in South African agriculture (an error correction approach)",
+    "idno": "696953",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696953",
+      "title": "Testing the induced innovation hypothesis in South African agriculture (an error correction approach)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thirtle, Colin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Townsend, Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Zyl, Johan"
+      }
+    ],
+    "date_created": "1995/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696953"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b053f8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b053f8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors investigate whether factor prices matter in agricultural production and in the selection of production technology. Each stage of the analysis corroborates the inducement hypothesis, which implies that factor prices do matter in agricultural production and in the selection of production technology. The empirical results also suggest that observed rates and biases of technological change are influenced by average farm size, by spending on research and extension, and by favorable tax and interest-rate policies. In South Africa, the authors contend, more attention should be focused on the technological needs of small-scale farmers. The lobbying power of the large commercial farmers, combined with policies followed under apartheid, must have influenced the allocation of research and development funds between labor- and land-saving technical change. This will have distorted the technological bias toward labor saving technical change, which is hardly appropriate for a labor-surplus economy in which small farmers in the former homelands face a chronic scarcity of land. These results show that factor prices do matter in agricultural production and the selection of production technology. And there seems to be merit to the World Bank's usual policy prescription - structural adjustment and market liberalization - for economies in which prices are controlled and distorted. They investigate the role of factor prices by applying cointegration techniques to a model of induced innovation based on the two-stage constant elasticity of substitution production function. This approach results in direct tests of the inducement hypothesis, which are applied to data for South African agriculture for the period 1947-92. They check the time series properties of the variables, establish cointegration, and construct an error correction model (ECM) that allows factor substitution to be separated from technological change. Finally, they subject the ECM formulation to tests of causality, which show that the factor price ratios induce the factor saving biases of technological change.",
+    "ref_country": [
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1547",
+    "url": "http://documents.worldbank.org/curated/en/718091468758972671/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:52.192898",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Evaluating the Accuracy of Homeowner Self-Assessed Rents in Peru",
+    "idno": "31338651",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31338651",
+      "title": "Evaluating the Accuracy of Homeowner Self-Assessed Rents in Peru",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ceriani,Lidia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olivieri,Sergio Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ranzani,Marco"
+      }
+    ],
+    "date_created": "2019/08/15",
+    "date_available": "2019/08/15",
+    "date_published": "2019/08/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31338651"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087ca5b75"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086fdfab4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Attributing a rental value to the dwellings of homeowners is essential in various contexts, including distributional analysis and the compilation of national accounts, consumer price indexes (CPIs), and purchasing power parity indexes. One of the methods for making the attribution is to use homeowner estimates of the market rental value they would pay (receive) for their dwellings if these were rented. This is known as homeowner self-assessed rent. However, homeowner estimates may not be accurate because of the way questions aimed at soliciting such information are phrased, the sentimental attachment of the homeowners to the properties, lack of information about rental markets, and other reasons. Yet, researchers and practitioners often neglect to ascertain the accuracy of homeowner assessments. This study argues that comparing unconditional or conditional means may be misleading if one has not ascertained whether the observable characteristics of homeowner and tenant dwellings are similar. Using Peruvian data from 2003 to 2017, the study tests the accuracy of self-assessed rental values with matching estimators. In Metropolitan Lima, homeowners typically provide accurate estimates of the rental market values of their dwellings. In rural areas, market rental values are underestimated by homeowners in more instances. The direction and magnitude of the inaccuracies in Metropolitan Lima and in rural areas are comparable and range between −25 percent and −20 percent.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8983",
+    "url": "http://documents.worldbank.org/curated/en/287901565890099664/pdf/Evaluating-the-Accuracy-of-Homeowner-Self-Assessed-Rents-in-Peru.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.779765",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

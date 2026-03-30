@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Population growth, factor accumulation, and productivity",
+    "idno": "696792",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696792",
+      "title": "Population growth, factor accumulation, and productivity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pritchett,Lant Hayward"
+      }
+    ],
+    "date_created": "1996/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696792"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0573f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0573f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In research on how population growth affects economic performance, some researchers stress that population growth reduces the natural resources and capital (physical and human) per worker while other researchers stress how greater population size and density affect productivity. Despite these differing theoretical predictions, the empirical literature hs focused mainly on the relationship between population growth and output per person (or crude proxies for factor accumulation). It has not decomposed the effect of population through factor accumulation and the effect through productivity. The author uses newly created cross-country, time-series data on physical capital stocks and the educational stock of the labor force to establish six findings: There is no correlation between the growth of capital per worker and population growth. The common practice of using investment rates as a proxy for capital stock growth rates is completely unjustified, as the two are uncorrelated across countries. There is either no correlation, or a weak positive correlation, between the growth of years of schooling per worker and the population growth rate. Enrollment rates are even worse as a crude proxy for the expansion of the educational capital stock, as the two are negatively correlated. There is no correlation, or a weak negative correlation, between measures of total factory productivity growth and population growth. Nearly all of the weak correlation between the growth of output per person and population growth is the result of shifts in participation in the labor force, not of changes in output per worker.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1567",
+    "url": "http://documents.worldbank.org/curated/en/899521468739460515/Population-growth-factor-accumulation-and-productivity",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.952063",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

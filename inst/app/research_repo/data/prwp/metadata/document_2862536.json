@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Small and medium enterprises, growth, and poverty : cross-country evidence",
+    "idno": "2862536",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2862536",
+      "title": "Small and medium enterprises, growth, and poverty : cross-country evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thorsten Beck;Demirguc-Kunt,Asli; Ross Levine"
+      }
+    ],
+    "date_created": "2003/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2862536"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05d2c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05d2c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors explore the relationship between the relative size of the small and medium enterprise (SME) sector, economic growth, and poverty using a new database on the share of SME labor in the total manufacturing labor force. Using a sample of 76 countries, they find a strong association between the importance of SMEs and GDP per capita growth. This relationship, however, is not robust to controlling for simultaneity bias. So, while a large SME sector is characteristic of successful economies, the data fail to support the hypothesis that SMEs exert a causal impact on growth. Furthermore, the authors find no evidence that SMEs reduce poverty. Finally, they find qualified evidence that the overall business environment facing both large and small firms-as measured by the ease of firm entry and exit, sound property rights, and contract enforcement-influences economic growth.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3178",
+    "url": "http://documents.worldbank.org/curated/en/558581468779354920/Small-and-medium-enterprises-growth-and-poverty-cross-country-evidence",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.287096",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

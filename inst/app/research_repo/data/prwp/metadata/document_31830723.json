@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Incidence of the Digital Economy and Frictional Unemployment : International Evidence",
+    "idno": "31830723",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31830723",
+      "title": "Incidence of the Digital Economy and Frictional Unemployment : International Evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zouaidi,Marwane"
+      }
+    ],
+    "date_created": "2020/03/02",
+    "date_available": "2020/03/02",
+    "date_published": "2020/03/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31830723"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0876953a7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0876953a7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper is the first to quantify the relationship between the incidence of the digital economy and long-term frictional unemployment across countries. The resulting evidence indicates that there is a robust, negative partial correlation between national unemployment rates and the incidence of the digital economy, proxied by the share of the adult population that reports using the internet to pay bills. Further, the absolute values of ordinary least squares estimates of the partial correlation suggest that it might be higher for developing economies than high-income economies. Controlling for the incidence of informal employment appears to be key for removing a positive omitted- variable bias in the estimate of the partial correlation between unemployment and the digital economy, which is due to the existence of a negative bivariate correlation between unemployment and informality on the one hand, and a negative bivariate correlation between informality and the incidence of digital payment on the other hand. The results from instrumental variable estimations suggest that the partial correlation between unemployment and digital payments is negative, with the absolute value of the estimates being larger than the absolute value of the ordinary least squares estimates.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9170",
+    "url": "http://documents.worldbank.org/curated/en/695951583182737286/pdf/Incidence-of-the-Digital-Economy-and-Frictional-Unemployment-International-Evidence.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.344969",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

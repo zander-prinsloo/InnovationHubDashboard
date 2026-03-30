@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Investigating the gender gap in agricultural productivity : evidence from Uganda",
+    "idno": "24469240",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24469240",
+      "title": "Investigating the gender gap in agricultural productivity : evidence from Uganda",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ali,Daniel Ayalew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bowen,Frederick H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deininger,Klaus W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Duponchel,Marguerite Felicienne"
+      }
+    ],
+    "date_created": "2015/05/11",
+    "date_available": "2015/05/11",
+    "date_published": "2015/05/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24469240"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082e68823"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082e68823"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Women comprise 50 percent of the agricultural labor force in Sub-Saharan Africa, but manage plots that are reportedly on average 20 to 30 percent less productive. As a source of income inequality and aggregate productivity loss, the country-specific magnitude and drivers of this gender gap are of great interest. Using national data from the Uganda National Panel Survey for 2009/10 and 2010/11, the gap before controlling for endowments was estimated to be 17.5 percent. Panel data methods were combined with an Oaxaca decomposition to investigate the gender differences in resource endowment and return to endowment driving this gap. Although men have greater access to inputs, input use is so low and inverse returns to plot size so strong in Uganda that smaller female-managed plots have a net endowment advantage of 12 percent, revealing a larger unexplained gap of 29.5 percent. Two-fifths of this unexplained gap is attributed to differential returns to the child dependency ratio and one-fifth to differential returns to transport access, implying that greater child care responsibilities and difficulty accessing input and output markets from areas without transport are the largest drivers of the gap. Smaller and less robust drivers include differential uptake of cash crops, and differential uptake and return to improved seeds and pesticides.",
+    "ref_country": [
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7262",
+    "url": "http://documents.worldbank.org/curated/en/172861468184777211/pdf/Investigating-the-gender-gap-in-agricultural-productivity-evidence-from-Uganda.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.343419",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

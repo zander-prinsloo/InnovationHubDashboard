@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Pensions in Germany",
+    "idno": "441829",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "441829",
+      "title": "Pensions in Germany",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Queisser,Monika"
+      }
+    ],
+    "date_created": "1996/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "441829"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a89"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a89"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Germany's pension system was originally designed as a scaled premium system. It formally became a pay-as-you-go system in 1957. Participation in the system is mandatory for all dependent employees and only some groups of self-employed. The system is greatly fragmented in terms of institutions, coverage, contributions, and benefit levels. A discrepancy has emerged between the system dependency ratio and the demographic old-age dependency ratio. This has been caused by the use of early retirement and disability pensions as a means of tackling high unemployment, especially in Germany's 5 new states. Except for the high incidence of early retirement and disability pensions the system does not suffer from the problems that have afflicted other pension systems (e.g. evasion). The expected demographic aging poses major challenge. The contribution rate cannot be increased so benefits will have to be cut, most likely through an increase in the normal retirement age and tighter rules for disability pensions and early retirement. Germany's system is not overly generous, compared with other OECD countries. Intragenerational redistribution in the pension system is quite limited. Germany does not have a tilted benefit formula to redistribute income from higher to lower income groups. Means-tested social assistance is used to support the old poor.",
+    "ref_country": [
+      {
+        "name": "Germany",
+        "code": "DEU"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1664",
+    "url": "http://documents.worldbank.org/curated/en/403441468774844623/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.077131",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

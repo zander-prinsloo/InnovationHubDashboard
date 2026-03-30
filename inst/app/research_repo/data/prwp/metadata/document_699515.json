@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A new approach to evaluating trade policy",
+    "idno": "699515",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699515",
+      "title": "A new approach to evaluating trade policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anderson, James E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Neary, J. Peter"
+      }
+    ],
+    "date_created": "1992/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699515"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4da8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4da8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors introduce a new measure, the Trade Restrictiveness Index, to measure the restrictiveness of a system of trade protection. They propose an alternative to the commonly used ad hoc indexes of trade restrictiveness, such as the trade-weighted average tariff. That measure has no welfare-theoretic basis and can be highly misleading, in practice. For example, the complete exclusion of trade in a commodity would usually lower the index, because its trade weight would fall to zero. The authors show that their proposed index is soundly based in standard welfare economics. When trade is restricted by tariffs only, the Trade Restrictiveness Index equals the uniform tariff, which would be equivalent to the existing system of tariffs in the sense of yielding the same level of aggregate welfare. But tariffs have declined in importance in recent years as a means of restricting trade, so the measure must also be able to take account of quantitative restrictions on trade. Where quotas are the only form of restriction, this is easy: the Index equals the equiproportionate reduction in permitted import volumes that is welfare-equivalent to the initial structure of quotas. When both quotas and tariffs are present, the Index can be defined as the uniform tariff factor (one plus the uniform tariff) and uniform import reduction factor which would yield the same level of welfare as the initial system of trade restrictions. The authors show how this can be formulated, noting that if a single good is subject to both a binding quota and a tariff, it should be viewed as quota-constrained - the tariff serves merely to ensure that some of the rents accrue to the importing country. These theoretical derivations permit a major synthesis of the theory of protection and suggest how the results of computable general equilibrium models might be presented to make them internationally and intertemporally comparable. But in most cases such a model is not available and, even if it were, it would not be sufficiently disaggregated to deal with a complicated system of trade protection. So the authors present some empirical short-cuts that can be adopted for estimating changes in the Index. Chief among these is the assumption that the goods under consideration are separable from others in an appropriate general-equilibrium sense. This can provide a rigorous foundation for a form of partial-equilibrium analysis (the consideration of a subset of markets in an economy). They also show how the Trade Restrictiveness Index can be adapted to allow for different forms of rent sharing and for a country's ability to influence its terms of trade. Applying these empirical methods to exports of textiles and apparel from Hong Kong to the United States, the authors find that the protective system becomes more restrictive for both countries over the seven years considered (1982-88). Increased trade restrictiveness does not necessarily mean that quotas have been tightened. When there is economic growth, constant or even rising import quotas might still amount to a tightening of protection. Results based on the trade-weighted average of \"tariff equivalents\" (the gaps between Hong Kong and U.S. prices) diverge significantly from those of the Trade Restrictiveness Index. The two measures have opposite implications for the change in trade restrictiveness for two-thirds of the observations.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1022",
+    "url": "http://documents.worldbank.org/curated/en/969951468741317269/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.161010",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

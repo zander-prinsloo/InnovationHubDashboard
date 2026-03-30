@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Root for the Tubers : Extended-Harvest Crop Production and Productivity Measurement in Surveys",
+    "idno": "30509662",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30509662",
+      "title": "Root for the Tubers : Extended-Harvest Crop Production and Productivity Measurement in Surveys",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moylan,Heather G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ilukor,John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mtengula,Clement"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pangapanga-Phiri,Innocent"
+      }
+    ],
+    "date_created": "2018/10/18",
+    "date_available": "2018/10/18",
+    "date_published": "2018/10/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30509662"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08649f199"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08649f199"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To document the relative accuracy of methods for microdata collection on root and tuber crop production, an experiment was implemented in Malawi over a 12-month period, randomly assigning cassava-producing households to one of four approaches: daily diary-keeping, with semi-weekly supervision visits; daily diary-keeping, with semi-weekly supervisory phone calls; two six-month recall interviews, with six months in between; and a single 12-month recall interview. Lapses in diary-keeping can underestimate true production, albeit to a lesser degree compared to recall. And the comparisons between the diary variants and the variation in underestimation by recall period are unclear ex ante. The analysis reveals that compared to traditional diary-keeping, the household-level annual cassava production is 295 kilograms higher, on average, (and assumed as closer to the truth) under diary-keeping with phone calls. This effect corresponds to 28 percent of the average traditional diary-keeping production estimate. Although the difference between the estimates based on six-month recall and traditional diary-keeping is statistically insignificant, 12-month recall underestimates annual production, on average, by 516 kilograms and 221 kilograms, respectively, compared to diary-keeping with phone calls and traditional diary-keeping. While the recall-based approaches both underestimate true production, six-month recall does so to a lesser extent. The evidence additionally demonstrates likely gross overestimation in international and ministerial statistics on cassava yields in Malawi. For improved microdata on root and tuber crop production, the adoption of (i) diary-keeping with phone calls (particularly if deployed in a broader mobile phone–based survey) or (ii) six-month recall, as a second-best alternative, is recommended.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8618",
+    "url": "http://documents.worldbank.org/curated/en/393581539866711478/pdf/WPS8618.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.654444",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

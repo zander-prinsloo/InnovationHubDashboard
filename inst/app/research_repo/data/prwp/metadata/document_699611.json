@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Projecting the demographic impact of AIDS",
+    "idno": "699611",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699611",
+      "title": "Projecting the demographic impact of AIDS",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bulatao, Rodolfo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bos, Eduard"
+      }
+    ],
+    "date_created": "1992/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699611"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4de8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4de8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A simple model that simulates the spread of AIDS is used to generate estimates of deaths from AIDS, which are incorporated into population projections covering 20 years. Preliminary results for one country are shown - not firm estimates, as the model has several arbitrarily set parameters. The results suggest that the number of infections and deaths could be extremely large, even if transmission of the human immunodeficiency virus (HIV) is substantially reduced. In five years, deaths in a single country will be in the tens of thousands, and after 20 years could be hundreds of thousands and still rising. Nevertheless, the impact on population size appears small. The authors discuss why these results should not be entirely trusted, and what work remains to be done. Where HIV is relatively widespread, changes in sexual behavior, particulary increases in condom use, are essential to reduce the scale of the epidemic. Earlier changes are more effective than later changes. But across countries with different levels of prevalence and sexual activity, changes in sexual behavior produce similar effects.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS941",
+    "url": "http://documents.worldbank.org/curated/en/686611468739188181/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.708731",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

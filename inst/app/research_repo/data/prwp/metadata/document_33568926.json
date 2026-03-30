@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Introducing the Adequate Housing Index (AHI) : A New Approach to Estimate the Adequate Housing Deficit within and across Emerging Economies",
+    "idno": "33568926",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33568926",
+      "title": "Introducing the Adequate Housing Index (AHI) : A New Approach to Estimate the Adequate Housing Deficit within and across Emerging Economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behr,Daniela Monika"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chen,Lixue"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goel,Ankita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haider,Khondoker Tanveer"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Singh,Sandeep - CSEFI"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zaman,Asad"
+      }
+    ],
+    "date_created": "2021/11/01",
+    "date_available": "2021/11/01",
+    "date_published": "2021/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33568926"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088b07d74"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088b07d74"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9830"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces a micro-founded methodological framework to estimate the housing deficit across and within emerging economies. It introduces the Adequate Housing Index, which provides a comparable assessment of adequate housing based on seven adequacy dimensions that are held constant across all countries. The adequacy dimensions were obtained and harmonized from countries’ most recent household expenditure and consumption surveys. The paper documents large differences in housing adequacy across a sample of 64 emerging economies, as well as wide within-country disparities such as across income groups, locations, and occupations. Estimates of the Adequate Housing Index show that across the sample of 64 emerging economies, there is a current housing deficit of 268 million housing units affecting 1.26 billion people. About 26 percent of the current housing stock in these economies is inadequate. The paper further estimates that at least 40 million additional housing units will have to be added by 2030 to provide adequate housing to all and accommodate the growing population and urbanization patterns.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9830",
+    "url": "http://documents.worldbank.org/curated/en/370141635794493951/pdf/Introducing-the-Adequate-Housing-Index-AHI-A-New-Approach-to-Estimate-the-Adequate-Housing-Deficit-within-and-across-Emerging-Economies.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.018991",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

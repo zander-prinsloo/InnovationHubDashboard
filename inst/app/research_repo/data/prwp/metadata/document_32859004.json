@@ -1,0 +1,150 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Global View of Poverty, Gender, and Household Composition",
+    "idno": "32859004",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32859004",
+      "title": "A Global View of Poverty, Gender, and Household Composition",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Munoz Boudet,Ana Maria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bhatt,Antra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azcona,Ginette"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoo,Jayne Jungsun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beegle,Kathleen G."
+      }
+    ],
+    "date_created": "2021/02/24",
+    "date_available": "2021/02/24",
+    "date_published": "2021/02/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32859004"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088317cdf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08831713a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9553"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The share of the world’s population living on less than $1.90 a day has been cut by more than half since 2000. The pace of progress has slowed in recent years, however, and is likely to regress with the onset of the COVID-19 pandemic. Advancements toward achieving the goal of reducing poverty can be informed by more in-depth examination of the prevailing poverty profile across countries. This paper uses data from 91 countries to profile the poor through a focus on the demographic composition of households. It contributes to a growing body of literature on the profile of the poor based on household demographics, utilizing harmonized cross-country data. Three key findings related to household demographics and the profile of the poor emerge. First, globally, the share of young girls who reside in poor households is almost 1 percentage point larger than the corresponding share of boys, principally driven by results from India. In most other countries, girls and boys (who generally reside with adults) are equally likely to reside in poor households. Second, along the life cycle, the next big difference in poverty rates by sex globally sits among household members ages 25-34, with South Asia and Sub-Saharan Africa driving these results. Third, analysis demonstrates that differences in household composition between women and men, including women’s greater likelihood to be living in households with young children, are behind the observed gap in poverty rates by sex.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "The World Region ; South Asia ; Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9553",
+    "url": "http://documents.worldbank.org/curated/en/776061614181162133/pdf/A-Global-View-of-Poverty-Gender-and-Household-Composition.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.174529",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

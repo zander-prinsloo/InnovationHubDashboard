@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The regulation and supervision of banks around the world - a new database",
+    "idno": "1121223",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1121223",
+      "title": "The regulation and supervision of banks around the world - a new database",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barth, James R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Caprio,Gerard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levine, Ross"
+      }
+    ],
+    "date_created": "2001/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1121223"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b055f2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b055f2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "International consultants on bank regulation, and supervision for developing countries, often base their advice on how their home country does things, for lack of information on practice in other countries. Recommendations for reform have tended to be shaped by bias rather than facts. To better inform advice about bank regulation, and supervision, and to lower the marginal cost of empirical research, the authors present, and discuss a new, and comprehensive database on the regulation, and supervision of banks in a hundred and seven countries. The data, based on surveys sent to national bank regulatory, supervisory authorities, are now available to researchers, and policymakers around the world. The data cover such aspects of banking as entry requirements, ownership restrictions, capital requirements, activity restrictions, external auditing requirements, characteristics of deposit insurance schemes, loan classification and provisioning requirements, accounting and disclosure requirements, troubled bank resolution actions, and (uniquely) the quality of supervisory personnel, and their actions. The database permits users to learn how banks are currently regulated, and supervised, and about bank structures, and deposit insurance schemes, for a broad cross-section of countries. In addition to describing the data, the authors show how variables ay be grouped, and aggregated. They also show some simple correlations among selected variables. In a comparison paper (\"Bank regulation and supervision: What works best\") studying the relationship between differences in bank regulation and supervision, and bank performance and stability, they conclude that: 1) Countries with policies that promote private monitoring of banks, have better bank performance, and more stability. Countries with more generous deposit insurance schemes tend to have poorer bank performance, and more bank fragility. 2) Diversification of income streams, and loan portfolios - by not restricting bank activities - also tends to improve performance, and stability. (This works best when an active securities market exists). Countries in which banks are encouraged to diversify their portfolios, domestically and internationally, suffer fewer crisis.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2588",
+    "url": "http://documents.worldbank.org/curated/en/981551468739510139/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.940764",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

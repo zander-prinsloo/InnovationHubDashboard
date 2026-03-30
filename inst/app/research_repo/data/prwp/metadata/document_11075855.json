@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Comparing Apples with....Apples : how to make (more) sense of subjective rankings of constraints to business",
+    "idno": "11075855",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11075855",
+      "title": "Comparing Apples with....Apples : how to make (more) sense of subjective rankings of constraints to business",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallward-Driemeier, Mary"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aterido, Reyes"
+      }
+    ],
+    "date_created": "2009/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11075855"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ca402"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ca402"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The use of expert or qualitative surveys to rank countries business investment conditions is widespread. However, within the economic literature there are concerns about measurement error and endogeneity based on characteristics of the respondents, raising questions about how well the data reflect the underlying reality they are trying to measure. This paper examines these concerns using data from 79,000 firms in 105 countries. The findings show that first, qualitative rankings correlate well with quantitative measures of the business environment, using both quantitative measures from within the survey and from external sources. Second, there are systematic variations in perceptions based on firm characteristics - focusing in particular on size and growth performance. However, it is not that an optimistic view of the business environment is simply the expression of a firms own performance. Rather, firm size and performance affect the relative importance of certain constraints, particularly in areas such as finance, time with officials/inspectors, corruption, and access to reliable electricity. The results also show that much of the variation in subjective responses by firm types is largely due to differences in the objective conditions across firm types. There is little evidence that size and performance have non-linear effects in how constraining a given objective condition is reported to be. Overall, concerns about endogeneity remain in using business environment indicators to explain firm performance, but this stems primarily from the fact that who you are and how well you are doing can affect the conditions you face rather than whether the indicator used is qualitative or quantitative.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5054",
+    "url": "http://documents.worldbank.org/curated/en/801211468150574250/pdf/WPS5054.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.187640",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

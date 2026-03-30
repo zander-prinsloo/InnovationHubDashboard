@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Broadband Internet and Household Welfare in Senegal",
+    "idno": "32386896",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32386896",
+      "title": "Broadband Internet and Household Welfare in Senegal",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Masaki,Takaaki"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Granguillhome Ochoa,Rogelio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Castelan,Carlos"
+      }
+    ],
+    "date_created": "2020/09/08",
+    "date_available": "2020/09/08",
+    "date_published": "2020/09/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32386896"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087d978de"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087d8402f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Senegal has experienced a rapid expansion in fixed and mobile broadband internet infrastructure over the past decade. This paper examines the relationship between access to broadband internet and household welfare between 2011 and 2018 by integrating the latest two rounds of household budget surveys with data on the location of fiber-optic transmission nodes and coverage maps of 3G mobile technology. The results show that 3G coverage is associated with a 14 percent increase in total consumption and a 10 percent decline in extreme poverty. These results are robust to controlling for household demographics and other spatial characteristics, such as region fixed effects, road density, nighttime lights, and elevation above sea level, as well as for access to complementary digital infrastructure, such as 2G coverage or fixed broadband internet. The findings are also robust to an instrumental variable approach that relies on distance to 3G coverage in neighboring areas. These effects are larger among households in urban areas and households headed by men or younger cohorts. Although they are in the same direction, the welfare effects of proximity to fixed broadband infrastructure are not statistically significant.",
+    "ref_country": [
+      {
+        "name": "Senegal",
+        "code": "SEN"
+      }
+    ],
+    "spatial_coverage": "Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9386",
+    "url": "http://documents.worldbank.org/curated/en/924961599585278723/pdf/Broadband-Internet-and-Household-Welfare-in-Senegal.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.651872",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

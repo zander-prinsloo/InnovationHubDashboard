@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Informality in Latin America and the Caribbean",
+    "idno": "10395051",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10395051",
+      "title": "Informality in Latin America and the Caribbean",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza, Norman V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sugawara, Naotaka"
+      }
+    ],
+    "date_created": "2009/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10395051"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c06f5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c06f5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the causes and consequences of informality and applies the analysis to countries in Latin America and the Caribbean. It starts with a discussion on the definition and measures of informality, as well as on the reasons why widespread informality should be of great concern. The paper analyzes informality's main determinants, arguing that informality is not single-caused but results from the combination of poor public services, a burdensome regulatory regime, and weak monitoring and enforcement capacity by the state. This combination is especially explosive when the country suffers from low educational achievement and features demographic pressures and primary production structures. Using cross-country regression analysis, the paper evaluates the empirical relevance of each determinant of informality. It then applies the estimated relationships to most countries in Latin America and the Caribbean in order to assess the country-specific relevance of each proposed mechanism.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Caribbean",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4888",
+    "url": "http://documents.worldbank.org/curated/en/532851468047799334/pdf/WPS4888.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.577142",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

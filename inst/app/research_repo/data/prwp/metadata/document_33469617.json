@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Distributional Impacts of Taxes and Benefits in Post-Soviet Countries",
+    "idno": "33469617",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33469617",
+      "title": "Distributional Impacts of Taxes and Benefits in Post-Soviet Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fuchs Tarlovsky,Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matytsin,Mikhail"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nozaki,Natsuko Kiso"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Popova,Daria"
+      }
+    ],
+    "date_created": "2021/10/06",
+    "date_available": "2021/10/06",
+    "date_published": "2021/10/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33469617"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088a402b7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088a402b7"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9795"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study compares the distributional impacts of the main tax and social spending programs in eight countries of the former Soviet Union (Armenia, Belarus, Georgia, Kyrgyzstan, Moldova, the Russian Federation, Tajikistan, and Ukraine) by applying a state-of-the-art fiscal incidence analysis based on the Commitment to Equity methodology. The region is highly interesting due to a unique combination of strong elements of path dependency (socialist legacies) with radical liberalization and welfare state retrenchment. The study examines the actual outcomes in terms of inequality and poverty and assesses the extent to which these outcomes can be attributed to various welfare state policies in these countries. It examines the extent to which taxes and social spending are progressive (whether the average transfer declines with income) and equalizing (whether they reduce inequality). In contrast to the majority of fiscal incidence studies, which are typically limited to the assessment of the impact of direct taxes and transfers, the study estimates the cumulative impact of the tax-benefit system as a whole, including direct and indirect taxes, cash transfers, and transfers in kind such as public education and health care.",
+    "ref_country": [
+      {
+        "name": "Armenia",
+        "code": "ARM"
+      },
+      {
+        "name": "Belarus",
+        "code": "BLR"
+      },
+      {
+        "name": "Georgia",
+        "code": "GEO"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KAZ"
+      },
+      {
+        "name": "Moldova",
+        "code": "MDA"
+      },
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJK"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9795",
+    "url": "http://documents.worldbank.org/curated/en/426681633524510673/pdf/Distributional-Impacts-of-Taxes-and-Benefits-in-Post-Soviet-Countries.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.376642",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

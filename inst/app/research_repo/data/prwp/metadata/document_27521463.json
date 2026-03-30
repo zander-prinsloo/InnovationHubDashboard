@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Energy prices and international trade : incorporating input-output linkages",
+    "idno": "27521463",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27521463",
+      "title": "Energy prices and international trade : incorporating input-output linkages",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chan,H. Ron"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Manderson,Edward John Matlock"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Fan"
+      }
+    ],
+    "date_created": "2017/05/30",
+    "date_available": "2017/05/30",
+    "date_published": "2017/05/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27521463"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084c06163"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084c06163"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the effect of energy costs on industry export competitiveness. Most studies in the literature use direct energy consumption (energy consumption at the final stage of production) and domestic energy prices to compute energy costs faced by domestic industries. Using multi-country input-output information, this study measures the effect of aggregate energy costs on export performance, where aggregate energy costs include not only direct energy costs, but also indirect energy costs passed on through the upstream supply chain. This study develops a theoretical trade model that incorporates tradable intermediate goods to inform its empirical strategy. It then estimates a reduced-form model using a panel data for 10 manufacturing sectors in 43 countries from 1991 to 2012. The analysis finds that ignoring input-output relationships can lead to significant over- or underestimates of the effect of energy price shocks on exports, depending on intermediate factor intensities and trade relationships. Using estimated trade elasticities, the study simulates the economic consequences of energy cross-subsidies and carbon taxes. The results show that energy cross-subsidies that raise energy tariffs on industry to support lower rates for households and farmers in India could reduce the country's net manufacturing exports by $6.1 billion a year. Similarly, a carbon tax that unilaterally increases energy prices by 10 percent in the European Union could reduce European Union-wide net manufacturing exports by 1.9 percent annually.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8076",
+    "url": "http://documents.worldbank.org/curated/en/984751496166477456/pdf/WPS8076.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.991697",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

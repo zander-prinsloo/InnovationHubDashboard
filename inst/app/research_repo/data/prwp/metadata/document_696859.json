@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade and fluctuations",
+    "idno": "696859",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696859",
+      "title": "Trade and fluctuations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay, Aart"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ventura, Jaume"
+      }
+    ],
+    "date_created": "1995/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696859"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cdb25"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cdb25"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A look at the data reveals that in OECD countries, economic fluctuations exhibit a high degree of synchronization. In 1965-90, cross-country contemporaneous GDP growth correlations averaged 45 percent. This suggests that a central element of any theory of economic fluctuations should be an explanation of how economic disturbances are transmitted across countries. But the large body of recent research that emphasizes productivity shocks as the source of fluctuations has been unsuccessful in this regard. The reason, the authors argue, is that these models have not properly addressed the role that commodity trade plays in economic fluctuations. The authors develop a stylized model of commodity trade and economic fluctuations that shows how economic disturbances are positively transmitted internationally, generating the high degree of synchronization in GDP growth rates of OECD countries from 1965-90. The positive transmission mechanism is simple: international booms increase the prices of labor-intensive commodities, raising domestic wages and stimulating employment and output at home. This is the \"wage effect.\" Empirically, this wage effect seems to be large enough to dominate the \"interest rate effect\" - that international booms also increase world interest rates, induce agents to invest abroad, reducing the domestic capital stock and output. While smaller than the wage effect, the negative transmission by way of the interest rate effect generates predictions that are consistent with existing evidence on current account fluctuations in the OECD. In particular, the model correctly predicts that capital should flow into those countries that experience a boom (relative to the rest of the world), producing current account deficits. The 1980s and early 1990s have brough about rapid financial liberalization. To analyze the implications for the transmission mechanism, the authors also present a model of trade and fluctuations in which agents in some countries are allowed to trade financial assets across borders. This model yields the counterintuitive prediction that the current process of financial integration should lead to a lower degree of synchronization of economic fluctuations. While the wage and interest rate effects still operate in the second model, financial integration creates an additional transmission channel: the \"risk-sharing effect.\" Since the domestic economy shares in the good times experienced in the rest of the world through financial risk-sharing agreements, international booms raise income at home and, provided leisure is a normal good, discourage employment and reduce output. This is a mechanism of negative transmission and reduces the predicted cross-country GDP growth correlations. Although theoretically interesting, evidence from the U.S. states suggests that this risk-sharing effect is small relative to the wage effect.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1560",
+    "url": "http://documents.worldbank.org/curated/en/738221468767385814/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.975952",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,153 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Legislative Predictability : The Case of the Kingdom of Jordan and Implications for the MENA Region",
+    "idno": "34376409",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34376409",
+      "title": "Measuring Legislative Predictability : The Case of the Kingdom of Jordan and Implications for the MENA Region",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fazekas,Mihály"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brenner,Dominik"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ladegaard,Peter Farup"
+      }
+    ],
+    "date_created": "2024/08/12",
+    "date_available": "2024/08/12",
+    "date_published": "2024/08/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34376409"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b992addf-3d87-47f9-9f3b-3ed1ed693550"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b992addf-3d87-47f9-9f3b-3ed1ed693550"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10864"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Laws and regulations represent a central tool for governments to achieve policy objectives, and they also represent a fundamental condition for making desirable individual and business decisions. While laws and regulations regularly have to be adapted to changing circumstances, frequent and sudden modifications indicate legislative unpredictability and are expected to impose considerable costs on citizens and businesses. Legislative predictability is assumed to be the consequence of high-quality laws, and existing evidence shows that regulatory management systems indeed impact legislative predictability. This paper proposes and implements an innovative legislative big data analytics approach to measuring legislative predictability in the Kingdom of Jordan and selected global comparator countries. It also maps out the feasibility of such an approach for the wider Middle East and North Africa region. Legislative data gathered from official government sources point to the high frequency of modifications in Jordan compared to a wide range of countries where data are available Around 10 to 15 percent of the original laws have been modified within 24 months of enactment over the past 20 years. In addition to prevalent modifications of new laws, even older laws face a comparatively high risk of modification in Jordan. Additional data collection following the template outlined in this paper could deliver a comparative data set, enabling a better understanding of the drivers and trends of legislative predictability and hence better evidence-based policies.",
+    "ref_country": [
+      {
+        "name": "Jordan",
+        "code": "JOR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10864",
+    "url": "http://documents.worldbank.org/curated/en/099544308122417765/pdf/IDU1b992addf13d87147f919f3b13ed1ed693550.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "public administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "transparency",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accountability and good governance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.646017",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

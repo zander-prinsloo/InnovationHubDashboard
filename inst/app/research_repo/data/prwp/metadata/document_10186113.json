@@ -1,0 +1,118 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Social health insurance vs. tax-financed health systems - evidence from the OECD",
+    "idno": "10186113",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10186113",
+      "title": "Social health insurance vs. tax-financed health systems - evidence from the OECD",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff, Adam"
+      }
+    ],
+    "date_created": "2009/01/01",
+    "date_available": "2009/01/21",
+    "date_published": "2009/01/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10186113"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b0690"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b0690"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper exploits the transitions between tax-financed health care and social health insurance in the OECD countries over the period 1960-2006 to assess the effects of adopting social health insurance over tax finance on per capita health spending, amenable mortality, and labor market outcomes. The paper uses regression-based generalizations of difference-in-differences and instrumental variables to address the possible endogeneity of a country's health system. It finds that adopting social health insurance in preference to tax financing increases per capita health spending by 3-4 percent, reduces the formal sector share of employment by 8-10 percent, and reduces total employment by as much as 6 percent. For the most part, social health insurance adoption has no significant impact on amenable mortality, but for one cause-breast cancer among women-social health insurance systems perform significantly worse, with 5-6 percent more potential years of life lost.",
+    "ref_country": [
+      {
+        "name": "East Asia and Pacific",
+        "code": "EAP"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4821",
+    "url": "http://documents.worldbank.org/curated/en/545121468028868365/pdf/WPS4821.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "health system performance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.039438",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

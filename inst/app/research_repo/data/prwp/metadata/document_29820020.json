@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impact of free trade agreement use on import prices",
+    "idno": "29820020",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29820020",
+      "title": "Impact of free trade agreement use on import prices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hayakawa,Kazunobu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laksanapanyakul,Nuttawut"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mukunoki,Hiroshi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Urata,Shujiro"
+      }
+    ],
+    "date_created": "2018/04/19",
+    "date_available": "2018/04/19",
+    "date_published": "2018/04/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29820020"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08590d9bd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08590d9bd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the impact of free trade agreement (FTA) use on import prices. For this analysis, it employs establishment-level import data with information on tariff schemes, that is, the FTA and most-favored-nation schemes used for importing. Unlike previous studies, this paper estimates the effects of FTA use on prices by controlling for differences in importing-firm characteristics. There are three main findings. First, the effect of FTA use is overestimated when not controlling for importing firm-related fixed effects. Second, on average, firms' FTA use reduces tariffs by 12 percentage points and raises import prices by 3.6-6.7 percent. Third, in general, a price rise resulting from the costs of complying with rules of origin was not found.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Thailand",
+        "code": "THA"
+      }
+    ],
+    "spatial_coverage": "The World Region ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8416",
+    "url": "http://documents.worldbank.org/curated/en/739011524146785121/pdf/WPS8416.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.259725",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

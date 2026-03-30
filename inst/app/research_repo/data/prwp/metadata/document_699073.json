@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring capital flight : a case study of Mexico",
+    "idno": "699073",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699073",
+      "title": "Measuring capital flight : a case study of Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eggerstedt, Harald"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brideau Hall, Rebecca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Wij"
+      }
+    ],
+    "date_created": "1993/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699073"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a3bf8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a3bf8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors show how the various methods commonly used to measure capital flight produce vastly different estimates (with a 100 percent difference between the lowest and the highest, in Mexico's case). They emphasize the importance of the conceptual approach to its measurement. First of all, they did not try to separate normal capital flows from capital flight. A capital shift outward because of expected taxation is as much a response to anticipated developments in rate of return as is a shift out in response to lower interest rates at home. Nor is it satisfactory to directly measure capital flight by taking short-term asset changes and the balance of errors and omissions from the balance of payments. Neither is necessarily related to the unreported private accumulation of foreign assets. They chose the residual approach, which assumes that capital inflows in the form of increases in external indebtedness and foreign direct investment should finance either the current account or reserve accumulation; any shortfall in reported use can be attributed to capital flight. Implementing the residual approach requires careful data selection and several adjustments. The authors contend that: introducing debt stock data into the analysis - instead of the changes in debt recorded directly in the balance of payments - requires many difficult adjustments and should be avoided; foreign asset changes of public corporations must be subtracted; rather than eliminate interest received on foreign assets from the current account, as some have done, earnings on private assets held abroad should be considered part of the flight capital that might have been repatriated, given different incentives and macroeconomic conditions; and the effect on capital flight of the faking of trade invoices should be assessed, since import overinvoicing and export underinvoicing can be used to channel capital abroad. They demonstrate the empirical importance of these choices with a new set of capital flight estimates for Mexico, based on the recommendations they present. They contrast the results of this approach with those of other approaches, to demonstrate the effect of conceptual choices.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1121",
+    "url": "http://documents.worldbank.org/curated/en/253251468756570063/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.188939",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

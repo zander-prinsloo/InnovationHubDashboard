@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The labor productivity gap between female and male-managed firms in the formal private sector",
+    "idno": "29898099",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29898099",
+      "title": "The labor productivity gap between female and male-managed firms in the formal private sector",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Islam,Asif Mohammed"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gaddis,Isis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Amparo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amin,Mohammad"
+      }
+    ],
+    "date_created": "2018/05/16",
+    "date_available": "2018/05/16",
+    "date_published": "2018/05/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29898099"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085aabc9e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085aabc9e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study analyzes gender differences in labor productivity in the formal private sector, using data from 128 mostly developing economies. The results reveal a sizable unconditional gap, with labor productivity being approximately 11 percent lower among female- than male-managed firms. The analyses are based on female management, which is more strongly associated with labor productivity than female participation in ownership, which has been the focus of most previous studies. Decomposition techniques reveal several factors that contribute to lower labor productivity of female-managed firms relative to male-managed firms: fewer female- than male-managed firms protect themselves from crime and power outages, have their own websites, and are (co-) owned by foreigners. In addition, in the manufacturing sector, female-managed firms are less capitalized and have lower labor cost than male-managed firms.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8445",
+    "url": "http://documents.worldbank.org/curated/en/727591526480400554/pdf/WPS8445.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.037141",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

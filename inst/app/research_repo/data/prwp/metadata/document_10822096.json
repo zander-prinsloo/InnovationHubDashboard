@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "System-wide impacts of hospital payment reforms : evidence from central and eastern Europe and central Asia",
+    "idno": "10822096",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10822096",
+      "title": "System-wide impacts of hospital payment reforms : evidence from central and eastern Europe and central Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moreno-Serra, Rodrigo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff, Adam"
+      }
+    ],
+    "date_created": "2009/07/01",
+    "date_available": "2009/07/15",
+    "date_published": "2009/07/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10822096"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c272e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c272e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Although there is broad agreement that the way that health care providers are paid affects their performance, the empirical literature on the impacts of provider payment reforms is surprisingly thin. During the 1990s and early 2000s, many European and Central Asian countries shifted from paying hospitals through historical budgets to fee-for-service or patient-based-payment methods (mostly variants of diagnosis-related groups). Using panel data on 28 countries over the period 1990-2004, the authors of this study exploit the phased shift from historical budgets to explore aggregate impacts on hospital throughput, national health spending, and mortality from causes amenable to medical care. They use a regression version of difference-in-differences and two variants that relax the difference-in-differences parallel trends assumption. The results show that fee-for-service and patient-based-payment methods both increased national health spending, including private (out-of-pocket) spending. However, they had different effects on inpatient admissions (fee-for-service increased them; patient-based-payment had no effect), and average length of stay (fee-for-service had no effect; patient-based-payment reduced it). Of the two methods, only patient-based-payment appears to have had any beneficial effect on \"amenable mortality,\" but there were significant impacts for only a couple of causes of death, and not in all model specifications.",
+    "ref_country": [
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4987",
+    "url": "http://documents.worldbank.org/curated/en/695711468250250440/pdf/WPS4987.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.385116",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

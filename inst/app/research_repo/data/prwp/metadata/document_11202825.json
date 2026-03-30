@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Demographic and socioeconomic patterns of HIV/AIDS prevalence in Africa",
+    "idno": "11202825",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11202825",
+      "title": "Demographic and socioeconomic patterns of HIV/AIDS prevalence in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beegle, Kathleen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "de Walque, Damien"
+      }
+    ],
+    "date_created": "2009/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11202825"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c4003"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c4003"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Understanding the demographic and socioeconomic patterns of the prevalence and incidence of HIV/AIDS in Sub-Saharan Africa is crucial for developing programs and policies to combat HIV/AIDS. This paper looks critically at the methods and analytical challenges to study the links between socioeconomic and demographic status and HIV/AIDS. Some of the misconceptions about the HIV/AIDS epidemic are discussed and unusual empirical evidence from the existing body of work is presented. Several important messages emerge from the results. First, the study of the link between socioeconomic status and HIV faces a range of challenges related to definitions, samples, and empirical methods. Second, given the large gaps in evidence and the changing nature of the epidemic, there is a need to continue to improve the evidence base on the link between demographic and socioeconomic status and the prevalence and incidence of HIV/AIDS. Finally, it is difficult to generalize results across countries. As the results presented here and in other studies based on Demographic and Health Survey datasets show, few consistent and significant patterns of prevalence by socioeconomic and demographic status are evident.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5076",
+    "url": "http://documents.worldbank.org/curated/en/877281468008116998/pdf/WPS5076.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "hiv/aids",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.867411",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

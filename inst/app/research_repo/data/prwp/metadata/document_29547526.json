@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Relationship between energy intensity and economic growth : new evidence from a multi-country multi-sector data set",
+    "idno": "29547526",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29547526",
+      "title": "Relationship between energy intensity and economic growth : new evidence from a multi-country multi-sector data set",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deichmann,Uwe Klaus"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Reuter,Anna"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vollmer,Sebastian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Fan"
+      }
+    ],
+    "date_created": "2018/01/30",
+    "date_available": "2018/01/30",
+    "date_published": "2018/01/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29547526"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0855e7fe6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0855da14d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper revisits the relationship between energy intensity and economic growth, using a flexible piecewise linear regression model. Based on a panel data set of 137 economies during 1990-2014, the analysis identifies a threshold effect of income growth on energy intensity change: although energy intensity is negatively correlated with income growth throughout the entire sample and study period, the declining rate significantly slows by more than 30 percent after the level of per capita income reaches $5,000. Based on index decomposition, the analysis also finds that although structural change is important for intensity levels in all countries, the efficiency effect is more important in higher-income countries. The results suggest that when countries move beyond lower-middle-income levels, energy efficiency policies become far more critical for sustaining the rate of improvement in energy efficiency.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8322",
+    "url": "http://documents.worldbank.org/curated/en/162011517329890816/pdf/WPS8322.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.153173",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

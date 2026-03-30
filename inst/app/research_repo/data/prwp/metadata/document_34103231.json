@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Power Constraints and Firm-Level Total Factor Productivity in Developing Countries",
+    "idno": "34103231",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34103231",
+      "title": "Power Constraints and Firm-Level Total Factor Productivity in Developing Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Apeti,Ablam Estel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ly,Alpha"
+      }
+    ],
+    "date_created": "2023/06/27",
+    "date_available": "2023/06/27",
+    "date_published": "2023/06/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34103231"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-431050dd-a953-424d-a8c8-fd5ee66c49eb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-431050dd-a953-424d-a8c8-fd5ee66c49eb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10510"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the effects of power outages and constraints on manufacturing firms&#x2019; revenue-based total factor productivity in developing countries. The empirical analysis is based on the World Bank Enterprise Surveys dataset for 84 countries over 2006&#x2013;2019. The paper starts by showing statistically that firms facing power outages differ and operate in very different environments compared to firms not facing power outages, underlining a potential nonrandom issue of the treatment variable. The matching-based approach (entropy balancing) is designed to contain this type of bias. It shows that power outages negatively and significantly affect firm-level revenue-based total factor productivity, with a 9 percent lower unconditional average productivity for exposed firms compared to nonexposed firms. Moreover, the estimates suggest a connection between the severity of self-reported power constraints or obstacles by firms and the magnitude of revenue-based total factor productivity loss. The results also indicate that the effect of power outages on firm-level revenue-based total factor productivity could be influenced by the stage of economic development (low-income countries, lower-middle-income countries, upper-middle-income countries), and the ability of firms to engage in research and development and purchase backup generators. These findings suggest that to ensure economic development, the government should provide a stable power supply that can mitigate the negative shocks faced by manufacturing firms and enhance their productivity and competitiveness, allowing them to drive economic growth.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10510",
+    "url": "http://documents.worldbank.org/curated/en/099703406272317386/pdf/IDU0431050dd0a9530424d0a8c80fd5ee66c49eb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.766167",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

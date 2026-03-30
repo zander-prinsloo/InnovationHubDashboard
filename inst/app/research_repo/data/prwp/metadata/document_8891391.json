@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is Accra a superstar city",
+    "idno": "8891391",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "8891391",
+      "title": "Is Accra a superstar city",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Buckley,Robert M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mathema,Ashna S."
+      }
+    ],
+    "date_created": "2007/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "8891391"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b1e9a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b1e9a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A recent study of house price behavior in U.S. cities by Gyourko, Mayer, and Sinai (2006) raises questions about so-called superstar cities in which housing is so inelastically supplied that it becomes unaffordable, as higher-income families outbid residents. We consider the case of Accra, Ghana, in this light, estimating the elasticity of housing supply and discussing the implications for growth and income distribution. There is not a great deal of data available to examine trends in Accra, so our method is indirect. First, we use a variant of the traditional monocentric city model to calculate the elasticity of Accra's housing supply relative to those of other similarly-sized African cities. This suggests that housing supply responsiveness is much higher elsewhere. This muted supply responsiveness is consistent with the observed higher housing prices. Second, we estimate a number of traditional housing demand equations and reduced form equations. Placing a number of restrictions on the equations allows us to infer Accra's housing supply elasticity. Taken together, our approaches suggest that lower-income families in Accra have such poor housing conditions because the market is extremely unresponsive to demand. Although the outcomes we have traced-high housing prices and low quality-are not unusual relative to the other developed country superstar cities, they are extreme. The welfare costs are considerable, so much so that in addition to direct housing market effects, these policies also appear to have potentially significant implications for the achievement of more equitable growth.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4453",
+    "url": "http://documents.worldbank.org/curated/en/575511468158710175/pdf/wps4453.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "land administration and management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:15.060958",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

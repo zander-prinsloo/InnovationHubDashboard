@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Imports under a foreign exchange constraint",
+    "idno": "700715",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700715",
+      "title": "Imports under a foreign exchange constraint",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moran, Cristian"
+      }
+    ],
+    "date_created": "1988/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700715"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a2af9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a2af9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The traditional model of import behavior -- which looks only at the gross domestic product (GDP) and real import prices as explanatory variables -- failed to predict or explain the developing countries' import slumps in the early 1980's. This paper expands on a more useful model, the Hemphill, which incorporates the traditional variables (relative prices and domestic income) with the variables introduced by Hemphill (foreign exchange receipts and international reserves). Section 2 of this paper discusses the theoretical models in the present study. The traditional model, used here as a benchmark, is presented first, and is later extended to include foreign exchange constraints. Section 3 presents the empirical estimates of the general import models that include foreign constraints, and two special cases, the Hemphill and benchmark models, using pooled, cross-section time series. Section 4 concludes that policy makers must look at the policies that affect GDP and prices and the availability of foreign exchange when trying to estimate import behavior in developing countries.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1",
+    "url": "http://documents.worldbank.org/curated/en/228841468740963077/Imports-under-a-foreign-exchange-constraint",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:07.004747",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using Satellite Imagery and a Farmer Registry to Assess Agricultural Support in Conflict Settings : The Case of the Producer Support Grant Program in Ukraine",
+    "idno": "34392175",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34392175",
+      "title": "Using Satellite Imagery and a Farmer Registry to Assess Agricultural Support in Conflict Settings : The Case of the Producer Support Grant Program in Ukraine",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deininger,Klaus W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ali,Daniel Ayalew"
+      }
+    ],
+    "date_created": "2024/09/17",
+    "date_available": "2024/09/17",
+    "date_published": "2024/09/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34392175"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-adc7f70f-b4fe-4bee-85cd-2a156b1fd77b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-adc7f70f-b4fe-4bee-85cd-2a156b1fd77b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10912"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "While cash transfers have emerged as an attractive option to minimize negative long-term impacts of conflict, the scope for targeting and assessing their impact in such settings is often challenging. This paper shows how a digital farmer registry in Ukraine (the State Agrarian Register) helped to target and evaluate such a program, using the country&#x2019;s $50 million Producer Support Grant in a way that largely avoided mis-targeting. The analysis applies a difference-in-differences design with panel data from 2019&#x2013;23 on crop cover at the parcel/farm level for the universe of eligible farmers registered in the State Agrarian Register. The findings suggest that the program significantly increased area cultivated, although the effect size remained modest. Impacts were most pronounced near the frontline and for the smallest farmers. The paper discusses the implications in terms of a more diversified menu of support options and the scope of using the State Agrarian Register to help to implement these options, as well as lessons beyond Ukraine.",
+    "ref_country": [
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10912",
+    "url": "http://documents.worldbank.org/curated/en/099419209172416949/pdf/IDU1adc7f70f1b4fe14bee185cd12a156b1fd77b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "land policy and tenure",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "land administration and management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.185608",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

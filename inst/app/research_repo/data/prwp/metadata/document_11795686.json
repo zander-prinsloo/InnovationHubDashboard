@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Climate cost uncertainty, retrofit cost uncertainty, and infrastructure closedown : a framework for analysis",
+    "idno": "11795686",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11795686",
+      "title": "Climate cost uncertainty, retrofit cost uncertainty, and infrastructure closedown : a framework for analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strand, Jon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Miller, Sebastian"
+      }
+    ],
+    "date_created": "2010/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11795686"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c14e3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c14e3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Large and energy-intensive infrastructure investments with long life times have substantial implications for climate policy. This study focuses on options to scale down energy consumption and carbon emissions now and in the future, and on the costs of doing so. Two ways carbon emissions can be reduced post-investment include retrofitting the infrastructure, or closing it down. Generally, the presence of bulky infrastructure investments makes it more costly to reduce emissions later. Moreover, when expected energy and environmental costs are continually rising, inherent biases in the selection processes for infrastructure investments lead to excessive energy intensity in such investments. Thus great care must be taken when choosing the energy intensity of the infrastructure at the time of investment. Simulations indicate that optimally exercising the retrofit option, when it is available, reduces ex ante expected energy consumption relative to the no-option case. Total energy plus retrofit costs can also be substantially reduced, the more so the larger is ex ante cost uncertainty. However, the availability of the retrofit option also leads to a more energy intensive initial infrastructure choice; this offsets some, but usually not all, of the gains from options for subsequent retrofitting.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5208",
+    "url": "http://documents.worldbank.org/curated/en/705801468331139595/pdf/WPS5208.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.267048",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

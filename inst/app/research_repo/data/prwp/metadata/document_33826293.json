@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trucking Costs and the Margins of Internal Trade : Evidence from a Trucking Portal in India",
+    "idno": "33826293",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33826293",
+      "title": "Trucking Costs and the Margins of Internal Trade : Evidence from a Trucking Portal in India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sinha Roy,Sutirtha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shilpi,Forhad J."
+      }
+    ],
+    "date_created": "2022/05/24",
+    "date_available": "2022/05/24",
+    "date_published": "2022/05/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33826293"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4912aaf8-4a83-4dee-952a-34fa3caace3f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4912aaf8-4a83-4dee-952a-34fa3caace3f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10059"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses data on nearly half a million actual shipments from a trucking portal in India to provide evidence on how trucking costs depend on route characteristics and affect the intensive and extensive margins of shipment flows. The empirical analysis using pre-pandemic data (before March 24, 2020) confirms the presence of thick market externalities along a route and spillovers across routes due to network externalities, both of which confer advantages to origins and destinations with larger market sizes. The paper utilizes exogenous variations in value-added tax on gasoline across states to provide causal estimates of the elasticity of shipment flows with respect to trucking costs. The empirical estimates suggest that a 1 percent increase in trucking unit costs reduces trade flows by 2.8&#x2013;3.9 percent. On the extensive margin of trade, three eastern states and several smaller territories constitute isolated regions that were largely cut off from the trading networks during the pre-pandemic period. Trucking costs increased by 32 percent during the early post-lockdown period (June 2020 to February 2021). The increase was greater along longer routes. In the short run, the increase in freight rates led to a proportionate decrease in trade flows across states. It pushed a significant number of poorer and remoter states into the ranks of isolated regions.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10059",
+    "url": "http://documents.worldbank.org/curated/en/099517205242231577/pdf/IDU04912aaf804a8304dee0952a034fa3caace3f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.100412",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

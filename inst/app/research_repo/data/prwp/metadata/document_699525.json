@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring the effects of urban transportation policies on the environment : a survey of models",
+    "idno": "699525",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699525",
+      "title": "Measuring the effects of urban transportation policies on the environment : a survey of models",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krupnick,Alan Jeff"
+      }
+    ],
+    "date_created": "1992/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699525"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4c5d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4c5d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Mandating emission control devices in new cars is only one of the most obvious steps to address the problem of vehicle emissions. Others range from taxes on gasoline and parking to incentives to scrap old cars or move businesses out of the cities. There are models to simulate the engineering implications when changes are made to the vehicle fleet (such as the U.S. Environmental Protection Agency's MOBILE 4), but other models are needed to capture individual behavior, for two reasons. First, behavior - for example, using certain vehicles - affects emissions, and thereby the effect of policies on pollution. Second, behavioral relations determine how much consumer welfare is affected by different policies - through other channels than the effect on air pollution. The author reviews existing models of urban transport and evaluates their ability to simulate the effects of different policies on emissions and on other variables relevant to welfare. He finds that: Little modeling work is done on developing countries, but some stylized facts (the greater importance of nonmotorized modes, of mopeds, of old vehicles, and of work-related trips, greater growth in urbanization, and greater growth in the urban vehicle stock) allow us to assess how well models from developed countries apply in industrial countries. Models vary greatly in complexity. The central question for users is whether they want detailed coverage of the spatial nature of pollution and congestion. The most comprehensive and detailed models also require the most data. The author proposes eclectic use of several models, since a model incorporating long-term responses, shorter-term responses, and emission consequences is not easily tractable. The author acknowledges the many complex links between policies (on the one hand) and welfare and air pollution (on the other), but says that research can often be narrowed according to available policy instruments, data availability, and the implications considered relevant. Often, simple models can improve the basis for policy evaluation, particularly when there are limited data and resources for research.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1030",
+    "url": "http://documents.worldbank.org/curated/en/761541468741315474/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.110003",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using tariff indices to evaluate preferential trading arrangements : an application to Chile",
+    "idno": "438497",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438497",
+      "title": "Using tariff indices to evaluate preferential trading arrangements : an application to Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bond,Eric W."
+      }
+    ],
+    "date_created": "1997/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438497"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c41"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c41"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author presents a tariff index that uses constant-elasticity-of-substitution aggregators of tariff line data to calculate how preferential tariff reductions affect both prices and average tariff rates. A simple general-equilibrium model with sector-specific factors of production can be combined with the tariff indices to calculate how a preferential trade arrangement affects sectoral output, factor prices, and general welfare. The general equilibrium model is simple enough that it can be calculated on an Excel spreadsheet, and is flexible enough to be used with different ranges of available domestic data. The author presents an example of the model, simulating the effects of free trade agreements between Chile and MERCOSUR countries and between Chile and NAFTA countries. Calculations for the case of Chile show that the index is simple to calculate because of its recursive structure, which allows large amounts of detailed tariff line data to be aggregated for use with domestic production data that is available only at a more aggregated level. The author finds that results using the tariff aggregators may differ substantially from those derived using simpler averages of tariff reductions. Reductions in import prices using the index were 10 to 30 percent larger than those calculated using a simple average of tariffs. Ignoring the information available in tariff line data could lead to a substantial overestimate of the average tariff rate on imports after a preferential reduction. The tariff index could be extended to incorporate the role of quantitative restrictions. The general equilibrium model could be used to consider the effects on domestic production of allowing reallocation of capital between industries over time.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1751",
+    "url": "http://documents.worldbank.org/curated/en/387251468769484400/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:50.310793",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

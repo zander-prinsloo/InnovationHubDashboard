@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Financial distortions and the distribution of global volatility",
+    "idno": "15593059",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15593059",
+      "title": "Financial distortions and the distribution of global volatility",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eden,Maya"
+      }
+    ],
+    "date_created": "2012/01/01",
+    "date_available": "2012/01/03",
+    "date_published": "2012/01/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15593059"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b9328"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b9328"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Why are emerging economies excessively vulnerable to shocks to external funding? What was the role of financial flows from emerging to developed economies in setting the stage for the subprime crisis? This paper addresses these questions in a simple general equilibrium framework that emphasizes the aggregate implications of the misallocation of funds on the micro level. The analysis shows that the misallocation of funds amplifies volatility even in a closed economy. Financial integration between relatively distorted emerging economies and relatively undistorted developed economies leads to a further divergence in volatility, thereby providing a new and simple explanation for the divergent trends in output volatility up to the recent crisis. In the integrated environment, cheap funding leads to an endogenous deterioration of the financial system in developed economies. These predictions are consistent with a wide variety of microfoundations, in which distortions cause productive projects to be relatively more sensitive to aggregate shocks. The paper provides some empirical evidence for these microfoundations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5929",
+    "url": "http://documents.worldbank.org/curated/en/808481468338981160/pdf/WPS5929.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.618388",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The quality of fiscal adjustment and the long-run growth impact of fiscal policy in Brazil",
+    "idno": "7036384",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7036384",
+      "title": "The quality of fiscal adjustment and the long-run growth impact of fiscal policy in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blanco Cossio,Fernando Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Herrera Aguilera,Santiago"
+      }
+    ],
+    "date_created": "2006/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7036384"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828abc7a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828abc7a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors describe the main trends of Brazil's fiscal policy during the past decade and analyze (1) the ability to raise the primary surplus in response to external shocks, (2) the pro-cyclical nature of fiscal policy, and (3) the long-run impact of government expenditure composition and taxation. They analyze the use of the primary balance as a policy tool within the Drudi-Prati model, wherein the government uses the primary balance to reveal its commitment to service its debt. The authors verify that both the debt ratio and the primary balance are determinants of spreads and credit ratings in Brazil. But the relationship is nonlinear: the impact of the primary balance on spreads is amplified as the debt ratio increases. Using an Autoregressive Distributed Lag (ARDL) approach, the authors analyze the relationship between the primary balance and economic activity, finding a positive correlation in the long run. However, in the short run fiscal expansions are associated with primary balance reductions and vice-versa during output contractions, confirming the procyclical nature of fiscal policy in the short run. The authors use two approaches, ARDL and a cointegrating value at risk (VAR), to analyze the interaction between public expenditure composition and taxation on growth. Similar results are obtained: large elasticities of output with respect to capital stocks, a significant negative impact of taxation on long-run GDP, and a negative impact of increasing government consumption and transfer payments on GDP. These results shed light on the contribution of fiscal policy to disappointing growth performance in Brazil during the past decade.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4004",
+    "url": "http://documents.worldbank.org/curated/en/288181468017063475/pdf/wps4004.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.255527",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

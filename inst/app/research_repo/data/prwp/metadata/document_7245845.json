@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Banking services for everyone Barriers to bank access and use around the world",
+    "idno": "7245845",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7245845",
+      "title": "Banking services for everyone Barriers to bank access and use around the world",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beck,Thorsten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt,Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Peria,Maria Soledad"
+      }
+    ],
+    "date_created": "2006/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7245845"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aaa26"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aaa26"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using information from 193 banks in 58 countries, the authors develop and analyze indicators of physical access, affordability, and eligibility barriers to deposit, loan, and payment services. They find substantial cross-country variation in barriers to banking and show that in many countries these barriers can potentially exclude a significant share of the population from using banking services. Correlations with bank- and country-level variables show that bank size and the availability of physical infrastructure are the most robust predictors of barriers. Further, the authors find evidence that in more competitive, open, and transparent economies, and in countries with better contractual and informational frameworks, banks impose lower barriers. Finally, though foreign banks seem to charge higher fees than other banks, in foreign dominated banking systems fees are lower and it is easier to open bank accounts and to apply for loans. On the other hand, in systems that are predominantly government-owned, customers pay lower fees but also face greater restrictions in terms of where to apply for loans and how long it takes to have applications processed. These findings have important implications for policy reforms to broaden access.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4079",
+    "url": "http://documents.worldbank.org/curated/en/516081468141269450/pdf/wps4079.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:17.625425",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

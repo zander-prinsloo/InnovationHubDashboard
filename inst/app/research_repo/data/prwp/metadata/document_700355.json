@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An option - pricing approach to secondary market debt : applied to Mexico",
+    "idno": "700355",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700355",
+      "title": "An option - pricing approach to secondary market debt : applied to Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Claessens,Constantijn A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Wijnbergen, Sweder"
+      }
+    ],
+    "date_created": "1990/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700355"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a9dc6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a9dc6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a pricing model for secondary market debt designed to assess the market value of various forms of guarantees and the impact of debt reduction on the value of remaining claims. The model is more flexible and realistic than other models. The technique used, option pricing, accounts for the sources and nature of risks on sovereign debt. It is extremely flexible in handling different maturity schedules, differences in seniority, and expectations about the availability of foreign exchange and willingness to pay. The model is applied to Mexico. It first prices the value of a general obligation claim. It then prices claimss with fixed and rolling interest guarantees. It derives specific market values for general obligation debt and for collateralized exit bonds and schemes on the secondary market price. It then concludes that the terms of the new bonds are in accord with recent secondary market prices of the existing debt. Finally, the paper shows that the three debt restructuring options offered to individual banks are not equivalent if the newly created exit bonds are senior to new money claims. The new money option is worth considerably less.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS333",
+    "url": "http://documents.worldbank.org/curated/en/995481468753020520/An-option-pricing-approach-to-secondary-market-debt-applied-to-Mexico",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:05.209129",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "MiDES: New Data and Facts from Local Procurement and Budget Execution in Brazil",
+    "idno": "34192820",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34192820",
+      "title": "MiDES: New Data and Facts from Local Procurement and Budget Execution in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dahis,Ricardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ricca,Bernardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Gouvea Scot De Arruda,Thiago"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Machado Sales,Nathalia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nascimento Moreira,Lucas"
+      }
+    ],
+    "date_created": "2023/11/07",
+    "date_available": "2023/11/07",
+    "date_published": "2023/11/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34192820"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-577a4ea1-ff85-4db6-8940-548fa91b30a3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-577a4ea1-ff85-4db6-8940-548fa91b30a3"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10598"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces a new disaggregated and harmonized dataset on public procurement and budget execution by Brazilian subnational entities, which currently covers half of Brazilian municipalities and spans the years 2003&#x2013;21. This dataset provides key information that was previously unavailable from aggregate data, such as the identities of suppliers, details on purchases of goods and services, and granular information on the life cycle of each expenditure action. It then uses these data to provide new stylized facts about local public finance. First, it shows that about one-quarter of government purchases are locally procured and discusses implications for efficiency. Second, it demonstrates that close to 15 percent of payments exceed the 30-day threshold and that payment timeliness is systematically correlated with the income level of the municipality.",
+    "ref_country": [
+      {
+        "name": "N/A",
+        "code": "-"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10598",
+    "url": "http://documents.worldbank.org/curated/en/099456511072320917/pdf/IDU0577a4ea10ff8504db6089400548fa91b30a3.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.767496",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

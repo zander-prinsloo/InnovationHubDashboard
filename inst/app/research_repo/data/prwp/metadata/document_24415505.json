@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are we confusing poverty with preferences",
+    "idno": "24415505",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24415505",
+      "title": "Are we confusing poverty with preferences",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van den Boom,Bart"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Halsema,Alex"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Molini,Vasco"
+      }
+    ],
+    "date_created": "2015/04/23",
+    "date_available": "2015/04/23",
+    "date_published": "2015/04/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24415505"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082dfe5de"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082dfe5de"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Modifying the national poverty line to the context of observed consumption patterns of the poor is becoming popular. A context-specific poverty line would be more consistent with preferences. This paper provides theoretical and empirical evidence that the contrary holds and that the national poverty line is more appropriate for comparing living standards among the poor, at least under prevailing conditions in Mozambique and Ghana. The problem lies in the risk of downscaling the burden associated with cheap-calorie diets and the low nonfood component of the rural poor. The paper illustrates how observed behavior may neither reveal preferences nor detect heterogeneous preferences among the poor. Rather, the consumption pattern is the upshot of the poverty condition itself. Poverty is confused with preferences if observed cheap-calorie diets are seen as a matter of taste, whereas in fact they reflect a lack of means to consume a preferred diet of higher quality, as food Engel curve estimates indicate. Likewise, a smaller nonfood component is not a matter of a particular distaste, but an adaptation to the fact that various nonfood items (such as transport) and basic services (such as electricity and health) are simply absent in rural areas.",
+    "ref_country": [
+      {
+        "name": "Mozambique",
+        "code": "MOZ"
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7247",
+    "url": "http://documents.worldbank.org/curated/en/902801467998208698/pdf/WPS7247.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.414608",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

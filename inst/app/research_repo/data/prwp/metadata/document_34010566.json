@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Importance of Maintenance : Geospatial Analysis of Cholera Risk and Water and Sanitation Infrastructure in Harare, Zimbabwe",
+    "idno": "34010566",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34010566",
+      "title": "The Importance of Maintenance : Geospatial Analysis of Cholera Risk and Water and Sanitation Infrastructure in Harare, Zimbabwe",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "George Joseph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sveta Milusheva"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sturrock,Hugh James William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kashangura,Faith Maidei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ayling,Sophie Charlotte Emi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoo,Yi Rong"
+      }
+    ],
+    "date_created": "2023/02/28",
+    "date_available": "2023/02/28",
+    "date_published": "2023/02/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34010566"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d0474b15-0f54-4def-b645-12a4f569be12"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d0474b15-0f54-4def-b645-12a4f569be12"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10327"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Understanding the specific factors associated with cholera outbreaks is an integral part of designing better approaches to mitigate their impact. This paper uses georeferenced case data from the cholera epidemic that occurred in Harare, Zimbabwe, from September 2018 to January 2019. The paper applies spatio-temporal modeling to understand how the outbreak unfolded and the factors associated with higher risk of being a reported case. The study highlighted a number of findings. First, using call detail records to estimate weekly population movement throughout the city, the results suggest that human movement helps to explain the spatiotemporal patterns of the cases observed. In addition, the results highlight a number of sociodemographic risk factors and suggest that there is a relationship between cholera risk and water infrastructure, with populations living in close proximity to the sewer network with high access to piped water being at higher risk. A possible explanation for this surprising observation is that sewer bursts led to the contamination of the piped water network, turning access to piped water, usually assumed to be protective, into a risk factor. Although further studies are required to test this hypothesis, if it is true, it highlights the importance of maintenance for achieving the Sustainable Development Goals of improved water and sanitation infrastructure.",
+    "ref_country": [
+      {
+        "name": "Zimbabwe",
+        "code": "ZWE"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10327",
+    "url": "http://documents.worldbank.org/curated/en/099631202282320091/pdf/IDU1d0474b1510f5414def1b645112a4f569be12.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.973709",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

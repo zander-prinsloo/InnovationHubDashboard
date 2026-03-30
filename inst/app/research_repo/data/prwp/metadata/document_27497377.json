@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is consanguinity an impediment to improving human development outcomes",
+    "idno": "27497377",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27497377",
+      "title": "Is consanguinity an impediment to improving human development outcomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mete,Cem"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bossavie,Laurent Loic Yves"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Giles,John T."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alderman,Harold H."
+      }
+    ],
+    "date_created": "2017/05/24",
+    "date_available": "2017/05/24",
+    "date_published": "2017/05/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27497377"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084bd7278"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084bd7278"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses unique data collected in rural Pakistan to assess the extent to which consanguinity, which is widespread in North Africa, Central and West Asia, and most parts of South Asia, is linked to child cognitive ability and nutritional status. As economic benefits of marrying cousins may lead to upward bias in estimates of the effects of consanguinity on child outcomes, prior work likely underestimates the negative impacts of consanguinity on child outcomes. This paper finds that children born into consanguineous marriages have lower test scores, lower height-for-age, and a higher likelihood of being severely stunted. After controlling for current household wealth and parent education, the effects of endogenous consanguinity on child cognitive ability and height-for-age are identified by (current and past) grandfather land ownership and maternal grandparent mortality as instruments for consanguineous marriage of parents.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8074",
+    "url": "http://documents.worldbank.org/curated/en/887611495655329951/pdf/WPS8074.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.991788",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

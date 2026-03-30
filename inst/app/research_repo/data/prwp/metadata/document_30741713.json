@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Persistent Misallocation and the Returns to Education in Mexico",
+    "idno": "30741713",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30741713",
+      "title": "Persistent Misallocation and the Returns to Education in Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levy,Santiago"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Calva,Luis-Felipe"
+      }
+    ],
+    "date_created": "2019/01/07",
+    "date_available": "2019/01/07",
+    "date_published": "2019/01/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30741713"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086834b67"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086834b67"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Over the last two decades, Mexico has experienced macroeconomic stability, an open trade regime, and substantial progress in education. Yet average workers' earnings have stagnated, and earnings of those with higher schooling have fallen, compressing the earnings distribution and lowering the returns to education. This paper argues that distortions that misallocate resources toward less-productive firms explain these phenomena, because these firms are less intensive in well-educated workers compared with more-productive ones. It shows that while the relative supply of workers with more years of schooling has increased, misallocation of resources toward less productive firms has persisted. These two trends have generated a widening mismatch between the supply of, and the demand for, educated workers. The paper breaks down worker earnings into observable and unobservable firm and individual worker characteristics, and computes a counterfactual earnings distribution in the absence of misallocation. The main finding is that in the absence of misallocation average earnings would be higher, and that earnings differentials across schooling levels would widen, raising the returns to education. A no-misallocation path is constructed for the wage premium. Depending on parameter values, this path is found to be rising or constant, in contrast to the observed downward path. The paper concludes arguing that the persistence of misallocation impedes Mexico from taking full advantage of its investments in the education of its workforce.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8690",
+    "url": "http://documents.worldbank.org/curated/en/540981546873707376/pdf/WPS8690.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.044784",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

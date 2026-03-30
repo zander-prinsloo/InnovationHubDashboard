@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Integrating seasonal forecasts and insurance for adaptation among subsistence farmers : the case of Malawi",
+    "idno": "9577543",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9577543",
+      "title": "Integrating seasonal forecasts and insurance for adaptation among subsistence farmers : the case of Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Osgood, Daniel E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Suarez, Pablo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hansen, James"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carriquiry, Miguel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mishra, Ashok"
+      }
+    ],
+    "date_created": "2008/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9577543"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b2888"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b2888"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Climate variability poses a severe threat to subsistence farmers in southern Africa. Two different approaches have emerged in recent years to address these threats: the use of seasonal precipitation forecasts for risk reduction (for example, choosing seed varieties that can perform well for expected rainfall conditions), and the use of innovative financial instruments for risk sharing (for example, index-based weather insurance bundled to microcredit for agricultural inputs). So far these two approaches have remained entirely separated. This paper explores the integration of seasonal forecasts into an ongoing pilot insurance scheme for smallholder farmers in Malawi. The authors propose a model that adjusts the amount of high-yield agricultural inputs given to farmers to favorable or unfavorable rainfall conditions expected for the season. Simulation results - combining climatic, agricultural, and financial models - indicate that this approach substantially increases production in La Niña years (when droughts are very unlikely for the study area), and reduces losses in El Niño years (when insufficient rainfall often damages crops). Cumulative gross revenues are more than twice as large for the proposed scheme, given modeling assumptions. The resulting accumulation of wealth can reduce long-term vulnerability to drought for participating farmers. Conclusions highlight the potential of this approach for adaptation to climate variability and change in southern Africa.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4651",
+    "url": "http://documents.worldbank.org/curated/en/893941468046487650/pdf/wps4651.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:13.196474",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

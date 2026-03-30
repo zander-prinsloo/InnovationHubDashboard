@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Land measurement bias and its empirical implications : evidence from a validation exercise",
+    "idno": "26067878",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26067878",
+      "title": "Land measurement bias and its empirical implications : evidence from a validation exercise",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dillon,Andrew S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gourlay,Sydney"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcgee,Kevin Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Oseni,Gbemisola O."
+      }
+    ],
+    "date_created": "2016/03/14",
+    "date_available": "2016/03/14",
+    "date_published": "2016/03/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26067878"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0841fc07f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0841fc07f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates how land size measurements vary across three common land measurement methods (farmer estimated, Global Positioning System (GPS), and compass and rope), and the effect of land size measurement error on the inverse farm size relationship and input demand functions. The analysis utilizes plot-level data from the second wave of the Nigeria General Household Survey Panel, as well as a supplementary land validation survey covering a subsample of General Household Survey Panel plots. Using this data, both GPS and self-reported farmer estimates can be compared with the gold standard compass and rope measurements on the same plots. The findings indicate that GPS measurements are more reliable than farmer estimates, where self-reported measurement bias leads to over-reporting land sizes of small plots and under-reporting of large plots. The error observed across land measurement methods is nonlinear and results in biased estimates of the inverse land size relationship. Input demand functions that rely on self-reported land measures significantly underestimate the effect of land on input utilization, including fertilizer and household labor.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7597",
+    "url": "http://documents.worldbank.org/curated/en/258851468197930768/pdf/Land-measurement-bias-and-its-empirical-implications-evidence-from-a-validation-exercise.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.536939",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

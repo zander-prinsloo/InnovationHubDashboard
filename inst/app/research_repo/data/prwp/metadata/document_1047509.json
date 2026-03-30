@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How adverse selection affects the health insurance market",
+    "idno": "1047509",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1047509",
+      "title": "How adverse selection affects the health insurance market",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Belli,Paolo"
+      }
+    ],
+    "date_created": "2001/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1047509"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05aee"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05aee"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Adverse selection can be defined as strategic behavior by the more informed partner in a contract against the interest of the less informed partner(s). In the health insurance field, this manifests itself through healthy people choosing managed care and less healthy people choosing more generous plans. Drawing on theoretical literature on the problem of adverse selection in the health insurance market, the author synthesizes concepts developed piecemeal over more than 20 years, using two examples and revisiting the classical contribution of Rothschild and Stiglitz. He highlights key insights, especially from the literature on \"equilibrium refinements\" and on the theory of \"second best.\" The government can correct spontaneous market dynamics in the health insurance market by directly subsidizing insurance or through regulation; the two forms of intervention provide different results. Providing partial public insurance, even supplemented by the possibility of opting out, can lead to second-best equilibria. The same result holds as long as the government can subsidize contracts with higher-than-average premium-benefit ratios and can tax contracts with lower-than-average premium-benefit ratios. The author analyzes the following policy options relating to the public provision of insurance: a) Full public insurance. b) Partial public insurance with or without the possibility of acquiring supplementary insurance and with or without the possibility of opting out. In recent plans implemented in Germany and the Netherlands, where competition among several health funds and insurance companies was promoted, a public fund was created to discourage risk screening practices by providing the necessary compensation across riks groups. But only \"objective\" risk adjusters (such as age, gender, and region) were used to decide which contracts to subsidize. Those criteria alone cannot correct the effects of adverse selection. Regulation can exacerbate the problem of adverse selection and lead to chronic market instability, so certain steps must be taken to prevent risk screening and preserve competition for the market. The author considers the following three policy options for regulating the private insurance market: 1) A standard contract with full coverage. 2) Imposition of a minimum insurance requirement. 3) Imposition of premium rate restrictions.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2574",
+    "url": "http://documents.worldbank.org/curated/en/258631468765624001/How-adverse-selection-affects-the-health-insurance-market",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:37.262022",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

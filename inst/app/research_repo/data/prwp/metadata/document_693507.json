@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The main determinants of inflation in Albania",
+    "idno": "693507",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693507",
+      "title": "The main determinants of inflation in Albania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Domac, Iker"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbirt, Carolos"
+      }
+    ],
+    "date_created": "1998/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693507"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b1f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b1f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors investigate the behavior and determinants of inflation in Albania, using three approaches. They decompose inflation into four components: seasonal, cyclical, trend, and random: rely on the widely used Granger causality test, using disaggregated data on both the consumer price index (CPI) and key economic variables; and apply cointegration and error correction techniques to the process of inflation, using a simple theoretical model. Using the first approach, they conclude that inflation exhibits strong seasonal patterns associated with agriculture seasonality. Peaks and troughs of monetary aggregates correspond to those of inflation, with a two-month lag. The exchange rate also exhibits stable seasonality, reaching its trough in August and tending to depreciate early in the year. The Granger causality test shows M1 (currency in circulation plus demand deposits) and the exchange rate to have predictive content for most items of the CPI. The empirical findings also indicate that credit to government is a good predictor of medical care, transportation, and communication prices. But causality also runs from the prices of bread and cereals, recreation, education, and culture to credit to government, since these items, at least during the period under consideration, are subsidized and contribute to the budget deficit. And causality runs from credit to government to the price of nontradables, highlighting the fact that an increase in the fiscal deficit would undermine Albania's competitiveness by producing appreciation in the real exchange rates. The results of cointegration and error-correction techniques confirm that, in the long run, inflation is positively related to both money supply and the exchange rate, and negatively related to real income. A 1-percent increase in M1, for example will raise inflation by 0.41 percent; a 1-percent depreciation of the exchange rate will increase inflation by 0.17 percent; whereas a 1-percent increase in real income will reduce inflation by 0.25. Inflation adjusts to its equilibrium value fairly rapidly - 25 percent a month. The impact of the exchange rate on inflation occurs a month later, while the impact of real income and money takes place two and four months later, respectively. The findings support the conventional elements of a typical stabilization program. Fighting inflation and keeping exports competitive requires reducing both the budget deficit and credit to government. The strong seasonal nature of inflation can be somewhat ameliorated by improving infrastructure and customs services. Structural reforms and improvements in infrastructure should be part of any stabilization program because economic growth contributes to containing inflation.",
+    "ref_country": [
+      {
+        "name": "Albania",
+        "code": "ALB"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1930",
+    "url": "http://documents.worldbank.org/curated/en/805831468768551940/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:45.340044",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

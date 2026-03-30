@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Dynamic climate policy with both strategic and non-strategic agents : taxes versus quantities",
+    "idno": "18447749",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18447749",
+      "title": "Dynamic climate policy with both strategic and non-strategic agents : taxes versus quantities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karp, Larry"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Siddiqui, Sauleh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strand, Jon"
+      }
+    ],
+    "date_created": "2013/10/01",
+    "date_available": "2013/10/01",
+    "date_published": "2013/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18447749"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b5ce4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b5ce4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies a dynamic game where each of two large blocs, of fossil fuel importers and exporters respectively, sets either taxes or quotas to exercise power in fossil-fuel markets. The main novel feature is the inclusion of a \"fringe\" of non- strategic (emerging and developing) countries which both consume and produce fossil fuels. Cumulated emissions over time from global fossil fuel consumption create climate damages which are considered by both the strategic importer and the non-strategic countries. Markov perfect equilibria are examined under the four combinations of trade policies and compared with the corresponding static games where climate damages are given (not stock-related). The main results are that taxes always dominate quota policies for both the strategic importer and exporter and that \"fringe\"countries bene?t from a tax policy as compared with a quota policy for the strategic importer, as the import fuel price then is lower, and the strategic importer's fuel consumption is also lower, thus causing fewer climate damages.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6679",
+    "url": "http://documents.worldbank.org/curated/en/925121468338393617/pdf/WPS6679.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.544643",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

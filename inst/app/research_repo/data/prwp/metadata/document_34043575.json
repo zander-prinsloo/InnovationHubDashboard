@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Water Constraints to Agricultural Productivity in Bhutan",
+    "idno": "34043575",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34043575",
+      "title": "Water Constraints to Agricultural Productivity in Bhutan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dizon,Felipe Jr Fadullon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Imtiaz,Muhammad Saad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yu,Jisang"
+      }
+    ],
+    "date_created": "2023/04/17",
+    "date_available": "2023/04/17",
+    "date_published": "2023/04/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34043575"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-21ce860c-d554-49c0-b3e6-024cc210e1f6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-21ce860c-d554-49c0-b3e6-024cc210e1f6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10410"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses two years of agriculture census data to build a panel dataset that consists of all the small towns in Bhutan. This dataset is used to estimate the impact of irrigation gaps and drought on the yields of paddy, maize, and other crops. The paper compares the estimated impacts from a panel fixed effects model and a spatial first differences model. The findings show that irrigation gaps reduce paddy yields and droughts reduce maize yields. Estimates from the spatial first differences model are found to be consistent relative to those from the panel fixed effects model. The paper further finds that water constraints reduce yields of vegetable crops, and other constraints, such as labor shortages, wild animals, insects, and diseases, also reduce the yields of cereal crops.",
+    "ref_country": [
+      {
+        "name": "Bhutan",
+        "code": "BTN"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10410",
+    "url": "http://documents.worldbank.org/curated/en/099354104172313856/pdf/IDU021ce860c0d554049c00b3e60024cc210e1f6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.513155",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

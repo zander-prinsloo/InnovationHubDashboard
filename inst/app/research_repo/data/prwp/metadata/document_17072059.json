@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is there a distress risk anomaly pricing of systematic default risk in the cross section of equity returns",
+    "idno": "17072059",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17072059",
+      "title": "Is there a distress risk anomaly pricing of systematic default risk in the cross section of equity returns",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anginer, Deniz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yildizhan, Celim"
+      }
+    ],
+    "date_created": "2010/01/01",
+    "date_available": "2010/01/01",
+    "date_published": "2010/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17072059"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b3e58"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b3e58"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The standard measures of distress risk ignore the fact that firm defaults are correlated and that some defaults are more likely to occur in bad times. The paper uses risk premium computed from corporate credit spreads to measure a firm's exposure to systematic variation in default risk. Unlike previously used measures that proxy for a firm's physical probability of default, credit spreads proxy for a risk-adjusted default probability and thereby explicitly account for the non-diversifiable component of distress risk. In contrast to prior findings in the literature, the authors find that stocks that have higher credit risk premia, that is stocks with higher systematic default risk exposures, have higher expected equity returns. Consistent with structural models of default, they show that the premium to a high-minus-low systematic default risk hedge portfolio is largely explained by the market factor. The authors confirm the robustness of these results by using an alternative systematic default risk factor for firms that do not have bonds outstanding. The results show no evidence of firms with high systematic default risk exposure delivering anomalously low returns.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5319",
+    "url": "http://documents.worldbank.org/curated/en/996671468339598563/pdf/WPS5319.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.381895",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

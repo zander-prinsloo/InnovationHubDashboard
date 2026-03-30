@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Analyzing food price trends in the context of Engel’s law and the Prebisch-Singer hypothesis",
+    "idno": "25093870",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25093870",
+      "title": "Analyzing food price trends in the context of Engel’s law and the Prebisch-Singer hypothesis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baffes,John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Etienne,Xiaoli Liao"
+      }
+    ],
+    "date_created": "2015/09/28",
+    "date_available": "2015/09/28",
+    "date_published": "2015/09/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25093870"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083109f96"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083109f96"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Income growth in emerging economies has often been cited as a key driver of the past decade’s com-modity price boom—the longest and broadest boom since World War II. This paper shows that income has a negative and highly significant effect on real food commodity prices, a finding that is consistent with Engel’s Law and Kindleberger’s thesis, the predecessors of the Prebisch-Singer hypothe-sis. The paper also shows that, in the long run, income influences real food prices mainly through the manufacturing price channel (the deflator), hence weakening the view that income growth exerts strong upward pressure on food prices. Other (short-term) drivers of food prices include energy costs, inventories, and monetary conditions.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7424",
+    "url": "http://documents.worldbank.org/curated/en/175431468189237687/pdf/WPS7424.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.908467",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

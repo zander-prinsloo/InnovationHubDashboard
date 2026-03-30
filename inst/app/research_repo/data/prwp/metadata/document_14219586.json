@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fiscal policy and debt dynamics in developing countries",
+    "idno": "14219586",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14219586",
+      "title": "Fiscal policy and debt dynamics in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ilzetzki, Ethan"
+      }
+    ],
+    "date_created": "2011/05/01",
+    "date_available": "2011/05/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14219586"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb0c0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb0c0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using a new tax database for 28 countries and a variety of econometric methods, this paper contributes to the debate on the effects of fiscal policy on economic activity in a number of ways. The analysis finds that tax cuts have a stimulative effect on economic growth in developing countries. Lowering the personal income tax rate by 1 percentage point, or cutting revenues by 1 percent of gross domestic product increases gross domestic product by 0.3-0.4 percent on impact and 0.8 percent in the long run. The author finds that cuts in personal income taxes are more effective in stimulating growth than cuts in corporate or valued added tax rates. The author incorporates debt dynamics into a fiscal vector autoregression model for a number of developing countries. Existing estimates of the effects of fiscal policy on growth use linear time-series methods, which may assess the effects of fiscal policy along a debt-path that is unsustainable. Incorporating the non-linear relationship between government expenditure, taxes, and debt alters estimates of the impact of fiscal policy on gross domestic product in several countries. In Brazil, for example, conventional time-series methods may overstate the effects of fiscal policy on gross domestic product, by ignoring the detrimental effects of debt accumulation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5666",
+    "url": "http://documents.worldbank.org/curated/en/850821468325230387/pdf/WPS5666.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.745441",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Housing Demand and Affordability in India : Implications for Housing Policy",
+    "idno": "33808825",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33808825",
+      "title": "Housing Demand and Affordability in India : Implications for Housing Policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karmali,Nadeem M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aline Weng"
+      }
+    ],
+    "date_created": "2022/05/02",
+    "date_available": "2022/05/02",
+    "date_published": "2022/05/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33808825"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ba4ed93c-c44a-485c-9c6b-46aabdec42dc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ba4ed93c-c44a-485c-9c6b-46aabdec42dc"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10031"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The focus of this paper is on the demand for housing in urban India. Using rental data, the paper finds that income elasticities of housing demand are high and elastic across time. Hedonic pricing regressions confirm that this high elasticity is driven by high demand for improved water and sanitation amenities that are attached to the consumption of housing. Further, the demand estimations show that rental markets in urban India and in megacities are becoming more efficient, emerging from the shadow of legacy rent control regulation and uncertainty from the past. All the results suggest that household subsidies or other demand-side interventions are less warranted, but rather investments to increase housing supply through better service infrastructure for water, sanitation, and connectivity are better uses of public resources. The analysis also provides guidelines to improve the targeting of housing programs by means testing against the income distribution. Using one such estimate of the income distribution, the paper shows that housing affordability is improving in India. In doing so, the paper highlights the methodological challenges in measuring housing affordability in developing countries.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10031",
+    "url": "http://documents.worldbank.org/curated/en/099342105022229388/pdf/IDU0ba4ed93c0c44a0485c09c6b046aabdec42dc.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.311687",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

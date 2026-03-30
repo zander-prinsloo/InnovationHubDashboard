@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Product quality, productive efficiency, and international technology diffusion : evidence from plant-level panel data",
+    "idno": "1687152",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1687152",
+      "title": "Product quality, productive efficiency, and international technology diffusion : evidence from plant-level panel data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay, Aart"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soloaga, Isidro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tybout, James"
+      }
+    ],
+    "date_created": "2002/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1687152"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a3a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a3a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "What mechanisms most frequently transmit foreign technologies to developing country firms? Do these foreign technologies affect both productive efficiency and product quality in the recipient firms? Under what circumstances do firms pursue activities that give them access to foreign knowledge? To address these questions, the authors develop a new methodology and apply the framework to plant-level panel data from Colombia, Mexico, and Morocco. Their results point to several basic messages. First, by imposing enough structure on the production function and the demand system, it is possible to measure product quality and marginal costs at the plant level and to relate the evolution of these variables to firms' activity histories. Doing so, the authors find strong firm-level persistence in both quality and marginal costs. But in most industry or country panels that they study, past international activities help little in predicting current performance once past realizations on quality and marginal cost are controlled for. That is, activities do not typically Granger-cause performance. Interestingly, in the minority of cases where significant associations emerge, international activities appear to move costs and product quality in the same direction. So the net effect on profits in these cases is not immediately apparent. Second, several basic patterns emerge with respect to the determinants of international activities. Most fundamentally, activities are highly persistent, even after unobserved heterogeneity is controlled for. That suggests that firms incur sunk threshold costs when they initiate or cease activities, so temporary policy or macroeconomic shocks may have long-run effects on the patterns of activities observed in a particular country or industry. Also, activities tend to go together, so that studies that relate firms' performance to one international activity and ignore the others may generate misleading conclusions. But the bundling of activities seems to mainly reflect unobserved plant characteristics, such as managerial philosophy, contacts, product niche, and location. Once these are controlled for, there is little evidence that engaging in one international activity increases the probability that a firm will engage in others in the future.",
+    "ref_country": [
+      {
+        "name": "Mauritania",
+        "code": "MRT"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      }
+    ],
+    "spatial_coverage": "Africa ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2759",
+    "url": "http://documents.worldbank.org/curated/en/450291468756952337/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:35.117150",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Sources of volatility in small economies",
+    "idno": "30254355",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30254355",
+      "title": "Sources of volatility in small economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hnatkovska,Viktoriya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koehler-Geib,Fritzi"
+      }
+    ],
+    "date_created": "2018/07/12",
+    "date_available": "2018/07/12",
+    "date_published": "2018/07/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30254355"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085d7d336"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085d7d336"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Do sources of volatility differ by country characteristics such as the level of development, country size, quality of institutions, and presence of restrictions on fiscal policy? This paper sets out to answer this question in a quarterly panel of 48 developed and developing countries for 1960-2015. Using individual country and panel vector autoregressions, the paper shows that factors affecting gross domestic product volatility differ systematically by country size, development level, and whether a country has adopted fiscal rule(s). The role of country size is particularly pronounced in developing countries. The paper shows that small developing countries are more prone to domestic output shocks, while shocks to the world interest rate and real exchange rate are more important in large developing countries. Small countries are also more susceptible to terms of trade shocks. These results suggest that stabilization policies must be designed with these country characteristics in mind.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8526",
+    "url": "http://documents.worldbank.org/curated/en/412821531405512576/pdf/WPS8526.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.564239",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

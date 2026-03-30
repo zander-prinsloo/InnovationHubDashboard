@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Potential Growth : A Global Database",
+    "idno": "34019195",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34019195",
+      "title": "Potential Growth : A Global Database",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic Celik,Sinem"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kose,Ayhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ohnsorge,Franziska Lieselotte"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruch,Franz Ulrich"
+      }
+    ],
+    "date_created": "2023/03/10",
+    "date_available": "2023/03/10",
+    "date_published": "2023/03/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34019195"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f9f2613e-a18e-486c-a271-e80b2c21a128"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f9f2613e-a18e-486c-a271-e80b2c21a128"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10354"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Potential growth&#x2014;the rate of expansion an economy can sustain at full capacity and employment&#x2014;is a critical driver of development progress. It is also a major input in the formulation of fiscal and monetary policies over the business cycle. This paper introduces the most comprehensive database to date, covering the nine most commonly used measures of potential growth for up to 173 countries over 1981&#x2013;2021. Based on this database, the paper presents three findings. First, all measures of global potential growth show a steady and widespread decline over the past decade, with all the fundamental drivers of growth losing momentum over time. In 2011&#x2013;21, potential growth was below its 2000&#x2013;10 average in nearly all advanced economies and roughly 60 percent of emerging market and developing economies. Second, adverse events, such as the global financial crisis and the COVID-19 pandemic, contributed to the decline. At the country-level also, national recessions lowered potential growth even five years after their onset. Third, the persistent impact of recessions on potential growth operated through weaker growth of investment, employment, and productivity.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10354",
+    "url": "http://documents.worldbank.org/curated/en/099426303102336406/pdf/IDU0f9f2613e0a18e0486c0a2710e80b2c21a128.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.785774",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor policy and digital technology use : indicative evidence from cross-country correlations",
+    "idno": "28088162",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "28088162",
+      "title": "Labor policy and digital technology use : indicative evidence from cross-country correlations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Packard,Truman G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Montenegro,Claudio E."
+      }
+    ],
+    "date_created": "2017/10/18",
+    "date_available": "2017/10/18",
+    "date_published": "2017/10/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "28088162"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0850f0deb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0850f0deb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper exploits variation in country-level indicators drawn from published data to analyze the relationship between labor regulation and the use of digital technology. The analysis shows a statistically and economically significant association between digital technology use by firms and a country's statutory minimum wage and employment protection regulations. The results are robust to the inclusion of controls for level of development, economic stability, available infrastructure, and trade openness. To ensure the broadest country coverage, the paper develops new indexes of employment protection, using the World Bank's Doing Business indicators, which allow several aspects of labor market regulation—such as restrictions on hours and hiring, dismissal procedures, and severance costs--to be analyzed separately.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8221",
+    "url": "http://documents.worldbank.org/curated/en/510571508329712207/pdf/WPS8221.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.791253",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

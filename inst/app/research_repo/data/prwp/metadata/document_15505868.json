@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Explaining the demand for sovereignty",
+    "idno": "15505868",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15505868",
+      "title": "Explaining the demand for sovereignty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sambanis, Nicholas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Milanovic, Branko"
+      }
+    ],
+    "date_created": "2011/11/01",
+    "date_available": "2011/11/01",
+    "date_published": "2011/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15505868"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b3b55"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b3b55"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Why do groups want to secede and where are we most likely to see demands for self-determination? This paper proposes an economic explanation whereby a tradeoff between income and sovereignty implies that, other things being equal, richer regions are more likely to want more autonomy and conflict arises due to a disparity between desired and actual levels of sovereignty. The authors provide simple empirical tests using new data collected at the level of second-tier administrative subdivisions in 48 decentralized countries. They find a positive association between, on the one hand, relative regional income, regional population share, natural resource endowment, and regional inter-personal inequality and, on the other hand, observed sovereignty levels. Ethnically distinct regions have lower sovereignty, but this association is only conditional on controlling for the interactive effects between ethnic distinctiveness and regional inter-personal inequality.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5888",
+    "url": "http://documents.worldbank.org/curated/en/431261468321561090/pdf/WPS5888.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:02.281921",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

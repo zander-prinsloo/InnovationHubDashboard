@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating real production and expenditures across nations : a proposal for improving the Penn World Tables",
+    "idno": "7451133",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7451133",
+      "title": "Estimating real production and expenditures across nations : a proposal for improving the Penn World Tables",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deng, Haiyan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feenstra,Robert C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Heston,Alan Wiley"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timmer,Marcel Peter"
+      }
+    ],
+    "date_created": "2007/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7451133"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828acbbf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828acbbf"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "From its inception, the Penn World Tables (PWT), building on the International Comparisons Program (ICP) of the United Nations, has sought to compare the standard of living of individuals in different countries. That is, the term \"real GDP per capita\" as reported in the PWT is intended to represent the ability to purchase goods and services by a representative agent in the economy. The same is true of benchmark comparisons as published by the United Nations, Eurostat, or OECD. But this expenditure-side interpretation of real GDP is quite different from the uses to which benchmark ICP and PWT data are frequently applied, such as in growth regressions, where \"real GDP\" is intended to reflect the production side of the economy. In this paper the authors propose a new approach to international comparisons of real GDP measured from the output side. They modify the traditional Gary-Khamis system, which measures real GDP from the expenditure side using real domestic expenditure, to include differences in the terms of trade between countries. The analysis shows that this system has a strictly positive solution under mild assumptions. On the basis of a set of domestic final output, import, and export prices and values for 151 countries in 1996, differences between real GDP measured from the expenditure and output side can be substantial, especially for small open economies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4166",
+    "url": "http://documents.worldbank.org/curated/en/346251468142506072/pdf/wps4166.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:17.031277",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

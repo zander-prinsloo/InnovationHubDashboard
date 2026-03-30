@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Decentralized Markets for Electricity in Low-Income Countries",
+    "idno": "34451568",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34451568",
+      "title": "Decentralized Markets for Electricity in Low-Income Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lang,Megan Elizabeth"
+      }
+    ],
+    "date_created": "2025/01/30",
+    "date_available": "2025/01/30",
+    "date_published": "2025/01/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34451568"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-9654047d-5440-4911-a0c8-1312437cb2de"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-9654047d-5440-4911-a0c8-1312437cb2de"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11053"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Governments in low-income countries are increasingly integrating off-grid electricity provision into national electrification strategies, creating novel, decentralized markets for electricity. This paper studies a highly decentralized product that plays an important role in energy access: pay as you go (PAYGo) solar home systems. Unlike grid electrification, PAYGo solar features low upfront costs but relatively high usage costs. To what extent do high intensive margin prices limit the adoption of solar home systems? In 2019, the Togolese government implemented a large subsidy that reduced usage costs by 17.8 to 41.7 percent, while upfront costs remained constant. This paper estimates that the subsidy dramatically increased adoption, with the largest effects occurring for the smallest systems (240 percent increase). The paper goes on to develop a theoretical framework that shows that the effects of such subsidies are uncertain due to the unique cost structure of decentralized solar electricity. The results highlight the importance of use prices in the electrification decisions of low-income households.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11053",
+    "url": "http://documents.worldbank.org/curated/en/099942101302520488/pdf/IDU19654047d15440149111a0c811312437cb2de.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:05.931612",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

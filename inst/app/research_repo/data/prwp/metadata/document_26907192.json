@@ -1,0 +1,180 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "New rural access index : main determinants and correlation to poverty",
+    "idno": "26907192",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26907192",
+      "title": "New rural access index : main determinants and correlation to poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ahmed,A.K. Farhad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anderson,Edward Charles"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Diehl,Adam Stone"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maiyo,Laban"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peralta Quiros,Tatiana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rao,Kulwinder Singh"
+      }
+    ],
+    "date_created": "2016/11/02",
+    "date_available": "2016/11/02",
+    "date_published": "2016/11/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26907192"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0846a0911"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0846a0911"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Transport connectivity is essential to sustain inclusive growth in developing countries, where many rural populations and businesses are still considered to be unconnected to the domestic, regional, or global market. The Rural Access Index is among the most important global indicators for measuring people’s transport accessibility in rural areas where the majority of the poor live. A new method to calculate the Rural Access Index was recently developed using spatial data and techniques. The characteristics of subnational Rural Access Index estimates were investigated in eight countries: Bangladesh, Ethiopia, Kenya, Mozambique, Nepal, Tanzania, Uganda, and Zambia. It was found that for the countries in Africa, road density and road condition are important determinants of the Rural Access Index. For the South Asian countries, improvement of road condition is particularly relevant. The evidence suggests that significant resources are likely to be required to achieve universal access through rehabilitating the existing road network and expanding the road network.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      },
+      {
+        "name": "Nepal",
+        "code": "NPL"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZMB"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MOZ"
+      }
+    ],
+    "spatial_coverage": "South Asia ; Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7876",
+    "url": "http://documents.worldbank.org/curated/en/821621478094511356/pdf/WPS7876.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.493136",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Forecasting volatility in commodity markets",
+    "idno": "698761",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698761",
+      "title": "Forecasting volatility in commodity markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kroner, Kenneth F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kneafsey, Devin P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Claessens,"
+      }
+    ],
+    "date_created": "1993/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698761"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a29a7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a29a7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Commodity prices have historically been among the most volatile of international prices. Measured volatility (the standard deviation of price changes) has not been below 15 percent and at times has been more than 50 percent. Often the volatility of commodity prices has exceeded that of exchange rates and interest rates. The large price variations are caused by disturbances in demand and supply. Stockholding leads to some price smoothing, but when stocks are low, prices can jump sharply. As a result, commodity price series are not stationary and in some periods they jump abruptly to high levels or fall precipitously to low levels relative to their long-run average. Thus it is difficult to determine long-term price trends and the underlying distribution of prices. The volatility of commodity prices makes price forecasting difficult. Indeed, realized prices often deviate greatly from forecasted prices, which has led to the practice of giving forecasts probability ranges. But assigning probability ranges requires forecasting future price volatility, which, given uncertainties about true price distribution, is difficult. One potentially useful source of information for forecasting volatility is the volatility forecasts imbedded in the prices of options written on commodities traded in exchanges. Options give the holder the right to buy (call) or sell (put) a certain commodity at a certain date at a fixed (exercise) price. Options prices depend on several variables, one of which is the expected volatility up to the maturity date. Given a specific theoretical model, the market prices of options can be used to derive the market's expectations about price volatility and the price distribution. The authors systematically analyze different methods' abilities to forecast commodity price volatility (for several commodities). They collected the daily prices of commodity options and other variables for seven commodities (cocoa, corn, cotton, gold, silver, sugar, and wheat). They extracted the volatility forecasts implicit in options prices using several techniques. They compared several volatility forecasting methods, divided into three categories: (1) forecasts using only expectations derived form options prices; (2) forecasts using only time-series modeling; (3) forecasts that combine market expectations and time-series modeling (a new method devised for this purpose). They find that the volatility forecasts produced by method 3 outperform the first two as well as the naive forecast based on historical volatility. This result holds both in and out of sample for almost all commodities considered.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1226",
+    "url": "http://documents.worldbank.org/curated/en/315991468739219504/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.560720",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

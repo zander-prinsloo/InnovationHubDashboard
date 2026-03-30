@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Evaluating the asset based minimum tax on corporations : an option pricing approach",
+    "idno": "699707",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699707",
+      "title": "Evaluating the asset based minimum tax on corporations : an option pricing approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Estache, Antonio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Wijnbergen, Sweder"
+      }
+    ],
+    "date_created": "1992/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699707"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce2b5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce2b5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In many countries, well-meant ad hoc tax incentives proliferate over time, creating an opaque corporate tax structure and many unanticipated tax loopholes. Tax authorities in several countries have considered and sometimes introduced minimum corporate taxes. Liability under such a tax is sometimes linked to profits but more often to assets, as these are harder to manipulate. The authors refer to such a tax as a minimum asset tax (MAT). They suggest an approach based on option pricing, which is designed to incorporate the impact of rate-of-return uncertainty on the burden a MAT will impose. The authors use their methodology to assess a recent Brazilian MAT proposal using sectoral data on corporate income tax revenue and asset value. The MAT, with its simple tax code and marginal impact on the marginal effective tax rate (MERT), is an appealing short cut to comprehensive tax reform - and the revenue effects in Brazil could be substantial. Two common assumptions turned out not to be true: 1) the MAT does not reduce sectoral distortions. The standard deviation of the MERT is higher with MAT than without; and 2) high-risk firms tend to be high-rate-of-return firms, which reduces MAT's impact.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS892",
+    "url": "http://documents.worldbank.org/curated/en/903711468766242014/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:01.422387",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

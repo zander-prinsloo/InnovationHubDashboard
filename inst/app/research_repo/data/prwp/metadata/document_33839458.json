@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes",
+    "idno": "33839458",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33839458",
+      "title": "Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Merfeld,Joshua David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Weber,Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lahiri,Partha"
+      }
+    ],
+    "date_created": "2022/06/09",
+    "date_available": "2022/06/09",
+    "date_published": "2022/06/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33839458"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-16f95e08-6fc6-44ea-b843-07d5dc0ef17e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-16f95e08-6fc6-44ea-b843-07d5dc0ef17e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10077"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Better understanding the geography of women&#x2019;s labor market outcomes within countries is important to inform targeted efforts to increase women&#x2019;s economic empowerment. This paper assesses the extent to which a method that combines simulated survey data from urban areas in Mexico with broadly available geospatial indicators from Google Earth Engine and OpenStreetMap can significantly improve estimates of labor force participation and unemployment rates. Incorporating geospatial information substantially increases the accuracy of male and female labor force participation and unemployment rates at the state level, reducing mean absolute deviation by 50 to 62 percent for labor force participation and 25 to 52 percent for unemployment. Small area estimation using a nested error conditional random effect model also greatly improves municipal estimates of labor force participation, as the mean absolute error falls by approximately half, while the mean squared error falls by almost 75 percent when holding coverage rates constant. In contrast, the results for municipal unemployment rate estimates are not reliable because values of unemployment rates are low and therefore poorly suited for linear models. The municipal results hold in repeated simulations of alternative samples. Models utilizing Basic Geo-Statistical Area (AGEB)&#x2013;level auxiliary information generate more accurate predictions than area-level models specified using the same auxiliary data. Overall, integrating survey data and publicly available geospatial indicators is feasible and can greatly improve state-level estimates of male and female labor force participation and unemployment rates, as well as municipal estimates of male and female labor force participation.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10077",
+    "url": "http://documents.worldbank.org/curated/en/099321406092229138/pdf/IDU016f95e0806fc6044ea0b843007d5dc0ef17e.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.011144",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

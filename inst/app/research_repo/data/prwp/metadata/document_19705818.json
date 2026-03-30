@@ -1,0 +1,140 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Welfare dynamics measurement : two definitions of a vulnerability line and their empirical application",
+    "idno": "19705818",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19705818",
+      "title": "Welfare dynamics measurement : two definitions of a vulnerability line and their empirical application",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      }
+    ],
+    "date_created": "2014/06/01",
+    "date_available": "2014/06/01",
+    "date_published": "2014/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19705818"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828be8fa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828be8fa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Little research currently exists on a vulnerability line that distinguishes the poor population from the population that is not poor but that still faces significant risk of falling back into poverty. This paper attempts to fill this gap by proposing vulnerability lines that can be straightforwardly estimated with panel or cross-sectional household survey data, in rich- and poor-country settings. These vulnerability lines offer a means to broaden traditional poverty analysis and can also assist with the identification of the middle class or resilient population groups. Empirical illustrations are provided using panel data from the United States (Panel Study of Income Dynamics) and Vietnam (Vietnam Household Living Standards Survey) for the period 2004-2008 and cross-sectional data from India (National Sample Survey) for the period 2004-2009. The estimation results indicate that in Vietnam and India during this time period, the population living in poverty and the middle class have been falling and expanding, respectively, while the opposite has been occurring in the United States.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; South Asia ; Rest Of The World",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6944",
+    "url": "http://documents.worldbank.org/curated/en/105091468319758403/pdf/WPS6944.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.836110",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

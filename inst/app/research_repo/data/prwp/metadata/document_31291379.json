@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Growth in Low-Income Countries : Evolution, Prospects, and Policies",
+    "idno": "31291379",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31291379",
+      "title": "Growth in Low-Income Countries : Evolution, Prospects, and Policies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steinbach,Rudi"
+      }
+    ],
+    "date_created": "2019/07/30",
+    "date_available": "2019/07/30",
+    "date_published": "2019/07/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31291379"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086f44102"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086f44102"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There are currently 31 countries classified as low income, less than half the number in 2001. Rapid growth in low-income countries from 2001 to 2018 allowed many to progress to middle-income status, supported by the commodity price boom of 2001-11, debt relief under the Heavily Indebted Poor Country Initiative and Multilateral Debt Relief Initiative, increased investment in human and physical capital, improved economic policy frameworks, and recoveries from the deep recessions in transition economies during the 1990s. However, the prospects for current low-income countries appear much more challenging. Compared to the low-income countries in 2001 that became middle-income countries, today's low-income countries are further below the middle-income country threshold and more often fragile; their heavy reliance on agriculture makes them vulnerable to climate change and extreme weather events; and their scope to boost external trade is limited by geography. Coordinated and multi-pronged policy efforts are required to address these challenges.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8949",
+    "url": "http://documents.worldbank.org/curated/en/578111564491745775/pdf/Growth-in-Low-Income-Countries-Evolution-Prospects-and-Policies.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.032541",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

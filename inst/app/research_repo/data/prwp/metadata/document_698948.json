@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Domestic distortions and international trade",
+    "idno": "698948",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698948",
+      "title": "Domestic distortions and international trade",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anderson, James E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Neary, J. Peter"
+      }
+    ],
+    "date_created": "1993/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698948"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5aee"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5aee"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Trade is affected not only by taxes and subsidies that affect producers and consumers of goods, but also, indirectly, by taxes and subsidies that affect nontraded goods or factors of production. The authors show how the Trade Restrictiveness Index (TRI) may be extended to incorporate these types of distortions. Again, the value of the TRI gives the equiproportionate change in the prices of traded goods, which would compensate for a given change in all distortions, both in traded and nontraded goods and in factor markets. The authors, who developed the theory of the TRI, show how to apply it in practice, drawing on a larger study by Anderson and Bannister of changes in Mexican agricultural policy between 1985 and 1989. Adapting the TRI to a partial equilibrium context allows existing estimates of key demand and supply elasticities to be incorporated into the Index; and the basic formula is adapted to take account of some special features of Mexican agricultural markets. The TRI shows a great increase in restrictiveness in 1986 and especially 1987, followed by major reductions in restrictiveness in 1988 and 1989. The cumulative effect: a 49.9 percent fall in trade restrictiveness over the four years. The major, although not the only, source of changes in trade restrictiveness were changes in producer subsidies, especially for maize. These trends are not captured by changes in indices for consumer and producer subsidy equivalents, which the authors also present. Indeed, in a number of years at least one of the ad hoc indices changed in the opposite direction to the change in the corresponding welfare-based index.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1163",
+    "url": "http://documents.worldbank.org/curated/en/852431468764711826/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.850870",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

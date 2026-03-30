@@ -1,0 +1,142 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "But … what is the poverty rate today testing poverty nowcasting methods in Latin America and the Caribbean",
+    "idno": "27643265",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27643265",
+      "title": "But … what is the poverty rate today testing poverty nowcasting methods in Latin America and the Caribbean",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Castaneda, R. Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Caruso,German Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Malasquez,Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lucchetti,Leonardo Ramiro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Scot,Thiago"
+      }
+    ],
+    "date_created": "2017/06/19",
+    "date_available": "2017/06/19",
+    "date_published": "2017/06/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27643265"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08521d0c6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084cd2303"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Poverty estimates usually lag behind two years, which makes it difficult to provide real-time poverty analysis to assess the impact of economic crisis and shocks among the less well-off, and subsequently limits policy responses. This paper takes advantage of up-to-date average economic welfare indicators like the gross domestic product per capita and comprehensive harmonized micro data of more than 180 household surveys in 15 Latin American countries. The paper tests three commonly used poverty nowcasting methods and ranks their performance by comparing country-specific and regional poverty nowcasts with actual poverty estimates for 2003–14 period. The validation results show that the two bottom-up approaches, which simulate the performance of each agent in the economy to nowcast overall poverty, perform relatively better than the top-down approach, which uses welfare estimates to explain the performance of poverty at an aggregate level over time. The results are robust to additional sensitivity and robustness tests.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Caribbean",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8104",
+    "url": "http://documents.worldbank.org/curated/en/898691497881586394/pdf/WPS8104.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.663821",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of COVID-19 on Electricity Generation : An Empirical Investigation",
+    "idno": "33858662",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33858662",
+      "title": "The Impact of COVID-19 on Electricity Generation : An Empirical Investigation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shen,Chang"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alberini,Anna"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timilsina,Govinda R."
+      }
+    ],
+    "date_created": "2022/06/30",
+    "date_available": "2022/06/30",
+    "date_published": "2022/06/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33858662"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c7cf3a65-c090-4170-b290-40b2900decfb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c7cf3a65-c090-4170-b290-40b2900decfb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10116"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "During the 2020-2022 period, the COVID Pandemic affected, directly or indirectly, every economic sector globally. While the effects on some sectors, such as travel and tourism, were highly visible, those on other sectors, such as utility services, require investigation. Whether COVID-19 affected total electricity generation and the electricity supply mix is an empirical question, which this study attempts to answer using panel data of daily electricity generation between January 2018 and September 2021 from 26 countries. The study finds that a 1-unit increase in the stringency measure of COVID-19 is linked with a 463 MWh decrease in the total daily electricity generation. The study does not find a significant change in the electricity generation mix due to COVID-19 responses, although there is some evidence of some substitution of wind with solar and coal with natural gas.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10116",
+    "url": "http://documents.worldbank.org/curated/en/099730506302220791/pdf/IDU0c7cf3a650c090041700b290040b2900decfb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.682977",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

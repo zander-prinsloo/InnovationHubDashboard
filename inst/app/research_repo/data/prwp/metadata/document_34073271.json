@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Examining Business Reform Committees : Findings from a New Global Dataset",
+    "idno": "34073271",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34073271",
+      "title": "Examining Business Reform Committees : Findings from a New Global Dataset",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Georgieva,Dorina Peteva"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eknath,Varun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Woolcock,Michael"
+      }
+    ],
+    "date_created": "2023/06/01",
+    "date_available": "2023/06/01",
+    "date_published": "2023/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34073271"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1f9b1967-3a78-459e-b0d5-d6bf755444b6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1f9b1967-3a78-459e-b0d5-d6bf755444b6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10467"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Reform committees (also known as reform councils) are institutional mechanisms or structures tasked with holding policy discussions pertaining to (and making specific recommendations on) regulatory issues, to monitor improvement efforts and ensure regulatory coherence between agencies while enhancing regulatory quality. This paper presents novel granular data on business reform committees for 160 economies collected over 2020&#x2013;22. The paper presents 35 questions and 238 variables grouped into three pillars: (i) mandate and scope, (ii) organizational structure and operational framework, and (iii) stakeholder engagement and communication. The dataset is unique in that it covers a large number of developing economies and presents detailed insights into the goals, structures, and components of reform committees while contributing to debates on strategies for promoting better regulations. Reform committees are heterogeneous structures, prevalent in lower-middle-income economies, followed by upper-middle-income economies. Most economies with a functioning reform committee state that their mandate is to improve competitiveness globally by improving the business regulatory/legislative framework, going beyond improvements of the business environment for domestic companies. In more than 50 percent of the economies the priorities are set at the ministry level, most commonly the Ministry of Finance or equivalent, followed by the Prime Minister&#x2019;s office. However, reporting lines can be very different&#x2014;across a quarter of the economies, the chair of the reform committee reports to the President or the head of state, while in close to one-fifth the chair reports to the Prime Minister. In most economies, public sector representatives are members of both the steering board and the working groups. These findings provide new insights into the scope, mandate, and functioning of business reform committees at different income levels and across different regions; they also provide a robust foundation on which subsequent research efforts can build.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10467",
+    "url": "http://documents.worldbank.org/curated/en/099646506012337535/pdf/IDU01f9b196703a780459e0b0d50d6bf755444b6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.095157",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

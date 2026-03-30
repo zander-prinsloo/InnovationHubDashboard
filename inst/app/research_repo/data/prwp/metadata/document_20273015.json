@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring agricultural knowledge and adoption",
+    "idno": "20273015",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20273015",
+      "title": "Measuring agricultural knowledge and adoption",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kondylis,Florence"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mueller,Valerie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhu, Siyao Jessica"
+      }
+    ],
+    "date_created": "2014/10/01",
+    "date_available": "2014/10/01",
+    "date_published": "2015/11/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20273015"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb12c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb12c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Understanding the trade-offs in improving the precision of agricultural measures through survey design is crucial. Yet, standard indicators used to determine program effectiveness may be flawed and at a differential rate for men and women. The authors use a household survey from Mozambique to estimate the measurement error from male and female self-reports of their adoption and knowledge of three practices: intercropping, mulching, and strip tillage. Despite clear differences in human and physical capital, there are no obvious differences in the knowledge, adoption, and error in self-reporting between men and women. Having received training unanimously lowers knowledge misreports and increases adoption misreports. Other determinants of reporting error differ by gender. Misreporting is positively associated with a greater number of plots for men. Recall decay on measures of knowledge appears prominent among men but not women. Findings from regression and cost-effectiveness analyses always favor the collection of objective measures of knowledge. Given the lowest rate of accuracy for adoption was around 80 percent, costlier objective adoption measures are recommended for a subsample in regions with heterogeneous farm sizes.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7058",
+    "url": "http://documents.worldbank.org/curated/en/374251468170970583/pdf/WPS7058.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.133482",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Distributional outcomes of a decentralized welfare program",
+    "idno": "437760",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437760",
+      "title": "Distributional outcomes of a decentralized welfare program",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galasso, Emanuela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      }
+    ],
+    "date_created": "2000/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437760"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0568d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0568d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "It is common for central governments, to delegate authority over the targeting of welfare programs to local community organizations - which may be better informed about who is poor, though possibly less accountable for getting the money to the local poor - while the center retains control over how much goes to each local region. The authors outline a theoretical model of the interconnected behavior of the various actors in such a setting. The model's information structure provides scope for econometric identification. Applying data for a specific program in Bangladesh, they find that overall targeting was mildly pro-poor, mostly because of successful targeting within villages. But this varied across villages. Although some village characteristics promoted better targeting, these were generally not the same characteristics that attracted resources from the center. The authors observe that the center's desire for broad geographic coverage, appears to have severely constrained the scope for pro-poor village targeting. However, poor villages tended not to be better at reaching their poor. They find some evidence that local institutions matter. The presence of cooperatives for farmers and the landless, appears to be associated with more pro-poor program targeting. The presence of recreational clubs has the opposite effect. Sometimes the benefits of decentralized social programs are captured by local elites, depending on the type of spending being decentralized. When public spending us on private (excludable) good, and there is no self-targeting mechanism to ensure that only the poor participate, there is ample scope for local mis-targeting.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2316",
+    "url": "http://documents.worldbank.org/curated/en/635081468769257746/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:40.033726",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

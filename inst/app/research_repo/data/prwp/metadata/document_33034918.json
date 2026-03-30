@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding FDI Spillovers in the presence of GVCs",
+    "idno": "33034918",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33034918",
+      "title": "Understanding FDI Spillovers in the presence of GVCs",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mercer-Blackman,Valerie Anne"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Xiang,Wei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khan,Fahad"
+      }
+    ],
+    "date_created": "2021/04/28",
+    "date_available": "2021/04/28",
+    "date_published": "2021/04/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33034918"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088541807"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0885417bc"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9645"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Does a global value chain framework provide additional insights into the question of whether foreign direct investment is beneficial to host countries? The literature has found mixed results on whether foreign direct investment provides positive spillovers over and above mere financing. But the studies have focused on one country, or studies with an international focus tend to abstract from intersectoral linkages. By examining this question in the context of global value chains, this paper provides a much better understanding of the association as well as general validity. It harmonizes three major panel data sets: 1) the Multi-Regional Input-Output table for international input-output linkages, 2) the FDI Markets reports for greenfield foreign direct investment, and 3) the World Bank Enterprise Surveys for firm performance measures. The paper produces a rich panel data set from 2011 to 2017. The findings show that foreign direct investment has a positive effect on labor productivity in sectors and firms within those sectors. Moreover, global value chain participation plays a key role in shaping the foreign direct investment effects. Sectors with lower global value chain participation benefit more from foreign direct investment: doubling the foreign direct investment in those sectors results in an 8 percent productivity gain. The positive effect seems to be due to the increased competition created by foreign direct investment. Foreign direct investment spillovers also take place through domestic and foreign backward linkages, which means that foreign direct investment also has positive inter-sector and cross-border spillovers.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9645",
+    "url": "http://documents.worldbank.org/curated/en/149331619640987210/pdf/Understanding-FDI-Spillovers-in-the-presence-of-GVCs.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.503729",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

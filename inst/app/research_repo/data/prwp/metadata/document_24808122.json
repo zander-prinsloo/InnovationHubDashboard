@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating poverty with panel data, comparably : an example from Jordan",
+    "idno": "24808122",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24808122",
+      "title": "Estimating poverty with panel data, comparably : an example from Jordan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolliffe,Dean Mitchell"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serajuddin,Umar"
+      }
+    ],
+    "date_created": "2015/07/21",
+    "date_available": "2015/07/21",
+    "date_published": "2015/07/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24808122"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083014375"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083014375"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Poverty estimates based on enumeration from a single point in time form the cornerstone for much of the literature on poverty. Households are typically interviewed once about their consumption or income, and their wellbeing is assessed from their responses. Global estimates of poverty that aggregate poverty counts from all countries implicitly assume that the counts are comparable. This paper illustrates that this assumption of comparability is potentially invalid when households are interviewed multiple times with repeat visits throughout the year. The paper provides an example from Jordan, where the internationally comparable approach of handling the data from repeat visits yields a poverty rate that is 26 percent greater than the rate that is currently reported as the official estimate. The paper also explores alternative definitions of poverty, informed in part by the psychological and biophysical literature on the long-run effects of short-term exposure to poverty or generally adverse environments. This alternative concept of poverty suggests that the prevalence of those who have been affected by poverty in Jordan during 2010 is more than twice as large as the official 2010 estimate of poverty.",
+    "ref_country": [
+      {
+        "name": "Jordan",
+        "code": "JOR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7373",
+    "url": "http://documents.worldbank.org/curated/en/993031467998474761/pdf/Estimating-poverty-with-panel-data-comparably-an-example-from-Jordan.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.420101",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

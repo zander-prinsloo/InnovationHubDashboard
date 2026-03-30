@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Productivity Growth : Patterns and Determinants across the World",
+    "idno": "31060879",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31060879",
+      "title": "Productivity Growth : Patterns and Determinants across the World",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kim,Young Eun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza,Norman V."
+      }
+    ],
+    "date_created": "2019/05/10",
+    "date_available": "2019/05/10",
+    "date_published": "2019/05/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31060879"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086c7876b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086c7876b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This is the background paper for the productivity extension of the World Bank’s Long-Term Growth Model (LTGM). Based on an extensive literature review, the paper identifies the main determinants of economic productivity as innovation, education, market efficiency, infrastructure, and institutions. Based on underlying proxies, the paper constructs indexes representing each of the main categories of productivity determinants and, combining them through principal component analysis, obtains an overall determinant index. This is done for every year in the three decades spanning 1985–2015 and for more than 100 countries. In parallel, the paper presents a measure of total factor productivity (TFP), largely obtained from the Penn World Table, and assesses the pattern of productivity growth across regions and income groups over the same sample. The paper then examines the relationship between the measures of TFP and its determinants. The variance of productivity growth is decomposed into the share explained by each of its main determinants, and the relationship between productivity growth and the overall determinant index is identified. The variance decomposition results show that the highest contributor among the determinants to the variance in TFP growth is market efficiency for Organisation for Economic Co-operation and Development countries and education for developing countries in the most recent decade. The regression results indicate that, controlling for country- and time-specific effects, TFP growth has a positive and significant relationship with the proposed TFP determinant index and a negative relationship with initial TFP. This relationship is then used to provide a set of simulations on the potential path of TFP growth if certain improvements on TFP determinants are achieved. The paper presents and discusses some of these simulations for groups of countries by geographic region and income level. An accompanying Excel-based toolkit, linked to the LTGM, provides a larger set of simulations and scenario analysis at the country level for the next few decades.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8852",
+    "url": "http://documents.worldbank.org/curated/en/130281557504440729/pdf/Productivity-Growth-Patterns-and-Determinants-across-the-World.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.659962",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

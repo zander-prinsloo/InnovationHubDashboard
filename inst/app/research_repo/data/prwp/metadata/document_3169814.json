@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A literature review on the use of expert opinion in probabilistic risk analysis",
+    "idno": "3169814",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "3169814",
+      "title": "A literature review on the use of expert opinion in probabilistic risk analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ouchi,Fumika"
+      }
+    ],
+    "date_created": "2004/01/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "3169814"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05928"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05928"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Risk assessment is part of the decision making process in many fields of discipline, such as engineering, public health, environment, program management, regulatory policy, and finance. There has been considerable debate over the philosophical and methodological treatment of risk in the past few decades, ranging from its definition and classification to methods of its assessment. Probabilistic risk analysis (PRA) specifically deals with events represented by low probabilities of occurring with high levels of unfavorable consequences. Expert judgment is often a critical source of information in PRA, since empirical data on the variables of interest are rarely available. The author reviews the literature on the use of expert opinion in PRA, in particular on the approaches to eliciting and aggregating experts' assessments. The literature suggests that the methods by which expert opinions are collected and combined have a significant effect on the resulting estimates. The author discusses two types of approaches to eliciting and aggregating expert judgments-behavioral and mathematical approaches, with the emphasis on the latter. It is generally agreed that mathematical approaches tend to yield more accurate estimates than behavioral approaches. After a short description of behavioral approaches, the author discusses mathematical approaches in detail, presenting three aggregation models: non-Bayesian axiomatic models, Bayesian models, and psychological scaling models. She also discusses issues of stochastic dependence.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3201",
+    "url": "http://documents.worldbank.org/curated/en/346091468765322039/pdf/wps3201Literature.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.205362",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Falling Short : A Global Survey of Electricity Tariff Design",
+    "idno": "31840712",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31840712",
+      "title": "Falling Short : A Global Survey of Electricity Tariff Design",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,Vivien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Witte,Samantha Helen"
+      }
+    ],
+    "date_created": "2020/03/04",
+    "date_available": "2020/03/04",
+    "date_published": "2020/03/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31840712"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0876ac866"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0876ac866"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides a comprehensive overview of electricity pricing practices and tariff structure design in more than 60 developed and developing countries worldwide as of 2015-16. It evaluates the performance of electricity tariff designs according to a variety of important dimensions, notably cost recovery, vertical equity (affordability), and horizontal equity (or price differentiation). It also reflects on the extent to which current electricity tariff designs are well-suited to incentivize efficient adoption of emerging technologies, such as distributed generation and storage, electric vehicles, and demand-side participation. The results of the survey indicate that electricity tariffs stand at $0.13 per kilowatt-hour (when fully averaged across countries and customer groupings); but differ hugely across jurisdictions by a factor of 40:1. Electricity tariffs are far from recovering limited capital costs and have not kept up with inflation over time. Substantial price differentiation is the norm, and affordability remains a significant concern. Most countries' tariff structures are ill-adapted to emerging technological disruption in the sector, due to the scant use of load-related charges to cover the fixed costs of the network, the continued preponderance of increasing block tariffs for residential customers, and the limited application of time-of-use pricing.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9174",
+    "url": "http://documents.worldbank.org/curated/en/568181583337584393/pdf/Falling-Short-A-Global-Survey-of-Electricity-Tariff-Design.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.300913",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

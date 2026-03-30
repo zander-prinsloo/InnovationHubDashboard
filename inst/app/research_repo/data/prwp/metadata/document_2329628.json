@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Traffic fatalities and economic growth",
+    "idno": "2329628",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2329628",
+      "title": "Traffic fatalities and economic growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kopits, Elizabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cropper, Maureen"
+      }
+    ],
+    "date_created": "2003/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2329628"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a0c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a0c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors examine the impact of income growth on the death rate due to traffic fatalities, as well as on fatalities per motor vehicle and on the motorization rate (vehicles/population) using panel data from 1963-99 for 88 countries. Specifically, they estimate fixed effects models for fatalities/population, vehicles/population, and fatalities/vehicles and use these models to project traffic fatalities and the stock of motor vehicles to 2020.The relationship between motor vehicle fatality rate and per capita income at first increases with per capita income, reaches a peak, and then declines. This is because at low income levels the rate of increase in motor vehicles outpaces the decline in fatalities per motor vehicle. At higher income levels, the reverse occurs. The income level at which per capita traffic fatalities peaks is approximately $8,600 in 1985 international dollars. This is within the range of income at which other externalities, such as air and water pollution, have been found to peak. Projections of future traffic fatalities suggest that the global road death toll will grow by approximately 66 percent between 2000 and 2020. This number, however, reflects divergent rates of change in different parts of the world-a decline in fatalities in high-income countries of approximately 28 percent versus an increase in fatalities of almost 92 percent in China and 147 percent in India. The authors also predict that the fatality rate will rise to approximately 2 per 10,000 persons in developing countries by 2020, while it will fall to less than 1 per 10,000 in high-income countries.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3035",
+    "url": "http://documents.worldbank.org/curated/en/980711468767094337/Traffic-fatalities-and-economic-growth",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:29.714996",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

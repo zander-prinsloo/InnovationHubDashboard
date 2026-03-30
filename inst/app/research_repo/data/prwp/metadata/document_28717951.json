@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A regime-based effect of fiscal policy : evidence from an emerging economy",
+    "idno": "28717951",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "28717951",
+      "title": "A regime-based effect of fiscal policy : evidence from an emerging economy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bouzid,Bechir Naier"
+      }
+    ],
+    "date_created": "2017/11/28",
+    "date_available": "2017/11/28",
+    "date_published": "2017/11/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "28717951"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0853a07ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085398c4c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In recent years, few authors have attempted to address the question of whether the state of the economy influences the impact of fiscal policy on the economy. Key findings have often indicated that expansionary fiscal intervention tends to be more effective when the economy is in a downturn. This favorable impact is more pronounced with an increase in government spending as opposed to a tax reduction. Despite several empirical attempts, the findings on the state-dependent nonlinear relationship of fiscal policy and output growth are often limited to developed economies. Building on the current research trend of using the threshold vector autoregression methodology, this paper bridges this gap and extends the empirical body to estimate the nonlinear relationship for an emerging economy, Tunisia. The paper provides empirical evidence that fiscal policy has a different impact on economic activity depending on the business cycle, the instrument of the fiscal policy used, and the intensity of the shock. The paper argues that in a downturn phase, government spending should be privileged particularly in the short run, with a gradual increase in the tax base to reduce the risk of worsening the budget deficit. Further, the monetary authority should be less inclined to raise its policy rate in the early stage of the recessionary period, as this intervention could have an adverse impact on economic growth. In the expansion phase, a tax cut intervention appears on the contrary to have a stronger positive impact on economic activity, especially in the short run, as the monetary authority is expected to introduce gradual policy hikes more rapidly to control for the inflationary expectations.",
+    "ref_country": [
+      {
+        "name": "Tunisia",
+        "code": "TUN"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8258",
+    "url": "http://documents.worldbank.org/curated/en/892451511876756525/pdf/WPS8258.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.597438",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

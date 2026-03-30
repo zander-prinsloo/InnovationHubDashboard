@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Do Immigrants Shield the Locals Exposure to COVID-Related Risks in the European Union",
+    "idno": "32676390",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32676390",
+      "title": "Do Immigrants Shield the Locals Exposure to COVID-Related Risks in the European Union",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bossavie,Laurent Loic Yves"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garrote Sanchez,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Makovec,Mattia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozden,Caglar"
+      }
+    ],
+    "date_created": "2020/12/16",
+    "date_available": "2020/12/16",
+    "date_published": "2020/12/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32676390"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088454536"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0880e8253"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the relationship between immigration and the exposure of native workers to the health and labor-market risks arising from the COVID-19 pandemic. Using various measures of occupational risks based on European Union labor force survey data, the paper finds that immigrant workers, especially those from lower-income member countries in Eastern Europe or from outside the EU, face greater exposure than their native-born peers to both income and health-shocks related to COVID-19. The paper also shows that native workers living in regions with a higher concentration of immigrants are less exposed to some of the income and health risks associated with the pandemic. To assess whether this relationship is causal, a Bartik-type shift-share instrument is used to control for potential bias and unobservable factors that would lead migrants to self-select into more vulnerable occupations across regions. The results show that the presence of immigrant workers has a causal effect in reducing the exposure of native workers to various risks by enabling the native-born workers to move into jobs that could be undertaken from the safety of their homes or with lower face-to-face interactions. The effects on the native-born population are more pronounced for high-skilled workers than for low-skilled workers, and for women than for men. The paper does not find a significant effect of immigration on wages and employment — indicating that the effects are mostly driven by a reallocation of natives from less safe jobs to safer jobs.",
+    "ref_country": [
+      {
+        "name": "EU Accession Countries",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9500",
+    "url": "http://documents.worldbank.org/curated/en/634461608129241833/pdf/Do-Immigrants-Shield-the-Locals-Exposure-to-COVID-Related-Risks-in-the-European-Union.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.591941",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

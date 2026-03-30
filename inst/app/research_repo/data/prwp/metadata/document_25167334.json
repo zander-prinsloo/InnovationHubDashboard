@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Modeling the marginal value of rainforest losses : a dynamic value function approach",
+    "idno": "25167334",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25167334",
+      "title": "Modeling the marginal value of rainforest losses : a dynamic value function approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strand,Jon"
+      }
+    ],
+    "date_created": "2015/10/19",
+    "date_available": "2015/10/19",
+    "date_published": "2015/10/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25167334"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083153594"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083153594"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A rainforest can be modeled as a dynamic asset subject to various risks, including risk of fire. Any small part of the forest can be in one of two states: either untouched by forest fire, or already damaged by fire, in which case there is both a local forest loss and increased dryness over a broader area. In this paper, two Bellman equations are constructed, one for unharmed forest and a second for already burnt forest. The analysis solves the two equations for the total expected asset values in each of the two states, assuming that asset returns have a constant growth rate over time. The equations are used for deriving the marginal value of standing (unburnt) rainforest, equivalent to the expected discounted value loss when losing a small additional forest patch. The paper shows that marginal forest value is increased by the additional dryness and forest fire risk that follow from forest fragmentation when additional forest is lost locally. Both forest fires and dryness here serve as “multipliers” to the basic services return loss, within and outside the forest. The paper also presents a framework for calibrating the impact of the forest fire risk component on forest value.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7445",
+    "url": "http://documents.worldbank.org/curated/en/145541467992808163/pdf/WPS7445.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.727099",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

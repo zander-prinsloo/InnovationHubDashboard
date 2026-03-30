@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the poverty impacts of trade liberalization",
+    "idno": "1717451",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1717451",
+      "title": "Estimating the poverty impacts of trade liberalization",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Reimer,Jeffrey J."
+      }
+    ],
+    "date_created": "2002/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1717451"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05472"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05472"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As a new round of World Trade Organization negotiations is being launched with greater emphasis on developing country participation, a body of literature is emerging which quantifies how international trade affects the poor in developing countries. In this survey of the literature, the author summarizes and classifies 35 trade and poverty studies into four methodological categories; cross-country regression, partial-equilibrium and cost-of-living analysis, general-equilibrium simulation, and micro-macro synthesis. These categories include a broad range of methodologies in current use. The continuum of approaches is bounded on one end by econometric analysis of household expenditure data, which is the traditional domain of poverty specialists, and sometimes labeled the \"bottoms-up\" approach. On the other end of the continuum are computable general equilibrium models based on national accounts data, or what might be called the \"top-down\" approach. Another feature of several recent trade and poverty studies--and one of the primary conclusions to emerge from the October 2000 \"Conference on Poverty and the International Economy,\" sponsored by Globkom and the World Bank--is the recognition that factor markets are perhaps the most important link between trade and poverty, since households tend to be much more specialized in income than they are in consumption. Meanwhile, survet data on the income sources of developing country households has become increasingly available. As a result, this survey gives particular emphasis to the means by which studies address factor market links between trade and poverty. The general conclusion of the author's survey is that any analysis of trade and poverty needs to be informed by both the bottom-up and top-down perspectives. Indeed, recent \"two-step\" micro-macro studies sequentially link these two types of frameworks, such that general equilibrium mechanisms are incorporated along with detailed household survey information. Another methodology in a similar spirit and also increasingly used involves incorporating large numbers of surveyed households into a general-equilibrium simulation model. Although most of these studies have so far been limited to a single region, these approaches can be readily adapted for multi-region modeling so that trade and poverty comparisons can be made across countries within a consistent framework.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2790",
+    "url": "http://documents.worldbank.org/curated/en/686121468739152557/Estimating-the-poverty-impacts-of-trade-liberalization",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:35.007742",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

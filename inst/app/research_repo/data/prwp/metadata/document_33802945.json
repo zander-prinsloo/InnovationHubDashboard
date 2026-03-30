@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Displacement and Return in the Internet Era : How Social Media Captures Migration Decisions in Northern Syria",
+    "idno": "33802945",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33802945",
+      "title": "Displacement and Return in the Internet Era : How Social Media Captures Migration Decisions in Northern Syria",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Walk,Erin Elizabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garimella,Kiran"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Christia,Fotini"
+      }
+    ],
+    "date_created": "2022/04/26",
+    "date_available": "2022/04/26",
+    "date_published": "2022/04/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33802945"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a37431c6-b4a5-431f-8ccb-e624be8373c4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a37431c6-b4a5-431f-8ccb-e624be8373c4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10024"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Starting in 2011, the Syrian civil war has resulted in the displacement of over 80% of the Syrian population. This paper analyzes how the widespread use of social media has recorded migration considerations for Syrian refugees using social media text and image data from three popular platforms (Twitter, Telegram, and Facebook). Leveraging survey data as a source of ground truth on the presence of IDPs and returnees, it uses topic modeling and image analysis to find that areas without return have a higher prevalence of violence-related discourse and images while areas with return feature content related to services and the economy. Building on these findings, the paper first uses mixed effects models to show that these results hold pre- and post- return as well as when migration is quantified as monthly population flows. Second, it leverages mediation analysis to find that discussion on social media mediates the relationship between violence and return in months where there are fewer violent events. Monitoring refugee return in war prone areas is a complex task and social media may provide researchers, aid groups, and policymakers with tools for assessing return in areas where survey or other data is unavailable or difficult to obtain.",
+    "ref_country": [
+      {
+        "name": "Syrian Arab Republic",
+        "code": "SYR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10024",
+    "url": "http://documents.worldbank.org/curated/en/099859204262232856/pdf/IDU0a37431c60b4a50431f08ccb0e624be8373c4.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.454040",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The effects of school-based management in the Philippines : an initial assessment using administrative data",
+    "idno": "11992660",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11992660",
+      "title": "The effects of school-based management in the Philippines : an initial assessment using administrative data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jha,Shreyasi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khattri,Nidhi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ling,Cristina Marosan"
+      }
+    ],
+    "date_created": "2010/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11992660"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c9238"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c9238"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the effect of school-based management on student performance in the Philippines using the administrative dataset of all public schools in 23 school districts over a 3-year period, 2003-2005. The authors test whether schools that received early school-based management interventions (training in school-based management and direct funding for school-based reforms) attained higher average test scores than those that did not receive such inputs. The analysis uses school-level overall composite test scores (comprising all subject areas tested) and test scores in three separate subject areas: English, math, and science. Their preferred estimator, difference-in-difference with propensity score matching, shows that the average treatment effect of participation in school-based management was higher by 1.5 percentage points for overall composite scores, 1.2 percentage points for math scores, 1.4 percentage points for English scores, and 1.8 percentage points for science scores. These results suggest that the introduction of school-based management had a statistically significant, albeit small, overall positive effect on average school-level test scores in 23 school districts in the Philippines. The paper provides a first glimpse of the potential for school-based management in an East Asian context based on available administrative data. The authors suggest that the next order of research is to answer policy-related questions regarding the reforms: what aspects of the reform lead to desired results; are there differential effects across subpopulations; and what are the potential downsides to the reforms? The Philippines is embarking on a nation-wide implementation of school-based management and the authors recommend that mechanisms for rigorous evaluations be advanced simultaneously. Such evaluations should not only provide more accurate estimates of the effectiveness of the reforms, but also help answer policy-related questions regarding design and implementation of those reforms in different socio-cultural contexts.",
+    "ref_country": [
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5248",
+    "url": "http://documents.worldbank.org/curated/en/692901468296405564/pdf/WPS5248.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.019348",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

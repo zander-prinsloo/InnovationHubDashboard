@@ -1,0 +1,279 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Energy Prices, Energy Intensity, and Firm Performance",
+    "idno": "34457929",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34457929",
+      "title": "Energy Prices, Energy Intensity, and Firm Performance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aterido,Reyes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iootty De Paiva Dias,Mariana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Melecky,Martin"
+      }
+    ],
+    "date_created": "2025/02/19",
+    "date_available": "2025/02/19",
+    "date_published": "2025/02/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34457929"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-368ebe87-a280-4fc7-bbb4-c93b89139c4e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-368ebe87-a280-4fc7-bbb4-c93b89139c4e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11069"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the effect of electricity prices on firm performance, focusing on firm productivity, sales, and employment. Using the World Bank Business Pulse Survey data for a sample of 24 emerging markets and developing economies during 2019&#x2013;23, the paper estimates the average effect and the heterogeneous effects across industries of varying energy intensity and firms that implemented (or did not implement) energy efficiency measures (self-reported in the Business Pulse Survey). The findings show that increasing electricity prices by 1 percent reduces employment at firms in energy-intensive industries that did not adopt energy efficiency measures by about 1.5 percent, compared with similar firms in energy-non-intensive sectors. In parallel, energy-intensive firms may increase sales and productivity but this result is robust to all alternative specifications. Firms may increase sales while reducing employment after energy price hikes, by adopting energy-efficient technologies and by passing through costs to consumers in inelastic markets while reducing employment in energy-intensive sectors due to cost pressures. These results highlight the adoption of energy efficiency measures by firms as an important employment protection policy action to cope with future volatility in energy (electricity) prices.",
+    "ref_country": [
+      {
+        "name": "Central Asia",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11069",
+    "url": "http://documents.worldbank.org/curated/en/099517402192512798/pdf/IDU1368ebe871a28014fc71bbb41c93b89139c4e.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "financial sector oversight and policy/banking regulation & restructuring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "infrastructure finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial stability",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict solutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disease control",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "finance for development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "enterprise development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "pandemic response",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "msme development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal sustainability",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disaster risk finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial sector integrity",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:05.827156",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

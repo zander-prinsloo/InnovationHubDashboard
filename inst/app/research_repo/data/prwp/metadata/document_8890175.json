@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fiscal spending and economic performance : some stylized facts",
+    "idno": "8890175",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "8890175",
+      "title": "Fiscal spending and economic performance : some stylized facts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carrere,Celine"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Melo,Jaime A. P."
+      }
+    ],
+    "date_created": "2007/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "8890175"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b05d6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b05d6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper complements the cross-country approach by examining the correlates of growth acceleration in per capita gross domestic product around \"significant\" public expenditure episodes by reorganizing the data around turning points, or events. The authors define a growth event as an increase in average per capita growth of at least 2 percentage points sustained for 5 years. A fiscal event is an increase in the annual growth rate of primary fiscal expenditure of approximately 1 percentage point sustained for 5 years and not accompanied by an aggravation of the fiscal deficit beyond 2 percent of gross domestic product. These definitions of events are applied to a database of 140 countries (118 developing countries) for 1972-2005. After controlling for the growth-inducing effects of positive terms-of-trade shocks and of trade liberalization reform, probit estimates indicate that a growth event is more likely to occur in a developing country when surrounded by a fiscal event. Moreover, the probability of occurrence of a growth event in the years following a fiscal event is greater the lower is the associated fiscal deficit, confirming that success of a growth-oriented fiscal expenditure reform hinges on a stabilized macroeconomic environment (through a limited primary fiscal deficit).",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4452",
+    "url": "http://documents.worldbank.org/curated/en/178541468155139651/pdf/wps4452.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:14.972409",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

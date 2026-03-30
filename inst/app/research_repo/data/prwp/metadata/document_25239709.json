@@ -1,0 +1,167 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring progress towards universal health coverage: with an application to 24 developing countries",
+    "idno": "25239709",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25239709",
+      "title": "Measuring progress towards universal health coverage: with an application to 24 developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff,Adam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cotlear,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eozenou,Patrick Hoang-Vu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Buisman,Leander Robert"
+      }
+    ],
+    "date_created": "2015/11/03",
+    "date_available": "2015/11/03",
+    "date_published": "2015/11/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25239709"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083c45bec"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0831894f6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The last few years have seen a growing commitment worldwide to universal health coverage (UHC). Yet there is a lack of clarity on how to measure progress towards UHC. This paper proposes a ‘mashup’ index that captures both aspects of UHC: that everyone—irrespective of their ability-to-pay—gets the health services they need; and that nobody suffers undue financial hardship as a result of receiving care. Service coverage is broken down into prevention and treatment, and financial protection into impoverishment and catastrophic spending; nationally representative household survey data are used to adjust population averages to capture inequalities between the poor and better off; nonlinear tradeoffs are allowed between and within the two dimensions of the UHC index; and all indicators are expressed such that scores run from 0 to 100, and higher scores are better. In a sample of 24 countries for which there are detailed information on UHC-inspired reforms, a cluster of high-performing countries emerges with UHC scores of between 79 and 84 (Brazil, Colombia, Costa Rica, Mexico and South Africa) and a cluster of low-performing countries emerges with UHC scores in the range 35–57 (Ethiopia, Guatemala, India, Indonesia and Vietnam). Countries have mostly improved their UHC scores between the earliest and latest years for which there are data—by about 5 points on average; however, the improvement has come from increases in receipt of key health interventions, not from reductions in the incidence of out-of-pocket payments on welfare.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CRI"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GTM"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; Africa ; South Asia ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7470",
+    "url": "http://documents.worldbank.org/curated/en/917441468180851481/pdf/WPS7470.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.603002",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

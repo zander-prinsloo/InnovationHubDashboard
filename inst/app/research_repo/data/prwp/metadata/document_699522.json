@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Latin America and the Caribbean region (and Northern America) population projections : 1992-93 edition",
+    "idno": "699522",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699522",
+      "title": "Latin America and the Caribbean region (and Northern America) population projections : 1992-93 edition",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "My T. Vu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bos, Eduard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levin, Ann"
+      }
+    ],
+    "date_created": "1992/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699522"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6051"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6051"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Population projections for all countries are prepared annually by the World Bank's Population and Human Resources Department. They are published first in summary form in the Bank's World Development Report and later in greater detail as technical notes or working papers, and in alternate years, as a book. Separate papers cover the six Bank regions: (1) Africa (sub-Saharan); (2) Latin America and the Caribbean (and Northern America); (3) East Asia and Pacific region and South Asia region combined; and (4) Europe and Central Asia region and Middle East and North Africa region combined. Among trends observed: all of the Bank's regions have positive population growth rates, but a few countries are losing people. These countries are in one of two regions: in Latin America and the Caribbean, where several small island countries (Dominica, Grenada, and St. Kitts and Nevis) have recently had negative growth rates, and in Europe (Bulgaria, Hungary, and Ireland). In the case of the Caribbean islands, the cause of population decline is outmigration, whereas in Eastern Europe it results from a combination of below-replacement fertility and outmigration. On the American continent, fertility in all countries has dropped to below 6 children per woman, but some countries have gone much further than others. The total fertility rate for Latin America is intermediate at 3.1, and replacement fertility is projected to be reached in every country no later than 2035. In Northern America, fertility is at 2 children per woman - that is, just below replacement level. At the regional level, international net migration has a trivial effect on population growth. The most significant flow in the world occurs between Latin America and the Caribbean and Northern America, which amounts to just over one-half million persons per year. Migration often occurs for unpredictable reasons, and is often reversed in a short time. The projections of future net migration assume a gradual decline to zero from current levels.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Caribbean",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1033",
+    "url": "http://documents.worldbank.org/curated/en/272421468752961077/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.134331",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

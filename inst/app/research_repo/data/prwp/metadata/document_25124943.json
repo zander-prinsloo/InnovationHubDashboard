@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Coasian model of international production chains",
+    "idno": "25124943",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25124943",
+      "title": "A Coasian model of international production chains",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fally,Thibault"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hillberry,Russell Henry"
+      }
+    ],
+    "date_created": "2015/10/06",
+    "date_available": "2015/10/06",
+    "date_published": "2015/10/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25124943"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0831293c3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0831293c3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "International supply chains require the coordination of numerous activities across multiple countries and firms. This paper develops a theoretical model of supply chains in which the measure of tasks completed within a firm is determined by parameters that define transaction costs and the cost of coordinating more activities within the firm. The structural parameters that govern these costs explain variation in supply chain length as well as cross-country variation in gross-output-to-value-added ratios. The structural parameters are linked to comparative advantage along and across supply chains. The paper provides an analytical treatment of trade and welfare responses to trade cost change in a simple two-country model. To explore the model's implications in a richer setting, the model is calibrated to match key observables in East Asia, and the calibrated model is used to evaluate implications of changes in model parameters for trade, welfare, the length of supply chains, and countries' relative position within them.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7434",
+    "url": "http://documents.worldbank.org/curated/en/701311467991906389/pdf/WPS7434.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.850610",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

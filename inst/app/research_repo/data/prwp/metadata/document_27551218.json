@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Spatial autocorrelation panel regression : agricultural production and transport connectivity",
+    "idno": "27551218",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27551218",
+      "title": "Spatial autocorrelation panel regression : agricultural production and transport connectivity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "You,Liangzhi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wood-Sichra,Ulrike"
+      }
+    ],
+    "date_created": "2017/06/06",
+    "date_available": "2017/06/06",
+    "date_published": "2017/06/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27551218"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084c80fe2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084c4b4b4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Spatial analysis in economics is becoming increasingly important as more spatial data and innovative data mining technologies are developed. Even in Africa, where data often crucially lack quality analysis, a variety of spatial data have recently been developed, such as highly disaggregated crop production maps. Taking advantage of the historical event that rail operations were ceased in Ethiopia, this paper examines the relationship between agricultural production and transport connectivity, especially port accessibility, which is mainly characterized by rail transport. To deal with endogeneity of infrastructure placement and autocorrelation in spatial data, the spatial autocorrelation panel regression model is applied. It is found that agricultural production decreases with transport costs to the port: the elasticity is estimated at -0.094 to -0.143, depending on model specification. The estimated autocorrelation parameters also support the finding that although farmers in close locations share a certain common production pattern, external shocks, such as drought and flood, have spillover effects over neighboring areas.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8089",
+    "url": "http://documents.worldbank.org/curated/en/594661496768891454/pdf/WPS8089.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.920915",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

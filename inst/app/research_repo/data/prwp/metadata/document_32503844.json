@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Learning Poverty : Measures and Simulations",
+    "idno": "32503844",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32503844",
+      "title": "Learning Poverty : Measures and Simulations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azevedo,Joao Pedro Wagner De"
+      }
+    ],
+    "date_created": "2020/10/21",
+    "date_available": "2020/10/21",
+    "date_published": "2020/10/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32503844"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087eec0d1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087eeae09"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "COVID-19-related school closures are pushing countries off track from achieving their learning goals. This paper builds on the concept of learning poverty and draws on axiomatic properties from social choice literature to propose and motivate a distribution-sensitive measures of learning poverty. Numerical, empirical, and practical reasons for the relevance and usefulness of these complementary inequality sensitive aggregations for simulating the effects of COVID-19 are presented. In a post-COVID-19 scenario of no remediation and low mitigation effectiveness for the effects of school closures, the simulations show that learning poverty increases from 53 to 63 percent. Most of this increase seems to occur in lower-middle-income and upper-middle-income countries, especially in East Asia and the Pacific, Latin America, and South Asia. The countries that had the highest levels of learning poverty before COVID-19 (predominantly in Africa and the low-income country group) might have the smallest absolute and relative increases in learning poverty, reflecting how great the learning crisis was in those countries before the pandemic. Measures of learning poverty and learning deprivation sensitive to changes in distribution, such as gap and severity measures, show differences in learning loss regional rankings. Africa stands to lose the most. Countries with higher inequality among the learning poor, as captured by the proposed learning poverty severity measure, would need far greater adaptability to respond to broader differences in student needs.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9446",
+    "url": "http://documents.worldbank.org/curated/en/232501603286799234/pdf/Learning-Poverty-Measures-and-Simulations.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.158968",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

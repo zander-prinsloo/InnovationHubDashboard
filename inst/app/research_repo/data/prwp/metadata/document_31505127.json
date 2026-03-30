@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "New Approaches to the Identification of Low-Frequency Drivers : An Application to Technology Shocks",
+    "idno": "31505127",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31505127",
+      "title": "New Approaches to the Identification of Low-Frequency Drivers : An Application to Technology Shocks",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dieppe,Alistair Matthew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Neville,Francis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kindberg-Hanlon,Gene"
+      }
+    ],
+    "date_created": "2019/10/24",
+    "date_available": "2019/10/24",
+    "date_published": "2019/10/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31505127"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08723f4e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08723f4e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper addresses the identification of low-frequency macroeconomic shocks, such as technology, in Structural Vector Autoregressions. Whilst identification issues with long-run restricted VARs are well documented, the recent attempt to overcome said issues using the Max-Share approach of Francis et al. (2014) and Barsky and Sims (2011) has its own shortcomings, primarily that they are vulnerable to bias from confounding non-technology shocks. A modification to the Max-Share approach and two further spectral methods are proposed to improve empirical identification. Performance directly hinges on whether these confounding shocks are of high or low frequency. Applied to US and emerging market data, spectral identifications are most robust across specifications, and non-technology shocks appear to be biasing traditional methods of identifying technology shocks. These findings also extend to the SVAR identification of dominant business-cycle shocks, which are shown will be a variance-weighted combination of shocks rather than a single structural driver.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9047",
+    "url": "http://documents.worldbank.org/curated/en/133781571930814658/pdf/New-Approaches-to-the-Identification-of-Low-Frequency-Drivers-An-Application-to-Technology-Shocks.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.276676",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

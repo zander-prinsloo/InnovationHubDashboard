@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Equilibrium incentives for adopting cleaner technology under emissions pricing",
+    "idno": "697179",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697179",
+      "title": "Equilibrium incentives for adopting cleaner technology under emissions pricing",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kennedy, Peter W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laplante, Benoit"
+      }
+    ],
+    "date_created": "1995/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697179"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a94"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a94"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Policymakers sometimes presume that adopting a less polluting technology necessarily improves welfare. This view is generally mistaken. Adopting a cleaner technology is costly, and this cost must be weighed against the technology's benefits in reduced pollution and reduced abatement costs. The literature to date has not satisfactorily examined whether emissions pricing properly internalizes this tradeoff between costs and benefits. And if the trend toward greater use of economic instruments in environmental policy continues, as is likely, the properties of those instruments must be understood, especially for dynamic efficiency. The authors examine incentives for adopting cleaner technologies in response to Pigouvian emissions pricing in equilibrium (unlike earlier analyses, which they contend, have been generally incomplete and at times misleading). Their results indicate that emissions pricing under the standard Pigouvian rule leads to efficient equilibrium adoption of technology under certain circumstances. They show that the equilibrium level of adopting a public innovation is efficient under Pigouvian pricing only if there are enough firms that each firm has a negligible effect on aggregate emissions. When those circumstances are not satisfied, Pigouvian pricing does not induce an efficient (social welfare-maximizing) level of innovation. The potential for inefficiency stems from two problems with the Pigouvian rule. First, the Pigouvian price does not discriminate against each unit of emissions according to its marginal damage. Second, full ratcheting of the emissions price in response to declining marginal damage as firms adopt the cleaner technology is correct expost but distorts incentives for adopting technology ex ante. The next natural step for research is to examine second-best pricing policies or multiple instrument policies. The challenge is to design regulatory policies that go some way toward resolving problems yet are geared to implementation in real regulatory settings. Clearly, such policies must use more instruments than emissions pricing alone. Direct taxes or subsidies for technological change, together with emissions pricing, should give regulators more scope for creating appropriate dynamic incentives. Such instruments are already widely used: investment tax credits (for environmental research and development), accelerated depreciation (for pollution control equipment), and environmental funds (to subsidize the adoption of pollution control equipment). Such direct incentives could be excessive, however, if emissions pricing is already in place. All incentives should be coordinated.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1491",
+    "url": "http://documents.worldbank.org/curated/en/204851468765618887/pdf/Equilibrium-incentives-for-adopting-cleaner-technology-under-emissions-pricing.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:52.584445",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

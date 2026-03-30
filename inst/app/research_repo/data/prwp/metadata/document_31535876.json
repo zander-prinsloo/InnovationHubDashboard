@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring and Explaining Management in Schools : New Approaches Using Public Data",
+    "idno": "31535876",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31535876",
+      "title": "Measuring and Explaining Management in Schools : New Approaches Using Public Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Leaver,Clare"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lemos,Renata Freitas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dillenburg Scur,Daniela"
+      }
+    ],
+    "date_created": "2019/11/06",
+    "date_available": "2019/11/06",
+    "date_published": "2019/11/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31535876"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0872b4306"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0872b4306"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Why do some students learn more in some schools than others? One consideration receiving growing attention is school management. To study this, researchers need to be able to measure school management accurately and cheaply at scale, and also explain any observed relationship between school management and student learning. This paper introduces a new approach to measurement using existing public data, and applies it to build a management index covering 15,000 schools across 65 countries, and another index covering nearly all public schools in Brazil. Both indices show a strong, positive relationship between school management and student learning. The paper then develops a simple model that formalizes the intuition that strong management practices might be driving learning gains via incentive and selection effects among teachers, students and parents. The paper shows that the predictions of this model hold in public data for Latin America, and draws out implications for policy.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9053",
+    "url": "http://documents.worldbank.org/curated/en/835301573071659790/pdf/Measuring-and-Explaining-Management-in-Schools-New-Approaches-Using-Public-Data.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.196621",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

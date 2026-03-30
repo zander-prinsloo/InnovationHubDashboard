@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is Poverty in Africa mostly chronic or transient evidence from synthetic panel data",
+    "idno": "27377699",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27377699",
+      "title": "Is Poverty in Africa mostly chronic or transient evidence from synthetic panel data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dabalen,Andrew L."
+      }
+    ],
+    "date_created": "2017/04/20",
+    "date_available": "2017/04/20",
+    "date_published": "2017/04/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27377699"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084ae9604"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084ae6e11"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Absent actual panel household survey data, this paper constructs, for the first time, synthetic panel data for more than 20 countries accounting for two-thirds of the population in Sub-Saharan Africa. In this process, the analysis employs repeated cross sections that span, on average, a six-year period for each country. The analysis suggests that all these countries as a whole have had pro-poor growth. One-third of the poor population escaped poverty during the studied period, which is larger than the proportion of the population that fell into poverty in the same period. The region also saw a 9 percent reduction in poverty and a 28 percent increase in the size of the middle class. However, chronic poverty remains high, and a considerable proportion of the population is vulnerable to falling into poverty. There is some limited evidence that most resource-rich and middle-income countries have more upward mobility than downward mobility. Post-secondary education is especially strongly associated with higher upward mobility and less downward mobility, which holds to some extent for female-headed and urban households.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8033",
+    "url": "http://documents.worldbank.org/curated/en/172891492703250779/pdf/WPS8033.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.264161",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Welfare measurement bias in household and on-site surveying of water-based recreation : an application to Lake Sevan, Armenia",
+    "idno": "6822666",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6822666",
+      "title": "Welfare measurement bias in household and on-site surveying of water-based recreation : an application to Lake Sevan, Armenia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laplante,Benoit"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meisner,Craig M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Hua"
+      }
+    ],
+    "date_created": "2006/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6822666"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4f05"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4f05"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Studies comparing household surveys with on-site interceptor surveys have typically accounted for over-sampling avid users in the on-site interceptor surveys (that is, endogenous stratification). However, these studies have typically not accounted for the possibility that the household sample may contain a large presence of zero observations. If a large proportion of the population does not recreate at the site for any value of the price vector, this inflation of zero observations leads to biased welfare estimates and an inadequate comparison with the on-site survey. In this paper, the authors estimate and compare three models which correct for these measurement issues in both the household and on-site surveys. Results from an application to recreation at Lake Sevan (Armenia) indicate that household consumers' surplus is not statistically different from that of the on-site survey once the authors account for zero-inflation in the household sample and endogenous stratification in the on-site sample.",
+    "ref_country": [
+      {
+        "name": "Armenia",
+        "code": "ARM"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3932",
+    "url": "http://documents.worldbank.org/curated/en/222181468207275059/pdf/wps3932.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.789752",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

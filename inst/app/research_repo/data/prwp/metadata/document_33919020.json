@@ -1,0 +1,155 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding Informality : Comprehensive Business-Level Data and Descriptive Findings",
+    "idno": "33919020",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33919020",
+      "title": "Understanding Informality : Comprehensive Business-Level Data and Descriptive Findings",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aberra,Adam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aga,Gemechu A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolevski,Filip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karalashvili,Nona"
+      }
+    ],
+    "date_created": "2022/10/18",
+    "date_available": "2022/10/17",
+    "date_published": "2022/10/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33919020"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-2ece8bf0-3973-44a1-922d-1a6ced435259"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-2ece8bf0-3973-44a1-922d-1a6ced435259"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10208"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces and provides a descriptive analysis of data from more than 15,000 detailed interviews of representative samples of informal businesses operating in 24 cities across seven countries, namely, India, Iraq, the Lao People&#x2019;s Democratic Republic, Mozambique, Somalia, Zambia, and Zimbabwe. The paper is a companion paper to a study that presents the methodological underpinnings of the informal business data collection. It is an innovative application of area-based adaptive cluster sampling, rendering a representative sample of these businesses. The paper presents salient descriptive results of the data to motivate further research. The World Bank's Enterprise Analysis unit started collecting data from the informal sector using the adaptive cluster sampling method in 2017. The combined and standardized data show that informal businesses are small, young, mostly started out of necessity rather than as an opportunity for growth, largely detached from the rest of the economy, and with meager earnings. Few of the informal businesses have ever considered registering formally, with the majority perceiving no benefits from doing so.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "Iraq",
+        "code": "IRQ"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MOZ"
+      },
+      {
+        "name": "Somalia",
+        "code": "SOM"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZMB"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZWE"
+      },
+      {
+        "name": "Lao People's Democratic Republic",
+        "code": "LAO"
+      }
+    ],
+    "spatial_coverage": "Africa ; East Asia and Pacific ; Middle East and North Africa ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10208",
+    "url": "http://documents.worldbank.org/curated/en/099039310172217716/pdf/IDU02ece8bf003973044a10922d01a6ced435259.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.828925",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

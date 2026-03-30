@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty effects of Russia's WTO accession : modeling \"real\" households and endogenous productivity effects",
+    "idno": "5601479",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5601479",
+      "title": "Poverty effects of Russia's WTO accession : modeling \"real\" households and endogenous productivity effects",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rutherford,Thomas F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shepotylo,Oleksandr"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tarr,David"
+      }
+    ],
+    "date_created": "2005/01/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5601479"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6bef"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6bef"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors use a computable general equilibrium comparative static model of the Russian economy to assess the impact of accession to the World Trade Organization (WTO) on income distribution and the poor. Their model is innovative in that they incorporate all 55,000 households from the Russian Household Budget Survey as \"real\" households in the model. This is accomplished because they develop a new algorithm for solving general equilibrium models with a large number of agents. In addition, they include foreign direct investment and Dixit-Stiglitz endogenous productivity effects in their trade and poverty analysis. In the medium term, the authors find that virtually all households gain from Russian WTO accession, with 99.9 percent of the estimated gains falling within a range between 2 and 25 percent increases in household income. They show that their estimates are decisively affected by liberalization of barriers against foreign direct investment in business services sectors and endogenous productivity effects in business services and goods. The authors use their integrated model to assess the error associated with a \"top down\" approach to micro-simulation. They find that approximation errors introduced by failing to account for income effects in the conventional sequential approach are very small. However, data reconciliation between the national accounts and the household budget survey is important to the results. Despite the estimated gains for virtually all households in the medium term, many households may lose in the short term because of the costs of transition. So, safety nets are crucial for the poorest members of society during the transition.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3473",
+    "url": "http://documents.worldbank.org/curated/en/647481468780907855/Poverty-effects-of-Russias-WTO-accession-modeling-real-households-and-endogenous-productivity-effects",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:25.970768",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

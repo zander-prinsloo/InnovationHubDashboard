@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor productivity and employment gaps in Sub-Saharan Africa",
+    "idno": "24310783",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24310783",
+      "title": "Labor productivity and employment gaps in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mccullough,Ellen Bess"
+      }
+    ],
+    "date_created": "2015/04/06",
+    "date_available": "2015/04/06",
+    "date_published": "2015/04/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24310783"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082d5b3d3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082d5b3d3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Drawing on a new set of nationally representative, internationally comparable household surveys, this paper provides an overview of key features of structural transformation—labor allocation and labor productivity—in four African economies. New, micro-based measures of sector labor allocation and cross-sector productivity differentials describe the incentives households face when allocating their labor. These measures are similar to national accounts-based measures that are typically used to characterize structural changes in African economies. However, because agricultural workers supply far fewer hours of labor per year than do workers in other sectors, productivity gaps disappear almost entirely when expressed on a per-hour basis. What look like large productivity gaps in national accounts data could really be employment gaps, calling into question the prospective gains that laborers can achieve through structural transformation. These employment gaps, along with the strong linkages observed between rural non-farm activities and primary agricultural production, highlight agriculture's continued relevance to structural change in Sub-Saharan Africa.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7234",
+    "url": "http://documents.worldbank.org/curated/en/184671467992010233/pdf/Labor-productivity-and-employment-gaps-in-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.505826",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

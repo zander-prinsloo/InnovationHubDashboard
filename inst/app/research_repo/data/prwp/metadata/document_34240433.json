@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Missing Evidence : Tracking Academic Data Use around the World",
+    "idno": "34240433",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34240433",
+      "title": "Missing Evidence : Tracking Academic Data Use around the World",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stacy,Brian William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kitzmüller,Lucas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Xiaoyu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mahler,Daniel Gerszon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serajuddin,Umar"
+      }
+    ],
+    "date_created": "2024/01/17",
+    "date_available": "2024/01/17",
+    "date_published": "2024/01/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34240433"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ad0286b6-aec0-4d8c-9d3e-e651d3fe6286"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ad0286b6-aec0-4d8c-9d3e-e651d3fe6286"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10673"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Data-driven research on a country is key to producing evidence-based public policies. Yet little is known about where data-driven research is lacking and how it could be expanded. This paper proposes a method for tracking academic data use by country of subject, applying natural language processing to open-access research papers. The model&#x2019;s predictions produce country estimates of the number of articles using data that are highly correlated with a human-coded approach, with a correlation of 0.99. Analyzing more than 1 million academic articles, the paper finds that the number of articles on a country is strongly correlated with its gross domestic product per capita, population, and the quality of its national statistical system. The paper identifies data sources that are strongly associated with data-driven research and finds that availability of subnational data appears to be particularly important. Finally, the paper classifies countries into groups based on whether they could most benefit from increasing their supply of or demand for data. The findings show that the former applies to many low- and lower-middle-income countries, while the latter applies to many upper-middle- and high-income countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10673",
+    "url": "http://documents.worldbank.org/curated/en/099503001172493286/pdf/IDU1ad0286b61aec014d8c19d3e1e651d3fe6286.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.218745",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What determines the rate of growth and technological change",
+    "idno": "700441",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700441",
+      "title": "What determines the rate of growth and technological change",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Romer,Paul M"
+      }
+    ],
+    "date_created": "1989/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700441"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b0c72"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b0c72"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is substantial research about cross section and time series correlations between economic growth and various economic, social, demographic and political variables. After analyzing these correlations, the paper makes the following conclusions. Exogenous increases do not seem to cause increases in the rate of technological change, but instead seem to be associated with lower rates of return to capital. Increased openness to international trade speeds up growth and technological change as do an increase in scientists and engineers. Countries more open to trade have a higher level of investment and capital growth - which is not associated with a fall in the marginal product of capital. Countries that become more integrated with world markets seem to have a higher marginal product of capital. Increases in capital investment associated with a higher per capita GDP are associated with a fall in the marginal product of capital. Increases in capital investment associated with increases in trade are not. This suggests that policies to encourage more open trading may be as important to growth as additional foreign lending - especially in their cumulative effects - and at the same time enhance the efficient use of foreign loans.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS279",
+    "url": "http://documents.worldbank.org/curated/en/539181468739268477/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:05.658374",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

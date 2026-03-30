@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How Useful is CPI Price Data for Spatial Price Adjustment in Poverty Measurement : A Case from Ghana",
+    "idno": "32387123",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32387123",
+      "title": "How Useful is CPI Price Data for Spatial Price Adjustment in Poverty Measurement : A Case from Ghana",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chen,Xiaomeng"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mungai,Rose"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nakamura,Shohei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pearson,Thomas Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wambile,Ayago Esmubancha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoshida,Nobuo"
+      }
+    ],
+    "date_created": "2020/09/08",
+    "date_available": "2020/09/07",
+    "date_published": "2020/09/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32387123"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087d84620"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087d84620"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Measuring and comparing the levels of household welfare and poverty in a country require cost-of-living differences across regions to be properly adjusted. In measuring the spatial cost of living, the recent literature underscores the importance of detailed product quality information in the price data. Taking advantage of the price data availability in Ghana, this case study explores the Consumer Price Index price data as a source for spatial price measurement. It applies the country product dummy method to the Consumer Price Index price data and compares the results with other methods based on different price data. The empirical analysis indicates a potential bias in estimating spatial prices stemming from the lack of product quality information and, therefore, suggests the potential usefulness of the Consumer Price Index price data for spatial price adjustment in poverty analysis in low- and middle-income countries.",
+    "ref_country": [
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      }
+    ],
+    "spatial_coverage": "Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9388",
+    "url": "http://documents.worldbank.org/curated/en/851571599590950719/pdf/How-Useful-is-CPI-Price-Data-for-Spatial-Price-Adjustment-in-Poverty-Measurement-A-Case-from-Ghana.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.701938",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

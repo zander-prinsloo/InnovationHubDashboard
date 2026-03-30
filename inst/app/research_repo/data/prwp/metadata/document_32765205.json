@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using Mobile Data to Understand Urban Mobility Patterns in Freetown, Sierra Leone",
+    "idno": "32765205",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32765205",
+      "title": "Using Mobile Data to Understand Urban Mobility Patterns in Freetown, Sierra Leone",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matekenya,Dunstan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Espinet Alegre,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arroyo Arroyo,Fatima"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fernandez Gonzalez,Marta"
+      }
+    ],
+    "date_created": "2021/01/20",
+    "date_available": "2021/01/20",
+    "date_published": "2021/01/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32765205"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0881eb024"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0881eb024"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In recent years, researchers have demonstrated that digital footprints from mobile phones can be exploited to generate data that are useful for transport planning, disaster response, and other development activities—thanks mainly to the high penetration rate of mobile phones even in low-income regions. Most recently, in the effort to mitigate the spread of COVID-19, these data can be used and explored to track mobility patterns and monitor the results of lockdown measures. However, as rightly noted by other scholars, most of the work has been limited to proofs of concept or academic work: it is hard to point to any real-world use cases. In contrast, this paper uses mobile data to obtain insight on urban mobility patterns, such as number of trips, average trip length, and relation between poverty, mobility, and areas of Freetown, the capital of Sierra Leone. These data were used in preparation of an urban mobility lending operation. Additionally, the paper describes good practices in the following areas: accessing mobile data from telecom operators, frameworks for generating origin and destination matrices, and validation of results.",
+    "ref_country": [
+      {
+        "name": "Sierra Leone",
+        "code": "SLE"
+      }
+    ],
+    "spatial_coverage": "Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9519",
+    "url": "http://documents.worldbank.org/curated/en/224761611175801192/pdf/Using-Mobile-Data-to-Understand-Urban-Mobility-Patterns-in-Freetown-Sierra-Leone.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.448484",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

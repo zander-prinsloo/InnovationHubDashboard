@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Political connections and firms : network dimensions",
+    "idno": "29861399",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29861399",
+      "title": "Political connections and firms : network dimensions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bussolo,Maurizio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Commander,Simon John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Poupakis,Stavros"
+      }
+    ],
+    "date_created": "2018/05/03",
+    "date_available": "2018/05/03",
+    "date_published": "2018/05/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29861399"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08599b681"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08599b681"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Business and politicians' interaction is pervasive but has mostly been analyzed with a binary approach, i.e. either a firm is connected to a politician or not. Yet the network dimensions of such connections are ubiquitous. This paper uses use a unique data set for seven economies that documents politically exposed persons and their links to companies, political parties, and other individuals. The data set is used to identify networks of connections, including their scale and composition. The analysis finds that all country networks are integrated having a Big Island. They also tend to be marked by small-world properties of high clustering and short path length. Matching the data to firm-level information, the paper examines the association between being connected and firm-level attributes. The originality of the analysis is to identify how location in a network, including the extent of ties and centrality, is correlated with firm scale and performance. In a binary approach, such network characteristics are omitted and the scale and economic impact of politically connected business may be significantly mis/under-estimated. By comparing the results of the binary approach with the network approach, the paper also assesses the biases that result from ignoring network attributes.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8428",
+    "url": "http://documents.worldbank.org/curated/en/323581525356216199/pdf/WPS8428.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.225956",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

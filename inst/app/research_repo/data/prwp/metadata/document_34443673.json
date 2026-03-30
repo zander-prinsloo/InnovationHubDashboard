@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Agricultural Windfalls and Electrification",
+    "idno": "34443673",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34443673",
+      "title": "Agricultural Windfalls and Electrification",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dabalen,Andrew L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mensah,Justice Tei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nsabimana,Aimable"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nshunguyinka,Alexandre"
+      }
+    ],
+    "date_created": "2025/01/07",
+    "date_available": "2025/01/07",
+    "date_published": "2025/01/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34443673"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-595d9588-fc16-4e7f-a458-f0dc8cd7cd17"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-595d9588-fc16-4e7f-a458-f0dc8cd7cd17"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11019"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies how windfalls from agriculture influence demand for electrification in a developing country. Leveraging two decades of administrative data on the universe of electricity grid customers in Rwanda, and plausibly exogenous variations in international coffee prices, we document two key findings: (I) Historical coffee price booms explain about 4% of the increase in electrification rates in Rwanda. (II) Coffee price shocks are also associated with an increase in electricity consumption by connected households. Relaxing liquidity constraints associated with upfront payment of connection fees and increased demand for electrical appliances are likely mechanisms.",
+    "ref_country": [
+      {
+        "name": "Rwanda",
+        "code": "RWA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11019",
+    "url": "http://documents.worldbank.org/curated/en/099058001072522780/pdf/IDU1595d95881fc1614e7f1a4581f0dc8cd7cd17.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.339384",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

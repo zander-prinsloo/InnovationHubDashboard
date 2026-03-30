@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An empirical model of sunk costs and the decision to export",
+    "idno": "697577",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697577",
+      "title": "An empirical model of sunk costs and the decision to export",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roberts, Mark J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tybout, James R."
+      }
+    ],
+    "date_created": "1995/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697577"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c46"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c46"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Exports respond unpredictably to a change in real exchange rates, suggests evidence from the 1980s. Recent theoretical work explains this as a consequence of the sunk costs associated with breaking into foreign markets. Sunk costs include the cost of packaging, upgrading product quality, establishing marketing channels, and accumulating information on demand sources. The authors use micro panel data to estimate a dynamic discrete-choice model of participation in export markets, a model derived from the Krugman-Baldwin sunk-cost hysteresis framework. Applying the model to data on manufacturing plants in Colombia (1981-89), they test for the presence of sunk entry costs and quantify the importance of those costs in explaining export patterns. The econometric results reject the hypothesis that sunk costs are zero. The results, which control for both observed and unobserved sources of plant heterogeneity, indicate that prior export market experience has a substantial effect on the probability of exporting, but its effect depreciates fairly quickly. The reentry costs of plants that have been out of the export market for a year are substantially lower than the costs of a first-time exporter. After a year out of the export market, however, the reentry costs are not significantly different from the entry costs. Plant characteristics are also associated with export behavior: large old plants owned by corporations are more likely to export than other plants. Variations in plant-level cost and demand conditions have much less effect on the profitability of exporting than variations in macroeconomic conditions and sunk costs do. It appears especially difficult to break into foreign markets during periods of world recession.",
+    "ref_country": [
+      {
+        "name": "Colombia",
+        "code": "COL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1436",
+    "url": "http://documents.worldbank.org/curated/en/653161468770512259/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.414450",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Non-renewable resources, fiscal rules, and human capital",
+    "idno": "26437791",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26437791",
+      "title": "Non-renewable resources, fiscal rules, and human capital",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levine,Paul Leslie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Melina,Giovanni"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Onder,Harun"
+      }
+    ],
+    "date_created": "2016/06/06",
+    "date_available": "2016/06/06",
+    "date_published": "2016/06/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26437791"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084399e1b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084399e1b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a multi-sector, small open economy Dynamic Stochastic General Equilibrium model, which includes the accumulation of human capital, built via public expenditures in education and health. Four possible fiscal rules are examined for total public investment in infrastructure, education, and health in the context of a sustainable resource fund: the spend-as-you-go, bird-in-hand spending; moderate front-loading, and permanent income hypothesis approaches. There are two dimensions to this exercise: the scaling effect, which describes the level of total investment, and the composition effect, which defines the structure of investment between infrastructure, education, and health. The model is applied to Kenya. For impacts on the non-resource economy, efficiency of spending, and sustainability of fiscal outcomes, the analysis finds that, although investment frontloading would bring high growth in the short term, the permanent income hypothesis approach is overall more desirable when fiscal sustainability concerns are taken into consideration. Finally, a balanced composition is the preferred structure of investment, given the permanent income hypothesis allocation of total investment over time.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7695",
+    "url": "http://documents.worldbank.org/curated/en/266811467989541355/pdf/Non-renewable-resources-fiscal-rules-and-human-capital.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.897698",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

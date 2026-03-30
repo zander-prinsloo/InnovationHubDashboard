@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Hidden Debt Revelations",
+    "idno": "34391658",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34391658",
+      "title": "Hidden Debt Revelations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Horn,Sebastian Andreas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mihalyi,David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nickol,Philipp"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sosa-Padilla,César"
+      }
+    ],
+    "date_created": "2024/09/16",
+    "date_available": "2024/09/16",
+    "date_published": "2024/09/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34391658"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1e8447b9-0f54-496b-8a30-8630cb1554dc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1e8447b9-0f54-496b-8a30-8630cb1554dc"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10907"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "How reliable are public debt statistics? This paper quantifies the magnitude, characteristics, and timing of hidden debt by tracking ex post data revisions across a comprehensive new database of more than 50 vintages of World Bank debt statistics. In a sample of debt data covering 146 countries and 53 years, the paper establishes three new stylized facts: (i) debt statistics are systematically under-reported; (ii) hidden debt accumulates in boom years and tends to be revealed in bad times, often during IMF programs and sovereign defaults; and (iii) in debt restructurings, higher hidden debt is associated with larger creditor losses. The novel data is used to numerically discipline a quantitative sovereign debt model with hidden debt accumulation and an endogenous monitoring decision that triggers revelations. Model simulations show that hidden debt has adverse effects on default risk, debt-carrying capacity and asset prices and is therefore welfare detrimental.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10907",
+    "url": "http://documents.worldbank.org/curated/en/099436209162426807/pdf/IDU11e8447b910f541496b18a3018630cb1554dc.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.210969",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

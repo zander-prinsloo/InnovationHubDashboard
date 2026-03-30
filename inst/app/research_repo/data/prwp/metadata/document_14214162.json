@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring the impacts of global trade reform with optimal aggregators of distortions",
+    "idno": "14214162",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14214162",
+      "title": "Measuring the impacts of global trade reform with optimal aggregators of distortions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laborde, David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martin, Will"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van der Mensbrugghe, Dominique"
+      }
+    ],
+    "date_created": "2011/05/01",
+    "date_available": "2011/05/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14214162"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b31ea"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b31ea"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Traditional weighted-average measures of trade distortions are widely used in analyzing global and regional reforms, despite well-known deficiencies. This paper develops and applies optimal aggregators for the real-world case of multiple countries and commodities with much more detailed information on trade than on production and consumption. The approach reflects the fact that different aggregators are needed for expenditure on imported goods and for tariff revenues, and allows for incorporation of both intensive and extensive margins of adjustment to reform. Applications confirm that the technique is straightforward enough for widespread use, and point to close to a doubling of the welfare gains at the intensive margin when using the highest possible level of international commodity disaggregation, with larger gains in developing regions than in the industrial countries. The measured income gains increase along the entire path of liberalization, with slightly larger increases in the earlier stages, where the gaps between the responses of the expenditure and tariff revenue aggregators are largest. Sensitivity analysis suggests that, for global trade reform, the ease of substitution between tariff lines is much more important than that between varieties from different countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5665",
+    "url": "http://documents.worldbank.org/curated/en/933031468156873419/pdf/WPS5665.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.719621",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Caseloads and Competence in Sub-Saharan Africa : A Fundamental Reassessment of the Human Resources Crisis in Primary Health Care",
+    "idno": "34449038",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34449038",
+      "title": "Caseloads and Competence in Sub-Saharan Africa : A Fundamental Reassessment of the Human Resources Crisis in Primary Health Care",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Daniels,Benjamin B."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Das,Jishnu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gatti,Roberta V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yi Chang,Andres"
+      }
+    ],
+    "date_created": "2025/01/23",
+    "date_available": "2025/01/23",
+    "date_published": "2025/01/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34449038"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-673dede9-ed4f-4766-8adf-c804e1275d38"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-673dede9-ed4f-4766-8adf-c804e1275d38"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11043"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a fundamental reassessment of the global human resources crisis in primary health care, using nationally representative survey data from 7,915 health facilities across 10 Sub-Saharan African countries. The reassessment consists of three main parts. First, in contrast to a literature that posits pervasive health workforce shortages, the paper estimates that the median primary health care provider sees 10.9 patients each day and spends under two hours doing so. However, variation in patient loads across facilities implies that most patients visit busier facilities, and therefore the median patient experiences long wait times. Second, by combining caseload data with measures of medical competence for 14,367 individual providers, the paper demonstrates that provider caseload is very weakly correlated with medical competence. As a result, the most competent doctors in each system are nearly as likely to be underutilized as the least competent. Third, the paper assesses how much productivity is lost due to the low observed correlation between caseload and competence, by calculating potential quality improvements from matching the most competent providers to the busiest postings. Such transfers could increase the likelihood that a patient sees a provider who can correctly manage simple cases by 4.5 percentage points, or 12 percent, but with substantial variation across countries. The paper concludes that in half of the countries in the sample, there are substantial numbers of competent but underutilized providers; but in the other half, quality improvements will require a full overhaul of the training infrastructure and spatial distribution of facilities.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11043",
+    "url": "http://documents.worldbank.org/curated/en/099836501232518461/pdf/IDU1673dede91ed4f1476618adf1c804e1275d38.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.094082",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

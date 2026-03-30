@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Socioeconomic Impacts of COVID-19 in Four African Countries",
+    "idno": "32550198",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32550198",
+      "title": "Socioeconomic Impacts of COVID-19 in Four African Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Josephson,Anna Leigh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Michler,Jeffrey David"
+      }
+    ],
+    "date_created": "2020/11/03",
+    "date_available": "2020/11/03",
+    "date_published": "2020/11/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32550198"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087f5e901"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087f5e901"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The coronavirus disease 2019 (COVID-19) and the attempts to limit its spread have resulted in profound economic impacts, and a significant contraction in the global economy is expected. This paper provides some of the first evidence on the socioeconomic impacts of and responses to the pandemic among households and individuals in Sub-Saharan Africa. To do so, reduced-form econometric methods are applied to longitudinal household survey data from Ethiopia, Malawi, Nigeria, and Uganda -- originating from the pre-COVID-19 face-to-face household surveys and from the novel phone surveys that are being implemented during the pandemic. The headline findings are fourfold. First, although false beliefs about COVID-19 remain prevalent, government action to limit the spread of the disease is associated with greater individual knowledge of the disease and increased uptake of precautionary measures. Second, 256 million individuals -- 77 percent of the population in the four countries -- are estimated to live in households that have lost income due to the pandemic. Third, attempts to cope with this loss are exacerbated by the inability to access medicine and staple foods among 20 to 25 percent of the households in each country, and food insecurity is disproportionately borne by households that were already impoverished prior to the pandemic. Fourth, student-teacher contact has dropped from a pre-COVID-19 rate of 96 percent to just 17 percent among households with school-age children. These findings can help inform decisions by governments and international organizations on measures to mitigate the effects of the COVID-19 pandemic and reveal the need for continued monitoring.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      }
+    ],
+    "spatial_coverage": "Africa East ; Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9466",
+    "url": "http://documents.worldbank.org/curated/en/955251604433596591/pdf/Socioeconomic-Impacts-of-COVID-19-in-Four-African-Countries.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.014986",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

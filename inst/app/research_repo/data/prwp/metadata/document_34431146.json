@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "GDP-Employment Elasticities across Developing Economies",
+    "idno": "34431146",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34431146",
+      "title": "GDP-Employment Elasticities across Developing Economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Burgi,Constantin Rudolf Salomo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hovhannisyan,Shoghik"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mondragon-Velez,Camilo"
+      }
+    ],
+    "date_created": "2024/12/02",
+    "date_available": "2024/12/02",
+    "date_published": "2024/12/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34431146"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c6016e5c-18f4-4a42-a8c7-15eb4ef045a0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c6016e5c-18f4-4a42-a8c7-15eb4ef045a0"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10989"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Economic growth is often associated with welfare gains through job creation. However, the number and quality of new job opportunities created in a growing economy vary across countries and sectors, due in great part to changes in labor productivity. This paper provides estimates of country and sector-specific GDP-employment elasticities based on data from the past two decades, including an evaluation of the predictive power among alternative methodological approaches. The results show that employment elasticities of growth vary significantly across countries and sectors, but are in most cases below 1.0, implying that employment grows less than GDP due to increasing productivity. Across sectors, agriculture has mostly lower elasticity values, becoming negative for more than one-third of developing countries. In addition, increases in labor productivity are associated with reductions in informal employment. These empirical results are in line with the implications of a theoretical model about the relationship between GDP growth, job creation, and labor productivity in economies with varying levels of productivity and informality.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10989",
+    "url": "http://documents.worldbank.org/curated/en/099532512022421144/pdf/IDU1c6016e5c118f414a421a8c7115eb4ef045a0.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.607906",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A vulnerability approach to the definition of the middle class",
+    "idno": "15534190",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15534190",
+      "title": "A vulnerability approach to the definition of the middle class",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Calva, Luis F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ortiz-Juarez, Eduardo"
+      }
+    ],
+    "date_created": "2011/12/01",
+    "date_available": "2011/12/01",
+    "date_published": "2011/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15534190"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d137a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d137a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Measurement of the middle class has recently come to the center of policy debate in middle-income countries as they search for the potential engines of growth and good governance. This debate assumes, first, that there is a meaningful definition of class, and second, that thresholds that define relatively homogeneous groups in terms of pre-determined sociological characteristics can be found empirically. This paper aims at proposing a view of the middle class based on vulnerability to poverty. Following this approach the paper exploits panel data to determine the amount of comparable income -- associated with a low probability of falling into poverty -- which could define the lower bound of the middle class. The paper looks at absolute thresholds, challenging the view that people above the poverty line are actually part of the middle class. The estimated lower threshold is used in cross-section surveys to quantify the size and the evolution of middle classes in Chile, Mexico, and Peru over the past two decades. The first relevant feature relates to the fact that the proposed thresholds lie around the 60th percentile of the distribution. The evidence also shows that the middle class has increased significantly in all three countries, suggesting that a higher number of households face lower probabilities of falling into poverty than they did in the 1990s. There is an important group of people, however, which cannot be defined as middle class from this perspective, but are not eligible for poverty programs according to traditional definitions of poverty.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5902",
+    "url": "http://documents.worldbank.org/curated/en/553321468297271070/pdf/WPS5902.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:01.830332",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

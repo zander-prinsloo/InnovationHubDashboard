@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring skills in developing countries",
+    "idno": "27252950",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27252950",
+      "title": "Measuring skills in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laajaj,Rachid"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Macours,Karen"
+      }
+    ],
+    "date_created": "2017/03/08",
+    "date_available": "2017/03/08",
+    "date_published": "2017/03/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27252950"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0849ca002"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0849ca002"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Measures of cognitive, noncognitive, and technical skills are increasingly used in development economics to analyze the determinants of skill formation, the role of skills in economic decisions, or simply because they are potential confounders. Yet in most cases, these measures have only been validated in high-income countries. This paper tests the reliability and validity of some of the most commonly used skills measures in a rural developing context. A survey with a series of skills measurements was administered to more than 900 farmers in western Kenya, and the same questions were asked again after three weeks to test the reliability of the measures. To test predictive power, the study also collected information on agricultural practices and production during the four following seasons. The results show the cognitive skills measures are reliable and internally consistent, while technical skills are difficult to capture and very noisy. The evidence further suggests that measurement error in noncognitive skills is non-classical, as correlations between questions are driven in part by the answering patterns of the respondents and the phrasing of the questions. Addressing both random and systematic measurement error using common psychometric practices and repeated measures leads to improvements and clearer predictions, but does not address all concerns. The paper provides a cautionary tale for na&#xef;ve interpretations of skill measures. It also points to the importance of addressing measurement challenges to establish the relationship of different skills with economic outcomes. Based on these findings, the paper derives guidelines for skill measurement and interpretation in similar contexts.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8000",
+    "url": "http://documents.worldbank.org/curated/en/775311488980295780/pdf/Measuring-skills-in-developing-countries.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.507075",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

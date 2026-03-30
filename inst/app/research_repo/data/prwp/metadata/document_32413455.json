@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Sovereign Credit Ratings, Relative Risk Ratings, and Private Capital Flows",
+    "idno": "32413455",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32413455",
+      "title": "Sovereign Credit Ratings, Relative Risk Ratings, and Private Capital Flows",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De,Supriyo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mohapatra,Sanket"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ratha,Dilip K."
+      }
+    ],
+    "date_created": "2020/09/17",
+    "date_available": "2020/09/17",
+    "date_published": "2020/09/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32413455"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087dd549a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087dd29e9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the influence of sovereign credit ratings and relative risk ratings on private capital flows to 26 emerging and frontier market economies, using quarterly data for 1998-2017. A dynamic panel regression model is used to estimate the relationship between ratings and capital flows after controlling for other factors that can influence capital flows, such as growth and interest rate differentials and global risk conditions. The analysis finds that while absolute ratings were an important determinant of net capital inflows prior to the global financial crisis in 2008, the influence of relative risk ratings increased in the post-crisis period, which was characterized by easy monetary policies and global liquidity, on the one hand, and greater caution and discretion on the part of investors on the other. The post-crisis effect of relative ratings appears to be driven mostly by portfolio flows. These findings imply that emerging and frontier markets need to pay greater attention to their relative economic performance and not just their sovereign ratings. Tracking changes in relative ratings could help predict macroeconomic disturbances resulting from volatile portfolio capital movements.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9401",
+    "url": "http://documents.worldbank.org/curated/en/600951600350724639/pdf/Sovereign-Credit-Ratings-Relative-Risk-Ratings-and-Private-Capital-Flows.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.519895",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

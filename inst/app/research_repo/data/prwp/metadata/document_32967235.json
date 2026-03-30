@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding the Requirements for Surveys to Support Satellite-Based Crop Type Mapping : Evidence from Sub-Saharan Africa",
+    "idno": "32967235",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32967235",
+      "title": "Understanding the Requirements for Surveys to Support Satellite-Based Crop Type Mapping : Evidence from Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azzari,George"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jain,Shruti"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jeffries,Graham"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Murray,Siobhan"
+      }
+    ],
+    "date_created": "2021/04/01",
+    "date_available": "2021/04/01",
+    "date_published": "2021/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32967235"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08879c249"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088469239"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9609"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "With the surge in publicly available high-resolution satellite imagery, satellite-based monitoring of smallholder agricultural outcomes is gaining momentum. This paper provides recommendations on how large-scale household surveys should be conducted to generate the data needed to train models for satellite-based crop type mapping in smallholder farming systems. The analysis focuses on maize cultivation in Malawi and Ethiopia, and leverages rich, georeferenced plot-level data from national household surveys that were conducted in 2018–20 and that are integrated with Sentinel-2 satellite imagery and complementary geospatial data. To identify the approach to survey data collection that yields optimal data for training remote sensing models, 26,250 in silico experiments are simulated within a machine learning framework. The best model is then applied to map seasonal maize cultivation from 2016 to 2019 at 10-meter resolution in both countries. The analysis reveals that smallholder plots with maize cultivation can be identified with up to 75 percent accuracy. However, the predictive accuracy varies with the approach to georeferencing plot locations and the number of observations in the training data. Collecting full plot boundaries or complete plot corner points provides the best quality of information for model training. Classification performance peaks with slightly less than 60 percent of the training data. Seemingly small erosion in accuracy under less preferable approaches to georeferencing plots results in total area under maize cultivation being overestimated by 0.16 to 0.47 million hectares (8 to 24 percent) in Malawi.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9609",
+    "url": "http://documents.worldbank.org/curated/en/339781617301798195/pdf/Understanding-the-Requirements-for-Surveys-to-Support-Satellite-Based-Crop-Type-Mapping-Evidence-from-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.659273",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

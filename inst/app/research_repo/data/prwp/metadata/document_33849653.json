@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Adaptive Experiments for Policy Choice : Phone Calls for Home Reading in Kenya",
+    "idno": "33849653",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33849653",
+      "title": "Adaptive Experiments for Policy Choice : Phone Calls for Home Reading in Kenya",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Esposito Acosta,Bruno Nicola"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sautmann,Anja"
+      }
+    ],
+    "date_created": "2022/06/23",
+    "date_available": "2022/06/23",
+    "date_published": "2022/06/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33849653"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-78c6dff1-259d-409d-997f-d753a7e2cb72"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-78c6dff1-259d-409d-997f-d753a7e2cb72"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10098"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Adaptive sampling in experiments with multiple waves can improve learning for &#x201c;policy choice problems&#x201d; where the goal is to select the optimal intervention or treatment among several options. This paper uses a real-world policy choice problem to demonstrate the advantages of adaptive sampling and propose solutions to common issues in applying the method. The application is a test of six formats for automated calls to parents in Kenya that encourage reading with children at home. The adaptive &#x2018;exploration sampling&#x2019; algorithm is used to efficiently identify the call with the highest rate of engagement. Simulations show that adaptive sampling increased the posterior probability of the chosen arm being optimal from 86 to 93 percent and more than halved the posterior expected regret. The paper discusses a range of implementation aspects, including how to decide about research design parameters such as the number of experimental waves.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10098",
+    "url": "http://documents.worldbank.org/curated/en/099337506232226851/pdf/IDU078c6dff10259d0409d0997f0d753a7e2cb72.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.779447",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

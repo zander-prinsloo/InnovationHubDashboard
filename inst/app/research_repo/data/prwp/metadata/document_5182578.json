@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Remittances and poverty in Guatemala",
+    "idno": "5182578",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5182578",
+      "title": "Remittances and poverty in Guatemala",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adams, Richard H. Jr."
+      }
+    ],
+    "date_created": "2004/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5182578"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0599d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0599d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author uses a large, nationally representative household survey to analyze the impact of internal remittances (from Guatemala), and international remittances (from the United States) on poverty in Guatemala. With only one exception, he finds that both internal and international remittances reduce the level, depth, and severity of poverty in Guatemala. However, he finds that remittances have a greater impact on reducing the severity as opposed to the level of poverty in Guatemala. For example, the squared poverty gap-which measures the severity of poverty-falls by 21.1 percent when internal remittances are included in household income, and by 19.8 percent when international remittances are included in such income. This is true because households in the lowest decile group receive a very large share of their total household income (expenditure) from remittances. Households in the bottom decile group receive between 50 and 60 percent of their total income (expenditure) from remittances. When these \"poorest of the poor\" households receive remittances, their income status changes dramatically and this in turn has a large effect on any poverty measure-like the squared poverty gap-that considers the number, distance, and distribution of poor households beneath the poverty line.",
+    "ref_country": [
+      {
+        "name": "Guatemala",
+        "code": "GTM"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3418",
+    "url": "http://documents.worldbank.org/curated/en/498111468771568579/pdf/3418WPS.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.764615",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Data-Driven Approach for Early Detection of Food Insecurity in Yemen's Humanitarian Crisis",
+    "idno": "34316081",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34316081",
+      "title": "A Data-Driven Approach for Early Detection of Food Insecurity in Yemen's Humanitarian Crisis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steve Penson"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lomme,Mathijs"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carmichael,Zacharey Austin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Manni,Alemu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shrestha,Sudeep Kumar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andree,Bo Pieter Johannes"
+      }
+    ],
+    "date_created": "2024/05/09",
+    "date_available": "2024/05/09",
+    "date_published": "2024/05/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34316081"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-fd335ca9-7518-4846-a5b1-54ba368027ff"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-fd335ca9-7518-4846-a5b1-54ba368027ff"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10768"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The Republic of Yemen is enduring the world's most severe protracted humanitarian crisis, compounded by conflict, economic collapse, and natural disasters. Current food insecurity assessments rely on expert evaluation of evidence with limited temporal frequency and foresight. This paper introduces a data-driven methodology for the early detection and diagnosis of food security emergencies. The approach optimizes for simplicity and transparency, and pairs quantitative indicators with data-driven optimal thresholds to generate early warnings of impending food security emergencies. Historical validation demonstrates that warnings can be reliably issued before sharp deterioration in food security occurs, using only a few critical indicators that capture inflation, conflict, and agricultural productivity shocks. These indicators signal deterioration most accurately at five months of lead time. The paper concludes that simple data-driven approaches show a strong capability to generate reliable food security warnings in Yemen, highlighting their potential to complement existing assessments and enhance lead time for effective intervention.",
+    "ref_country": [
+      {
+        "name": "Yemen Arab Republic",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10768",
+    "url": "http://documents.worldbank.org/curated/en/099709505092462162/pdf/IDU1fd335ca917518148461a5b1154ba368027ff.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.475244",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Investing in Human Capital : What Can We Learn from the World Bank's Portfolio Data",
+    "idno": "30779212",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30779212",
+      "title": "Investing in Human Capital : What Can We Learn from the World Bank's Portfolio Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gatti,Roberta V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mohpal,Aakash"
+      }
+    ],
+    "date_created": "2019/01/23",
+    "date_available": "2019/01/23",
+    "date_published": "2019/01/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30779212"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0868b53c5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0868b53c5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper compiles project-level data from the World Bank's lending history to describe patterns and the composition of its portfolio. The paper focuses particularly on the effect of countries' transition from International Development Association to International Bank for Reconstruction and Development status, which marks the point when countries start borrowing at near market rates, on lending for human development sectors (education, health and social protection). Using country and year fixed effects, which account for unobservable country characteristics (for example, national priorities) and time effects (for example, market interest rates), the paper finds that human development lending decreases when countries graduate from the International Development Association. The average difference in the binary indicator of lending for any sector is 27 percent while it is 60 percent for human development sectors. The share of human development lending (lending by human development Global Practices over total lending) is also 6.9 percentage points (30 percent) lower. This decline in human development lending in International Bank for Reconstruction and Development countries is accompanied by a greater use of budget support. The results are robust to controlling for non-World Bank aid, as well as various alternative specifications and estimation samples.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8716",
+    "url": "http://documents.worldbank.org/curated/en/388051548251274535/pdf/WPS8716.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.742130",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

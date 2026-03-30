@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Consumption smoothing and shock persistence : optimal simple fiscal rules for commodity exporters",
+    "idno": "27393360",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27393360",
+      "title": "Consumption smoothing and shock persistence : optimal simple fiscal rules for commodity exporters",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galego Mendes,Arthur"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pennings,Steven Michael"
+      }
+    ],
+    "date_created": "2017/04/25",
+    "date_available": "2017/04/25",
+    "date_published": "2017/04/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27393360"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084aff822"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084aff822"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A common criticism of balanced budget fiscal rules is that they increase the consumption volatility of financially constrained households who are unable to smooth consumption. This paper evaluates the welfare consequences of simple fiscal rules in a model of a small commodity-exporting country with a share of financially constrained households, where fiscal policy takes the form of transfers. A main finding is that balanced budget rules for commodity revenues often outperform more sophisticated fiscal rules where commodity revenues are saved in a Sovereign Wealth Fund (SWF). Because commodity price shocks are typically highly persistent, the households' current income is close to their permanent income, making balanced budget rules close to optimal. For commodities like oil, where price shocks are highly persistent, it is optimal to spend more than two-thirds of windfall revenues in times of high prices, and in some cases even spend the entire windfall. But for commodities where price shocks are less persistent, like bananas or sugar, the optimal rule involves spending less than half of above-average commodity revenues (with the rest saved in a SWF). It is also best to respond counter-cyclically to non-resource GDP shocks, because those shocks are less persistent (and also affect households other income). The government does not have the ability to perfectly smooth constrained households’ consumption without adversely affecting unconstrained households.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8035",
+    "url": "http://documents.worldbank.org/curated/en/384311493124785251/pdf/WPS8035.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.208702",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

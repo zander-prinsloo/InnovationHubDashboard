@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Payment systems in Latin America : a tale of two countries - Colombia and El Salvador",
+    "idno": "696994",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696994",
+      "title": "Payment systems in Latin America : a tale of two countries - Colombia and El Salvador",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Listfield, Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Montes-Negret, Fernando"
+      }
+    ],
+    "date_created": "1995/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696994"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058ac"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Payment systems include all the paper (including cash) and electronic systems a country uses to exchange financial value to discharge obligations. Financial markets rely on promptness and certainty of payment and settlement for borrowing and investing. Consumers want convenience, choice (of payment options), privacy, and low cost. Inefficiencies in payment systems cause a drag on the national economy. The authors compare trends and areas for improvement in payment systems in Colombia and El Salvador, two countries that differ in size, volume of check-based transactions, and national issues. Check standards have developed slowly in both countries, which has retarded automation, particularly in Colombia, where the volume of checks handled makes manual processing unmanageable. Both countries need stronger leadership from central banks and bankers associations; incentives to adopt common check standards; streamlined check sorting and encoding, microfilming, and manual data processing; alternative (especially credit-based) payment mechanisms and private check-processing bureaus; and settlement of stock exchange transactions through several banks, rather than one bank. The countries differ in important ways: 1) it will be easier to reach economies of scale in check processing in Colombia (which has too many local clearinghouses) than in El Salvador (which has too few). Both countries need a more balanced approach; 2) same day payments are possible in Colombia; payments in El Salvador are next day, at best; 3) financial markets are less mature in El Salvador and may not need to be as sophisticated as markets in other countries; and 4) Colombia has yet to create effective disincentives for writing checks against insufficient funds. Both countries must take certain actions to develop a system for electronic payment and the settlement of payments at the central bank: 1) draft new laws and regulations; 2) provide more systematic data collection and analysis of payment flows; 3) undertake more risk analysis and prevention in the central banks and supervisory agencies, and draft contingency plans for major failures; 4) reexamine the dual roles of the central banks and other government agencies in operating and supervising payment systems; 5) review check-clearing pricing policies; and 6) analyze the economics of automating check processing.",
+    "ref_country": [
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SLV"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1519",
+    "url": "http://documents.worldbank.org/curated/en/368411468748470665/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:52.465227",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Asia region population projections : 1990-91 edition",
+    "idno": "700058",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700058",
+      "title": "Asia region population projections : 1990-91 edition",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bos, Eduard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stephens, Patience W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "My T. Vu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bulat"
+      }
+    ],
+    "date_created": "1991/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700058"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5d5e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5d5e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Almost half the worlds population lives in Asia. This proportion is expected to decline to 40 percent by the end of the next century, mainly because of slowing growth in China. Other countries will continue to grow rapidly, and India, which adds more people every year than any other country, is project to surpass China in total population. Recent contraceptive prevalence surveys in several countries in the region show increasing proportions of couples using birth control. Fertility in these countries, mostly in Southeast Asia, has consequently declined rapidly. Population growth rates started to drop in many countries in the region in the past decade, but the momentum built in to the age structures of the populations will ensure continued population growth for many decades. Other countries in the region are lagging in fertility decline, and their populations will continue to grow at high rates. Infant and child mortality are the lowest in countries where fertility has declined.",
+    "ref_country": [
+      {
+        "name": "East Asia and Pacific",
+        "code": "EAP"
+      },
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS599",
+    "url": "http://documents.worldbank.org/curated/en/830631468777032393/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:03.512562",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

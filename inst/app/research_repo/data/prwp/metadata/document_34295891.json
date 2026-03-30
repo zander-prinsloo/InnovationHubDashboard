@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Reconstructing 2010–2022 Poverty and Inequality Trends in Bangladesh : A Statistical Matching Approach",
+    "idno": "34295891",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34295891",
+      "title": "Reconstructing 2010–2022 Poverty and Inequality Trends in Bangladesh : A Statistical Matching Approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fernandez Romero,Jaime Estuardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olivieri,Sergio Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wambile,Ayago Esmubancha"
+      }
+    ],
+    "date_created": "2024/04/04",
+    "date_available": "2024/04/04",
+    "date_published": "2024/04/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34295891"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d09247aa-1eea-4880-8515-e814de37fa03"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d09247aa-1eea-4880-8515-e814de37fa03"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10749"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The 2022 Household Income and Expenditure Survey enhances fieldwork, data management, and information quality but poses comparability challenges with previous rounds. This study proposes a two-step process based on statistical matching to fill the information gap in previous survey rounds. This methodology uses the more comprehensive 2022 information to reconstruct comparable consumption measures over time. This allows for a consistent assessment of poverty and inequality measures, providing insights into the changes for policy makers, researchers, and stakeholders over the years. The results reveal that integrating this correction into previous survey rounds would have reduced poverty rates by around 10.6 percentage points between 2010 and 2016 and a further decrease of 7.8 percentage points between 2016 and 2022. Likewise, extreme poverty rates would have witnessed a decline of approximately 3 percentage points in the earlier period and a more substantial drop of 3.6 percentage points in the more recent one. These poverty reduction trends mirror improvements in other dimensions of well-being, like reductions in infant mortality and stunting and increases in access to electricity, sanitary toilets, and literacy rates.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10749",
+    "url": "http://documents.worldbank.org/curated/en/099909004042424752/pdf/IDU1d09247aa11eea14880185151e814de37fa03.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.716199",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

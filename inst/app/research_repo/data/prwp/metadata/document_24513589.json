@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty dynamics in India between 2004 and 2012 : insights from longitudinal analysis using synthetic panel data",
+    "idno": "24513589",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24513589",
+      "title": "Poverty dynamics in India between 2004 and 2012 : insights from longitudinal analysis using synthetic panel data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      }
+    ],
+    "date_created": "2015/05/20",
+    "date_available": "2015/05/20",
+    "date_published": "2015/05/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24513589"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082ea9e42"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082ea9e42"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent National Sample Surveys point to significant poverty reduction in India since 2004/05, with a marked acceleration between 2009/10 and 2011/12. This paper enquires into important aspects of income mobility between 2004/05 and 2011/12, based on new statistical methods to convert the three pertinent National Sample Survey rounds into synthetic panels. The analysis draws on the synthetic panels to derive a vulnerability line for India that can be used to separate out a population subgroup comprising non-poor households facing a heightened risk of falling into poverty. The paper documents a strong pattern of upward mobility out of poverty and vulnerability into the middle class, with a noticeable acceleration between 2009/10 and 2011/12. The paper further undertakes a careful investigation into the comparability of the survey rounds, prompted by the observation that fairly significant modifications had been made to survey questionnaires. The findings suggest that changes in questionnaire design have not compromised the comparability of the data.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7270",
+    "url": "http://documents.worldbank.org/curated/en/635831468179977595/pdf/WPS7270.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.240182",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

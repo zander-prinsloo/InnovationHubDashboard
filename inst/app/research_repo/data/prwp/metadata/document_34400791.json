@@ -1,0 +1,153 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identifying Growth Accelerations",
+    "idno": "34400791",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34400791",
+      "title": "Identifying Growth Accelerations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gootjes,Bram"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Haan,Jakob"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stamm,Kersten Kevin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shu Yu"
+      }
+    ],
+    "date_created": "2024/10/07",
+    "date_available": "2024/10/07",
+    "date_published": "2024/10/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34400791"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4cbf275f-70ff-42bc-9ae5-ab512c243501"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4cbf275f-70ff-42bc-9ae5-ab512c243501"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10945"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces a new method to identify output growth accelerations that integrates elements of both the &#x201c;criteria-based&#x201d; and &#x201c;break-testing&#x201d; approaches, which are prevalent in the literature. The proposed criteria do not impose a fixed length on growth accelerations, thus enabling duration analyses without relying on questionable statistical techniques for the identification of these accelerations. The findings show that growth accelerations last an average 13.4 years, albeit with significant variations in duration across regions. Initial conditions and contemporaneous domestic and external economic conditions all matter for the continuation of an acceleration, and changes in any single policy condition have less of an impact.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10945",
+    "url": "http://documents.worldbank.org/curated/en/099245010072453221/pdf/IDU14cbf275f170ff142bc19ae51ab512c243501.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "macroeconomic & structural policy modelling",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.971293",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

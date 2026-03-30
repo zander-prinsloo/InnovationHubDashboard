@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global logistics indicators, supply chain metrics, and bilateral trade patterns",
+    "idno": "6421820",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6421820",
+      "title": "Global logistics indicators, supply chain metrics, and bilateral trade patterns",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hausman,Warren H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lee,Hau L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Subramanian,Uma"
+      }
+    ],
+    "date_created": "2005/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6421820"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a3b36"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a3b36"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Past research into the determinants of international trade highlighted the importance of the basic spatial gravity model augmented by additional variables representing sources of friction. Studies modeled many sources of friction using various proxies, including indices based on expert judgment in some cases. This paper focuses on logistics friction and draws on a data set recently compiled by the World Bank with specific quantitative metrics of logistics performance in terms of time, cost, and variability in time. It finds that the new variables that relate directly to logistics performance have a statistically significant relationship with the level of bilateral trade. It also finds that a single logistics index can capture virtually all of the explanatory power of multiple logistics indicators. The findings should spur public and private agencies that have direct or indirect power over logistics performance to focus attention on reducing sources of friction so as to improve their country's ability to compete in today's global economy. Moreover, since the logistics metrics are directly related to operational performance, countries can use these metrics to target actions to improve logistics and monitor their progress.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3773",
+    "url": "http://documents.worldbank.org/curated/en/313001468328178815/pdf/wps3773.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.590965",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Africa region population projections : 1990-91",
+    "idno": "700054",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700054",
+      "title": "Africa region population projections : 1990-91",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stephens, Patience W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bos, Eduard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vu, My T."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bula"
+      }
+    ],
+    "date_created": "1991/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/06/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700054"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ac932"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ac932"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As recently as the mid-1970s, the Africa region had a smaller population than the Asia, the Latin American and the Caribbean, or the Europe, Middle East, and North Africa regions. Explosive population growth of more than 3 percent per year, projected to decline only gradually, will make Africa the second largest region by 2005. Its share of the world's population will increase from less than 10 percent now to 20 percent in the middle of the next century and to 25 percent when stationarity is finally reached. Vital rates vary relatively little among the subregions of sub-Saharan Africa. Fertility is uniformly high, with the total fertility rate higher than 6 children per woman. Linked with high fertility are high infant mortality rates, which are above 100 per thousand births for subregions. A few countries - Botswana, Zimbabwe, and Kenya - are leading the way in the African fertility transition. Recent fertility surveys in these countries show an increase in the use of contraceptives and the first evidence of fertility decline. It is assumed in the projections that this trend will spread to other countries. Most African governments now report their country's population growth rates as too high.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS598",
+    "url": "http://documents.worldbank.org/curated/en/713611468741628075/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:03.432795",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

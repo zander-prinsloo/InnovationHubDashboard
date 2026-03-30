@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of climate change on livestock management in Africa : a structural Ricardian analysis",
+    "idno": "7848150",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7848150",
+      "title": "The impact of climate change on livestock management in Africa : a structural Ricardian analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mendelsohn,Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seo,Sungno Niggol"
+      }
+    ],
+    "date_created": "2007/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7848150"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a54e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a54e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops the structural Ricardian method, a new approach to modeling agricultural performance using cross-sectional evidence, and uses the method to study animal husbandry in Africa. The model is intended to estimate the structure beneath Ricardian results in order to understand how farmers change their behavior in response to climate. A survey of over 5,000 livestock farmers in 10 countries reveals that the selection of species, the net income per animal, and the number of animals are all highly dependent on climate. As climate warms, net income across all animals will fall, especially across beef cattle. The fall in net income causes African farmers to reduce the number of animals on their farms. The fall in relative revenues also causes them to shift away from beef cattle and toward sheep and goats. All farmers will lose income but the most vulnerable farms are large African farms that currently specialize in beef cattle. Small livestock and large livestock farms respond to climates differently. Small farms are diversified, relying on dairy cattle, goats, sheep, and chickens. Large farms specialize in dairy and beef cattle. Estimating a separate multinomial logit selection model for small and large farms reveals that the two types of farm choose species differently and specifically have different climate response functions. The regressions of the number of animals also reveal that large farms are more responsive to climate. The results indicate that warming will be harmful to commercial livestock owners, especially cattle owners. Owners of commercial livestock farms have few alternatives either in crops or other animal species. In contrast, small livestock farms are better able to adapt to warming or precipitation increases by switching to heat tolerant animals or crops. Livestock operations will be a safety valve for small farmers if warming or drought causes their crops to fail.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4279",
+    "url": "http://documents.worldbank.org/curated/en/880921468203950319/pdf/wps4279.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.120752",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

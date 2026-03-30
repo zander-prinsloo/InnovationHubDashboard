@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Where in the world is population growth bad",
+    "idno": "697826",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697826",
+      "title": "Where in the world is population growth bad",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kling, Jeff"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pritchett, Lant"
+      }
+    ],
+    "date_created": "1994/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697826"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cc437"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cc437"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Would economic growth be better if population growth were slower? There are two apparently opposite answers to this question. Advocates of policies to reduce population growth rates are completely convinced by the common sense view that rapid population growth greatly hurts economic growth because of scarcer natural resources, reduced investments (per child) in health and education, and lower rates of capital accumulation per worker. The empirical evidence (usually marshalled by economists) provides an equally convincing, and seemingly contradictory, answer: There is no strong, stable relationship between countries' population growth and their per capita output growth rates. The authors propose an empirical reconciliation between the two views. No one really believes that the impact of a 10 percent increase in population would have the same impact in Bangladesh as it would have in Canada, or even the same impact in crowded Malawi or Rwanda as in sparsely populated Zaire or Zambia. But if the impact of population growth on economic growth differs across countries, it might on average be small (even statistically indistinguishable from zero) in the usual empirical estimates, even though the negative impact in particular countries might well be large. The real answer might be, \"It depends on country conditions.\" But this answer is uninformative unless one can show which country conditions \"it depends\" on. Is it most harmful in poor countries? In countries with poor policies? The authors try to discover the condition under which population growth hurts economic performance by allowing interactive terms for country conditions. The empirical results do not give confirmation to any of the plausible distinctions across country conditions - the impact of population growth is not worse in poor countries and is not worse in land-scarce countries. Their measure of resource scarcity may be one reason for this failure to find an interaction, but while it failed to produce satisfying results, it is a major conceptual improvement over even simpler indicators, such as population density, or the empirical literatures studied: no interaction. Identifying the conditions under which population growth is a drag on economic growth should be a priority as efforts to reduce population growth should be concentrated in those countries where the efforts give the greatest payoff.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1391",
+    "url": "http://documents.worldbank.org/curated/en/160711468764364708/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.073163",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,240 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Small Area Estimation of Poverty in Four West African Countries by Integrating Survey and Geospatial Data",
+    "idno": "34386121",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34386121",
+      "title": "Small Area Estimation of Poverty in Four West African Countries by Integrating Survey and Geospatial Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Edochie,Ifeanyi Nzegwu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tzavidis,Nikos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmid,Timo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,Elizabeth Mary"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hernandez,Angela Luna"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ouedraogo,Aissatou"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanoh,Aly"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aboudrahyme Savadogo"
+      }
+    ],
+    "date_created": "2024/09/04",
+    "date_available": "2024/09/04",
+    "date_published": "2024/09/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34386121"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-70f4516f-b8a7-46a6-9630-91a7420b4631"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-70f4516f-b8a7-46a6-9630-91a7420b4631"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10892"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper presents a methodology to generate experimental small area estimates of poverty in four West African countries: Chad, Guinea, Mali, and Niger. Due to the absence of recent census data in these countries, household-level survey data are integrated with grid-level geospatial data, which are used as covariates in model-based estimation. Leveraging geospatial data enables reporting of poverty estimates more frequently at disaggregated administrative levels and makes estimation feasible in areas for which survey data are not available. The paper leverages the availability of a recent census in Burkina Faso for evaluation purposes. Estimates obtained with the same survey instruments and candidate geospatial covariates as the other four countries are compared against estimates obtained using recent census data and an empirical best predictor under a unit-level model. For Burkina Faso, the estimates obtained using geospatial data are highly correlated with the census-based ones in sampled areas but moderately correlated in non-sampled areas. The results demonstrate that in the absence of recent census data, small area estimation with publicly available geospatial covariates is",
+    "ref_country": [
+      {
+        "name": "Sahel",
+        "code": "-"
+      },
+      {
+        "name": "Chad",
+        "code": "TCD"
+      },
+      {
+        "name": "Guinea",
+        "code": "GIN"
+      },
+      {
+        "name": "Mali",
+        "code": "MLI"
+      },
+      {
+        "name": "Niger",
+        "code": "NER"
+      },
+      {
+        "name": "Western Africa",
+        "code": "-"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Western and Central Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10892",
+    "url": "http://documents.worldbank.org/curated/en/099158209042442519/pdf/IDU170f4516f1b8a7146a619630191a7420b4631.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.360758",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

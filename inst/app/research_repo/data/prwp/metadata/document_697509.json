@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Roads, lands, markets, and deforestation : a spatial model of land use in Belize",
+    "idno": "697509",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697509",
+      "title": "Roads, lands, markets, and deforestation : a spatial model of land use in Belize",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chomitz, Kenneth M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gray, David A."
+      }
+    ],
+    "date_created": "1995/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697509"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ac3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ac3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Rural roads promote economic development but also facilitate deforestation. To explore the tradeoffs between development and environmental damage posed by road building, the authors develop and estimate a spatially explicit model of land use. This model takes into account location and land characteristics and predicts land use at each point on the landscape. They find that: (a) market access and distance to roads strongly affect the probability of agricultural use, especially for commercial agriculture; (b) high slopes, poor drainage, and low soil fertility discourage both commercial and semi subsistence agriculture; and (c) semi-subsistence agriculture is especially sensitive to soil acidity and lack nitrogen (confirming anthropological findings that subsistence farmers are shrewd judges of soil). Spatially explicit models are analytically powerful because they exploit rich spatial variation in causal variables, including the precise siting of roads. They are useful for policy because they can pinpoint threats to particular critical habitats and watersheds. This model is a descendant of the venerable von Thunen model. It assumes that land will tend to be devoted to its highest-value use, taking into account tenure and other constraints. The value of a plot for a particular use depends on the land's physical productivity for that use and the farmgate prices of relevant inputs and outputs. A reduced-form, multinomial logit specification of this model calculates implicit values of land in alternative uses as a function of land location and characteristics. The resulting equations can then be used for prediction or analysis. The model was applied to cross-sectional data for 1989-92 for Belize, a forested country currently experiencing rapid expansion of both subsistence and commercial agriculture. A geographic information system was used to manage the spatial data and extract variables based on the three kilometer sample grid. Three land uses were distinguished: \"natural\" vegetation, comprising forests, woodlands, wetlands, and savanna; semi-subsistence agriculture, comprising traditional milpa (slash-and-burn) cultivation and other nonmechanized cultivation of annual crops; and commercial agriculture, consisting mainly of sugarcane, pasture, citrus, and mechanized production of corn and kidney beans. Two dimensions of distance to market were distinguished: the distance from each sample point to the road, and on-road travel time to the nearest town. Data on a wide variety of land and soil characteristics were also used.",
+    "ref_country": [
+      {
+        "name": "Belize",
+        "code": "BLZ"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1444",
+    "url": "http://documents.worldbank.org/curated/en/413971468768642724/Roads-lands-markets-and-deforestation-a-spatial-model-of-land-use-in-Belize",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.280659",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

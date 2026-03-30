@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Non-Linear Effects of Tax Changes on Output : The Role of the Initial Level of Taxation",
+    "idno": "30675185",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30675185",
+      "title": "Non-Linear Effects of Tax Changes on Output : The Role of the Initial Level of Taxation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gunter,Samara"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Riera-Crichton,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vegh Gramont,Carlos Alberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vuletin,Guillermo Javier"
+      }
+    ],
+    "date_created": "2018/12/07",
+    "date_available": "2018/12/07",
+    "date_published": "2018/12/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30675185"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086706adb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086706adb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the effect of worldwide tax changes on output following the narrative approach developed for the United States by Romer and Romer (2010). The analysis uses a novel dataset on value-added taxes for 51 countries (21 industrial and 30 developing) for the period 1970-2014 to identify 96 tax changes. It then uses contemporaneous economic records to classify such changes as endogenous or exogenous to current (or prospective) economic conditions. In line with theoretical distortionary and disincentive-based arguments, and using only exogenous tax changes, the main finding is that the effect of tax changes on output is highly non-linear. The tax multiplier is essentially zero under relatively low/moderate initial tax rate levels and more negative as the initial tax rate and the size of the change in the tax rate increase. Based on a global sample, these novel non-linear findings suggest that the recent consensus pointing to large negative tax multipliers in industrial countries, particularly in Europe (e.g., Alesina, Favero, and Giavazzi, 2015), (i) is not a robust empirical regularity, and (ii) is mainly driven by high initial tax rates in these countries. The paper also shows that the bias introduced by misidentification of tax shocks critically depends on the procyclical or countercyclical nature of endogenous tax changes. The relevance of the arguments is evaluated both for the novel global sample and for Romer and Romer's U.S. dataset.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8668",
+    "url": "http://documents.worldbank.org/curated/en/654331544193195012/pdf/WPS8668.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.195547",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

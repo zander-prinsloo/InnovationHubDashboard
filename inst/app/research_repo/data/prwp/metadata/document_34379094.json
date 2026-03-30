@@ -1,0 +1,244 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Poverty in Tanzania : Comparison of Diary and Recall Approaches to Food Consumption Data Collection",
+    "idno": "34379094",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34379094",
+      "title": "Measuring Poverty in Tanzania : Comparison of Diary and Recall Approaches to Food Consumption Data Collection",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amankwah,Akuffo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Johnson,Darcey Jeanne Genou"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ofori Adofo,Josephine"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gul,Maryam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Amparo"
+      }
+    ],
+    "date_created": "2024/08/19",
+    "date_available": "2024/08/19",
+    "date_published": "2024/08/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34379094"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-cb9ca78a-2eb6-43bb-b2f3-c8aed23cfc54"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-cb9ca78a-2eb6-43bb-b2f3-c8aed23cfc54"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10871"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Consumption data from household surveys continue to be the main source for poverty and inequality statistics in low- and middle-income countries. Although recent research has demonstrated that the choice of diary- versus recall-based methods for consumption data collection can directly impact poverty measurement, the available evidence stems from small-scale, subnational survey experiments. This study uses data from a nationally representative randomized survey experiment in Tanzania to provide a comparative assessment of how household consumption and poverty measures may be impacted by relying on a 14-day food consumption diary versus two different variants of 7-day-recall-based food consumption data collection. The analysis reveals significant differences in food consumption expenditures across the diary and recall arms, and these differences result in differences in total consumption expenditures as well. The results further show that the diary method captures more diverse food consumption items, but the overall consumption expenditure appears significantly lower than in the recall arms, even at different percentiles. Despite these disparities, the paper finds little statistically significant difference in poverty rates between the diary and recall arms, even at different thresholds.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Eastern and Southern Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10871",
+    "url": "http://documents.worldbank.org/curated/en/099815008192411379/pdf/IDU1cb9ca78a12eb6143bb1b2f31c8aed23cfc54.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "skills development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict solutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "institutional strengthening and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "spatial growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.535793",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

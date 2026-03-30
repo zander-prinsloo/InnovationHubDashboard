@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inequality of opportunity and economic growth : a cross-country analysis",
+    "idno": "19646107",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19646107",
+      "title": "Inequality of opportunity and economic growth : a cross-country analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferreira,Francisco H. G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lakner,Christoph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lugo,Maria Ana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozler,Berk"
+      }
+    ],
+    "date_created": "2014/06/01",
+    "date_available": "2014/06/01",
+    "date_published": "2014/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19646107"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b862b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b862b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Income differences arise from many sources. While some kinds of inequality, caused by effort differences, might be associated with faster economic growth, other kinds, arising from unequal opportunities for investment, might be detrimental to economic progress. This study uses two new metadata sets, consisting of 118 household surveys and 134 Demographic and Health Surveys, to revisit the question of whether inequality is associated with economic growth and, in particular, to examine whether inequality of opportunity -- driven by circumstances at birth -- has a negative effect on subsequent growth. The results are suggestive but not robust: while overall income inequality is generally negatively associated with growth in the household survey sample, we find no evidence that this is due to the component associated with unequal opportunities. In the Demographic and Health Surveys sample, both overall wealth inequality and inequality of opportunity have a negative effect on growth in some of the preferred specifications, but the results are not robust to relatively minor changes. On balance, although the results are suggestive of a negative association between inequality and growth, the data do not permit robust conclusions as to whether inequality of opportunity is bad for growth.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6915",
+    "url": "http://documents.worldbank.org/curated/en/171051468336289614/pdf/WPS6915.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.953393",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

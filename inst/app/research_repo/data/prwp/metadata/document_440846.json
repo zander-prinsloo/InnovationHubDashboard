@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Wage determination and gender discrimination in a transition economy : the case of Romania",
+    "idno": "440846",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440846",
+      "title": "Wage determination and gender discrimination in a transition economy : the case of Romania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paternostro, Stefano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sahn, David E."
+      }
+    ],
+    "date_created": "1999/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440846"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b11"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b11"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors analyze wage determination and gender discrimination in Romania using the 1994 Romanian Household survey. They estimate wages for men and women in urban and rural areas using a Heckman selection model. They analyze gender discrimination in offered wages, to address the methodological shortcomings found in the literature. Increasing returns to education and experience are consistently significant for both men and women in urban and rural areas. Returns to education are greater in rural than in urban areas, especially for women. Labor markets are segmented regionally, probably as a result of the country's economic history, especially the spatial allocation of resources under a centrally planned economy. Only with economic liberalization has the specialization of specific regions translated into differences in regional performance and hence local economic differences. They found discrimination against women in both urban and rural labor markets, especially at low levels of education. The observed bias against women in urban areas is comparable to that found in other Western countries--but in the region's rural settings the bias is much greater than in the West. With the adjustment to market forces, as less-skilled workers face increasing difficulties in the region, women's relative wages may be expected to decline further. Discrepancy in pay also directly affects the level of pensions, unemployment benefits, and other means-tested benefits to workers, contributing to pauperization.",
+    "ref_country": [
+      {
+        "name": "Romania",
+        "code": "ROU"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2113",
+    "url": "http://documents.worldbank.org/curated/en/629451468776121183/Wage-determination-and-gender-discrimination-in-a-transition-economy-the-case-of-Romania",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.275204",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

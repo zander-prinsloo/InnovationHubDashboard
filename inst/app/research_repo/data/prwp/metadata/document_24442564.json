@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global poverty goals and prices : how purchasing power parity matters",
+    "idno": "24442564",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24442564",
+      "title": "Global poverty goals and prices : how purchasing power parity matters",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolliffe,Dean Mitchell"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Prydz,Espen Beer"
+      }
+    ],
+    "date_created": "2015/05/05",
+    "date_available": "2015/05/05",
+    "date_published": "2015/05/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24442564"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082e3fedf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082e3db15"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "With the recent release of the 2011 purchasing power parity (PPP) data from the International Comparison Program (ICP), analysts and institutions are confronted with the question of whether and how to use them for global poverty estimation. The previous round of PPP data from 2005 led to a large increase in the estimated number of poor in the world. The 2011 price data suggest that developing countries’ incomes in PPP-adjusted dollars are significantly higher than indicated by the 2005 PPP data. This has created the anticipation that the new PPP data will decrease significantly the count of poor people in the world. This paper presents evidence that if the global poverty line is updated with the 2011 PPP data based on the same set of national poverty lines that define the $1.25 line in 2005 PPPs, and if the 2011 PPP conversion factors are used without adjustments to selected countries, the 2011 poverty rate is within half a percentage point of the current global estimate based on 2005 PPPs. The analysis also indicates that the goal of ‘ending’ extreme poverty by 2030 continues to be an ambitious one.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7256",
+    "url": "http://documents.worldbank.org/curated/en/274691467991957918/pdf/Global-poverty-goals-and-prices-how-purchasing-power-parity-matters.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.354868",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

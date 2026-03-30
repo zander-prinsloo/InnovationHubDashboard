@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Foreign investment and productivity growth in Czech enterprises",
+    "idno": "441031",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "441031",
+      "title": "Foreign investment and productivity growth in Czech enterprises",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Djankov, Simeon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoekman, Bernard"
+      }
+    ],
+    "date_created": "1999/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "441031"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05390"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05390"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Firm-level data for the Czech Republic (1992-96) suggest that foreign investments had a positive impact on recipient firms' total factor productivity (TFP) growth. This result is robust to corrections for the sample-selection bias that prevails because foreign investment tends to go to firms with above-average productivity performance. This result is not surprising, given the presumption that foreign investors transfer new technologies and knowledge to partner firms. With some lag, this is likely to be reflected in greater TFP growth. Foreign direct investment appears to have a greater impact on TFP growth than joint ventures, suggesting that parent firms are transferring more know-how (soft or hard) to affiliates than joint venture firms get from their partners. Joint ventures and foreign direct investment together appear to have a negative spillover effect on firms that do not have foreign partnerships. This effect is relatively large and statistically significant. But if the focus is restricted to the impact of foreign-owned affiliates (foreign direct investment) on all other firms in an industry, the magnitude of the negative effect becomes much smaller and loses statistical significance. This result, together with the fact that joint ventures and foreign direct investment together account for significant shares of total output in many industries, suggests that more research is needed to determine how much knowledge diffuses from firms with strong links to foreign firms to firms that do not have such links. Especially important is the extent of spillovers among joint venture firms and between foreign affiliates and firms with joint ventures. Insofar as joint venture firms invest in technological capacity (as suggested by their training efforts), those firms could be expected to be better able to absorb and benefit from the diffusion of know-how. The absence of such capacity may underlie the observed negative spillover effect on other firms in the industry. Longer time series and collection of data on variables that measure firms' in-house technological effort would help identify the magnitude and determinants of technological spillovers.",
+    "ref_country": [
+      {
+        "name": "Czechia",
+        "code": "CZE"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2115",
+    "url": "http://documents.worldbank.org/curated/en/443171468746822838/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.321313",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

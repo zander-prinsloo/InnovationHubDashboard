@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Corporate Tax Rates, Allocative Efficiency, and Aggregate Productivity",
+    "idno": "34036741",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34036741",
+      "title": "Corporate Tax Rates, Allocative Efficiency, and Aggregate Productivity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dinerstein,Marcos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patino Pena,Fausto Andres"
+      }
+    ],
+    "date_created": "2023/04/06",
+    "date_available": "2023/04/06",
+    "date_published": "2023/04/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34036741"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f2d7762a-a066-4da0-b05d-c98a2b753b11"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f2d7762a-a066-4da0-b05d-c98a2b753b11"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10394"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper quantifies the impact of effective corporate tax rates on aggregate total factor productivity. Using Chilean manufacturing data, the paper documents a large dispersion in the effective tax rate faced by firms and a mass of firms facing a 0 percent tax rate. These empirical patterns are incorporated into a standard monopolistic competition model with corporate tax rates. The paper&#x2019;s quantitative findings show that the TFP gains between the economy implied by the Chilean tax code of 1998&#x2013;2007 and a hypothetical economy without effective corporate tax rate inefficiencies are between 4 and 11 percent. The paper considers counterfactual policies in which all firms face the same tax rate and finds a monotonically decreasing relationship between the level of the tax rate and total factor productivity.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10394",
+    "url": "http://documents.worldbank.org/curated/en/099243304062314372/pdf/IDU0f2d7762a0a06604da00b05d0c98a2b753b11.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.548927",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

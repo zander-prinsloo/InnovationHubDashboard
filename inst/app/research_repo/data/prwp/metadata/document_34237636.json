@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Costing Disasters : Hedonic Pricing, Neighborhood Effects, and the Nepal Gorkha Earthquakes",
+    "idno": "34237636",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34237636",
+      "title": "Costing Disasters : Hedonic Pricing, Neighborhood Effects, and the Nepal Gorkha Earthquakes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Floreani,Vincent Arthur"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rama,Martin G."
+      }
+    ],
+    "date_created": "2024/01/12",
+    "date_available": "2024/01/12",
+    "date_published": "2024/01/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34237636"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5961202c-6cae-400d-aae0-ada6801e6793"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5961202c-6cae-400d-aae0-ada6801e6793"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10668"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Disasters are frequent and clearly harmful in developing countries, but precisely estimating their overall cost and distributional impact is challenging. This paper proposes a microsimulation approach to do so rapidly, borrowing concepts from both poverty analysis and urban economics. Because housing prices reflect the present value of a specific bundle of living conditions, local earnings opportunities, and local access to services, their change in the aftermath of a disaster can be interpreted as a measure of the welfare cost incurred by households. A hedonic pricing function is used to estimate such changes based on the destruction experienced by the dwellings themselves, but also on the overall destruction suffered by their surrounding areas. The first element captures the damage from worse living conditions, whereas the second captures the loss from diminished earnings opportunities and access to services. The proposed approach is illustrated by estimating the cost of the 2015 Gorkha earthquakes in Nepal. Overall, the estimated impact is comparable to that from the official assessment. But its spatial distribution is significantly different due to the pivotal influence of neighborhood effects.",
+    "ref_country": [
+      {
+        "name": "Nepal",
+        "code": "NPL"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10668",
+    "url": "http://documents.worldbank.org/curated/en/099016401122483160/pdf/IDU15961202c16cae1400d1aae01ada6801e6793.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.263708",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

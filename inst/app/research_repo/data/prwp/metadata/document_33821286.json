@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Refugees, Diversity and Conflict in Sub-Saharan Africa",
+    "idno": "33821286",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33821286",
+      "title": "Refugees, Diversity and Conflict in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bertinelli,Luisito"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Comertpay,Rana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maystadt,Jean-François"
+      }
+    ],
+    "date_created": "2022/05/18",
+    "date_available": "2022/05/18",
+    "date_published": "2022/05/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33821286"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d2bb8dd6-616d-4056-b528-feaf23c219b2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d2bb8dd6-616d-4056-b528-feaf23c219b2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10052"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite mixed empirical evidence, refugees have been blamed for spreading conflict in the countries that receive them. This paper hypothesizes that such a relationship largely depends on the resulting change in ethnic composition of refugee-hosting areas. To test this, this paper investigates changes in diversity in refugee-hosting areas across 23 countries in sub-Saharan Africa between 2005 and 2016. The paper then assesses the likelihood of conflict in relation to the changing level of ethnic fractionalization and ethnic polarization. Ethnic fractionalization measures the probability that two individuals drawn at random from a society will belong to two different ethnic groups and thus increases with the number of ethnic groups present. Ethnic polarization captures antagonism between individuals and is maximized when the society is divided into two equally sized and distant ethnic groups. Refugee polarization is found to exacerbate the risk of conflict, with a one standard deviation increase in the polarization index increasing the incidence of violent conflict by 5 percentage points. Such an effect corresponds to a 10 percent increase at the mean. The opposite effect is found for the fractionalization index. Additional analyses are also conducted based on individual data. Ethnic polarization increases the likelihood of experiencing physical assault by 2.1 percentage points. Inversely, the equivalent change in the ethnic fractionalization index decreases the likelihood of experiencing physical assault by 1.9 percentage points. Similar effects are found for interpersonal crime. The results should not be interpreted as evidence that refugees per se impact the likelihood of violence. Indeed, there is no evidence of a significant correlation between the number of refugees and the occurrence of conflict. Instead, the analysis points to the risk of conflict when refugees exacerbate ethnic polarization in the hosting communities. In contrast, a situation where refugee flows increase the level of ethnic fractionalization is likely to see an attenuated risk of violence. This certainly calls for specific interventions in polarized refugee-hosting communities.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10052",
+    "url": "http://documents.worldbank.org/curated/en/099935405182291733/pdf/IDU0d2bb8dd60616d040560b5280feaf23c219b2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.156469",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

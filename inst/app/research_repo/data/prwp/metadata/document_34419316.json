@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Timing versus Allocation Trade-off in Politically Constrained Climate Policies",
+    "idno": "34419316",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34419316",
+      "title": "The Timing versus Allocation Trade-off in Politically Constrained Climate Policies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bauer,Adam Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcisaac,Florent John"
+      }
+    ],
+    "date_created": "2024/11/07",
+    "date_available": "2024/11/07",
+    "date_published": "2024/11/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34419316"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-66da2058-c283-4e56-9c65-2a33b683eb58"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-66da2058-c283-4e56-9c65-2a33b683eb58"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10971"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "When leaders face political economy constraints, is it best to delay all decarbonization initiatives until a sectorally coordinated strategy can be implemented, or is it preferable to implement an approach where sectors&#x2019; decarbonization strategies are uncoordinated? This question underscores a crucial trade-off &#x2013; here coined the &#x201c;timing versus allocation&#x201d; trade-off &#x2013; for politically constrained climate policymakers: (i) to sacrifice the optimal timing of climate policies to preserve the optimal allocation of emissions across economic sectors, or (ii) to preserve the optimal timing of abatement investment to the detriment of the allocation of emissions across sectors. This paper systematically explores this trade-off by presenting a modeling framework that elucidates the economic implications of various sub-optimal policy approaches to decarbonization that involve relaxing or delaying decarbonization efforts in a subset of sectors or economy-wide. The paper shows that the cost difference between an economy-wide, coordinated decarbonization strategy and an uncoordinated approach with heterogeneous carbon prices is smaller than the cost of delaying action and implementing a coordinated policy in the future. This implies that it is preferable to implement some policy in each sector, insofar as this is politically feasible, with less politically challenged sectors compensating with a marginal increase in policy ambition. The paper further elucidates how sectors with high annual emission rates, such as energy, are more costly to delay in comparison to their mid- to low-emission counterparts, such as industry, despite these sectors being nominally more costly sectors to decarbonize.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10971",
+    "url": "http://documents.worldbank.org/curated/en/099144211072445400/pdf/IDU166da20581c28314e5619c6512a33b683eb58.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.743118",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

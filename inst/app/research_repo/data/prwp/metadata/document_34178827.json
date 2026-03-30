@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Fine Line between Nudging and Nagging : Increasing Take-up Rates through Social Media Platforms",
+    "idno": "34178827",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34178827",
+      "title": "The Fine Line between Nudging and Nagging : Increasing Take-up Rates through Social Media Platforms",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moya ,Andrés"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rozo Villarraga,Sandra Viviana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Urbina Florez,Maria Jose"
+      }
+    ],
+    "date_created": "2023/10/12",
+    "date_available": "2023/10/12",
+    "date_published": "2023/10/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34178827"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f51680c0-6119-4d49-8d0a-6b750ed004b1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f51680c0-6119-4d49-8d0a-6b750ed004b1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10590"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study assesses if nudges in the form of informational videos sent via WhatsApp are effective in boosting take-up rates among vulnerable populations, specifically in the context of a regularization program for Venezuelan forced migrants in Colombia. The study randomly assigned 1,375 eligible migrants to receive one of three informational videos or be in a control group. The videos aimed at solving issues related to awareness, trust, and bottlenecks in the step-by-step registration. The main results indicate that program take-up rates for individuals who received any video were eight percentage points lower compared to the control group. The effects are mostly driven by the treated individuals who received the links but did not watch the videos, who are older, busier, and have less internet access relative to other treated individuals. Additionally, the study evaluates the effectiveness of iterative WhatsApp surveys in collecting data from hard-to-reach populations. It finds that while iterative WhatsApp surveys had low retention rates, iterative contacts helped to reduce attrition. Furthermore, switching behaviors from nonresponse to response were common after iterative contact attempts.",
+    "ref_country": [
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10590",
+    "url": "http://documents.worldbank.org/curated/en/099056510112312194/pdf/IDU0f51680c00611904d4908d0a06b750ed004b1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.844788",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

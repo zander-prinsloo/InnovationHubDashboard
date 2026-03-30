@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Drivers of firm-level productivity in Russia's manufacturing sector",
+    "idno": "18111652",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18111652",
+      "title": "Drivers of firm-level productivity in Russia's manufacturing sector",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bogetic,Zeljko"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olusi,Olasupo"
+      }
+    ],
+    "date_created": "2013/08/01",
+    "date_available": "2013/08/01",
+    "date_published": "2013/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18111652"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b1024"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b1024"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This note presents the results of an empirical analysis of firm-level productivity growth in Russia's manufacturing sector during the period 2003-08 using a rich Amadeus database as well as the recent EBRD/World Bank Business Enterprise and Performance surveys (BEEPs). The results show that productivity grew steadily between 2003 and 2008, with an annual growth rate averaging 4 percent over the period, showing no signs of a slowdown from the previous period after the 1998 crisis. Firm characteristics such as size, location, age, and the structure of firm ownership are important determinants of productivity, as evidenced by positive effects of scale economies (large firm effect), agglomeration (Moscow-city effect), private ownership, and a firm's industry dominance. Supplemental analysis of the quality of infrastructure -- water, electricity, transport, and the internet -- using BEEPS data show that infrastructure quality gaps reduce firm productivity with water supply gaps having the largest impact.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6572",
+    "url": "http://documents.worldbank.org/curated/en/658141468107070556/pdf/WPS6572.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.598574",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

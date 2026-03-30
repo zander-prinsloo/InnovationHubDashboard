@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Urbanization and development : is Latin America and the Caribbean different from the rest of the world",
+    "idno": "27317152",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27317152",
+      "title": "Urbanization and development : is Latin America and the Caribbean different from the rest of the world",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roberts,Mark"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blankespoor,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deuskar,Chandan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stewart,Benjamin P."
+      }
+    ],
+    "date_created": "2017/03/30",
+    "date_available": "2017/03/30",
+    "date_published": "2017/03/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27317152"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084a658fa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084a658fa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Two long-established stylized facts in the urban and development economics literatures are that: (a) a country's level of economic development is strongly positively correlated with its level of urbanization; and (b) a country's level of urbanization is strongly negatively correlated with the size of its agricultural sector. However, countries in the Latin America and Caribbean region appear to depart significantly from the rest of the world in these two basic relationships. Although Latin American countries appear to be significantly more urbanized than predicted based on these global relationships, Caribbean countries appear significantly less urbanized. However, analyses involving cross-country comparisons of urbanization levels are undermined by systematic measurement errors arising from differences in how countries define their urban areas. This paper reexamines whether Latin America and Caribbean countries differ from the rest of the world in the basic stylized facts of urbanization, development, and structural transformation. The analysis makes use of two alternative methodologies for the consistent definition of urban areas across countries: the Agglomeration Index methodology and a methodology based on the identification of dense spatially contiguous clusters of population. Both methodologies rely on globally gridded population data sets as input. There exist several such data sets, and so the paper also assesses the robustness of the findings to the choice of input population layer.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8019",
+    "url": "http://documents.worldbank.org/curated/en/164251490903580662/pdf/WPS8019.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.380812",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Distributional Policies and Social Cohesion in a High-Unemployment Setting",
+    "idno": "33849585",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33849585",
+      "title": "Distributional Policies and Social Cohesion in a High-Unemployment Setting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Agüero,Jorge M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fasola,Eniola"
+      }
+    ],
+    "date_created": "2022/06/23",
+    "date_available": "2022/06/23",
+    "date_published": "2022/06/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33849585"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5fde1948-6af0-42ac-855a-01f824cc60ff"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5fde1948-6af0-42ac-855a-01f824cc60ff"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10103"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the impact of distributional policies on social cohesion. The focus is on South Africa, a country with the highest unemployment rate worldwide and a major destination hub for the forcibly displaced. The paper uses a regression discontinuity design based on the eligibility rule of an unconditional cash transfer program (Old Age Pension) together with multiple rounds of the country’s Social Attitudes Survey and estimates the impact of the cash transfer to the local population on over 100 variables capturing different dimensions of social cohesion, while accounting for multiple hypothesis testing. Results show a limited impact of the transfer on social cohesion. Transfer increases life satisfaction and views favorable towards racial diversity. However, it has only a marginal effect on interpersonal trust and a very small effect on attitudes towards immigration. These findings are consistent with theoretical models where anti-immigrant behaviors are not the result of low-income but rather due to non-wage factors such as ethnic background or language barriers.",
+    "ref_country": [
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10103",
+    "url": "http://documents.worldbank.org/curated/en/099248306232210489/pdf/IDU05fde194806af0042ac0855a001f824cc60ff.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.790269",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

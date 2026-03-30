@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Creating a Poverty Map for Azerbaijan",
+    "idno": "6464547",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6464547",
+      "title": "Creating a Poverty Map for Azerbaijan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baschieri,Angela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Falkingham,Jane C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hornby, Duncan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hutton, Craig"
+      }
+    ],
+    "date_created": "2005/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6464547"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8ac0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8ac0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "\"Poverty maps\"-that is, graphic representations of spatially disaggregated estimates of welfare-are being increasingly used to geographically target scarce resources. But the development of detailed poverty maps in many low resource settings is hampered because of data constraints. Data on income or consumption are often unavailable and, where they are, direct survey estimates for small areas are likely to yield unacceptably large standard errors due to limited sample sizes. Census data offer the required level of coverage but do not generally contain the appropriate information. This has led to the development of a range of alternative methods aimed either at combining survey data with unit record data from the census to produce estimates of income or expenditure for small areas or at developing alternative welfare rankings, such as asset indices, using existing census data. This paper develops a set of poverty maps for Azerbaijan that can be used by different users. Two alternative approaches to the measurement and mapping of welfare are adopted. First, a map is derived using imputed household consumption. This involves combining information from the 2002 Household Budget Survey (HBS) with 1999 census data. Second, an alternative map is constructed using an asset index based on data from the 1999 census to produce estimates of welfare at the rayon level. This provides a unique opportunity to compare the welfare rankings obtained at the regional level under the two alternative approaches. In order to visually present the spatially disgaggregated estimates of welfare in Azerbaijan, this paper has also produced a digital census map of Azerbaijan. This involved matching the census enumeration areas to a digital settlement map of Azerbaijan. Therefore, it is now possible for the State Statistical Committee of Azerbaijan to display graphically the results of the 1999 census of Azerbaijan along with other data.",
+    "ref_country": [
+      {
+        "name": "Azerbaijan",
+        "code": "AZE"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3793",
+    "url": "http://documents.worldbank.org/curated/en/275061468220520309/pdf/wps3793.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.236146",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

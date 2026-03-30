@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Spatial dynamics of electricity usage in India",
+    "idno": "20270207",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20270207",
+      "title": "Spatial dynamics of electricity usage in India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ghani,Syed Ejaz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grover,Arti Goswami"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kerr,William Robert"
+      }
+    ],
+    "date_created": "2014/10/01",
+    "date_available": "2014/10/01",
+    "date_published": "2014/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20270207"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b97af"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b97af"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "India's manufacturing sector has undergone many spatial adjustments since 1989, including, for example, the organized sector's migration to rural locations, the powerful rise of informal manufacturing within cities, and the development of intermediate cities for manufacturing. This paper investigates the impact of these spatial adjustments for electricity usage in Indias manufacturing sector. Striking spatial differences in energy usage exist, and whether spatial adjustments exacerbate or alleviate energy consumption strains is important for issues ranging from reducing India's power blackouts to stemming rising pollution levels. Using detailed surveys for the organized and unorganized sectors, the analysis finds that electricity usage per unit of output in urban plants declined steadily during 1989-2010. In the rural areas, by contrast, electricity consumption per unit of output for organized sector plants peaked in 2000 and thereafter declined. Decomposing the observed trends in aggregate electricity usage from 2000 onwards, the paper finds that most reductions in electricity usage per unit of output came from reductions in existing sites of activity (defined through state-industry-urban/rural cells). The second biggest factor leading to reduced usage was lower usage in fast-growing sectors. By contrast, spatial movements of manufacturing activity across India did not significantly change usage levels and may have even increased them. This appears to have been in part because of the split nature of the mobility, with organized and unorganized sectors migrating in opposite directions.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7055",
+    "url": "http://documents.worldbank.org/curated/en/918931468268806381/pdf/WPS7055.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.983129",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

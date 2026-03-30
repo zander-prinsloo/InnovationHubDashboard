@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Good countries or good projects macro and micro correlates of World Bank project performance",
+    "idno": "14135203",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14135203",
+      "title": "Good countries or good projects macro and micro correlates of World Bank project performance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Denizer, Cevdet"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaufmann, Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay, Aart"
+      }
+    ],
+    "date_created": "2011/05/01",
+    "date_available": "2011/05/01",
+    "date_published": "2011/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14135203"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bb65b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bb65b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors use data from more than 6,000 World Bank projects evaluated between 1983 and 2009 to investigate macro and micro correlates of project outcomes. They find that country-level \"macro\" measures of the quality of policies and institutions are very strongly correlated with project outcomes, confirming the importance of country-level performance for the effective use of aid resources. However, a striking feature of the data is that the success of individual development projects varies much more within countries than it does between countries. The authors assemble a large set of project-level \"micro\" correlates of project outcomes in an effort to explain some of this within-country variation. They find that measures of project size, the extent of project supervision, and evaluation lags are all significantly correlated with project outcomes, as are early-warning indicators that flag problematic projects during the implementation stage. They also find that measures of World Bank project task manager quality matter significantly for the ultimate outcome of projects. They discuss the implications of these findings for donor policies aimed at aid effectiveness.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5646",
+    "url": "http://documents.worldbank.org/curated/en/999321468155128173/pdf/WPS5646.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.793964",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

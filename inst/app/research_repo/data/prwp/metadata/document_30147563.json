@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are driving forces of CO2 emissions different across countries : insights from identity and econometric analyses",
+    "idno": "30147563",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30147563",
+      "title": "Are driving forces of CO2 emissions different across countries : insights from identity and econometric analyses",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dong,Kangyin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hochman,Gal"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timilsina,Govinda R."
+      }
+    ],
+    "date_created": "2018/06/19",
+    "date_available": "2018/06/20",
+    "date_published": "2018/06/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30147563"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085c309ad"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085c309ad"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates factors behind the growth of carbon dioxide emissions over the 35 years between 1980 and 2015 in more than 100 countries, using an index decomposition technique (the Logarithmic Mean Divisia Index). The results are further confirmed using an econometric technique (the general method of moments). The study finds that economic growth, measurred in per capita gross domestic product, and population growth are the main drivers of the growth of carbon dioxide emissions during 1980–2015. Although economic growth is mainly responsible for the growth of emissions in high-, upper-middle-, and lower-middle-income countries, population growth that is primarily responsilble for it in low-income countries. More than 70 percent of the global growth in carbon dioxide emissions over the past 35 years was contributed by upper-middle-income countries. Improved energy efficiency, reflected in the declining energy intensity of gross domestic product, has substantially contributed to limit global carbon dioxide emissions at the current level; otherwise, the world's current carbon dioxide emissions would have been 40 percent higher. Despite the recent rapid expansion of renewable energy, its contribution to slowing the growth of global carbon dioxide emissions is not noticeable yet, due to its small share in the global energy supply mix.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8477",
+    "url": "http://documents.worldbank.org/curated/en/777121529433693727/pdf/WPS8477.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.861031",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

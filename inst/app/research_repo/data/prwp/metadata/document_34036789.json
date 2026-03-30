@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Who Suffers the Most from the Cost-of-Living Crisis ?",
+    "idno": "34036789",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34036789",
+      "title": "Who Suffers the Most from the Cost-of-Living Crisis ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lokshin,Michael M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sajaia,Zurab"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Torre,Ivan"
+      }
+    ],
+    "date_created": "2023/04/06",
+    "date_available": "2023/04/06",
+    "date_published": "2023/04/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34036789"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-30c0d9e0-28c7-43ae-a6ed-2db23bde7115"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-30c0d9e0-28c7-43ae-a6ed-2db23bde7115"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10377"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper constructs cost-of-living indexes for different groups of households to quantify the differences in the distribution of the burden of high inflation among the populations of countries in Europe and Central Asia. The analysis demonstrates that the cost-of-living crisis of 2022&#x2013;23 has had a heterogeneous impact on European populations. Poor households appear to suffer the most from rising food and energy prices. Poverty and inequality rates and the profiles of the poor based on household-specific inflation rates systematically differ from those based on the standard consumer price index approach. Accounting for the variability of inflation rates across household types might help policy makers design policies that better protect vulnerable households and promote economic growth.",
+    "ref_country": [
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10377",
+    "url": "http://documents.worldbank.org/curated/en/099330104062314532/pdf/IDU030c0d9e0028c7043ae0a6ed02db23bde7115.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.560713",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

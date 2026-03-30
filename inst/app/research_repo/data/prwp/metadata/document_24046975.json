@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Drinking water salinity and infant mortality in coastal Bangladesh",
+    "idno": "24046975",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24046975",
+      "title": "Drinking water salinity and infant mortality in coastal Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Huq,Mainul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler, David"
+      }
+    ],
+    "date_created": "2015/02/01",
+    "date_available": "2015/02/01",
+    "date_published": "2015/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24046975"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c25345"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c25345"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Bangladesh, with two-thirds of its land area less than five meters above sea level, is one of the most climate-vulnerable countries in the world. Low-lying coastal districts along the Bay of Bengal are particularly vulnerable to sea level rise, tidal flooding, storm surges, and climate-induced increases in soil and water salinity. This paper investigates the impact of drinking water salinity on infant mortality in coastal Bangladesh. It focuses on the salinity of drinking water consumed during pregnancy, which extensive medical research has linked to maternal hypertension, preeclampsia, and post-partum morbidity and mortality. The study combines spatially-formatted salinity measures for 2001-09 provided by Bangladesh with individual and household survey information from the Bangladesh Demographic and Health Surveys for 2004 and 2007. It uses probit and logit analyses to estimate mortality probability for infants less than two months old. Controlling for many other determinants of infant mortality, the analysis finds high significance for salinity exposure during the last month of pregnancy and no significance for exposure during the preceding months. The estimated impact of salinity on infant mortality is comparable in magnitude to the estimated effects of traditionally-cited variables such as maternal age and education, gender of the household head, household wealth, toilet facilities, drinking water sources, and cooking fuels.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7200",
+    "url": "http://documents.worldbank.org/curated/en/443761468006266910/pdf/WPS7200.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.972862",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

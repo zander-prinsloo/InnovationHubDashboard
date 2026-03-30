@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring the international mobility of skilled workers (1990-2000) : release 1.0",
+    "idno": "5141822",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5141822",
+      "title": "Measuring the international mobility of skilled workers (1990-2000) : release 1.0",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Docquier,Frederic"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Marfouk,Abdeslam"
+      }
+    ],
+    "date_created": "2004/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2015/09/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5141822"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05993"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05993"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Until recently, there has been no systematic empirical assessment of the economic impact of the brain drain. Despite many case studies and anecdotal evidence, the main reason for this seems to be the lack of harmonized international data on migration by country of origin and education level. An exception is the paper by Carrington and Detragiache (1998), which provided skilled migration rates for 61 developing countries in 1990. This study relies on a set of tentative assumptions. For example, they transpose the skill structure of U.S. immigrants on the OECD total immigration stock. In this paper, the authors provide new estimates of skilled workers' emigration rates for about 190 countries in 2000 and 170 countries in 1990, in both developing and industrial countries. Using various statistical sources, they revisit Carrington and Detragiache's measures by incorporating information on immigrants' educational attainment and country of origin from almost all OECD countries. The set of receiving countries is restricted to OECD nations. The authors' database covers 92.7 percent of the OECD immigration stock. In absolute terms, the authors show that the largest numbers of highly educated migrants are from Europe, Southern and Eastern Asia, and, to a lesser extent, from Central America. Nevertheless, as a proportion of the potential educated labor force, the highest brain drain rates are observed in the Caribbean, Central America, and Western and Eastern Africa. Repeating the exercise for 1990 and 2000 allows the authors to evaluate the changes in brain drain intensity. Western Africa, Eastern Africa, and Central America experienced a remarkable increase in the brain drain during the past decade. The database delivers information that is rich enough to assess the changes in the international distribution of migration rates, to test for the (push and pull) determinants per skill group, to evaluate the growth effects of migration on source and destination countries, and to estimate the relationships between migration, trade, foreign research and development, and remittances.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3381",
+    "url": "http://documents.worldbank.org/curated/en/871711468125364867/pdf/wps3381.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.918181",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

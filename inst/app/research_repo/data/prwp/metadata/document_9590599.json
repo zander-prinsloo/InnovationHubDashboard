@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Governance matters VII : aggregate and individual governance indicators 1996-2007",
+    "idno": "9590599",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9590599",
+      "title": "Governance matters VII : aggregate and individual governance indicators 1996-2007",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaufmann,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay,Aart C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mastruzzi,Massimo"
+      }
+    ],
+    "date_created": "2008/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9590599"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b1c6e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b1c6e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper reports on the latest update of the Worldwide Governance Indicators (WGI) research project, covering 212 countries and territories and measuring six dimensions of governance between 1996 and 2007: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The latest aggregate indicators are based on hundreds of specific and disaggregated individual variables measuring various dimensions of governance, taken from 35 data sources provided by 32 different organizations. The data reflect the views on governance of public sector, private sector and NGO experts, as well as thousands of citizen and firm survey respondents worldwide. The authors also explicitly report the margins of error accompanying each country estimate. These reflect the inherent difficulties in measuring governance using any kind of data. The authors also briefly describe the evolution of the WGI since its inception, and show that the margins of error on the aggregate governance indicators have declined over the years, even though they still remain non-trivial. The authors find that even after taking margins of error into account, the WGI permit meaningful cross-country comparisons as well as monitoring progress over time. In less than a decade, a substantial number of countries exhibit statistically significant improvements in at least one dimension of governance, while other countries exhibit deterioration in some dimensions. These aggregate indicators, spanning more than a decade, together with the disaggregated individual indicators, are available at www.govindicators.org.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4654",
+    "url": "http://documents.worldbank.org/curated/en/810501468338351727/pdf/wps4654.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:13.160939",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

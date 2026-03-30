@@ -1,0 +1,122 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Health insurance reform in four Latin American countries : theory and practice",
+    "idno": "729384",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "729384",
+      "title": "Health insurance reform in four Latin American countries : theory and practice",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jack,William G."
+      }
+    ],
+    "date_created": "2000/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "729384"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058e5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058e5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author examines public economics rationales for public intervention in health insurance markets, draws on the literature of organizational design to examine alternative intervention strategies, and considers health insurance reforms in four Latin American countries -- Argentina, Brazil, Chile, and Colombia -- in light of the theoretical literature. Equity has been the main reason for large-scale public intervention in the health insurance sector, despite the well-known failures of insurance and health care markets associated with imperfect information. Recent reforms have sought less to make private markets more efficient than to make public provision more efficient, sometimes by altering the focus and function of existing institutions (such as the obras sociales in Argentina) or by encouraging the growth of new ones (such as Chile's ISAPREs). Generally, these four Latin American countries have reformed the ways insurance and care are organized and delivered, have tried to extend formal coverage to previously marginalized groups, and have tried to finance this extension fairly. Colombia instituted an implicit two-tiered voucher scheme financed through a proportional wage tax. Chile's financing mechanism is similar but the distribution of benefits is less progressive, so the net effect is less redistributive. Argentina's remodeled obras system went halfway: the financing base is similar and there is some implicit redistribution from richer to poorer obras, but the quality of insurance increases with income. On the face of it, Brazil's health insurance system is less redistributive than those of the other three countries, as no tax is earmarked for financing health insurance. But taxes paid by higher-income taxpayers are not reduced when they choose private insurance, highlighting the problem of examining the health sector independent of the general tax and transfer system.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2492",
+    "url": "http://documents.worldbank.org/curated/en/642631468743965981/Health-insurance-reform-in-four-Latin-American-countries-theory-and-practice",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:38.086980",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

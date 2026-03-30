@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Gender Bias and Intergenerational Educational Mobility : Theory and Evidence from China and India",
+    "idno": "32045790",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32045790",
+      "title": "Gender Bias and Intergenerational Educational Mobility : Theory and Evidence from China and India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Emran,M. Shahe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jiang,Hanchen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shilpi,Forhad J."
+      }
+    ],
+    "date_created": "2020/05/18",
+    "date_available": "2020/05/18",
+    "date_published": "2020/05/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32045790"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08794552a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08794552a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper incorporates gender bias against girls in the family, school and labor market in a model of intergenerational persistence in schooling where parents self-finance children's education because of credit market imperfections. Parents may underestimate a girl's ability, expect lower returns, and assign lower weights to their welfare (“pure son preference”). The model delivers the widely used linear conditional expectation function under constant returns and separability but generates an irrelevance result: parental bias does not affect relative mobility. With diminishing returns and complementarity, the conditional expectation function can be concave or convex, and parental bias affects both relative and absolute mobility. This paper tests these predictions in India and China using data not subject to coresidency bias. The evidence rejects the linear conditional expectation function in rural and urban India in favor of a concave relation. Girls in India face lower mobility irrespective of location when born to fathers with low schooling, but the gender gap closes when the father is college educated. In China, the conditional expectation function is convex for sons in urban areas, but linear in all other cases. The convexity supports the complementarity hypothesis of Becker et al. (2018) for the urban sons and leads to gender divergence in relative mobility for the children of highly educated fathers. In urban China, and urban and rural India, the mechanisms are underestimation of the ability of girls and unfavorable school environment. There is some evidence of pure son preference in rural India. The girls in rural China do not face bias in financial investment by parents, but they still face lower mobility when born to uneducated parents. Gender barriers in rural schools seem to be the primary mechanism.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9250",
+    "url": "http://documents.worldbank.org/curated/en/310771589823401020/pdf/Gender-Bias-and-Intergenerational-Educational-Mobility-Theory-and-Evidence-from-China-and-India.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.785198",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Transport infrastructure and welfare : an application to Nigeria",
+    "idno": "24498118",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24498118",
+      "title": "Transport infrastructure and welfare : an application to Nigeria",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ali,Rubaba"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barra,Alvaro Federico"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Berg,Claudia N."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Damania,Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nash,John D."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Russ,Jason Daniel"
+      }
+    ],
+    "date_created": "2015/05/18",
+    "date_available": "2015/05/18",
+    "date_published": "2015/05/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24498118"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082e9bb99"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082e96bec"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Transport infrastructure is deemed to be central to development and consumes a large fraction of the development assistance envelope. Yet there is debate about the economic impact of road projects. This paper proposes an approach to assess the differential development impacts of alternative road construction and prioritize various proposals, using Nigeria as a case study. Recognizing that there is no perfect measure of economic well-being, a variety of outcome metrics are used, including crop revenue, livestock revenue, non-agricultural income, the probability of being multi-dimensionally poor, and local gross domestic product for Nigeria. Although the measure of transport is the most accurate possible, it is still endogenous because of the nonrandom placement of road infrastructure. This endogeneity is addressed using a seemingly novel instrumental variable termed the natural path: the time it would take to walk along the most logical route connecting two points without taking into account other, bias-causing economic benefits. Further, the analysis considers the potential endogeneity from nonrandom placement of households and markets through carefully chosen control variables. It finds that reducing transportation costs in Nigeria will increase crop revenue, non-agricultural income, the wealth index, and local gross domestic product. Livestock sales increase as well, although this finding is less robust. The probability of being multi-dimensionally poor will decrease. The results also cast light on income diversification and structural changes that may arise. These findings are robust to relaxing the exclusion restriction. The paper also demonstrates how to prioritize alternative road programs by comparing the expected development impacts of alternative New Partnership for Africa's Development projects.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7271",
+    "url": "http://documents.worldbank.org/curated/en/519511468189240918/pdf/Transport-infrastructure-and-welfare-an-application-to-Nigeria.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.252649",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

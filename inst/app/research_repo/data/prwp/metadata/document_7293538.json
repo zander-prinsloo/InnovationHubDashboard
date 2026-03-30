@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Detecting collusion in timber auctions : an application to Romania",
+    "idno": "7293538",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7293538",
+      "title": "Detecting collusion in timber auctions : an application to Romania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abrudan,Ioan Vasile"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bouriaud, Laura"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Marochko, Valy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Saphores,Jean-Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vincent,Jeffrey R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zinnes,Clifford"
+      }
+    ],
+    "date_created": "2006/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7293538"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b8f05"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b8f05"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Romania was one of the first transition countries in Europe to introduce auctions for allocating standing timber (stumpage) in public forests. In comparison with the former system in the country-administrative allocation at set prices-timber auctions offer several potential advantages: greater revenue generation for the government, a higher probability that tracts will be allocated to the firms that value them most highly, and stronger incentives for technological change within industry and efficiency gains in the public sector. Competition is the key to realizing these advantages. Unfortunately, collusion among bidders often limits competition in timber auctions, including in well-established market economies such as the United States. The result is that tracts sell below their fair market value, which undermines the advantages of auctions. This paper examines the Romanian auction system, with a focus on the use of econometric methods to detect collusion. It begins by describing the historical development of the system and the principal steps in the auction process. It then discusses the qualitative impacts of various economic and institutional factors, including collusion, on winning bids in different regions of the country. This discussion draws on information from a combination of sources, including unstructured interviews conducted with government officials and company representatives during 2003. Next, the paper summarizes key findings from the broader research literature on auctions, with an emphasis on empirical studies that have developed econometric methods for detecting collusion. It then presents an application of such methods to timber auction data from two forest directorates in Romania, Neamt and Suceava. This application confirms that data from Romanian timber auctions can be used to determine the likelihood of collusion, and it suggests that collusion reduced winning bids in Suceava in 2002 and perhaps also in Neamt. The paper concludes with a discussion of actions that the government can take to reduce the incidence of collusion and minimize its impact on auction outcomes.",
+    "ref_country": [
+      {
+        "name": "Romania",
+        "code": "ROU"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4105",
+    "url": "http://documents.worldbank.org/curated/en/990491468297344541/pdf/wps4105.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:17.829427",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

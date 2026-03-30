@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Short- and long-run impacts of food price changes on poverty",
+    "idno": "20131428",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20131428",
+      "title": "Short- and long-run impacts of food price changes on poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ivanic, Maros"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martin, Will"
+      }
+    ],
+    "date_created": "2014/08/01",
+    "date_available": "2014/08/01",
+    "date_published": "2014/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20131428"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828be962"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828be962"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study uses household models based on detailed expenditure and agricultural production data from 31 developing countries to assess the impacts of changes in global food prices on poverty in individual countries and for the world as a whole. The analysis finds that food price increases unrelated to productivity changes in developing countries raise poverty in the short run in all but a few countries with broadly-distributed agricultural resources. This result is primarily because the poor spend large shares of their incomes on food and many poor farmers are net buyers of food. In the longer run, two other important factors come into play: poor workers are likely to benefit from increases in wage rates for unskilled workers from higher food prices, and poor farmers are likely to benefit from higher agricultural profits as they raise their output. As a result, higher food prices appear to lower global poverty in the long run.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7011",
+    "url": "http://documents.worldbank.org/curated/en/106581468325435880/pdf/WPS7011.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "regional integration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.508683",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

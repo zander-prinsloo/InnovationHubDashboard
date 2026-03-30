@@ -1,0 +1,234 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Statistically Matching Income and Consumption Data : An Evaluation of Energy and Income Poverty in Romania",
+    "idno": "34392731",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34392731",
+      "title": "Statistically Matching Income and Consumption Data : An Evaluation of Energy and Income Poverty in Romania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rude,Britta Laurin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robayo,Monica"
+      }
+    ],
+    "date_created": "2024/09/18",
+    "date_available": "2024/09/18",
+    "date_published": "2024/09/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34392731"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e75b89f4-f23e-4494-89e1-acbc87402715"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e75b89f4-f23e-4494-89e1-acbc87402715"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10917"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To design effective policy instruments that target the energy poor in Romania, it is crucial to understand who the energy poor are. However, these types of analyses are limited by the current data environment. While monetary energy poverty estimates rely on data from expenditure surveys, traditional welfare indicators and detailed information on access to social protection programs form part of the EU-SILC. Samples of both surveys differ; consequently, record linkage of both surveys is impossible. This paper propose an alternative solution to combine information from both surveys, namely statistical matching techniques. It applies several imputation models to impute information on energy spending shares from the HBS into the EU-SILC based on a set of matching variables, compare the performance of these models and apply the best-performing one. Based on the resulting matched dataset, the results show that nearly all the monetary poor are also energy poor, but that a significant additional share of the population in Romania is energy poor. Energy poverty rates are higher at the lower end of the welfare distribution. This result has significant welfare implications.",
+    "ref_country": [
+      {
+        "name": "Romania",
+        "code": "ROU"
+      },
+      {
+        "name": "EU Accession Countries",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10917",
+    "url": "http://documents.worldbank.org/curated/en/099849209182425967/pdf/IDU1e75b89f41f23e14494189e11acbc87402715.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "participation and civic engagement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social inclusion",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.174009",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

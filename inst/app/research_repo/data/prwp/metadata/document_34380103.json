@@ -1,0 +1,202 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Public Investment Quality and Its Implications for Sovereign Risk and Debt Sustainability",
+    "idno": "34380103",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34380103",
+      "title": "Public Investment Quality and Its Implications for Sovereign Risk and Debt Sustainability",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adarov,Amat"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Panizza,Ugo G."
+      }
+    ],
+    "date_created": "2024/08/21",
+    "date_available": "2024/08/21",
+    "date_published": "2024/08/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34380103"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d7f63b57-6348-42de-87a1-52abdf7e4224"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d7f63b57-6348-42de-87a1-52abdf7e4224"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10877"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces a novel index to measure public investment quality, utilizing the World Bank&#x2019;s investment project performance data from 120 countries over 2000&#x2013;21. After detailing the construction of the index, the paper examines how public investment quality influences the relationship between the level of public investment and sovereign risk. The findings show that high levels of public investment are linked to lower sovereign risk in countries with high investment quality and, conversely, to higher sovereign risk in countries with low investment quality. This relationship is especially pronounced in sub-investment grade countries. These results are corroborated by showing that when public investment quality is high, scaling up public investment enhances fiscal sustainability by reducing the ratio of debt to gross domestic product in the long run: high-quality public investment is self-financing. However, the opposite is true when public investment quality is low, where increased public investment results in a deterioration of fiscal fundamentals.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10877",
+    "url": "http://documents.worldbank.org/curated/en/099750208212442814/pdf/IDU1d7f63b5716348142de187a1152abdf7e4224.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "green growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public finance management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "domestic revenue administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal sustainability",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "macroeconomic & structural policy modelling",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disaster risk management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.479869",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

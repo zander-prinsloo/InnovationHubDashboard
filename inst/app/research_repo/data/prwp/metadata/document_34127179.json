@@ -1,0 +1,231 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating Road Freight Transport Costs in Eastern Europe and Central AsiaUsing Large Shipping Data",
+    "idno": "34127179",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34127179",
+      "title": "Estimating Road Freight Transport Costs in Eastern Europe and Central AsiaUsing Large Shipping Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      }
+    ],
+    "date_created": "2023/07/31",
+    "date_available": "2023/07/31",
+    "date_published": "2023/07/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34127179"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e82b93e0-034b-458f-9ed2-3c7e2ad23763"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e82b93e0-034b-458f-9ed2-3c7e2ad23763"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10533"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The recent global crises, such as the COVID-19 crisis, remind us of the importance of efficient transportation and logistics. Notably, however, even before the crises, some regions were already experiencing a gradual increase in freight costs, with more and more empty trucks observed. The paper recasts light on the question of how road freight costs are determined using large, unique shipping data from Eastern European and Central Asian countries. It finds that economies of scale are significant in both freight weight or load factor and distance. The elasticity with respect to freight weight is particularly high at about 0.3 to 1.0 in absolute terms. Thus, to contain trucking costs, it is important to maximize the load factor through freight consolidation at origins and destinations. The elasticity with respect to distance is relatively modest at 0.04 to 0.16 in absolute terms but still statistically significant, indicating that distance may not necessarily be a constraint on trade and regional integration. Trucking costs also decrease with driving speed, a proxy for efficiency of movements or road conditions. The elasticity is significant for food products (&#x2212;0.03) and other consumer goods (&#x2212;0.11). Finally, the paper finds that border crossing adds 3&#x2013;4 percent to freight costs.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      },
+      {
+        "name": "Central Asia",
+        "code": "-"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10533",
+    "url": "http://documents.worldbank.org/curated/en/099542207312319005/pdf/IDU0e82b93e00034b0458f09ed203c7e2ad23763.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "urban infrastructure and service delivery",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "ict solutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public transport",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "regulation and competition policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "business enabling environment",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "spatial growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.606762",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

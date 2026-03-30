@@ -1,0 +1,209 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Combatting Forest Fires in the Drylands of Sub-Saharan Africa : Quasi-Experimental Evidence from Burkina Faso",
+    "idno": "34011322",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34011322",
+      "title": "Combatting Forest Fires in the Drylands of Sub-Saharan Africa : Quasi-Experimental Evidence from Burkina Faso",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen Huy,Tung"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adjognon,Guigonan Serge"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Soest,Daan"
+      }
+    ],
+    "date_created": "2023/03/01",
+    "date_available": "2023/03/01",
+    "date_published": "2023/03/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34011322"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a84e9a2a-effa-4575-afdc-53f3dfe87798"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a84e9a2a-effa-4575-afdc-53f3dfe87798"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10336"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Forest fires are among the main drivers of deforestation and forest degradation in the drylands of Sub-Saharan Africa. This paper uses remote sensing data on forest fires and remaining tree cover to estimate the effectiveness of a project targeted at reducing fire incidences in twelve protected forests in arid Burkina Faso. The project consisted of two components that were implemented in the villages surrounding the target forests: a campaign aimed at raising community awareness about the detrimental effects of forest fires, and a program to support establishing and maintaining forest fire prevention infrastructures. Using the Synthetic Control Method the paper finds that the project resulted in a 35% reduction in forest fire occurrences in the period of the year when they tend to be most prevalent &#x2014;in November, at the very end of the agricultural season. However, this impact is short-lived (as the reduction only occurred in the first four years of the program). The reduction in forest fires also did not result in a detectable increase in vegetation cover&#x2014;because the reduction in November was not sufficiently large to be captured via remote sensing, or because the duration of the reduction was too short for the vegetation to recover. The paper then tries to uncover the underlying mechanisms to shed light on which of the project&#x2019;s components were effective and to also learn how the program can be improved.",
+    "ref_country": [
+      {
+        "name": "Burkina Faso",
+        "code": "BFA"
+      }
+    ],
+    "spatial_coverage": "Western and Central Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10336",
+    "url": "http://documents.worldbank.org/curated/en/099828303012329594/pdf/IDU1a84e9a2a1effa145751afdc153f3dfe87798.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "forests policies and institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "municipal institution building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "institutional strengthening and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "renewable natural resources asset management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.936968",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

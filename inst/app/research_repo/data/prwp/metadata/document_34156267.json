@@ -1,0 +1,246 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Effects of Climate Change in the Poorest Countries : Evidence from the Permanent Shrinking of Lake Chad",
+    "idno": "34156267",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34156267",
+      "title": "The Effects of Climate Change in the Poorest Countries : Evidence from the Permanent Shrinking of Lake Chad",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jedwab,Remi Camille"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haslop,Federico"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zarate Vasquez,Roman David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Castelan,Carlos"
+      }
+    ],
+    "date_created": "2023/09/05",
+    "date_available": "2023/09/05",
+    "date_published": "2023/09/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34156267"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-25c5ce82-5ad3-4dc8-a419-d0290f92636c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-25c5ce82-5ad3-4dc8-a419-d0290f92636c"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10561"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Empirical studies of the economic effects of climate change largely rely on climate anomalies for causal identification purposes. Slow and permanent changes in climate-driven geographical conditions, that is, climate change as defined by the Intergovernmental Panel on Climate Change, have been relatively less studied, especially in Africa, which remains the most vulnerable continent to climate change. This paper focuses on Lake Chad, which used to be the 11th largest lake in the world. Lake Chad, which is the size of El Salvador, Israel, or Massachusetts, slowly shrank by 90 percent for exogenous reasons between 1963 and 1990. While the water supply decreased, the land supply increased, generating a priori ambiguous effects. These effects make the increasing global disappearance of lakes a critical trend to study. For Cameroon, Chad, Nigeria, and Niger&#x2014;25 percent of Sub-Saharan Africa&#x2019;s population&#x2014; the paper constructs a novel data set tracking population patterns at a fine spatial level from the 1940s to the 2010s. Difference-in-differences show much slower growth in the proximity of the lake, but only after the lake started shrinking. These effects persist two decades after the lake stopped shrinking, implying limited adaptation. Additionally, the negative water supply effects on fishing, farming, and herding outweighed the growth of land supply and other positive effects. A quantitative spatial model used to rationalize these results and estimate aggregate welfare losses, which accounts for adaptation, shows overall losses of about 6 percent. The model also allows studying the aggregate and spatial effects of policies related to migration, land use, trade, roads, and cities.",
+    "ref_country": [
+      {
+        "name": "Western and Central Africa",
+        "code": "-"
+      },
+      {
+        "name": "Chad",
+        "code": "TCD"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CMR"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Western Africa",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Western and Central Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10561",
+    "url": "http://documents.worldbank.org/curated/en/099512009052326812/pdf/IDU025c5ce8205ad304dc80a4190d0290f92636c.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "job creation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "conflict prevention",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fragility",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "conflict and violence",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "jobs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.239088",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of Covid-19 on Household Welfare in the Comoros : The Experience of a Small Island Developing State",
+    "idno": "33755609",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33755609",
+      "title": "The Impact of Covid-19 on Household Welfare in the Comoros : The Experience of a Small Island Developing State",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mendiratta,Vibhuti"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nsababera,Olive Umuhire"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sam,Hannah"
+      }
+    ],
+    "date_created": "2022/03/10",
+    "date_available": "2022/03/10",
+    "date_published": "2022/03/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33755609"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d210d7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088d210d7"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9964"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the causal impact of a Covid-19 lockdown policy on the Comoros's household welfare, poverty, and labor market outcomes. The identification strategy uses the national government lockdown policy implemented to curtail the unexpected outbreak of Covid-19. The lockdown policy coincided with the 2020 Harmonized Survey on Living Conditions of Households data collection, lending itself to a quasi-natural experiment in which households that were interviewed before the lockdown policy fall into the control group, while those that were interviewed after the lockdown fall into the treated group. The paper explores the impact of the Covid-19 using descriptive regression analysis and estimates the causal impact using matching techniques. The analysis finds a reduction in household expenditure, increased poverty, and a reduction in the likelihood of employment. Investigation of differential impacts along the expenditure distribution finds larger impacts at the top of the distribution, suggesting that Covid-19 may have reduced inequality, although the poor were also negatively affected. The evidence also suggests that the ability to use assets as a coping mechanism was limited. In a context of limited safety nets and government interventions, stringent lockdown policies appear to increase the vulnerability of the poor.",
+    "ref_country": [
+      {
+        "name": "Comoros",
+        "code": "COM"
+      }
+    ],
+    "spatial_coverage": "Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9964",
+    "url": "http://documents.worldbank.org/curated/en/349051646942786069/pdf/The-Impact-of-Covid-19-on-Household-Welfare-in-the-Comoros-The-Experience-of-a-Small-Island-Developing-State.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.814898",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

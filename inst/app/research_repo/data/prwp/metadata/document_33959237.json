@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding the Distributional Impacts of Increases in Fuel Prices on Poverty and Inequality in Paraguay",
+    "idno": "33959237",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33959237",
+      "title": "Understanding the Distributional Impacts of Increases in Fuel Prices on Poverty and Inequality in Paraguay",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Canavire Bacarreza,Gustavo Javier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "de Ervin,Lyliana Gayoso"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galeano,Juan José"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baquero,Juan Pablo"
+      }
+    ],
+    "date_created": "2022/12/16",
+    "date_available": "2022/12/16",
+    "date_published": "2022/12/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33959237"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8f08b09c-1769-4b34-bec1-e70e5bdfe372"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8f08b09c-1769-4b34-bec1-e70e5bdfe372"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10268"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The recent global increases in fuel prices threaten the gains in poverty reduction that countries like Paraguay have achieved over the past few decades. Therefore, policy makers must understand the potential distributional impacts of increases in fuel prices to evaluate the implementation of alternative measures that could mitigate these impacts. This paper analyzes the potential effects of fuel prices on poverty and inequality in Paraguay. Using microsimulation methods and based on the Commitment to Equity framework, it estimates the impact of higher fuel prices on welfare, poverty, and inequality based on three scenarios: (a) increases in gasoline prices, (b) increases in diesel prices, and (c) simultaneous increases in gasoline and diesel prices. The results obtained suggest that the total impact of increasing fuel prices tends to be more regressive in Paraguay. At the same time, the results of the simulations indicate small effects on income inequality.",
+    "ref_country": [
+      {
+        "name": "Paraguay",
+        "code": "PRY"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10268",
+    "url": "http://documents.worldbank.org/curated/en/099858012162225401/pdf/IDU08f08b09c0176904b340bec10e70e5bdfe372.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.285210",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

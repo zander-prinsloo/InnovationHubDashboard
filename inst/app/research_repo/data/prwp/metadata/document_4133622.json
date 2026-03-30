@@ -1,0 +1,114 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Detecting illegal trade practices by analyzing discrepancies in forest products trade statistics : An application to Europe, with a focus on Romania",
+    "idno": "4133622",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "4133622",
+      "title": "Detecting illegal trade practices by analyzing discrepancies in forest products trade statistics : An application to Europe, with a focus on Romania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vincent,Jeffrey R."
+      }
+    ],
+    "date_created": "2004/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "4133622"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0598f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0598f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Discrepancies in bilateral trade statistics for forest products have recently attracted attention as potential indicators of illegal trade practices. For example, if exporters understate quantities to evade export taxes or quotas, then one might expect reported exports to be less than reported imports. Discrepancies in trade statistics can exist for reasons that have nothing to do with illegal activities, however, such as measurement error and shipment lags. Any attempt to infer evidence of illegal activities from statistical discrepancies must control for these other explanations. The author estimates the discrepancies between reported imports and exports for bilateral flows of sawnwood traded by Romania and other European countries. The author also examines whether these discrepancies reflect illegal activities by the traders. The mean discrepancy for sawnwood exported by Romania during 1982-97 was significantly different from zero for coniferous sawnwood but not for nonconiferous sawnwood. Yet the sign of the discrepancy for coniferous sawnwood-reported exports tended to be greater than reported imports-implies that illegal trade activities were more likely occurring in Romania's trading partners than in Romania. An econometric analysis of bilateral trade statistics for Romania and other European countries finds evidence that measurement error, shipment lags, and intentional underreporting all play a role in explaining discrepancies for both types of sawnwood. The econometric model is not sufficiently reliable, however, for estimating the portion that was due solely to illegal activities or determining whether those activities occurred primarily in Romania or in its trading partners. Moreover, given that it is based on observed discrepancies in bilateral trade statistics, it fails to detect illegal trade activities that occur simultaneously in both importing and exporting countries. For these reasons, econometric methods appear unlikely to be of practical use in revealing illegal trade activities in the Romanian forest sector.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      },
+      {
+        "name": "Romania",
+        "code": "ROU"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3261",
+    "url": "http://documents.worldbank.org/curated/en/926071468757761986/pdf/wps3261Romania.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:27.795903",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Insights and Illusions of Consumption Measurements",
+    "idno": "32057625",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32057625",
+      "title": "The Insights and Illusions of Consumption Measurements",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Battistin,Erich"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Nadai,Michele"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krishnan,Nandini"
+      }
+    ],
+    "date_created": "2020/05/21",
+    "date_available": "2020/05/21",
+    "date_published": "2020/05/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32057625"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0879694c2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0879694c2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Although household well-being is anchored in long-term average rates of consumption, welfare comparisons typically rely on shorter-duration survey measurements. This paper develops a new strategy to identify the distribution of these long-term rates by leveraging a large-scale randomization that elicited repeated short-duration measurements from diaries and recall questions. Identification stems from diary-recall differences in reports from the same household, does not require these reports to be error-free, and hinges on a research design with broad replicability. This strategy delivers cost-effective suggestions for designing survey modules to yield the most accurate measurements of consumption well-being, and offers new insights for interpreting and reconciling diary-recall differences in household expenditure surveys.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9255",
+    "url": "http://documents.worldbank.org/curated/en/859711590085498228/pdf/The-Insights-and-Illusions-of-Consumption-Measurements.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.741269",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

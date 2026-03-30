@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Political determinants of fossil fuel pricing",
+    "idno": "17784262",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17784262",
+      "title": "Political determinants of fossil fuel pricing",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Beers, Cees"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strand, Jon"
+      }
+    ],
+    "date_created": "2013/05/01",
+    "date_available": "2013/05/01",
+    "date_published": "2013/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17784262"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bef23"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bef23"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides an empirical analysis of economic and political determinants of gasoline and diesel prices for about 200 countries over the period 1991-2010. A range of both political and economic variables are found to systematically influence fuel prices, and in ways that differ systematically with countries per-capita income levels. For democracies, the analysis finds that fuel prices correlate positively with both duration of democracy and tenure of democratic leaders. In non-democratic societies there is more often no such relationship or it is the opposite of that for democracies. Regime switches -- transitions from non-democratic to democratic government, or vice versa -- reduce fuel prices. Fuel prices are also lower for more corrupt, or more centralized, governments. Higher levels of gross domestic product per capita lead to higher fuel prices, while export income from selling fossil fuels reduces these prices dramatically. Higher motor fuel consumption also appears to reduce fuel prices, most for gasoline. Absolute \"pass-through\" of crude oil price changes to fuel prices is found to be high on average.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6470",
+    "url": "http://documents.worldbank.org/curated/en/675861468168852442/pdf/WPS6470.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.274178",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic Growth in European Union NUTS-3 Regions",
+    "idno": "32656887",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32656887",
+      "title": "Economic Growth in European Union NUTS-3 Regions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilroy,Austin Francis Louis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ganau,Roberto"
+      }
+    ],
+    "date_created": "2020/12/10",
+    "date_available": "2020/12/10",
+    "date_published": "2020/12/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32656887"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0880ca81e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0880ad8c1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the growth pathways of 1,321 regions in the European Union from 2003 to 2017. The aim is to inform integrated territorial investments and other economic development initiatives in lagging regions. Using the definition of lagging regions from the European Commission’s Catching Up Initiative, more than two-thirds of the European Union member states have lagging regions when defined at the Nomenclature of Territorial Units for Statistics-3 scale. These small lagging regions are often hidden within larger and more prosperous regions. The paper considers the roles of industrial structure, innovation, and inward foreign direct investment as growth-enhancing factors. The findings indicate that the growth dynamics in low-income regions are different from those in regions in other income groups: there is no overall pattern in the contribution of industry to growth but there is a strong association between foreign direct investment and growth. Among low-growth lagging regions -- the 171 small regions in the European Union with gross domestic product per capita less than 90 percent of the European Union average, and stagnant or negative growth performance -- growth is correlated with construction and innovation. There are also differences in the growth pathways of rural and non-rural regions: growth is associated with moving away from agriculture in rural regions, and it is associated with construction and innovation in non-rural regions. The results imply that a finer geographic scale can be important in policy making and programming of Cohesion Policy Funds, to cater to different needs and opportunities at the scale of Nomenclature of Territorial Units for Statistics-3 regions.",
+    "ref_country": [
+      {
+        "name": "EU Accession Countries",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9494",
+    "url": "http://documents.worldbank.org/curated/en/866111607609567114/pdf/Economic-Growth-in-European-Union-NUTS-3-Regions.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.633084",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Bank bailouts, competition, and the disparate effects for borrower and depositor welfare",
+    "idno": "17580914",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17580914",
+      "title": "Bank bailouts, competition, and the disparate effects for borrower and depositor welfare",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calderon,Cesar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schaeck,Klaus"
+      }
+    ],
+    "date_created": "2013/04/01",
+    "date_available": "2013/04/01",
+    "date_published": "2013/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17580914"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d040e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d040e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates how government interventions into banking systems such as blanket guarantees, liquidity support, recapitalizations, and nationalizations affect banking competition. This debate is important because the pricing of banking products has implications for borrower and depositor welfare. Exploiting data for 124 countries that witnessed different policy responses to 41 banking crises, and using difference-in-difference estimations, the paper presents the following key results: (i) Government interventions reduce Lerner indices and net interest margins. This effect is robust to a battery of falsification and placebo tests, and the competitive response also cannot be explained by alternative forces. The competition-increasing effect on Lerner indices and net interest margins is also confirmed once the non-random assignment of interventions is accounted for using instrumental variable techniques that exploit exogenous variation in the electoral cycle and in the design of the regulatory architecture across countries. (ii) Consistent with theoretical predictions, the competition-increasing effect of government interventions is greater in more concentrated and less contestable banking sectors, but the effects are mitigated in more transparent banking systems. (iii) The competitive effects are economically substantial, remain in place for at least 5 years, and the interventions also coincide with an increase in zombie banks. The results therefore offer direct evidence of the mechanism by which government interventions contribute to banks' risk-shifting behavior as reported in recent studies on bank level runs via competition. (iv) Government interventions disparately affect bank customers' welfare. While liquidity support, recapitalizations, and nationalizations improve borrower welfare by reducing loan rates, deposit rates decline. The empirical setup allows quantifying these disparate effects.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6410",
+    "url": "http://documents.worldbank.org/curated/en/657021468180277201/pdf/wps6410.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.524238",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

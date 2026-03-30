@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Land productivity and plot size : is measurement error driving the inverse relationship",
+    "idno": "27701478",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27701478",
+      "title": "Land productivity and plot size : is measurement error driving the inverse relationship",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Desiere,Sam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolliffe,Dean Mitchell"
+      }
+    ],
+    "date_created": "2017/07/03",
+    "date_available": "2017/07/03",
+    "date_published": "2017/07/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27701478"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084d98355"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084d7d129"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper revisits the decades-old puzzle of the inverse plot-size productivity relationship, which states that land productivity decreases as plot size increases. Existing empirical studies on the inverse plot-size productivity relationship define land productivity or yields as self-reported production divided by plot size. This paper considers an alternative approach to estimating yields based on crop cuts. The crop-cut method entails measuring and harvesting randomly selected subplots by trained technicians, and is recommended by the Food and Agriculture Organization for the accurate measurement of crop production. Using data representative of rural Ethiopia, the analysis indicates that the inverse relationship is strong when based on self-reported production, but disappears when based on crop-cut estimates. The inference from these findings is that the inverse relationship is an artifact of systematic overreporting of production by farmers on small plots, and underreporting on larger plots. The paper also discusses how rejecting the inverse plot-size productivity relationship has significant implications for the inverse farm-size productivity relationship.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8134",
+    "url": "http://documents.worldbank.org/curated/en/119781498874101671/pdf/Land-productivity-and-plot-size-is-measurement-error-driving-the-inverse-relationship.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.456619",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

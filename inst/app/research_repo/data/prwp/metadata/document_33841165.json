@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Corporate Debt and Stock Returns : Evidence from U.S. Firms during the 2020 Oil Crash",
+    "idno": "33841165",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33841165",
+      "title": "Corporate Debt and Stock Returns : Evidence from U.S. Firms during the 2020 Oil Crash",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arezki,Rabah"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cho,Caleb Sungwoo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ha Nguyen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pham,Anh"
+      }
+    ],
+    "date_created": "2022/06/13",
+    "date_available": "2022/06/13",
+    "date_published": "2022/06/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33841165"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a5790cde-17dc-4db9-beef-f0fdcc68dbc6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a5790cde-17dc-4db9-beef-f0fdcc68dbc6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10079"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the effect of oil price fluctuations on the stock returns of U.S. oil firms using an identification strategy through heteroskedasticity, exploiting the 2020 oil price crash. The results are twofold. First, a decline in oil prices significantly reduces oil firms&#x2019; stock returns. On average, a 1 percent decline in oil prices leads to a 0.44 percent decline in stock prices. Second, firm debt appears irrelevant in mediating the effect of oil prices on oil firms&#x2019; stock returns. Moreover, the muted role of debt was not likely caused by the liquidity backstop provided by the Federal Reserve.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "North America",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10079",
+    "url": "http://documents.worldbank.org/curated/en/099321006132232621/pdf/IDU0a5790cde017dc04db90beef0f0fdcc68dbc6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.941096",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

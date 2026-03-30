@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of fiscal policy on inequality and poverty in Chile",
+    "idno": "27085160",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27085160",
+      "title": "The impact of fiscal policy on inequality and poverty in Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Aguilar,Sandra Natalia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fuchs Tarlovsky,Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ortiz-Juarez,Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Del Carmen Hasbun,Giselle Eugenia"
+      }
+    ],
+    "date_created": "2017/01/10",
+    "date_available": "2017/01/10",
+    "date_published": "2017/01/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27085160"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0848666b3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08485da28"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper applies a comprehensive tax-benefit incidence analysis to estimate the distributional effects of fiscal policy in Chile in 2013. Four results are indicative of an overall positive net effect of fiscal interventions on poverty and inequality. First, subsidies exert a positive, yet modest effect on poverty and inequality, whereas direct transfers are progressive, equalizing, and reduce the poverty headcount by 4 to 5 percentage points, depending on the poverty line used. Second, although social contributions are unequalizing and poverty-increasing, direct taxes on personal income are equalizing and poverty-neutral, whereas indirect taxes are poverty-increasing but exert a counterintuitive, yet feasible equalizing effect known as Lambert's conundrum. Third, social spending on tertiary education is slightly equalizing but it is not pro-poor, contrary to the effects of social spending on basic and secondary education and health, which are not only equalizing but also pro-poor. Finally, the net effect of Chile's tax/transfer system leaves fewer individuals impoverished relative to the number of fiscal gainers, and the magnitude of monetary fiscal gains is significantly higher than that of fiscal impoverishment.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7939",
+    "url": "http://documents.worldbank.org/curated/en/924981484072376329/pdf/WPS7939.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.947045",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

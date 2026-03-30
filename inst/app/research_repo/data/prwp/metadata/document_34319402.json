@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Heat and Law Enforcement",
+    "idno": "34319402",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34319402",
+      "title": "Heat and Law Enforcement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behrer,Arnold Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bolotnyy,Valentin"
+      }
+    ],
+    "date_created": "2024/05/16",
+    "date_available": "2024/05/16",
+    "date_published": "2024/05/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34319402"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1f8ec383-1d47-489b-8529-95425ea06306"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1f8ec383-1d47-489b-8529-95425ea06306"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10776"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using administrative criminal records from Texas, this paper shows how high temperatures affect the decision making of police officers, prosecutors, and judges. It finds that police reduce the number of arrests made per reported crime on the hottest days and that arrests made on these days are more likely to be dismissed in court. For prosecutors, high temperature on the day they announce criminal charges does not appear to affect the nature and severity of the charges. However, judges dismiss fewer cases, issue longer prison sentences, and levy higher fines whenruling on hot days. The results suggest that the psychological and cognitive consequences ofexposure to high temperatures have meaningful consequences for criminal defendants as they interact with the criminal justice system.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10776",
+    "url": "http://documents.worldbank.org/curated/en/099818005162425050/pdf/IDU11f8ec38311d471489b18529195425ea06306.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.463557",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

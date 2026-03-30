@@ -1,0 +1,102 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Place-Based Preferential Policies and Firm Performance",
+    "idno": "34322300",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34322300",
+      "title": "Place-Based Preferential Policies and Firm Performance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [],
+    "date_created": "2024/05/21",
+    "date_available": "2024/05/21",
+    "date_published": "2024/05/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34322300"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-885eea13-43ba-47a7-8100-7b9d91414a87"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-885eea13-43ba-47a7-8100-7b9d91414a87"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10781"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Economic zone programs are generally pursued to improve firms' performance within discrete areas by removing the constraints firms face. Whether or not they succeed in doing so is an empirical question. This paper capitalizes on a unique survey of firms within and outside zones in South Asia to assess the effects of zone programs on firms&#x2019; performance in exports, investment, employment, and productivity. Adopting a propensity score matching approach and district-level fixed effects, the paper explores four questions: whether zones support firm performance; whether the type of zone makes a difference, which kinds of public support services matter more, and whether firms inside zones grow faster. The results show that (i) being inside a zone positively affects foreign direct investment and employment, (ii) the effects across zone types are mixed, (iii) infrastructure and trade facilitation play a greater role in firm performance than fiscal incentives and governance facilities, and (iv) firms inside zones grow faster.",
+    "ref_country": [
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10781",
+    "url": "http://documents.worldbank.org/curated/en/099432005212413011/pdf/IDU1885eea13143ba147a71810017b9d91414a87.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.397951",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

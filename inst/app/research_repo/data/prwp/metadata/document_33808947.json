@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Skills, Human Capital, and Economic Development",
+    "idno": "33808947",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33808947",
+      "title": "Skills, Human Capital, and Economic Development",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Raju,Sudhakar Satyanarayan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sosale,Shobhana"
+      }
+    ],
+    "date_created": "2022/05/02",
+    "date_available": "2022/05/02",
+    "date_published": "2022/05/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33808947"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a3c8b369-5b58-4c63-ac44-bfd816339016"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a3c8b369-5b58-4c63-ac44-bfd816339016"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10032"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a skills index for developing countries in Asia as a first step toward developing a Global Skills Index. The Asian Skills Index is roughly modeled on the European Skills Index for Organisation for Economic Co-operation and Development countries. However, the Asian Skills Index is substantially more complicated to develop. In addition to data limitations, the Asian Skills Index incorporates several structural and institutional features of labor markets in Asian countries, such as vulnerable employment and unemployment among the highly educated, which are specific to Asian countries. In addition, the newly developed learning-adjusted years of schooling indicator plays an integral role in the Asian Skills Index. Using the k-means clustering algorithm, the paper identifies a comparable group of Asian developing countries for which it develops an index of the country’s skills system. While studies on human capital focus only on education, the Asian Skills Index is a more comprehensive construct since it goes beyond just education and skills development. By incorporating labor market conditions within which education and skills can thrive and be translated into productive output, a skills system provides crucial economic context for the human capital development process. Using the Asian Skills Index, the paper provides some economic estimates and policy recommendations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10032",
+    "url": "http://documents.worldbank.org/curated/en/099711405022213873/pdf/IDU0a3c8b36905b5804c630ac440bfd816339016.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.299932",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

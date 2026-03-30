@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Productivity, welfare and reallocation : theory and firm-level evidence",
+    "idno": "11882126",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11882126",
+      "title": "Productivity, welfare and reallocation : theory and firm-level evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Basu, Susanto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pascali, Luigi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schiantarelli, Fabio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      }
+    ],
+    "date_created": "2010/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11882126"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c089d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c089d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A considerable literature has focused on the determinants of total factor productivity (TFP), prompted by the empirical finding that TFP accounts for the bulk of long-term growth. This paper offers a deeper reason for such focus: the welfare of a representative consumer is summarized by current and anticipated future Solow productivity residuals. The equivalence holds for any specification of technology and market structure, as long as the representative household maximizes utility while taking prices parametrically. This result justifies total factor productivity as the right summary measure of welfare, even in situations where it does not properly measure technology, and makes it possible to calculate the contributions of disaggregated units (industries or firms) to aggregate welfare using readily available data. Based on this finding, the authors compute firm and industry contributions to welfare for a set of European countries (Belgium, France, Great Britain, Italy, Spain) using industry-level and firm-level data. With additional assumptions about technology and market structure (specifically, that firms minimize costs and face common factor prices), the authors show that welfare change can be further decomposed into three components that reflect, respectively, technical change, aggregate distortions, and allocative efficiency. Then, using the appropriate firm-level data, they assess the importance of each of these components as sources of welfare improvement in the same set of European countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5226",
+    "url": "http://documents.worldbank.org/curated/en/578131468314347111/pdf/WPS5226.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.033038",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

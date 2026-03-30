@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of Language of Instruction in Schools on Student Achievement: Evidence from Malaysia Using the Synthetic Control Method",
+    "idno": "32765110",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32765110",
+      "title": "The Impact of Language of Instruction in Schools on Student Achievement: Evidence from Malaysia Using the Synthetic Control Method",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soh,Yew Chong"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Del Carpio,Ximena Vanessa"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Liang Choon"
+      }
+    ],
+    "date_created": "2021/01/20",
+    "date_available": "2021/01/20",
+    "date_published": "2021/01/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32765110"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0881f380c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0881ea849"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper employs the synthetic control method to examine the impact of using a non-native language as the medium of instruction in schools on a student’s learning. Exploiting an unanticipated policy change in Malaysia and using data from the Trends in International Mathematics and Science Studies, the results show that changing the medium of instruction negatively influenced eighth graders’ achievement in mathematics and science. The differential performance, by year and gender, suggests that using a non-native language throughout a student’s schooling may have greater negative impact on the student’s learning than switching the language of instruction in the middle of the student’s schooling does. This paper sheds light on the various manners in which a language policy can adversely affect a student’s learning outcomes. It also highlights how the transition in switching the language of instruction in schools can be implemented more effectively to mitigate its adverse effects.",
+    "ref_country": [
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9517",
+    "url": "http://documents.worldbank.org/curated/en/786821611171903155/pdf/The-Impact-of-Language-of-Instruction-in-Schools-on-Student-Achievement-Evidence-from-Malaysia-Using-the-Synthetic-Control-Method.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.460419",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

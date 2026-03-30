@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Which World Bank reports are widely read",
+    "idno": "19456376",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19456376",
+      "title": "Which World Bank reports are widely read",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Doemeland, Doerte"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Trevino, James"
+      }
+    ],
+    "date_created": "2014/05/01",
+    "date_available": "2014/05/01",
+    "date_published": "2014/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19456376"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c0f39"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c0f39"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Knowledge is central to development. The World Bank invests about one-quarter of its budget for country services in knowledge products. Still, there is little research about the demand for these knowledge products and how internal knowledge flows affect their demand. About 49 percent of the World Bank's policy reports, which are published Economic and Sector Work or Technical Assistance reports, have the stated objective of informing the public debate or influencing the development community. This study uses information on downloads and citations to assesses whether policy reports meet this objective. About 13 percent of policy reports were downloaded at least 250 times while more than 31 percent of policy reports are never downloaded. Almost 87 percent of policy reports were never cited. More expensive, complex, multi-sector, core diagnostics reports on middle-income countries with larger populations tend to be downloaded more frequently. Multi-sector reports also tend to be cited more frequently. Internal knowledge sharing matters as cross support provided by the World Bank's Research Department consistently increases downloads and citations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6851",
+    "url": "http://documents.worldbank.org/curated/en/387501468322733597/pdf/WPS6851.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.074706",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

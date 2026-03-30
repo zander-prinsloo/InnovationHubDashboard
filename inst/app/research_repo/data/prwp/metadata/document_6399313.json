@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty traps and nonlinear income dynamics with measurement error and individual heterogeneity",
+    "idno": "6399313",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6399313",
+      "title": "Poverty traps and nonlinear income dynamics with measurement error and individual heterogeneity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Antman, Francisca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McKenzie, David J."
+      }
+    ],
+    "date_created": "2005/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6399313"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ad68b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ad68b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Theories of poverty traps stand in sharp contrast to the view that anybody can make it through hard work and thrift. However, empirical detection of poverty traps is complicated by the lack of long panels, measurement error, and attrition. This paper shows how dynamic pseudo-panel methods can overcome these difficulties, allowing estimation of non-linear income dynamics and testing for the presence of poverty traps. The paper explicitly allows for individual heterogeneity in income dynamics to account for the possibility that particular groups of individuals may face traps, even if the average individual does not. These methods are used to examine the evidence for a poverty trap in labor earnings, income, and expenditure in Mexico and are compared to panel data estimates from a short rotating panel. The results do find evidence of nonlinearities in household income dynamics and demonstrate large bias in the panel data estimates. Nevertheless, even after allowing for heterogeneity and accounting for measurement error, the paper finds no evidence of the existence of a poverty trap for any group in the sample.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3764",
+    "url": "http://documents.worldbank.org/curated/en/664711468045054004/pdf/wps3764.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.490264",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

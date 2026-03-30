@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Migration and economic mobility in Tanzania : evidence from a tracking survey",
+    "idno": "10115849",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10115849",
+      "title": "Migration and economic mobility in Tanzania : evidence from a tracking survey",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beegle,Kathleen G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Weerdt,Joachim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dercon,Stefan"
+      }
+    ],
+    "date_created": "2008/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10115849"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b05e2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b05e2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study explores the extent to which migration has contributed to improved living standards of individuals in Tanzania. Using longitudinal data on individuals, the authors estimate the impact of migration on consumption growth between 1991 and 2004. The analysis addresses concerns about heterogeneity and unobservable factors correlated with both income changes and the decision to migrate. The findings show that migration adds 36 percentage points to consumption growth, during a period of considerable growth in consumption. These results are robust to numerous tests and alternative specifications. Unpacking the findings, the analysis finds that moving out of agriculture is correlated with much higher growth than staying in agriculture, although growth is always higher in any sector if one physically moves. Economic mobility is strongly linked to geographic mobility. The puzzle is why more people do not move if returns to geographic mobility are high. The evidence is consistent with models in which exit barriers are set by home communities (through social and family norms) that prevent migration of certain categories of people.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4798",
+    "url": "http://documents.worldbank.org/curated/en/320721468782097029/Migration-and-economic-mobility-in-Tanzania-evidence-from-a-tracking-survey",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.188523",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

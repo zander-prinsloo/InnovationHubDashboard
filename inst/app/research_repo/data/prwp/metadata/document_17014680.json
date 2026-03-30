@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Emissions trading with offset markets and free quota allocations",
+    "idno": "17014680",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17014680",
+      "title": "Emissions trading with offset markets and free quota allocations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rosendahl, Knut Einar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strand, Jon"
+      }
+    ],
+    "date_created": "2012/11/01",
+    "date_available": "2012/11/01",
+    "date_published": "2012/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17014680"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb7b1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb7b1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies interactions between a \"policy bloc's\" emissions quota market and an offset market where emissions offsets can be purchased from a non-policy \"fringe\" of countries (such as for the Clean Development Mechanism under the Kyoto Protocol). Policy-bloc firms enjoy free quota allocations, updated according to either past emissions or past outputs. Both overall abatement and the allocation of given abatement between the policy bloc and the fringe are then inefficient. When the policy-bloc quota and offset markets are fully integrated, firms buying offsets from the fringe, and all quotas and offsets, must be traded at a single price; the policy bloc will either not constrain the offset market whatsoever, or ban offsets completely. These cases occur when free allocation of quotas is less (very) generous, and the offset market delivers large (small) quota amounts. Governments of policy countries would instead prefer to buy offsets directly from the fringe at a price below the policy-bloc quota price. The offset price is then below the marginal damage cost of emissions and the quota price in the policy bloc is above the marginal damage cost. This is also inefficient as the policy bloc, acting as a monopsonist, purchases too few offsets from the fringe.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6281",
+    "url": "http://documents.worldbank.org/curated/en/809661468336685274/pdf/wps6281.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.606515",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

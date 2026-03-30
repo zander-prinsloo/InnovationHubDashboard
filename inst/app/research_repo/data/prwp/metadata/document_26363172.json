@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Learning, Prices, and firm dynamics",
+    "idno": "26363172",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26363172",
+      "title": "Learning, Prices, and firm dynamics",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bastos,Paulo S. R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dias,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timoshenko,Olga A."
+      }
+    ],
+    "date_created": "2016/05/10",
+    "date_available": "2016/05/10",
+    "date_published": "2016/05/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26363172"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084316015"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084316015"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper documents new facts about the joint evolution of firm performance and prices in international markets and proposes a theory of firm dynamics emphasizing the interaction between learning about demand and quality choice to explain the observed patterns. Using data from the Portuguese manufacturing sector, the paper documents that: (1) within narrow product categories, firms with longer spells of activity in export destinations tend to ship larger quantities at similar prices, thus obtaining larger export revenue; (2) older exporters tend to import more expensive inputs; and (3) revenue growth within destinations (conditional on initial size) tends to decline with market experience. The authors develop a model of endogenous input and output quality choices in a learning environment that is able to quantitatively account for these patterns. Counterfactual simulations reveal that minimum quality standards on exports reduce welfare by lowering entry in export markets and reallocating resources from old and large toward young and small firms.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7667",
+    "url": "http://documents.worldbank.org/curated/en/974531467995659059/pdf/WPS7667.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.124687",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

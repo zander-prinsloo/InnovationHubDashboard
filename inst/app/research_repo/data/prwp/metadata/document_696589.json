@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic analysis for health projects",
+    "idno": "696589",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696589",
+      "title": "Economic analysis for health projects",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hammer,Jeffrey S."
+      }
+    ],
+    "date_created": "1996/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696589"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c3b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c3b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author applies to the health sector an approach to analyzing projects advocated in a recent paper by Devarajan, Squire, and Suthiwart-Narueput. In the health sector, a project evaluation should: 1) Establish a firm justification for public involvement. The author identifies a number of common failures in the markets for both health services and insurance but argues that this should be the starting place for economic analysis, not a reason to ignore economics; 2) Establish the counterfactual: what happens with and without the project. Project outputs should be predicted net of the reaction of consumers and providers in the private sector. This requires knowledge of the market structure (supply, demand, and equilibrium) for health services; 3) Determine the fiscal effect of the project. The issue of appropriate levels for fees should be handled jointly with project evaluation; and 4) Acknowledge the fungibility of project resources and examine the incentives facing public servants. Ministries of health may shift their own resources away from activities that are funded by project to those that are not evaluated at all. Project outputs depend on the incentives for civil servants to provide good service--a consideration rarely taken into account in project evaluations. The author concludes that much of the analysis relevant to projects should be done before project evaluation. If the issues of fungibility and incentives are given due respect, the donors' best form of intervention may not be traditional projects at all but rather general loans with conditions related to general sector strategy and reform. For a standard project, a fair amount of information from supporting sector work is needed before evaluation. If clinical services (or anything depending on people s behavior) are part of the project, information is needed about the supply and demand for substitute services. The market structure of health care is an essential part of the background work.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1611",
+    "url": "http://documents.worldbank.org/curated/en/157291468765870219/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.667066",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

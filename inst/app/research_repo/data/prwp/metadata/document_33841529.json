@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Natural Disasters and Economic Dynamics : Evidence from the Kerala Floods",
+    "idno": "33841529",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33841529",
+      "title": "Natural Disasters and Economic Dynamics : Evidence from the Kerala Floods",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beyer,Robert Carl Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Narayanan,Abhinav"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thakur,Gogol Mitra"
+      }
+    ],
+    "date_created": "2022/06/13",
+    "date_available": "2022/06/13",
+    "date_published": "2022/06/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33841529"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-beef7956-a37d-4887-82fb-08ee88012ac5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-beef7956-a37d-4887-82fb-08ee88012ac5"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10084"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Exceptionally high rainfall in the Indian state of Kerala caused major flooding in 2018. This paper estimates the short-run causal impact of the disaster on the economy, using a difference-in-difference approach. Monthly nighttime light intensity, a proxy for aggregate economic activity, suggests that activity declined for three months during the disaster but boomed subsequently. Automated teller machine transactions, a proxy for consumer demand, declined and credit disbursal increased, with households borrowing more for housing and less for consumption. In line with other results, both household income and expenditure declined during the floods. Despite a strong wage recovery after the floods, spending remained lower relative to the unaffected districts. The paper argues that increased labor demand due to reconstruction efforts increased wages after the floods and provides corroborating evidence: (i) rural labor markets tightened, (ii) poorer households benefited more, and (iii) wages increased most where government relief was strongest. The findings confirm the presence of interesting economic dynamics during and right after natural disasters that remain in the shadow when analyzed with annual data.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10084",
+    "url": "http://documents.worldbank.org/curated/en/099822206132239289/pdf/IDU0beef79560a37d04887082fb008ee88012ac5.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:16.999170",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

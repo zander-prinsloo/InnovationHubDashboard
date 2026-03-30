@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Scalable Tracking of CO2 Emissions : A Global Analysis with Satellite Data",
+    "idno": "33997201",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33997201",
+      "title": "Scalable Tracking of CO2 Emissions : A Global Analysis with Satellite Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David"
+      }
+    ],
+    "date_created": "2023/02/07",
+    "date_available": "2023/02/07",
+    "date_published": "2023/02/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33997201"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-621a0ff3-6768-4fa8-a8c8-57614023b215"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-621a0ff3-6768-4fa8-a8c8-57614023b215"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10297"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper extends recent research on satellite-based carbon dioxide measurement to an easily updated template for tracking changes in carbon dioxide concentrations at local and regional scales. Using data from the National Aeronautics and Space Administration&#x2019;s Orbiting Carbon Observatory-2 satellite platform and a large sample of urban areas, a comparison of trend estimation models suggests that the template can use a simple model that estimates trends directly from satellite data pre-filtered to isolate local concentration anomalies. Illustrative applications are developed for a long-period trend model and a short-period model focused on change in the most recent year. In addition, the paper estimates carbon dioxide emissions for thousands of urban areas and identifies cities whose emissions performance is above or below expectation. Although the tracking model is &#x201c;simple,&#x201d; it requires software and hardware that are beyond the means of many interested stakeholders. For this reason, the World Bank&#x2019;s Development Economics Vice Presidency has established an open web facility that pre-filters data from the National Aeronautics and Space Administration&#x2019;s Orbiting Carbon Observatory-2satellite and publishes monthly mean concentration anomalies for all terrestrial cells of a 25-kilometer global grid. The website will also publish annual carbon dioxide tracking reports for urban areas and provide information that links the 25-kilometer global grid cell IDs to IDs for urban areas and national administrative units (levels 0, 1, and 2).",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10297",
+    "url": "http://documents.worldbank.org/curated/en/099451002072317154/pdf/IDU0621a0ff30676804fa80a8c8057614023b215.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.082100",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The poverty effects of market concentration",
+    "idno": "25672296",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25672296",
+      "title": "The poverty effects of market concentration",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Castelan,Carlos"
+      }
+    ],
+    "date_created": "2015/12/15",
+    "date_available": "2015/12/15",
+    "date_published": "2015/12/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25672296"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083c59934"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083c59934"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper contributes to the limited literature on the welfare impacts of market concentration by developing a simple model that shows how exogenous variations in market power affect poverty. Increased market power leads to economy-wide welfare losses, because it raises the prices of goods and services for all agents in an economy and thus reduces the relative incomes of households, particularly among the poor. Declines in poverty in this context are only possible in the case wherein the poor have access to a share of oligopolistic rents. Although this scenario seems highly unlikely, this result has important implications for public policy, particularly for economies with less-than-perfect markets and social objectives of poverty eradication. This result suggest the possibility of taxing extranormal rents extracted by firms with market power and redistributing them through targeted lump-sum social transfers, thereby contributing to poverty reduction by mitigating welfare losses from the negative price effect.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7515",
+    "url": "http://documents.worldbank.org/curated/en/866221468194940637/pdf/WPS7515.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.196485",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

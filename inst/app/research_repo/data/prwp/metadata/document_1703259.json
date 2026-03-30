@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Improving air quality in metropolitan Mexico City : an economic valuation",
+    "idno": "1703259",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1703259",
+      "title": "Improving air quality in metropolitan Mexico City : an economic valuation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cesar, Herman"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Borja-Aburto, Victor H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dorland, K"
+      }
+    ],
+    "date_created": "2002/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1703259"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c1f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c1f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Mexico City has for years experienced high levels of ozone and particulate air pollution. In 1995-99 the entire population of the Mexico City metropolitan area was exposed to annual average concentrations of fine particulate pollution (particulates with a diameter of less than 10 micrometers, or PM10) exceeding 50 micrograms per cubic meter, the annual average standard in both Mexico and the United States. Two million people were exposed to annual average PM10 levels of more than 75 micrograms per cubic meter. The daily maximum one-hour ozone standard was exceeded at least 300 days a year. The Mexico Air Quality Management Team documents population-weighted exposures to ozone and PM10 between 1995 and 1999, project exposures in 2010, and computes the value of four scenarios for 2010: A 10 percent reduction in PM10 and ozone. A 20 percent reduction in PM10 and ozone. Achievement of ambient air quality standards across the metropolitan area. A 68 percent reduction in ozone and a 47 percent reduction in PM10 across the metropolitan area. The authors calculate the health benefits of reducing ozone and PM10 for each scenario using dose-response functions from the peer-reviewed literature. They value cases of morbidity and premature mortality avoided using three approaches: Cost of illness and forgone earnings only (low estimate). Cost of illness, forgone earnings, and willingness to pay for avoided morbidity (central case estimate). Cost of illness, forgone earnings, willingness to pay for avoided morbidity, and willingness to pay for avoided mortality (high estimate). The results suggest that the benefits of a 10 percent reduction in ozone and PM10 in 2010 are about $760 million (in 1999 U.S. dollars) annually in the central case. The benefits of a 20 percent reduction in ozone and PM10 are about $1.49 billion annually. In each case the benefits of reducing ozone amount to about 15 percent of the total benefits. By estimating the magnitude of the benefits from air pollution control, the authors provide motivation for examining specific policies that could achieve the air pollution reductions that they value. They also provide unit values for the benefits from reductions in ambient air pollution (for example, per microgram of PM10) that could be used as inputs into a full cost-benefit analysis of air pollution control strategies.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2785",
+    "url": "http://documents.worldbank.org/curated/en/607361468777295667/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:34.923352",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

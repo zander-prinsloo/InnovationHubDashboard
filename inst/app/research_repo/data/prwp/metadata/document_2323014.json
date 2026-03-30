@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Research and development (R&D) and development",
+    "idno": "2323014",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2323014",
+      "title": "Research and development (R&D) and development",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman, Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney, William F."
+      }
+    ],
+    "date_created": "2003/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2323014"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058b4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058b4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Lederman and Maloney trace the evolution of research and development (R&D) expenditures along the development process using a new global panel data set. They show that R&D effort measured as a share of GDP rises with development at an increasing rate. The authors examine how four groups of countries from Latin America, Asia, advanced manufacturing exporters, and advanced natural resource-abundant countries fare relative to the predicted development trajectory. Latin America generally underperforms as do some countries in Asia and Europe, but their striking finding is that some-Finland, Israel, the Republic of Korea, and Taiwan (China)-have radically deviated from the predicted trajectory and displayed impressive R&D takeoffs. The authors ask whether these countries overinvest in R&D but find that the high estimates of the social rates of return probably justify this effort. Moreover, the returns to R&D decline with per capita GDP. The authors attempt to explain why rich countries invest more in R&D than poor countries. They conclude that financial depth, protection of intellectual property rights, government capacity to mobilize resources, and the quality of research institutions are the main reasons why R&D efforts rise with the level of development.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3024",
+    "url": "http://documents.worldbank.org/curated/en/778751468739477640/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:29.714922",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

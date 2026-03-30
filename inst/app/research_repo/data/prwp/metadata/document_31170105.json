@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Methodology and Findings for the Exposure Analysis of the Chinese Wastewater Sector to Flooding and Earthquakes Hazards",
+    "idno": "31170105",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31170105",
+      "title": "Methodology and Findings for the Exposure Analysis of the Chinese Wastewater Sector to Flooding and Earthquakes Hazards",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hu,Xi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pant,Raghav"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zorn,Conrad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lim,Weeho"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koks,Elco Eduard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mao,Zhimin"
+      }
+    ],
+    "date_created": "2019/06/18",
+    "date_available": "2019/06/19",
+    "date_published": "2019/06/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31170105"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086dce6b7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086dce6b7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper describes the methodology and findings for the extreme hazard exposure analysis of the Chinese wastewater sector to flooding and earthquakes hazards. This analysis is undertaken for changing flooding, under climate scenarios, and earthquake exposure of a spatially accurate wastewater treatment plants (WWTP) database for China, covering a total of 1,346 assets with additional attributes quantifying the treatment capacity and users dependent on each plant. For flooding, we apply and downscale a global river routing (CaMa-Flood) model that quantifies the change degree of flood exposures from the present time-period (1980-2005) to the near future time-period (2016-2035) to a far future time period (2036-2055). We find evidence that most climate models project increasing number of WWTP assets face climate-induced flood hazards in both the near and far future, potentially affecting as many as 208 million users by 2050. However, there are spatial and temporal variations from these projections which means that planning for resilient wastewater infrastructure requires more detailed understanding of the vulnerability attributes of WWTPs including their exact location, the number of users they serve as well as their flood protection standards. For earthquakes, we examine the exposure of WWTPs to earthquake hazards through both seismic shaking and induced liquefaction. Overall, we demonstrate the significant risk that earthquakes can have on the WWTP process -- especially on centralized systems. By considering liquefaction susceptibility in combination with shaking, we expose a number of WWTPs that face an increased level of exposure to damages following earthquakes compared to looking at shaking in isolation.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8903",
+    "url": "http://documents.worldbank.org/curated/en/661501560863483689/pdf/Methodology-and-Findings-for-the-Exposure-Analysis-of-the-Chinese-Wastewater-Sector-to-Flooding-and-Earthquakes-Hazards.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.391118",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

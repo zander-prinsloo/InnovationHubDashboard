@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Catastrophic Medical Expenditures : Reflections on Three Issues",
+    "idno": "30639311",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30639311",
+      "title": "Catastrophic Medical Expenditures : Reflections on Three Issues",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff,Adam"
+      }
+    ],
+    "date_created": "2018/11/26",
+    "date_available": "2018/11/26",
+    "date_published": "2018/11/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30639311"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086643d7c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086623e9f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is a large empirical literature analyzing 'catastrophic' medical expenses. The 'basic' approach defines expenses as catastrophic if they exceed a prespecified percentage of total consumption or income; the approach, in effect, tells us whether expenses cause a large percentage reduction in living standards. An alternative 'ability-to-pay approach' defines expenses as catastrophic if they exceed a prespecified percentage of consumption or income less actual expenses on nonmedical necessities or an allowance for them. This paper argues that this approach does not, contrary to what is sometimes claimed, tell us whether expenses are large enough to undermine a household's ability to purchase nonmedical necessities. The paper also compares the income- and consumption-based variants of the 'basic' approach, showing that if the individual is a borrower after a health shock, the income-based ratio will exceed the consumption-based ratio, while the opposite is true when the individual continues to be a saver after a health shock. The paper also explores the relationship between the income- and consumption-based ratios and the more theoretically correct ratio proposed by Flores et al. It shows that if the individual is a borrower after a health shock, both the consumption- and income-based ratios will exceed the Flores et al. ratio, with the income-based ratio overestimating it by more, while in the case when the individual continues to be a saver after a health shock, the income-based ratio will overestimate Flores et al.'s ratio by less and may not overestimate it at all. Last, the paper proposes a lifetime money metric utility approach that defines medical expenses as catastrophic in terms of their lifetime (rather than single-period) consequences. It shows that under certain assumptions, the money-metric utility approach and the Flores et al. approaches are identical, and both are operationalizable without data on how households finance their medical expenses.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8651",
+    "url": "http://documents.worldbank.org/curated/en/102911543240444440/pdf/WPS8651.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.274687",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

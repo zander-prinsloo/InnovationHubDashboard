@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Congestion charging mechanisms for roads : an evaluation of current practice",
+    "idno": "699490",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699490",
+      "title": "Congestion charging mechanisms for roads : an evaluation of current practice",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hau,Timothy Doe-Kwong"
+      }
+    ],
+    "date_created": "1992/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699490"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce13c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce13c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author explores 20 criteria for a good road pricing system and presents case studies illustrating the costs, revenues, and benefits of alternative congestion charging mechanisms. The author finds that manual tollbooths are not suitable for congestion charging because they are land-, labor-, and time-intensive. Cordon pricing (as in the Bergen toll ring) can be an effective instrument for charging for congestion if half the toll lanes are reserved for seasonal pass holders traveling through the pricing points at regular highway speed. Enforcement of those driving in reserved lanes can be carried out by periodic videographs of vehicle license plates. Area licensing schemes require that vehicles entering the central business district during peak hours prominently display a monthly or daily license. Enforcement is undertaken at gantry points by traffic wardens who perform visual checks on the nonstop traffic. The enforcement costs of area licensing schemes are prohibitive at motorway speeds but relatively low-cost in a standard congested urban setting with limited gateways. Area licensing schemes, also known as supplementary licensing, carry the lowest cost per transaction. Electronic road pricing with automatic vehicle identification (an off-vehicle recording system) is electronic toll collection by time of day writ large and made obligatory on vehicle owners in a jurisdiction. The cost of the electronic equipment is not trivial, but is outweighed by the benefits. Sensitivity analysis performed on the Hong Kong electronic road pricing scheme in 1983-85 shows that even after excluding time savings, the savings in operating costs produce benefit figures that are greater than system costs. The invasion-of-privacy issues that led to the political failure of the Hong Kong electronic road pricing scheme can not be overcome by giving road users access to confidential numbered account arrangements with a prepaid cash deposit. The capital cost of electronic road pricing with smart card technology (an on-vehicle charging system) is higher than the cost for automatic vehicle identification technology alone, but benefits still outweigh costs (as in the Dutch proposal). Together, the benefit-cost ratio and the cost per transaction are acceptable but this technology is still not widely used commercially. The author argues that electronic approaches to direct road use charging are superior to manual approaches for road users, road authorities, and society as a whole. And rapid progress in microelectronics, cryptology, and microwave technologies will continue to yield large-scale economies in the manufacturing of automatic vehicle identification equipment, read-write transponders, smart cards, and the hardware and software that go with them. The author ranks electronic road pricing with automatic vehicle identification alone higher than electronic road pricing with smart card-type AVI based on an unweighted index of all criteria. And generally, the area licensing scheme is superior to cordon pricing. If budgets allow, authorities should investigate the feasibility of electronic road pricing. If the budget is tight, they should look into the area licensing scheme with its low cost and high benefit-cost ratio (the latter being the most important of the 20 criteria the author uses). Both conceptually and practically, the author finds that it is important to earmark the proceeds of road pricing to implement marginal cost pricing in the road sector.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1071",
+    "url": "http://documents.worldbank.org/curated/en/828861468764411085/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.085018",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

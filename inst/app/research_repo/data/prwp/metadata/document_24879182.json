@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of secondary schooling in Kenya : a regression discontinuity analysis",
+    "idno": "24879182",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24879182",
+      "title": "The impact of secondary schooling in Kenya : a regression discontinuity analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozier,Owen"
+      }
+    ],
+    "date_created": "2015/08/06",
+    "date_available": "2015/08/06",
+    "date_published": "2015/08/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24879182"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0830565b7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0830565b7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the impacts of secondary school on human capital, occupational choice, and fertility for young adults in Kenya. The probability of admission to government secondary school rises sharply at a score close to the national mean on a standardized 8th grade examination, permitting the estimation of causal effects of schooling in a regression discontinuity framework. The analysis combines administrative test score data with a recent survey of young adults to estimate these impacts. The results show that secondary schooling increases human capital, as measured by performance on cognitive tests included in the survey. For men, there is a drop in the probability of low-skill self-employment, as well as suggestive evidence of a rise in the probability of formal employment. The opportunity to attend secondary school also reduces teen pregnancy among women.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7384",
+    "url": "http://documents.worldbank.org/curated/en/700151467997577920/pdf/WPS7384.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.343004",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

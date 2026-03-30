@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Opportunity cost and prudentiality : an analysis of futures clearinghouse behavior",
+    "idno": "698088",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698088",
+      "title": "Opportunity cost and prudentiality : an analysis of futures clearinghouse behavior",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baer, Herbert L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "France, Virginia G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moser, Jame"
+      }
+    ],
+    "date_created": "1994/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698088"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5951"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5951"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Margin deposits, which serve as collateral to protect the clearinghouse, are typically the most important tool for risk management. The authors develop a model that explains how creating a futures clearinghouse may allow traders simultaneously to reduce both the risk of default and the total amount of margin that members post. Optimal margin levels are determined by the need to balance the deadweight costs of default against the opportunity cost of holding additional margin. Both costs are a consequence of market participants' imperfect access to capital markets. The simultaneous reduction in default risk and in the opportunity cost of margin deposits is possible because the creation of the clearinghouse facilitates multilateral netting. The authors characterize the conditions under which multilateral netting will dominate bilateral netting. They also show that it is credible for the clearinghouse to expel members who default, further reducing the risk of default. Finally, they show that it may (but need not) be optimal for the clearinghouse to monitor the financial condition of its members. If monitoring occurs, it will reduce the amount of margin required, but need not affect the probability of default. The empirical tests run by the authors indicate that the opportunity cost of margin plays an important role in determining margin. The relationship between volatility and margins indicates that participants face an upward-sloping opportunity cost for margin, which appears to more than offset the effects that monitoring and expulsion would be expected to have on margin setting.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1340",
+    "url": "http://documents.worldbank.org/curated/en/318411468764697340/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.784039",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

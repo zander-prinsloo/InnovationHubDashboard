@@ -1,0 +1,178 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "VAT Refunds and Firms’ Performance : Evidence from a Withholding Reform in Honduras",
+    "idno": "34434989",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34434989",
+      "title": "VAT Refunds and Firms’ Performance : Evidence from a Withholding Reform in Honduras",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pineda Pinto,David Fernando"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bermúdez,Jose Carlo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Gouvea Scot De Arruda,Thiago"
+      }
+    ],
+    "date_created": "2024/12/11",
+    "date_available": "2024/12/11",
+    "date_published": "2024/12/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34434989"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-15962061-a982-440d-8968-c5d134f6a158"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-15962061-a982-440d-8968-c5d134f6a158"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10996"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Late or unreliable refunds of credits undermine the best traits of value-added tax (VAT) systems and might affect firms' growth and investment opportunities. This paper uses administrative tax records in Honduras to study a tax reform that decreased the withholding rate of value-added tax liabilities by credit and debit card (DCC) providers, aiming to curb unrefunded credits. Using a difference-in-differences approach, exploiting differential exposure to the reform, the paper documents that it caused a decrease in excessive withholding and was equivalent to a cut of 1.1 percentage points in effective tax rates faced by treated firms. The paper then evaluates the effects on firms' economic performance and estimate 0 effects on several indicators of economic growth and investment. The results challenge the premise that unrefunded VAT credits are an important constraint to firm growth in certain settings. Keywords: VAT refunds, withholding, firms&#x2019; performance.",
+    "ref_country": [
+      {
+        "name": "Honduras",
+        "code": "HND"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10996",
+    "url": "http://documents.worldbank.org/curated/en/099933312112427212/pdf/IDU1159620611a9821440d189681c5d134f6a158.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "tax policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.548686",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

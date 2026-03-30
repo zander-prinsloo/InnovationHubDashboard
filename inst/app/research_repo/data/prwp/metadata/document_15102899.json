@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "On the implications of essential heterogeneity for estimating causal impacts using social experiments",
+    "idno": "15102899",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15102899",
+      "title": "On the implications of essential heterogeneity for estimating causal impacts using social experiments",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      }
+    ],
+    "date_created": "2011/09/01",
+    "date_available": "2011/09/01",
+    "date_published": "2011/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15102899"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b936e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b936e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Randomized control trials are sometimes used to estimate the aggregate benefit from some policy or program. To address the potential bias from selective take-up, the randomization is used as an instrumental variable for treatment status. Does this (popular) method of impact evaluation help reduce the bias when take-up depends on unobserved gains from take up? Such \"essential heterogeneity\" is known to invalidate the instrumental variable estimator of mean causal impact, though one still obtains another parameter of interest, namely mean impact amongst those treated. However, if essential heterogeneity is the only problem then the naïve (ordinary least squares) estimator also delivers this parameter; there is no gain from using randomization as an instrumental variable. On allowing the heterogeneity to also alter counterfactual outcomes, the instrumental variable estimator may well be more biased for mean impact than the naïve estimator. Examples are given for various stylized programs, including a training program that attenuates the gains from higher latent ability, an insurance program that compensates for losses from unobserved risky behavior and a microcredit scheme that attenuates the gains from access to other sources of credit. Practitioners need to think carefully about the likely behavioral responses to social experiments in each context.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5804",
+    "url": "http://documents.worldbank.org/curated/en/590551468338984924/pdf/WPS5804.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:02.648367",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

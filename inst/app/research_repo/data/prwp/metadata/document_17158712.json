@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Investment decision making under deep uncertainty -- application to climate change",
+    "idno": "17158712",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17158712",
+      "title": "Investment decision making under deep uncertainty -- application to climate change",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brown,Casey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gill,Stuart Peter Dunkley"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lempert,Robert J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shah,Ankur Ravi"
+      }
+    ],
+    "date_created": "2012/09/01",
+    "date_available": "2013/01/09",
+    "date_published": "2013/01/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17158712"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b11e8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b11e8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "While agreeing on the choice of an optimal investment decision is already difficult for any diverse group of actors, priorities, and world views, the presence of deep uncertainties further challenges the decision-making framework by questioning the robustness of all purportedly optimal solutions. This paper summarizes the additional uncertainty that is created by climate change, and reviews the tools that are available to project climate change (including downscaling techniques) and to assess and quantify the corresponding uncertainty. Assuming that climate change and other deep uncertainties cannot be eliminated over the short term (and probably even over the longer term), it then summarizes existing decision-making methodologies that are able to deal with climate-related uncertainty, namely cost-benefit analysis under uncertainty, cost-benefit analysis with real options, robust decision making, and climate informed decision analysis. It also provides examples of applications of these methodologies, highlighting their pros and cons and their domain of applicability. The paper concludes that it is impossible to define the \"best\" solution or to prescribe any particular methodology in general. Instead, a menu of methodologies is required, together with some indications on which strategies are most appropriate in which contexts. This analysis is based on a set of interviews with decision-makers, in particular World Bank project leaders, and on a literature review on decision-making under uncertainty. It aims at helping decision-makers identify which method is more appropriate in a given context, as a function of the project's lifetime, cost, and vulnerability.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6193",
+    "url": "http://documents.worldbank.org/curated/en/194831468136208564/pdf/wps6193.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.905893",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

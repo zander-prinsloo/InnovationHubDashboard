@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Infrastructure policy : basic design options",
+    "idno": "16985794",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16985794",
+      "title": "Infrastructure policy : basic design options",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Klein,Maximilian Michael Johann"
+      }
+    ],
+    "date_created": "2012/11/01",
+    "date_available": "2012/11/01",
+    "date_published": "2012/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16985794"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d0a42"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d0a42"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper lays out basic design options for infrastructure policy. It first sketches mechanisms to asses demand. Then it sets out a hierarchy of issues starting with choice of market structure followed by conduct regulation. Ownership options are largely a function of market structure choices. The implications for finance -- the topic of much day-to-day discussion in infrastructure policy-making -- follow from these various prior choices. The discussion naturally circumscribes the role for so-called public-private partnerships -- their uses and pitfalls. Annexes provide checklists for choices of market structure and for diagnosing and benchmarking policies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6274",
+    "url": "http://documents.worldbank.org/curated/en/115571468180249204/pdf/wps6274.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.548669",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

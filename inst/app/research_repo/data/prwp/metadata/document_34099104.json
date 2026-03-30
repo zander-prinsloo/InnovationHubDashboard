@@ -1,0 +1,202 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Why Do People Move across State Borders ? Evidence from Mexico",
+    "idno": "34099104",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34099104",
+      "title": "Why Do People Move across State Borders ? Evidence from Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Saavedra Facusse,Trinidad Berenice"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Inchauste Comboni,Maria Gabriela"
+      }
+    ],
+    "date_created": "2023/06/21",
+    "date_available": "2023/06/21",
+    "date_published": "2023/06/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34099104"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5ebbfd86-bca5-4e06-bad7-b7864feff0ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5ebbfd86-bca5-4e06-bad7-b7864feff0ac"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10493"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study uses the 2020 Census to explore the determinants of interstate migration in Mexico between 2015 and 2020 and the earnings gains from migration. The study analyzes both spatial characteristics (push and pull factors in the origin and destination states) and individual factors that influence the decision to migrate and where to migrate. Push and pull factors are assessed using a gravity-type model. Individual factors are analyzed using a multinomial regression model that accounts for migration reasons. Subsequently, the study measures the impact of internal migration on labor income. Earnings gains are estimated using a double selection model that accounts simultaneously for the decisions to migrate and to work. Finally, the paper discusses some policy recommendations that could help leverage internal migration potential for improving women's labor market outcomes.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10493",
+    "url": "http://documents.worldbank.org/curated/en/099504206212365133/pdf/IDU05ebbfd860bca504e060bad70b7864feff0ac.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "municipal institution building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "job creation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adolescent health",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "jobs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "health systems and policies",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.858698",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

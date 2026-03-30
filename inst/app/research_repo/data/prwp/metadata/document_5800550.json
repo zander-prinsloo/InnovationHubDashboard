@@ -1,0 +1,126 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Quantitative analysis of crisis: crisis identification and causality",
+    "idno": "5800550",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5800550",
+      "title": "Quantitative analysis of crisis: crisis identification and causality",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ishihara,Yoichiro"
+      }
+    ],
+    "date_created": "2005/05/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5800550"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a29f2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a29f2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Studies use different conceptual and operational definitions of crises. The different crisis identifications can lead to inconsistent conclusions and policy formulation even if the same analytical framework is applied. Also, most studies focus on only a few types of crises. This narrow focus on crises may not capture the multidimensionality of crises. Seven crisis types are analyzed, namely (1) liquidity type banking crises, (2) solvency type banking crises, (3) balance of payments crises, (4) currency crises, (5) debt crises, (6) growth rate crises, and (7) financial crises. Crisis data were collected from 15 emerging economies in 1980-2002 on a quarterly basis. The crisis identification exercise finds that multidimensionality in which different crisis types occur in short periods is one of the most important characteristics of recent crises. Further, the Granger causality tests in five Asian economies (Indonesia, the Republic of Korea, Malaysia, the Philippines, and Thailand) find that currency crises tend to trigger other types of crises, and therefore exchange rate management is essential.",
+    "ref_country": [
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      },
+      {
+        "name": "Korea, Republic of",
+        "code": "KOR"
+      },
+      {
+        "name": "Thailand",
+        "code": "THA"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3598",
+    "url": "http://documents.worldbank.org/curated/en/754211468268180233/pdf/wps3598.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:25.140669",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

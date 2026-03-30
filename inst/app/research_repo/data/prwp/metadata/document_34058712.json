@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Implications of Using Nonstandard Poverty Lines : An Illustration Using the Case of the Arab Republic of Egypt",
+    "idno": "34058712",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34058712",
+      "title": "Implications of Using Nonstandard Poverty Lines : An Illustration Using the Case of the Arab Republic of Egypt",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Decerf,Benoit Marie A"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Genoni,Maria Eugenia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Helmy,Imane Abdelfattah Ahmed Refaat"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanz,Guillermo Federico"
+      }
+    ],
+    "date_created": "2023/05/08",
+    "date_available": "2023/05/08",
+    "date_published": "2023/05/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34058712"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c1bece88-9a00-4c33-b3fe-79d8b57aecf7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c1bece88-9a00-4c33-b3fe-79d8b57aecf7"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10437"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many developing countries&#x2019; official poverty methodologies rely on nonstandard poverty lines, which complicate poverty comparisons across space or time. The paper considers the case of the Arab Republic of Egypt, whose official poverty lines have two important nonstandard features. First, the line is neither absolute nor relative, but rather hybrid or &#x201c;weakly relative.&#x201d; Second, the poverty line&#x2019;s implicit equivalence scales are not fixed, but are rather endogenous. This paper provides a conceptual and quantitative understanding of these two nonstandard features. The results reveal that the equivalence scale implicit in the official methodology is quantitatively very similar to the (simpler) per capita equivalence scale. Switching to a per capita equivalence scale would help address an implicit gender bias that the paper identifies in Egypt&#x2019;s official poverty lines. The analysis shows that the official distribution of poverty across regions is very similar to that associated with a purely absolute line. In addition, the change in official poverty rates over the period analyzed (2015 to 2017/18) lies halfway between the larger increase captured by a purely absolute line (10 percentage points) and that captured by a purely relative measure (1 percentage point). However, the results show that these more standard poverty lines do not systematically perform better than the official methodology with respect to the identification of disadvantaged households.",
+    "ref_country": [
+      {
+        "name": "Arab Republic of",
+        "code": "-"
+      },
+      {
+        "name": "Egypt, Arab Republic of",
+        "code": "EGY"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10437",
+    "url": "http://documents.worldbank.org/curated/en/099529105082319790/pdf/IDU0c1bece8809a0004c330b3fe079d8b57aecf7.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.345724",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

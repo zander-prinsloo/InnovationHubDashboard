@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Decomposing response errors in food consumption measurement : implications for survey design from a survey experiment in Tanzania",
+    "idno": "26247062",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26247062",
+      "title": "Decomposing response errors in food consumption measurement : implications for survey design from a survey experiment in Tanzania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Friedman,Jed"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beegle,Kathleen G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Weerdt,Joachim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gibson,John"
+      }
+    ],
+    "date_created": "2016/04/19",
+    "date_available": "2016/04/19",
+    "date_published": "2016/04/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26247062"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0842ada36"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0842acbc0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is wide variation in how consumption is measured in household surveys both across countries and over time. This variation may confound welfare comparisons in part because these alternative survey designs produce consumption estimates that are differentially influenced by contrasting types of survey response error. Although previous studies have documented the extent of net error in alternative survey designs, little is known about the relative influence of the different response errors that underpin a survey estimate. This study leverages a recent randomized food consumption survey experiment in Tanzania to shed light on the relative influence of these various error types. The observed deviation of measured household consumption from a benchmark is decomposed into item-specific consumption incidence and consumption value so as to investigate effects related to (a) the omission of any consumption and then (b) the error in value reporting conditional on positive consumption. The results show that various survey designs exhibit widely differing error decompositions, and hence a simple summary comparison of the total recorded consumption across surveys will obscure specific error patterns and inhibit the lessons for improved consumption survey design. In light of these findings, the relative performance of common survey designs is discussed, and design lessons are drawn to enhance the accuracy of item-specific consumption reporting and, consequently, the measures of total household food consumption.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7646",
+    "url": "http://documents.worldbank.org/curated/en/122481467999693721/pdf/WPS7646.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.236558",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

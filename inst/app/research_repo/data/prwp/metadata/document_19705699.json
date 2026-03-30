@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Income inequality and violent crime : evidence from Mexico's drug war",
+    "idno": "19705699",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19705699",
+      "title": "Income inequality and violent crime : evidence from Mexico's drug war",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Enamorado Enamorado,Ted"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Calva,Luis-Felipe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Castelan,Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winkler-Seales,Hernan Jorge"
+      }
+    ],
+    "date_created": "2014/06/01",
+    "date_available": "2014/06/01",
+    "date_published": "2014/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19705699"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b3fd0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b3fd0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The relationship between income inequality and crime has attracted the interest of many researchers, but little convincing evidence exists on the causal effect of inequality on crime in developing countries. This paper estimates this effect in a unique context: Mexico's Drug War. The analysis takes advantage of a unique data set containing inequality and crime statistics for more than 2,000 Mexican municipalities covering a period of 20 years. Using an instrumental variable for inequality that tackles problems of reverse causality and omitted variable bias, this paper finds that an increment of one point in the Gini coefficient translates into an increase of more than 10 drug-related homicides per 100,000 inhabitants between 2006 and 2010. There are no significant effects before 2005. The fact that the effect was found during Mexico's Drug War and not before is likely because the cost of crime decreased with the proliferation of gangs (facilitating access to knowledge and logistics, lowering the marginal cost of criminal behavior), which, combined with rising inequality, increased the expected net benefit from criminal acts after 2005.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6935",
+    "url": "http://documents.worldbank.org/curated/en/236161468299090847/pdf/WPS6935.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.892003",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,161 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Multi-Country Analysis of Multidimensional Poverty in Contexts of Forced Displacement",
+    "idno": "33558458",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33558458",
+      "title": "A Multi-Country Analysis of Multidimensional Poverty in Contexts of Forced Displacement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Admasu,Yeshwas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alkire,Sabina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ekhator-Mobayode,Uche Eseosa"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kovesdi,Fanni"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Santamaria,Julieth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Scharlin-Pettee[,Sophie"
+      }
+    ],
+    "date_created": "2021/10/28",
+    "date_available": "2021/10/28",
+    "date_published": "2021/10/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33558458"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088af1d37"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088af1d37"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9826"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite the many simultaneous deprivations faced by forcibly displaced communities, such as food insecurity, inadequate housing, or lack of access to education, there is little research on the level and composition of multidimensional poverty among them, and how it might differ from that of host communities. Relying on household survey data from selected areas of Ethiopia, Nigeria, Somalia, South Sudan, and Sudan, this paper proposes a Multidimensional Poverty Index (MPI) that captures the overlapping deprivations experienced by poor individuals in contexts of displacement. Using the MPI, the paper presents multi-country descriptive analysis to explore the relationships between multidimensional poverty, displacement status, and gender of the household head. The results reveal significant differences across displaced and host communities in all countries except Nigeria. In Ethiopia, South Sudan, and Sudan, female-headed households have higher MPIs, while in Somalia, those living in male-headed households are more likely to be identified as multidimensionally poor. Lastly, the paper examines mismatches and overlaps in the identification of the poor by the MPI and the $1.90/day poverty line, confirming the need for complementary measures when assessing deprivations among people in contexts of displacement.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SDN"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SSD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SOM"
+      }
+    ],
+    "spatial_coverage": "Africa East ; Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9826",
+    "url": "http://documents.worldbank.org/curated/en/492181635479693932/pdf/A-Multi-Country-Analysis-of-Multidimensional-Poverty-in-Contexts-of-Forced-Displacement.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.150262",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

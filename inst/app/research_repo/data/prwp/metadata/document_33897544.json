@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Multiple Price Lists for Willingness to Pay Elicitation",
+    "idno": "33897544",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33897544",
+      "title": "Multiple Price Lists for Willingness to Pay Elicitation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jack,B. Kelsey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McDermott,Kathryn"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sautmann,Anja"
+      }
+    ],
+    "date_created": "2022/09/13",
+    "date_available": "2022/09/13",
+    "date_published": "2022/09/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33897544"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-eca4bf4b-4b63-4fa5-9580-d445c3070d98"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-eca4bf4b-4b63-4fa5-9580-d445c3070d98"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10173"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Multiple price lists are a convenient tool to elicit willingness to pay in surveys and experiments, but choice patterns such as &#x201c;multiple switching&#x201d; and &#x201c;never switching&#x201d; indicate high error rates. Existing measurement approaches often do not provide accurate standard errors and cannot correct for bias due to framing and order effects. This paper proposes to combine a randomization approach with a random-effects latent utility model to detect bias and account for error. Data from a choice experiment in South Africa shows that significant order effects exist which, if uncorrected, would lead to distorted conclusions about subjects&#x2019; preferences. Templates are provided to create a multiple price list survey instrument in SurveyCTO and analyze the resulting data using the proposed methods.",
+    "ref_country": [
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10173",
+    "url": "http://documents.worldbank.org/curated/en/099716109132237341/pdf/IDU0eca4bf4b04b6304fa5095800d445c3070d98.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.234406",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How land-based targeting affects rural poverty",
+    "idno": "698544",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698544",
+      "title": "How land-based targeting affects rural poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sen, Binayak"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DEC"
+      }
+    ],
+    "date_created": "1994/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698544"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aafca"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aafca"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Transfers to the rural land-poor are widely advocated and used in attempts to reduce rural poverty. Such transfers are believed to be productive, in that the final gain to the poor exceeds the initial transfer. The evidence cited most often to support this view is the negative correlation between output per acre and the size of the holding. In other words, small farms appear to be more productive. There are reasons to question that evidence, however, say the authors. It is unclear, for example, how much differences in productivity are really attributed to unmentioned differences in land quality (someone might be given a larger plot of poor land so that a living can be made from it). Other factors also constrain the impact on poverty of land-based targeting, notably incentive constraints (whereby the \"land-rich\" alter their behavior to gain from the policy) and political economy constraints (whereby the land-rich undermine the policy by creating political pressure for tradeoffs). To inform the debate, the authors quantify the potential gains from land-based targeting under seemingly ideal conditions, incorporating only a limited set of constraints on such a policy. Their aim is to quantify gains to the poor from a benchmark policy designed to characterize the probable upper-bound on real-world outcomes. A key constraint on such schemes is that targeting is done on the basis of landholding class alone. Ignoring productivity differentials, the relevant indicator in making transfers is a suitably defined poverty measure for each landholding class. The more general formulation the authors offer calls for two indicators: the marginal productivity of transfers (assumed to be proportional to current output per acre on owned land) and a poverty measure (derived from a standard poverty profile). After applying this approach to new data for rural Bangladesh, they find that landholding class is a relevant indicator for targeting. Under ideal conditions, redistribution from land-rich to land-poor households will reduce aggregate poverty in rural Bangladesh (even without productivity effects). And transfers from an external budget would have the greatest impact on poverty if they were concentrated on landless, marginal farmers. Moreover, productivity effects (consistent with the relationship between farm size and productivity in Bangladesh) imply an additional impact on rural poverty when transfers are made from land-rich to land-poor households. But the gains are modest, even if one postulates virtually unheard-of powers of redistribution across landholding classes. Depending on the initial conditions of agricultural technology, and the relative productivity effects among the landless, they estimate that the maximum impact on rural poverty from land-based targeting under revenue neutrality is equivalent to a uniform lump-sum transfer of between Tk 10 and Tk 20 per person per month - or between 2.5 percent and 5 percent of rural mean consumption. This is under ideal circumstances, putting aside the constraints mentioned, and with no consideration for administrative costs. Real-world circumstances will entail even less impact on poverty. One must hope, for the sake of Bangladesh's poor, that targeting the land-poor with such redistribution is not all that is done to attack rural poverty.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1270",
+    "url": "http://documents.worldbank.org/curated/en/276251468739774830/How-land-based-targeting-affects-rural-poverty",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.357308",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

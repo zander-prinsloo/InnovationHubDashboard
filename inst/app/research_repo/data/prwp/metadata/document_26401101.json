@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating an equilibrium exchange rate for the Argentine Peso",
+    "idno": "26401101",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26401101",
+      "title": "Estimating an equilibrium exchange rate for the Argentine Peso",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Coppola,Andrea"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lagerborg,Andresa"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mustafaoglu,Zafer"
+      }
+    ],
+    "date_created": "2016/05/24",
+    "date_available": "2016/05/24",
+    "date_published": "2016/05/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26401101"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08435dd0a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08435dd0a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assesses the equilibrium value of the Argentine peso exchange rate based on the country's economic fundamentals and compares it with the official exchange rate value. The paper estimates a behavioral equilibrium exchange rate model that allows for movements in the equilibrium real effective exchange rate based on changing economic fundamentals, using monthly data from 1980 to 2015. The analysis identifies four key fundamentals driving the equilibrium exchange rate in Argentina: terms of trade, productivity differentials, foreign currency reserves, and trade openness. Based on these fundamentals, before the exchange rate reunification that took place at the end of 2015, the Argentine peso was overvalued by 39 percent. The results are robust to alternative estimation approaches.",
+    "ref_country": [
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7682",
+    "url": "http://documents.worldbank.org/curated/en/243311467989473367/pdf/WPS7682.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.020111",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

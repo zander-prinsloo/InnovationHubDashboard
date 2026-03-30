@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Sowing and reaping: institutional quality and project outcomes in developing countries",
+    "idno": "5642288",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5642288",
+      "title": "Sowing and reaping: institutional quality and project outcomes in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dollar,David R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levin,Victoria"
+      }
+    ],
+    "date_created": "2005/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5642288"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b1b03"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b1b03"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Much of the academic debate on the effectiveness of foreign aid is centered on the relationship between aid and growth. Different aid-growth studies find conflicting results: aid promotes growth everywhere; aid has a zero or negative impact on growth everywhere; or the effect of aid on growth depends on recipient-specific characteristics, such as the quality of institutions and policies. Although these studies fuel an interesting debate, cross-sectional macroeconomic studies cannot be the last word on the topic of aid effectiveness. In this paper, Dollar and Levin introduce microeconomic evidence on factors conducive to the success of aid-funded projects in developing countries. The authors use the success rate of World Bank-financed projects in the 1990s, as determined by the Operations Evaluation Department, as their dependent variable. Using instrumental variables estimation, the authors find that existence of high-quality institutions in a recipient country raises the probability that aid will be used effectively. There is also some evidence that geography matters, but location in Sub-Saharan Africa is a more robust indicator of lower project success rate than tropical climate. The authors proceed to disaggregate the success rate of World Bank projects by lending instrument type and by investment sector, finding that different institutions are more important for different types of projects. The finding of a strong relationship between institutional quality and project success serves to provide further support to the hypothesis that aid effectiveness is conditional on institutions and policies of the recipient country.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3524",
+    "url": "http://documents.worldbank.org/curated/en/573271468778801852/pdf/wps3524.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:25.821655",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

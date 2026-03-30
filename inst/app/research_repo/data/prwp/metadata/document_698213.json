@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The use of New York cotton futures contracts to hedge cotton price risk in developing countries",
+    "idno": "698213",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698213",
+      "title": "The use of New York cotton futures contracts to hedge cotton price risk in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Varangis, Panos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thigpen, Elton"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Satyanarayan, Sud"
+      }
+    ],
+    "date_created": "1994/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698213"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5d8b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5d8b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Cotton exports account for a significant share of commodity exports for some developing countries, especially in West Africa and Central Asia. In these countries, dependency on cotton for export revenues has increased in the past 20 years. These countries therefore have a high exposure to cotton price volatility. Cotton-producing developing countries and economies in transition make little use of hedging mechanisms to reduce risk from the volatility of cotton export revenues. Countries in Francophone West Africa use forward sales to hedge but only for a small share of the crop. These countries could use cotton futures and options contracts to hedge against short- to medium-term price volatility, making cotton export revenues more predictable. Cotton futures and options contracts could also make cotton-related commercial transactions more flexible. (Futures could be sold when there are no buyers in the physical market, for example.) In West Africa, futures and options could complement the existing system of forward sales. The authors examine the feasibility of using New York cotton futures and options contracts as hedging instruments. They base their analysis on a portfolio selection problem in which the hedger selects the optimal proportions of unhedged and hedged output to minimize risk. The results suggest that despite the existence of relatively high basis risk (that is, a relatively low correlation between spot and future prices), hedging reduces cotton price volatility by 30 to 70 percent. Moreover, for all varieties of cotton examined, the hedge ratio (the percentage of exports hedged) was below one. Using a hedge ratio of one (naive hedge), at times, increases rather than decreases risk. The results also show that hedging, while reducing risk, also reduces expected returns. Attitudes toward risk that is, the degree of risk aversion - determine how much of this risk-return tradeoff is acceptable. For a risk-averse agent, the main benefit of hedging lies in risk reduction rather than in the potential for increased returns.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Africa ; Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1328",
+    "url": "http://documents.worldbank.org/curated/en/897461468741624538/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.910340",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

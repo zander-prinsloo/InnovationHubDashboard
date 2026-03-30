@@ -1,0 +1,118 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring financial performance in infrastructure : an application to Europe and Central Asia",
+    "idno": "6980563",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6980563",
+      "title": "Measuring financial performance in infrastructure : an application to Europe and Central Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ebinger,Jane Olga"
+      }
+    ],
+    "date_created": "2006/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6980563"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b0d17"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b0d17"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Unintentional implicit subsidies (hidden costs) to public utilities can be considered an illegitimate claim on public resources. This paper examines the role and sources of hidden costs in the energy and water sectors in the Europe and Central Asia (ECA) region. It reviews available data and introduces a model-the Hidden Costs Calculator-that can be used to quantify the burden on governments of infrastructure policy and implementation decisions. This simple-to-apply model provides insight into three key components of hidden costs that affect infrastructure-poor bill collection rates, excessive losses due to inefficient operations or theft from the networks, and tariffs set below cost-recovery rates. The major advantage of this model is that, using existing data, it can provide a single measure for hidden costs that can be easily calculated, tracked, and reported. Therefore it can monitor and benchmark trends across sectors and countries without extensive or costly data collection. The model compares the difference between actual revenues and revenues that could be anticipated in a well-functioning system operating with cost-covering tariffs, bills paid, and losses normative for networks of a certain age and design. The underlying premise is that quantifying the order of magnitude of each component of hidden costs has potential for strengthening infrastructure policy dialogue and influencing decisionmakers who allocate scarce budgetary resources.",
+    "ref_country": [
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3992",
+    "url": "http://documents.worldbank.org/curated/en/586361468031503323/pdf/wps3992.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "international financial standards and systems",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.555698",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

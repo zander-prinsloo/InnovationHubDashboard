@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Industrial policies vs public goods under asymmetric information",
+    "idno": "27423638",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27423638",
+      "title": "Industrial policies vs public goods under asymmetric information",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hevia,Constantino"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza,Norman V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meza Cuadra Balcazar,Claudia Maria"
+      }
+    ],
+    "date_created": "2017/05/04",
+    "date_available": "2017/05/04",
+    "date_published": "2017/05/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27423638"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084b3b721"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084b3b721"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents an analytical framework that captures the informational problems and trade-offs that policy makers face when choosing between public goods (for example, infrastructure) and industrial policies (for example, firm- or sector-specific subsidies). After a discussion of the literature, the paper sets up the model economy, consisting of a government and a set of heterogeneous firms. It then presents the first-best allocation (under full information) of government resources among firms. Next, uncertainty is introduced by restricting information on firm productivity to be private to the firm. The paper develops an optimal contract (which replicates the first best), consisting of a tax-based mechanism that induces firms to reveal their true productivity. As this contract requires high government capacity, other, simpler policies are considered. The paper concludes that providing public goods is likely to dominate industrial policies under most scenarios, especially when government capacity is low.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8052",
+    "url": "http://documents.worldbank.org/curated/en/343061493917982244/pdf/WPS8052.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:37.216209",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

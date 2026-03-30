@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Infrastructure in conflict-prone and fragile environments : evidence from the Democratic Republic of Congo",
+    "idno": "24498122",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24498122",
+      "title": "Infrastructure in conflict-prone and fragile environments : evidence from the Democratic Republic of Congo",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ali,Rubaba"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barra,Alvaro Federico"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Berg,Claudia N."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Damania,Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nash,John D."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Russ,Jason Daniel"
+      }
+    ],
+    "date_created": "2015/05/18",
+    "date_available": "2015/05/18",
+    "date_published": "2015/05/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24498122"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082e9bbcf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082e97975"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In conflict-prone situations, access to markets is necessary to restore economic growth and generate the preconditions for peace and reconstruction. Hence, the rehabilitation of damaged transport infrastructure has emerged as an overarching investment priority among donors and governments. This paper brings together two distinct strands of literature on the effects of conflict on welfare and on the economic impact of transport infrastructure. The theoretical model explores how transport infrastructure affects conflict incidence and welfare when selection into rebel groups is endogenous. The implications of the model are tested with data from the Democratic Republic of Congo. The analysis addresses the problems of the endogeneity of transport costs and conflict using a novel set of instrumental variables. For transport costs, a new instrument is developed, the \"natural-historical path,\" which measures the most efficient travel route to a market, taking into account topography, land cover, and historical caravan routes. Recognizing the imprecision in measuring the geographic impacts of conflict, the analysis develops a spatial kernel density function to proxy for the incidence of conflict. To account for its endogeneity, it is instrumented with ethnic fractionalization and distance to the eastern border. A variety of indicators of well-being are used: a wealth index, a poverty index, and local gross domestic product. The results suggest that, in most situations, reducing transport costs has the expected beneficial impacts on all the measures of welfare. However, when there is intense conflict, improvements in infrastructure may not have the anticipated benefits. The results suggest the need for more nuanced strategies that take into account varying circumstances and consider actions that jointly target governance with construction activities.",
+    "ref_country": [
+      {
+        "name": "Congo, Democratic Republic of",
+        "code": "COD"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7273",
+    "url": "http://documents.worldbank.org/curated/en/810421468000299138/pdf/WPS7273.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.263412",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

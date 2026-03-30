@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Metric of Global Maritime Supply Chain Disruptions: The Global Supply Chain Stress Index (GSCSI)",
+    "idno": "34360500",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34360500",
+      "title": "A Metric of Global Maritime Supply Chain Disruptions: The Global Supply Chain Stress Index (GSCSI)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arvis,Jean Francois"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rastogi,Cordula"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodrigue,Jean Paul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ulybina,Daria"
+      }
+    ],
+    "date_created": "2024/07/03",
+    "date_available": "2024/07/03",
+    "date_published": "2024/07/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34360500"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-9447dab5-3757-40b1-93cd-9643f0ab7c10"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-9447dab5-3757-40b1-93cd-9643f0ab7c10"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10839"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Global supply chains recently faced widespread disruptions. The COVID-19 pandemic caused major disruptions in 2021 and 2022, while in late 2023, geopolitical incidents in the Red Sea and water shortages in the Panama Canal disrupted global shipping routes. Regardless of the cause, delays, or rerouting mean that disruption diffuses at a global scale. To quantify and assess the magnitude of disruptions globally or locally, in 2021, the World Bank developed a proposed metric, the Global Supply Chain Stress Index. The index derives from Automatic Identification System tracking data. It calculates the equivalent stalled ship capacity measured in twenty-foot equivalent units), providing data at the port, country, regional, and global levels. This granular information can inform targeted interventions and contingency planning, improving the resilience of maritime infrastructure and networks. The index explains the observed surges in shipping rates during disruptions, assuming shippers&#x2019; willingness to pay for scarcer shipping slots. An increase of 1 million twenty-foot equivalent units in global stress pushes the Shanghai Containerized Freight Index up by US$2,300 per twenty-foot equivalent unit.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10839",
+    "url": "http://documents.worldbank.org/curated/en/099746107032431443/pdf/IDU19447dab513757140b1193cd19643f0ab7c10.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.885661",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

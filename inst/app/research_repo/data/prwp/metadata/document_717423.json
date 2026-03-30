@@ -1,0 +1,141 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Annuity markets in comparative perspective : do consumers get their money's wotrth",
+    "idno": "717423",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "717423",
+      "title": "Annuity markets in comparative perspective : do consumers get their money's wotrth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "James, Estelle"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vittas, Dimitri"
+      }
+    ],
+    "date_created": "2000/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "717423"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b053a1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b053a1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Pension reforms normally focus on the accumulation phase, plus term insurance that provides bnefits for the disabled and for dependent survivors, all of which are immediate concerns. Decumulation of the capital in workers' retirement savings accounts appears to be far in the future. But in the second generation of reforms, countries have begun paying attention to eventual decumulation--either through gradual withdrawals or through annuitization, which provides longevity insurance. At this point, it becomes important to learn whether annuity markets exist and how they operate. The authors summarize preliminary results of a continuing research project that analyzes annuity markets in Australia, Canada, Chile, Israel, Singapore, Switzerland, and the United Kingdom. They focus on understanding whether annuity markets can be relied upon to provide reliable retirement income at reasonable prices. One way to approach this question is to explore whether the expected payouts and the \"money's-worth ratio\" differ across countries, and if so, why, and what light can be thrown on the existence and amount of adverse selection. Annuity markets are poorly designed for various reasons: worker myopia, precautionary and bequest saving (not erved by most annuity products), distrust of insurance companies (and unwillingness to turn sizeable savings over to them), adverse selection, and the crowding-out effect of social security (Which automatically annuitizes the largest share of people's retirement wealth). Preliminary findings suggest that the cost of annuities is lower than might be expected. When the risk-free discount rate is used, the money's-worth ratios of nominal annuities based on annuitant mortality tables exceed 90 percent--neither the industry \"take\" nor the effects of adverse selection appear to be as large as anticipated. But real annuities (in Chile, Israel, and the United Kingdom) have money's-worth ratios 7 to 9 percent lower than those of nominal annuities. And when the \"riskier\" corporate bond rate is used for discounting purposes, there is a further 7 percent reduction. The main policy issues include public versus private provision, the role of insurance companies in term and risk intermediation, the level of compulsory annuitization, and the need for robust regulation of annuity providers.",
+    "ref_country": [
+      {
+        "name": "Switzerland",
+        "code": "CHE"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GBR"
+      },
+      {
+        "name": "Singapore",
+        "code": "SGP"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Iceland",
+        "code": "ISL"
+      },
+      {
+        "name": "Canada",
+        "code": "CAN"
+      },
+      {
+        "name": "Australia",
+        "code": "AUS"
+      }
+    ],
+    "spatial_coverage": "OTH ; Europe and Central Asia ; Latin America & Caribbean ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2493",
+    "url": "http://documents.worldbank.org/curated/en/804791468760164780/Annuity-markets-in-comparative-perspective-do-consumers-get-their-moneys-wotrth",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:38.510074",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

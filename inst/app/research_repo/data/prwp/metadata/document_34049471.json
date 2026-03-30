@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Blackout or Blanked Out ? Monitoring the Quality of Electricity Service in Developing Countries",
+    "idno": "34049471",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34049471",
+      "title": "Blackout or Blanked Out ? Monitoring the Quality of Electricity Service in Developing Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seitz,William Hutchins"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kudo,Yuya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azevedo,Joao Pedro Wagner De"
+      }
+    ],
+    "date_created": "2023/04/25",
+    "date_available": "2023/04/25",
+    "date_published": "2023/04/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34049471"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a65f8c1f-8a96-46d6-931d-c0767d304d63"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a65f8c1f-8a96-46d6-931d-c0767d304d63"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10423"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Access to reliable electricity is a Sustainable Development Goal, and key for both economic growth and individual wellbeing. Yet, in the absence of sophisticated monitoring systems, policy makers in developing countries commonly rely on surveys to measure electricity reliability and prioritize investments. The accuracy of such survey-based methods is unclear. This study built a low-cost national electricity outage monitoring network, using off-the-shelf components in Tajikistan &#x2013; a country with severe electricity service constraints. The system was introduced alongside a monthly household survey called Listening to Tajikistan, which allowed benchmarking the survey summary statistics against unbiased measures. The results show that although the two measures were well correlated, the survey data suffered from significant and systematic bias. Survey respondents (i) systematically underreported the incidence and severity of electricity outages on average, but (ii) systematically overreported the incidence of outages during a period of abnormally widespread service disruption of long duration. These findings suggest that bias in survey-based measures is sensitive to the salience of outages to the respondent, and that, where feasible, automated electricity monitoring can provide more accurate quality measurement. For survey settings, the results also suggest that estimates are more accurate over short (daily) reference periods.",
+    "ref_country": [
+      {
+        "name": "Tajikistan",
+        "code": "TJK"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10423",
+    "url": "http://documents.worldbank.org/curated/en/099543304252337204/pdf/IDU0a65f8c1f08a96046d60931d0c0767d304d63.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.445540",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

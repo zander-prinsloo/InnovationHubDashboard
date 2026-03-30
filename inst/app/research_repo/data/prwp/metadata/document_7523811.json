@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Post-conflict justice and sustainable peace",
+    "idno": "7523811",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7523811",
+      "title": "Post-conflict justice and sustainable peace",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Binningsbo, Helga Malmin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gates,Scott"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lie, Tove Grete"
+      }
+    ],
+    "date_created": "2007/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7523811"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b1dd4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b1dd4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "No systematic study has examined the effect of post-conflict justice on the duration of peace on a global basis. This paper attempts to fill that void by building on a newly constructed dataset (Binningsbo, Elster, and Gates 2005), which reports the presence of various forms of post-conflict justice efforts (trials, purges, reparation to victims, and truth commissions) as well as processes associated with abstaining from post-conflict justice (amnesty and exile). It investigates the long-term effects of post-conflict justice on the duration of peace after conflict. It uses a Cox proportional hazard model to analyze the influence of the various types of post-conflict justice on the length of the peace period before the recurrence of violent conflict. Post-conflict trials as well as other types of justice do lead to a more durable peace in democratic as well as non-democratic societies, but the results are weak and are therefore difficult to generalize. Forms of non-retributive justice (that is, reparations to victims and truth commissions), however, are strongly associated with the duration of peace in democratic societies, but are not significant for non-democratic societies. Amnesty tends to be destabilizing and generally associated with shorter peace duration, but exile tends to lead to a more durable peace.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4191",
+    "url": "http://documents.worldbank.org/curated/en/245511468136802490/pdf/wps4191.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.794144",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

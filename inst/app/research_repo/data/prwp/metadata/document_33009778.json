@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Distribution of Effort : Physical Activity, Gender Roles, and Bargaining Power in an Agrarian Setting",
+    "idno": "33009778",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33009778",
+      "title": "The Distribution of Effort : Physical Activity, Gender Roles, and Bargaining Power in an Agrarian Setting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Friedman,Jed"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gaddis,Isis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martuscelli,Antonio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Amparo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zezza,Alberto"
+      }
+    ],
+    "date_created": "2021/04/19",
+    "date_available": "2021/04/19",
+    "date_published": "2021/04/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33009778"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0884f196f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0884f196f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9634"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The disutility of work, often summarily described as effort, is a primal component of economic models of worker and consumer behavior. However, empirical applications that measure effort, especially those that assess the distribution of effort across known populations, are historically scarce. This paper explores intra-household differences in physical activity in a rural agrarian setting. Physical activity is captured via wearable accelerometers that provide a proxy for physical effort expended per unit of time. In the study setting of agricultural households in Malawi, men devote significantly more time to sedentary activities than women (38 minutes per day), but also spend more time on moderate-to-vigorous activities (16 minutes). Using standardized energy expenditure as a summary measure for physical effort, women exert marginally higher levels of physical effort than men. However, gender differences in effort among married partners are strongly associated with intra-household differences in bargaining power, with significantly larger husband-wife effort gaps alongside larger differences in age and individual land ownership as well as whether the couple lives as part of a polygamous union. Physical activity -- a proxy for physical effort, an understudied dimension of wellbeing -- exhibits an unequal distribution across gender in this population.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9634",
+    "url": "http://documents.worldbank.org/curated/en/109861618858646101/pdf/The-Distribution-of-Effort-Physical-Activity-Gender-Roles-and-Bargaining-Power-in-an-Agrarian-Setting.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.570294",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

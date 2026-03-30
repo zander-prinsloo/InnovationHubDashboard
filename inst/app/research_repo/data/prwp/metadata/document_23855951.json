@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating parameters and structural change in CGE models using a Bayesian cross-entropy estimation approach",
+    "idno": "23855951",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "23855951",
+      "title": "Estimating parameters and structural change in CGE models using a Bayesian cross-entropy estimation approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Go,Delfin Sia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lofgren,Hans"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mendez Ramos,Fabian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robinson,Sherman"
+      }
+    ],
+    "date_created": "2015/01/01",
+    "date_available": "2014/01/01",
+    "date_published": "2014/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "23855951"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c25c20"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c25c20"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses a three-step Bayesian cross-entropy estimation approach in an environment of noisy and scarce data to estimate behavioral parameters for a computable general equilibrium model. The estimation also measures how labor-augmenting productivity and other structural parameters in the model may have shifted over time to contribute to the generation of historically observed changes in the economic arrangement. In this approach, the parameters in a computable general equilibrium model are treated as fixed but unobserved, represented as prior mean values with prior error mass functions. Estimation of the parameters involves using an information-theoretic Bayesian approach to exploit additional information in the form of new data from a series of social accounting matrices, which are assumed were measured with error. The estimation procedure is \"efficient\" in the sense that it uses all available information and makes no assumptions about unavailable information. As illustration, the methodology is applied to estimate the parameters of a computable general equilibrium model using alternative data sets for the Republic of Korea and Sub-Saharan Africa.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Korea, Republic of",
+        "code": "KOR"
+      }
+    ],
+    "spatial_coverage": "Africa ; East Asia and Pacific ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7174",
+    "url": "http://documents.worldbank.org/curated/en/601871468044673155/pdf/WPS7174.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.365234",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

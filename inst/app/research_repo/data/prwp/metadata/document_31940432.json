@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Moving Up the Ladder : An Analysis of IDA Graduation Policy",
+    "idno": "31940432",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31940432",
+      "title": "Moving Up the Ladder : An Analysis of IDA Graduation Policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dobronogov,Anton"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack,Stephen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wilson,James Michael"
+      }
+    ],
+    "date_created": "2020/04/08",
+    "date_available": "2020/04/08",
+    "date_published": "2020/04/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31940432"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0877e2d89"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0877e2037"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the factors that affect countries' graduation from International Development Association (IDA) assistance and develops a statistical model of graduation. IDA provides concessional financing (credits, grants, and guarantees) to the world's poorest countries to help reduce poverty and improve living standards. IDA's eligibility criteria include (a) absence of International Bank for Reconstruction and Development (IBRD) creditworthiness and (b) gross national income (GNI) per capita below the IDA operational cutoff. Following several 'reverse graduations' during the 1990s, the set of factors affecting graduation decisions broadened to include an assessment of the country's macroeconomic prospects, risk of debt distress, vulnerability to shocks, institutional constraints, and levels of poverty and social indicators. Through a pooled logit estimation using panel data covering IDA-eligible countries for 1987-2016, the authors determine the factors that influenced IDA graduation decision making for FY1989-FY2018. They find that throughout the sample the probability of being a graduate is positively and statistically significantly associated with income per capita, creditworthiness, and country size. They account for the shift of policy after 1998. Using an interaction dummy variable to capture the pre-FY1999 period, they find that life expectancy, reduced poverty, urbanization, and institutional development have been positive and significant predictors of graduation status in the later period.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9208",
+    "url": "http://documents.worldbank.org/curated/en/198781586374121992/pdf/Moving-Up-the-Ladder-An-Analysis-of-IDA-Graduation-Policy.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.057693",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

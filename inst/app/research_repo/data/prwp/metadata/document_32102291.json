@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Power to the Fiscal An Exploration of the Use of Credit Ratings to Estimate the Expected Cost of a Guarantee of a Power-Purchase Agreement",
+    "idno": "32102291",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32102291",
+      "title": "Power to the Fiscal An Exploration of the Use of Credit Ratings to Estimate the Expected Cost of a Guarantee of a Power-Purchase Agreement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aslan,Cigdem"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Irwin,Tim"
+      }
+    ],
+    "date_created": "2020/06/05",
+    "date_available": "2020/06/05",
+    "date_published": "2020/06/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32102291"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0879f8455"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0879f8455"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Ministries of finance are often asked to guarantee a state-owned electricity utility's payments to an independent power producer under a power-purchase agreement. To decide whether to grant the guarantee, the ministry should have at least a rough estimate of the guarantee's expected cost. Making use of an analogy between a power-purchase agreement and a debt contract, this paper shows how the ministry can get such an estimate by applying a method developed to estimate the expected cost of debt guarantees. An estimate of the probability of the utility's not being able to meet its obligations under the power-purchase agreement can be derived from the utility's actual or estimated credit rating in the absence of government support. The government's expected payments under the guarantee can then be estimated by multiplying the utility's payments under the power-purchase agreement by this probability. The estimates produced by the method will be imprecise, but the method may be easier to apply than alternative methods, and an imprecise estimate may be better for policy makers than no estimate.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9271",
+    "url": "http://documents.worldbank.org/curated/en/865871591378220034/pdf/Power-to-the-Fiscal-An-Exploration-of-the-Use-of-Credit-Ratings-to-Estimate-the-Expected-Cost-of-a-Guarantee-of-a-Power-Purchase-Agreement.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.634674",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

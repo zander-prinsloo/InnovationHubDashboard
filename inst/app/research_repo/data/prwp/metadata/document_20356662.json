@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Can agricultural households farm their way out of poverty",
+    "idno": "20356662",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20356662",
+      "title": "Can agricultural households farm their way out of poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dabalen,Andrew L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcgee,Kevin Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Siwatu,Gbemisola Oseni"
+      }
+    ],
+    "date_created": "2014/11/01",
+    "date_available": "2014/11/01",
+    "date_published": "2014/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20356662"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf20a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf20a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the determinants of agricultural productivity and its link to poverty using nationally representative data from the Nigeria General Household Survey Panel, 2010/11. The findings indicate an elasticity of poverty reduction with respect to agricultural productivity of between 0.25 to 0.3 percent, implying that a 10 percent increase in agricultural productivity will decrease the likelihood of being poor by between 2.5 and 3 percent. To increase agricultural productivity, land, labor, fertilizer, agricultural advice, and diversification within agriculture are the most important factors. As commonly found in the literature, the results indicate the inverse-land size productivity relationship. More specifically, a 10 percent increase in harvested land size will decrease productivity by 6.6 percent, all else being equal. In a simulation exercise where land quality is assumed to be constant across small and large holdings, the results show that if farms in the top land quintile had half the median yield per hectare of farms in the lowest quintile, production of the top quintile would be 10 times higher. The higher overall values of harvests from larger land sizes are more likely because of cultivation of larger expanses of land, rather than from efficient production. It should be noted that having larger land sizes in itself is not positively correlated with a lower likelihood of being poor. This is not to say that having larger land sizes is not important for farming, but rather it indicates that increasing efficiency is the more important need that could lead to poverty reduction for agricultural households.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7093",
+    "url": "http://documents.worldbank.org/curated/en/909941468096548521/pdf/Can-agricultural-households-farm-their-way-out-of-poverty.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.911772",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

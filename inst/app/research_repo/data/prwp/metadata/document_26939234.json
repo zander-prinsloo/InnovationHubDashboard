@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Shedding light : understanding energy efficiency and electricity reliability",
+    "idno": "26939234",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26939234",
+      "title": "Shedding light : understanding energy efficiency and electricity reliability",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carranza,Eliana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meeks,Robyn"
+      }
+    ],
+    "date_created": "2016/11/15",
+    "date_available": "2016/11/15",
+    "date_published": "2016/11/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26939234"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0846fe4c0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0846f4f8b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Overloaded electrical systems are a major source of unreliable power (outages) in developing countries. Using a randomized saturation design, we estimate the impact of energy efficient lightbulbs on household electricity consumption and local electricity reliability in the Kyrgyz Republic. Receiving compact fluorescent lamps (CFLs) significantly reduced household electricity consumption. Estimates not controlling for spillovers in take-up underestimate the impacts of the CFLs, as control households near the treated are likely to take-up CFLs themselves. Greater saturation of CFLs within a transformer leads to aggregate reliability impacts of two fewer days per month without electricity due to unplanned outages relative to pure controls. Increased electricity reliability permits households to consume more electricity services, suggesting that CFL treatment results in technological externalities. The spillovers in take-up and technological externalities may provide an additional explanation for the gap between empirical and engineering estimates of the impacts of energy efficient technologies.",
+    "ref_country": [
+      {
+        "name": "Kyrgyz Republic",
+        "code": "KGZ"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7891",
+    "url": "http://documents.worldbank.org/curated/en/728451479218411926/pdf/WPS7891.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.279938",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

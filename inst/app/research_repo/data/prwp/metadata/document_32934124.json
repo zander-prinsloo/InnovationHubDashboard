@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Projecting the Economic Consequences of the COVID-19 Pandemic",
+    "idno": "32934124",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32934124",
+      "title": "Projecting the Economic Consequences of the COVID-19 Pandemic",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Guenette,Justin Damien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yamazaki,Takefumi"
+      }
+    ],
+    "date_created": "2021/03/22",
+    "date_available": "2021/03/22",
+    "date_published": "2021/03/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32934124"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088403d88"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088403d88"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9589"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The highly uncertain evolution of the COVID-19 pandemic, influenced in part by government actions, social behavior, and vaccine-related developments, will play a critical role in shaping the global recovery’s strength and durability. This paper develops a modeling approach to embed pandemic scenarios and the rollout of a vaccine in a macroeconometric model and illustrates the impact of different pandemic- and vaccine-related assumptions on growth outcomes. The pandemic and the measures to contain it, including vaccine deployment, are assumed to be represented by consumption shocks in a macroeconometric model. In the baseline scenario, social distancing and a gradual vaccination process allow policy makers to make significant inroads in containing the pandemic. In a downside scenario, insufficient pandemic control efforts accompanied by delayed vaccination leads to persistently higher infection levels and a materially worse growth outcome. In contrast, in an upside scenario, effective management of the pandemic combined with rapid vaccine deployment would set the stage for stronger growth outcomes.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9589",
+    "url": "http://documents.worldbank.org/curated/en/718991616433868772/pdf/Projecting-the-Economic-Consequences-of-the-COVID-19-Pandemic.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.724873",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

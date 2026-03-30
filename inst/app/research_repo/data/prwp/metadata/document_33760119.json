@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating a Poverty Trend for Nigeria between 2009 and 2019",
+    "idno": "33760119",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33760119",
+      "title": "Estimating a Poverty Trend for Nigeria between 2009 and 2019",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lain,Jonathan William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schoch,Marta"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vishwanath,Tara"
+      }
+    ],
+    "date_created": "2022/03/16",
+    "date_available": "2022/03/16",
+    "date_published": "2022/03/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33760119"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d305f6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088d305f6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9974"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Issues of data availability and incomparability in the measurement of household consumption arise frequently when measuring poverty trends over time. Yet, understanding these trends is key to guide national and international policy makers in their poverty reduction efforts. This paper aims to estimate a long-run poverty trend for Nigeria, a country whose poverty trends are crucial for regional and global estimates. In 2020, the Nigerian National Bureau of Statistics released the first official poverty estimates for Nigeria in almost a decade, calculated using the 2018/19 Nigerian Living Standards Survey. Yet the official poverty estimates from the 2018/19 Nigerian Living Standards Survey cannot technically be compared with those from the 2009/10 Harmonized Nigerian Living Standards Survey—the previous official household consumption survey—given key differences in the way household consumption was measured and concerns around data quality in the 2009/10 survey. To address this challenge, this paper uses two distinct methodologies to construct a poverty trend for Nigeria in the decade before the COVID-19 crisis. First, it uses sector-level gross domestic product growth rates combined with micro-data from the 2018/19 Nigerian Living Standards Survey to “backcast” poverty rates back to 2009. Second, it uses survey-to-survey imputation methods and data collected throughout the decade through the General Household Survey panel. Despite their very different foundations, these two approaches produce very similar results, suggesting that there was a small reduction in poverty at the beginning of the decade, followed by a period of stagnation or even a slight uptick in poverty following the 2016 economic recession. The paper estimates a poverty rate of between 42.2 and 46.3 percent in 2009, translating into a reduction in the poverty headcount rate of between 3 and 7 percentage points between 2009 and 2018/19.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9974",
+    "url": "http://documents.worldbank.org/curated/en/631201647459995911/pdf/Estimating-a-Poverty-Trend-for-Nigeria-between-2009-and-2019.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.776570",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

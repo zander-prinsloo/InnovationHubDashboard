@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Nonrenewable resources, income inequality and per capita GDP : an empirical analysis",
+    "idno": "26805462",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26805462",
+      "title": "Nonrenewable resources, income inequality and per capita GDP : an empirical analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Scognamillo,Antonio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mele,Gianluca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sensini,Luca"
+      }
+    ],
+    "date_created": "2016/09/22",
+    "date_available": "2016/09/22",
+    "date_published": "2016/09/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26805462"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0845bebde"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0845a91ee"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This analysis examines the relationship between nonrenewable resource dependence, economic growth and income inequality. It uses a two-equation system in which the Gini index and GDP per capita are the dependent variables and the stock of nonrenewable resources as a share of national wealth -- i.e. resource dependence -- is the independent variable. Using a dataset that includes information on 43 countries from 1980 to 2012, this paper estimates several model specifications in order to check the robustness of the results under different assumptions and to account for income-group-related heterogeneity among countries. The baseline model provides strong evidence that natural resource dependence is negatively correlated with both per capita GDP and the Gini index; in other words, resource dependence is associated with lower income levels, but also with a more equal distribution of income. Interestingly, however, after controlling for country income group, the sign and magnitude of these relationships appear to become dependent on national-level structural characteristics. Among higher-income countries, greater nonrenewable natural resource dependence is associated with lower income inequality, while there is no statistically significant correlation with GDP per capita. Among the lower-income group, greater dependence on nonrenewable natural resources is associated with both higher levels of income inequality and lower per capita GDP. Further analysis focusing on a subsample of non-renewable resource rich countries confirms these findings.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7831",
+    "url": "http://documents.worldbank.org/curated/en/407371474550161615/pdf/WPS7831.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.918000",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

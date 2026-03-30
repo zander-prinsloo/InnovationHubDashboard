@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inflation crises and long-run growth",
+    "idno": "697074",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697074",
+      "title": "Inflation crises and long-run growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bruno, Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Easterly, William"
+      }
+    ],
+    "date_created": "1995/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697074"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058cc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058cc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent literature suggests that long-run averages of growth and inflation are only weakly correlated and that such correlation is not robust to the exclusion of observations of extreme inflation. Including time series panel data has improved matters, but an aggregate parametric approach remains inconclusive. The authors propose a nonparametric definition of high-inflation crises as \"periods when annual inflation is above 40 percent.\" Excluding countries with high-inflation crises, they find no evidence of a consistent relationship between growth and inflation, at any frequency. They do find that growth falls sharply during discrete crises of high inflation, then recovers surprisingly strongly after inflation. The fall in growth during a crisis and the recovery of growth after the crisis tend to average out to nearly zero (even slightly above zero); hence no robust cross-section correlation. Their findings could be consistent either with trend stationarity of output (in which inflation crises are purely cyclical phenomena) or with models in which crises have a favorable long-run purgative effect. Their findings do not support the view that reducing high inflation carries heavy output costs in the short to medium run.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1517",
+    "url": "http://documents.worldbank.org/curated/en/846421468739488684/Inflation-crises-and-long-run-growth",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:52.558957",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

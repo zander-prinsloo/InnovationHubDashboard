@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Legislative malapportionment and institutional persistence",
+    "idno": "12962104",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12962104",
+      "title": "Legislative malapportionment and institutional persistence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bruhn, Miriam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gallego, Francisco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Onorato, Massimiliano"
+      }
+    ],
+    "date_created": "2010/11/01",
+    "date_available": "2010/11/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12962104"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aae13"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aae13"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper argues that legislative malapportionment, denoting a discrepancy between the share of legislative seats and the share of population held by electoral districts, serves as a tool for pre-democratic elites to preserve their political power and economic interests after a transition to democracy. The authors claim that legislative malapportionment enhances the pre-democratic elites political influence by over-representing areas that are more likely to vote for parties aligned with the elite. This biased political representation survives in equilibrium as long as it helps democratic consolidation. Using data from Latin America, the authors document empirically that malapportionment increases the probability of transitioning to a democracy. Moreover, the data show that over-represented electoral districts are more likely to vote for parties close to pre-democracy ruling groups. The analysis also finds that overrepresented areas have lower levels of political competition and receive more transfers per capita from the central government, both of which favor the persistence of power of pre-democracy elites.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5467",
+    "url": "http://documents.worldbank.org/curated/en/351981468091774094/pdf/WPS5467.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:04.811262",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

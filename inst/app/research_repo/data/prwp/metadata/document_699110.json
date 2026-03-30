@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A production function-based policy simulation model of perennial commodity markets",
+    "idno": "699110",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699110",
+      "title": "A production function-based policy simulation model of perennial commodity markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Takamasa Akiyama"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Coleman, Jonathan R."
+      }
+    ],
+    "date_created": "1993/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699110"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce117"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce117"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In modeling the supply of perennial crops, many researchers have used the vintage-capital production approach, most recently formulated by Akiyama and Trivedi. Implementing this approach requires reliable time-series data on production, total area planted, new planted area, yields, real producer prices, and credit availability. For many producers, these data are not available, and many producers of perennial crops face substantially changed incentive structures in countries undergoing structural adjustment. So, the authors developed an alternative method for modeling perennial crop subsectors. It takes into account past investment decisions and other dynamics of supply response, captures all important features of the market, should be consistent with economic theory, should require minimal data, and should not rely on time-series data or econometric estimates. This production function-based model uses a Cobb-Douglas production function. The model is based on partial equilibrium and does not take into account the impact on individual subsectors on such aggregate variables as wages and interest rates. The authors apply the model to the coffee sector in Nigeria, which is undergoing major reform, but the model can be applied - with only minor modifications - to other types of crops, in other countries. The model results show the following. Policy variables greatly influence the growth and development of the sector. A 10 percent increase in the price of coffee, for example, would increase demand for labor 19 percent and that for fertilizer 29 percent and would expand the area of coffee investment 17 percent. The sector would substantially benefit from greater labor efficiency, lower real interest rates, and a reduction in the real value of the cordoba against the U.S. dollar. Nicaragua could increase its production and exports substantially by the end of the decade, if there were a favorable economic climate - especially in terms of international prices and investment incentives.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1097",
+    "url": "http://documents.worldbank.org/curated/en/995951468764410381/A-production-function-based-policy-simulation-model-of-perennial-commodity-markets",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.189101",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

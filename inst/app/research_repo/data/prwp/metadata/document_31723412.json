@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Role of Income and Substitution in Commodity Demand",
+    "idno": "31723412",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31723412",
+      "title": "The Role of Income and Substitution in Commodity Demand",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baffes,John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kabundi,Alain Ntumba"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nagle,Peter Stephen Oliver"
+      }
+    ],
+    "date_created": "2020/01/23",
+    "date_available": "2020/01/23",
+    "date_published": "2020/01/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31723412"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08753458c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08753458c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents estimates of time-varying income elasticities of demand for energy and metal commodities. The analysis finds that the elasticities are close to unity, evaluated at world median per capita income levels. Furthermore, the estimates confirm that as income rises, demand growth for industrial commodities slows and eventually plateaus. Indeed, estimates for aggregate metals and energy differ by an order of magnitude throughout the income spectrum: from a low of 0.2 for advanced economies to nearly 2 for low-income countries. The analysis, which accounts for substitutability by estimating group aggregates as well as individual commodities with cross-price effects, is based on a panel autoregressive distributed lag model covering 1965-2018, for up to 63 countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9122",
+    "url": "http://documents.worldbank.org/curated/en/433811579795110765/pdf/The-Role-of-Income-and-Substitution-in-Commodity-Demand.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.656209",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

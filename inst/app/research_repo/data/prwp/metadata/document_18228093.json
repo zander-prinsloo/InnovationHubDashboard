@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic Growth and equality of opportunity",
+    "idno": "18228093",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18228093",
+      "title": "Economic Growth and equality of opportunity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brunori, Paolo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palmisano,Flaviana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peragine,Vito"
+      }
+    ],
+    "date_created": "2013/09/01",
+    "date_available": "2013/09/01",
+    "date_published": "2013/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18228093"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bbdb2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bbdb2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper proposes an approach to understand the relationship between inequality and economic growth obtained by shifting the analysis from the space of final achievements to the space of opportunities. To this end, it introduces a formal framework based on the concept of the Opportunity Growth Incidence Curve. This framework can be used to evaluate the income dynamics of specific groups of the population and to infer the role of growth in the evolution of inequality of opportunity over time. The paper shows the relevance of the introduced framework by providing two empirical analyses, one for Italy and the other for Brazil. These analyses show the distributional impact of the recent growth experienced by Brazil and the recent crisis suffered by Italy from both the income inequality and opportunity inequality perspectives.",
+    "ref_country": [
+      {
+        "name": "Italy",
+        "code": "ITA"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6599",
+    "url": "http://documents.worldbank.org/curated/en/361701468039835690/pdf/WPS6599.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.027273",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

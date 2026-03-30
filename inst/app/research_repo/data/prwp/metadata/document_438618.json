@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Vehicles, roads, and road use - alternative empirical specifications",
+    "idno": "438618",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438618",
+      "title": "Vehicles, roads, and road use - alternative empirical specifications",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ingram, Gregory K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhi Liu"
+      }
+    ],
+    "date_created": "1998/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438618"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05799"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05799"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors extend their earlier empirical work by exploring alternative specifications for the relationship between vehicle ownership, road length, and the ratio of vehicles to road length, on the one hand, and income, population, pollution density, and other variables on the other. For the constancy or variability of cross-section income elasticities for each of these variables, they find that: a) the income elasticity of vehicle ownership decreases slightly with income at the national level but is constant at the urban level; b) the income elasticity of road length is constant at the national level but increases with income at the urban level; and c) the income elasticity of the vehicle to road ration decreases with income at both the national and urban level and, at high income levels, becomes negative for urban roads and for national paved roads. Comparisons of income elasticities from cross-section and time series data indicated that they are generally similar for vehicles, road length, and the vehicle to road ration at the national level. But at the urban level the time series income elasticity of road length (0.1) is much smaller than the cross-section elasticity (0.7), and the time series income elasticity of the vehicle to road ration (0.9) is much larger than the cross-section elasticities (0.1 for low income cities and -0.5 or high income cities). This means that the vehicle to road ratio (a proxy for congestion) is increasing over time in cities, almost in step with per capita income - a trend with dire consequences for urban transport. Although the urban results are somewhat alarming, the national results indicate that the vehicle to road ration nationally (especially on paved roads) is relatively low and not rising rapidly. It also shows remarkable stability across country income levels. This contrast between the national and urban results reinforces the view that urban decentralization is likely to remain the major mode of adjustment to urban congestion.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2036",
+    "url": "http://documents.worldbank.org/curated/en/765411468766810280/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:43.566743",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

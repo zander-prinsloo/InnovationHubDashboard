@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Border, border, wide and far, how we wonder what you are",
+    "idno": "1121195",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1121195",
+      "title": "Border, border, wide and far, how we wonder what you are",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Parsley, David C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shang-Jin Wei"
+      }
+    ],
+    "date_created": "1999/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1121195"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b055f1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b055f1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors exploit three-dimensional panel data on prices for twenty seven traded goods, over eighty eight quarters, across ninety six cities in Japan, and the United States, to answer several questions: 1) Does the average exchange rate between countries stray further from zero, than that between cities within a country? 2) Is there any tendency for the average exchange rate to move closer to zero over time? 3) Does the border narrow over time? 4) Is there evidence linking changes in the so-called border effect - the extra dispersion in prices between cities in different countries, beyond what physical distance could explain - with plausible economic explanations, such as exchange rate variability? The authors present evidence that the intra-national real exchange rates are substantially less volatile than the comparable distribution of international relative prices. They also show that an equally weighted average of commodity-level real exchange rates, tracks the nominal exchange rate well, suggesting strong evidence of sticky prices. Next they turn to economic explanations for the dynamics of the border effect. Focusing on the dispersion of prices between city pairs, they confirm previous findings that crossing national borders adds significantly to price dispersion. Based on their point estimates, crossing the US-Japan border is equivalent to adding between 2.5 and 13 million miles to the cross-country volatility of relative prices. They infer that distance, exchange rates, shipping costs, and relative variability in wages, influence the border effect. After those variables are controlled for, the border effect disappears.",
+    "ref_country": [
+      {
+        "name": "Japan",
+        "code": "JPN"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; OTH",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2217",
+    "url": "http://documents.worldbank.org/curated/en/339671468761716880/Border-border-wide-and-far-how-we-wonder-what-you-are",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.205989",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

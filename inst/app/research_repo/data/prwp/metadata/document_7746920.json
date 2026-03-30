@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Shadow sovereign ratings for unrated developing countries",
+    "idno": "7746920",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7746920",
+      "title": "Shadow sovereign ratings for unrated developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De,Prabal Kumar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mohapatra,Sanket"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ratha,Dilip K."
+      }
+    ],
+    "date_created": "2007/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7746920"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4eb3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4eb3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors attempt to predict sovereign ratings for developing countries that do not have risk ratings from agencies such as Fitch, Moody's, and Standard and Poor's. Ratings affect capital flows to developing countries through international bond, loan, and equity markets. Sovereign rating also acts as a ceiling for the foreign currency rating of sub-sovereign borrowers. As of the end of 2006, however, only 86 developing countries have been rated by the rating agencies. Of these, 15 countries have not been rated since 2004. Nearly 70 developing countries have never been rated. The results indicate that the unrated countries are not always at the bottom of the rating spectrum. Several unrated poor countries appear to have a \"B\" or higher rating, in a similar range as the emerging market economies with capital market access. Drawing on the literature, the analysis presents a stylized relationship between borrowing costs and the credit rating of sovereign bonds. The launch spread rises as the credit rating deteriorates, registering a sharp rise at the investment grade threshold. Based on these findings, a case can be made in favor of helping poor countries obtain credit ratings not only for sovereign borrowing, but for sub-sovereign entities' access to international debt and equity capital. The rating model, along with the stylized relationship between spreads and ratings can be useful for securitization and other financial structures, and for leveraging official aid for improving borrowing terms in poor countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4269",
+    "url": "http://documents.worldbank.org/curated/en/759061468323725184/pdf/wps4269.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.387293",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

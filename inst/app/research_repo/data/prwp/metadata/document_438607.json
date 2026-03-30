@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring aid flows : a new approach",
+    "idno": "438607",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438607",
+      "title": "Measuring aid flows : a new approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chang, Charles C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fernandez-Arias, Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      }
+    ],
+    "date_created": "1999/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438607"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c87"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c87"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Debate about the effectiveness of foreign aid has intensified in recent years, as budgetary pressures on aid have increased in donor countries. Whatever the merits of opposing arguments, the question is: do conventional measures of aid (such as OECD's Net ODA), which lump together grants and loans, accurately reflect true aid flows? The authors analyze the methodological shortcomings of conventional measures of aid and propose a new approach, which measures official aid flows as the sum of grants and the grant-equivalents of official loans (in a new aggregate they call \"Effective Development Assistance,\" or EDA). They show how results using this conceptually superior measure may differ significantly from conventional aggregates, providing a quite different view on major aid trends. They implement their approach empirically using data on some 40,000 official loans from the World Bank's DRS database--virtually all of the official loans to 133 developing countries from 1975 to 1995. The numerical results underscore several points: 1) The conventional approach has led to systematic overestimates of the concessionality of official loans. This overestimate has increased significantly since the mid-1980s. Conventional methods show a rising trend; the new method shows the opposite. 2) Net ODA increasingly overstates the true aid content of official flows, although the divergence between the two approaches is somewhat muted by the rising relative importance of grants over loans in total official flows.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2050",
+    "url": "http://documents.worldbank.org/curated/en/444921468766535292/Measuring-aid-flows-a-new-approach",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:43.249480",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

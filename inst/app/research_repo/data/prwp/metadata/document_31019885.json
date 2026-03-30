@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring the Unmeasured : Combining Technology and Behavioral Insights to Improve Measurement of Business Outcomes",
+    "idno": "31019885",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31019885",
+      "title": "Measuring the Unmeasured : Combining Technology and Behavioral Insights to Improve Measurement of Business Outcomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anderson,Stephen J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lazicky,Christy Marie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zia,Bilal Husnain"
+      }
+    ],
+    "date_created": "2019/04/30",
+    "date_available": "2019/04/30",
+    "date_published": "2019/04/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31019885"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086c204f8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086c204f8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Business survey outcomes for micro and small firms are notoriously noisy, with multiple sources of measurement and recall error. This paper introduces a new survey methodology that combines automatic consistency checks of electronic data collection with triangulation and dynamic adjustment to arrive at more precise estimates of business performance. The methodology uses insights from behavioral science to lower the cognitive cost of initial recall and establishes salient and relevant anchors to allow for dynamic triangulation and adjustment toward a final estimate. The validity of this method is field tested against traditional performance measures as well as administrative data across three emerging markets: Ghana, Rwanda, and Uganda. The results show significant upward adjustment from traditional measures for both sales and profits, a lower coefficient of variation in the cross-section, and higher autocorrelation in panel data. Comparisons with administrative data further confirm a higher correlation and closer magnitude relative to traditional measures. This research reconciles recommendations for increased attention to survey design with a method to leverage electronic survey technology beyond consistency checks.",
+    "ref_country": [
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RWA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8836",
+    "url": "http://documents.worldbank.org/curated/en/848101556644958454/pdf/Measuring-the-Unmeasured-Combining-Technology-and-Behavioral-Insights-to-Improve-Measurement-of-Business-Outcomes.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.821351",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

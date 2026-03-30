@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Preferential trade agreements and their role in world trade",
+    "idno": "7129768",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7129768",
+      "title": "Preferential trade agreements and their role in world trade",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Medvedev, Denis"
+      }
+    ],
+    "date_created": "2006/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7129768"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b4647"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b4647"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author investigates the effects of preferential trade agreements (PTAs) on bilateral trade flows using a comprehensive database of PTAs in force and a detailed matrix of world trade. He shows that total trade between PTA partners is a poor proxy for preferential trade (trade in tariff lines where preferences are likely to matter): while the former amounted to one-third of global trade in 2000-02, the latter was between one-sixth and one-tenth of world trade. His gravity model estimates indicate that using total rather than preferential trade to assess the impact of PTAs leads to a significant downward bias in the PTA coefficient. The author finds that product exclusions and long phase-in periods significantly limit preferential trade, and their removal could more than double trade in tariff lines above 3 percent of most-favored-nation (MFN) duties. He also shows that the effects of PTAs on trade vary by type of agreement and are increasing in the incomes of PTA partners.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4038",
+    "url": "http://documents.worldbank.org/curated/en/672601468332692068/pdf/wps4038.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.087882",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

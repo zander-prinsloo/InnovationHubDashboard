@@ -1,0 +1,152 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring the impact of minimum wages : evidence from Latin America",
+    "idno": "1121190",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1121190",
+      "title": "Measuring the impact of minimum wages : evidence from Latin America",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney, William F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nunez, Jairo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cunningham, Wen"
+      }
+    ],
+    "date_created": "2001/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1121190"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b1d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b1d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors provide an overview of minimum wage levels in Latin America and their true impact on the distribution of wages, using both numerical measures and kernal density plots for eight countries (Argentina, Bolivia, Brazil, Chile, Colombia, Honduras, Mexico, and Uruguay). They especially try to identify \"numeraire\" effects--where the minimum is used as a reference higher in the wage distribution--and \"lighthouse\" effects--where it influences wage setting in the unregulated or \"informal\" sector. Their main findings: First, statutory minimum wages are often misleading, and graphical methods may be more reliable. Second, the minimum wage's effect on wage setting extends far beyond what is usually considered and probably beyond the effect in industrial countries. Using panel employment data from Colombia, where minimum wages seem high and binding, the authors quantify the minimum wage's effects on wages and on the probability of becoming unemployed. The Colombian case confirms the evidence offered by kernal density estimates: 1) The minimum wage can have an important impact on wage distribution in the neighborhood of the minimum wage. 2) The effects echo up the wage distribution in a clear demonstration of the \"numeraire\" effect. That this effect is stronger in Latin America than in the United States suggests that the minimum wage induces further-reaching rigidities in the labor market. The trade-off between any possible effect on poverty and reduced flexibility is likely to be more severe in countries where this is the case. The effects on employment, and unemployment, are substantial. 3) Informal salaries wages are also affected, confirming the graphical evidence of strong lighthouse effects. Self-employment earnings are not, however, confirming that the minimum wage is not simply serving as a measure of inflationary expectations.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Uruguay",
+        "code": "URY"
+      },
+      {
+        "name": "Honduras",
+        "code": "HND"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BOL"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2597",
+    "url": "http://documents.worldbank.org/curated/en/363881468770656090/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:37.051580",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

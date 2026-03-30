@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Beyond baseline and follow-up : the case for more t in experiments",
+    "idno": "14103583",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14103583",
+      "title": "Beyond baseline and follow-up : the case for more t in experiments",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McKenzie, David"
+      }
+    ],
+    "date_created": "2011/04/01",
+    "date_available": "2011/04/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14103583"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bc0c4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bc0c4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The vast majority of randomized experiments in economics rely on a single baseline and single follow-up survey. If multiple follow-ups are conducted, the reason is typically to examine the trajectory of impact effects, so that in effect only one follow-up round is being used to estimate each treatment effect of interest. While such a design is suitable for study of highly autocorrelated and relatively precisely measured outcomes in the health and education domains, this paper makes the case that it is unlikely to be optimal for measuring noisy and relatively less autocorrelated outcomes such as business profits, household incomes and expenditures, and episodic health outcomes. Taking multiple measurements of such outcomes at relatively short intervals allows the researcher to average out noise, increasing power. When the outcomes have low autocorrelation, it can make sense to do no baseline at all. Moreover, the author shows how for such outcomes, more power can be achieved with multiple follow-ups than allocating the same total sample size over a single follow-up and baseline. The analysis highlights the large gains in power from ANCOVA rather than difference-in-differences when autocorrelations are low and a baseline is taken. The paper discusses the issues involved in multiple measurements, and makes recommendations for the design of experiments and related non-experimental impact evaluations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5639",
+    "url": "http://documents.worldbank.org/curated/en/333121468147852171/pdf/WPS5639.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.955607",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,133 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Why don't poor countries do R&D",
+    "idno": "19266897",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19266897",
+      "title": "Why don't poor countries do R&D",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goni, Edwin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney, William F."
+      }
+    ],
+    "date_created": "2014/03/01",
+    "date_available": "2014/03/01",
+    "date_published": "2014/03/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19266897"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bb0e2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bb0e2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using a global panel on research and development (R&D) expenditures, this paper documents that on average poor countries do far less R&D than rich as a share of GDP. This is arguably counter intuitive since the gains from doing the R&D required for technological catch up are thought to be very high and Griffith et al (2004) have documented that in the OECD returns increase dramatically with distance from the frontier. Exploiting recent advances in instrumental variables in a varying coefficient context we find that the rates of return follow an inverted U: they rise with distance to the frontier and then fall thereafter, potentially turning negative for the poorest countries. The findings are consistent with the importance of factors complementary to R&D, such as education, the quality of scientific infrastructure and the overall functioning of the national innovation system, and the quality of the private sector, which become increasingly weak with distance from the frontier and the absence of which can offset the catch up effect. China's and India's explosive growth in R&D investment trajectories in spite of expected low returns may be justified by their importing the complementary factors in the form of multinational corporations who do most of the patentable research.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "The World Region ; South Asia ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6811",
+    "url": "http://documents.worldbank.org/curated/en/855681468326185477/pdf/WPS6811.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.561952",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

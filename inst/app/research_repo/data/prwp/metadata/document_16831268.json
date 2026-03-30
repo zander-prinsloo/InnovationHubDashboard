@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Oil price risks and pump price adjustments",
+    "idno": "16831268",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16831268",
+      "title": "Oil price risks and pump price adjustments",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kojima,Masami"
+      }
+    ],
+    "date_created": "2012/10/01",
+    "date_available": "2012/10/01",
+    "date_published": "2012/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16831268"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b73cc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b73cc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Between 1999 and 2008, world oil prices more than quadrupled in real terms. For oil importers, vulnerability to oil price increases, defined as the share of gross domestic product spent on net oil imports, rose considerably. Considering medians, low-income countries had the highest vulnerability in 2008 and the highest increase in vulnerability between 1999 and 2008. When changes in vulnerability were decomposed into several contributing factors, more than two-thirds of 170 countries studied were found to have offset the increase in the value of oil consumption by reducing the oil intensity of gross domestic product. Oil intensity fell in more than half the countries in every income group and in every region of the world, driven by falling energy intensity and, to a lesser extent, the oil share of energy. This study also examines the degree of pass-through to consumers of increases in world prices of gasoline, diesel, kerosene, and liquefied petroleum gas between January 2009 and January 2012, when oil prices in nominal U.S. dollars more than doubled. Retail fuel prices varied by two orders of magnitude in 2012, and oil-exporting countries were far less likely to pass on price increases. Gasoline had the highest pass-through, followed by diesel, liquefied petroleum gas, and kerosene. The median pass-through increased with income for gasoline, diesel, and kerosene, but was highest in low-income countries for liquefied petroleum gas. Despite divergent pricing policies, the pass-through coefficients of different fuels were strongly positively correlated, suggesting that the degrees to which domestic prices tracked world prices were comparable for the four fuels in many countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6227",
+    "url": "http://documents.worldbank.org/curated/en/506721468333025693/pdf/wps6227.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "tax policy and administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "participation and civic engagement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets/social assistance & social care services",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other trade and integration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "regulation and competition policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.765366",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

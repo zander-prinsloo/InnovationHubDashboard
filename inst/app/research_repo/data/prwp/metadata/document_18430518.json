@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The decision to invest in child quality over quantity : household size and household investment in education in Vietnam",
+    "idno": "18430518",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18430518",
+      "title": "The decision to invest in child quality over quantity : household size and household investment in education in Vietnam",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang, Hai-Anh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rogers, Halsey"
+      }
+    ],
+    "date_created": "2013/06/01",
+    "date_available": "2013/06/01",
+    "date_published": "2013/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18430518"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c01d9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c01d9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "During Vietnam's two decades of rapid economic growth, its fertility rate has fallen sharply at the same time that its educational attainment has risen rapidly -- macro trends that are consistent with the hypothesis of a quantity-quality tradeoff in child-rearing. This paper investigates whether the micro-level evidence supports the hypothesis that Vietnamese parents are in fact making a tradeoff between quantity and quality of children. The paper presents data on private tutoring -- a widespread education phenomenon in Vietnam -- as a new measure of household investment in children's quality combining it with traditional measures of household education investments. To assess the quantity-quality tradeoff, the paper instruments for family size using the distance to the nearest family planning center. IV estimation results based on data from the Vietnam Household Living Standards Surveys (VHLSSs) and other sources show that families do indeed invest less in the education of school-age children who have larger numbers of siblings. This effect holds for several different indicators of educational investment and is robust to different definitions of family size, identification strategies, and model specifications that control for community characteristics as well as the distance to the city center. Finally, estimation results suggest that tutoring may be a better measure of quality-oriented household investments in education than traditional measures like enrolment, which are arguably less nuanced and less household-driven.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6487",
+    "url": "http://documents.worldbank.org/curated/en/259751468320727949/pdf/WPS6487.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "child health",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.974768",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

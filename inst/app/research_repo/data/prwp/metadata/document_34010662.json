@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Child Labor Standards in Regional Trade Agreements : Theory and Evidence",
+    "idno": "34010662",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34010662",
+      "title": "Child Labor Standards in Regional Trade Agreements : Theory and Evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abman,Ryan Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lundberg,Clark Christopher"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mclaren,John Edward"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruta,Michele"
+      }
+    ],
+    "date_created": "2023/02/28",
+    "date_available": "2023/02/28",
+    "date_published": "2023/02/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34010662"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-3cd56b1b-fad9-4bda-ac8a-3363b9ea0b98"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-3cd56b1b-fad9-4bda-ac8a-3363b9ea0b98"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10331"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the impact of child labor standards in regional trade agreements on a variety of child labor market outcomes, including employment, education, and household inequality. It develops a stylized general equilibrium model of child labor in an economy open to international trade and considers the impact of regional trade agreements with and without child labor bans. The paper empirically investigates the effects of these clauses in trade agreements in a broad international panel of 101 developing countries, using harmonized survey microdata. Exploiting quasi-experimental methods to obtain plausibly causal estimates, the analysis finds that regional trade agreements without child-labor bans lead to reductions in child employment and increases in school enrollment, particularly for older children aged 14&#x2013;17 years. Child labor bans in regional trade agreements perversely increase employment of children aged 14&#x2013;17 years and decrease school enrollment for both young and older children. These effects appear to decrease inter-household income inequality through increased child earnings. The findings are consistent with the theoretical predictions from the model and the literature on child labor bans.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10331",
+    "url": "http://documents.worldbank.org/curated/en/099936202282351628/pdf/IDU03cd56b1b0fad904bda0ac8a03363b9ea0b98.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.962080",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

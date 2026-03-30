@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Aid and trust in country systems",
+    "idno": "10839784",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10839784",
+      "title": "Aid and trust in country systems",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack, Stephen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eubank, Nicholas"
+      }
+    ],
+    "date_created": "2009/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10839784"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8b6a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8b6a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The 2005 Paris Declaration on Aid Effectiveness sets targets for increased use by donors of recipient country systems for managing aid. A consensus view holds that country systems are strengthened when donors trust recipients to manage aid funds, but undermined when donors manage aid through their own separate parallel systems. This paper provides an analytical framework for understanding donors decisions to trust in country systems or instead to micro-manage aid using their own systems and procedures. Where country systems are sufficiently weak, the development impact of aid is reduced by donors reliance on them. Trust in country systems will be sub-optimal, however, if donors have multiple objectives in aid provision rather than a sole objective of maximizing development outcomes. Empirical tests are conducted using data from an OECD survey designed to monitor progress toward Paris Declaration goals. Trust in country systems is measured in three ways: use of the recipients public financial management systems, use of direct budget support, and use of program-based approaches. The authors show using fixed effects regression that a donors trust in recipient country systems is positively related to (1) trustworthiness or quality of those systems, (2) tolerance for risk on the part of the donors constituents, as measured by public support for providing aid, and (3) the donors ability to internalize more of the benefits of investing in country systems, as measured by the donors share of all aid provided to a recipient.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5005",
+    "url": "http://documents.worldbank.org/curated/en/345241468175732441/pdf/WPS5005.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.385064",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Market discipline under systemic risk - evidence from bank runs in emerging economies",
+    "idno": "5318699",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5318699",
+      "title": "Market discipline under systemic risk - evidence from bank runs in emerging economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levy-Yeyati,Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Peria,Maria Soledad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler,Sergio L."
+      }
+    ],
+    "date_created": "2004/11/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5318699"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ecd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ecd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors show that systemic risk exerts a significant impact on the behavior of depositors, sometimes overshadowing their responses to standard bank fundamentals. Systemic risk can affect market discipline both regardless of and through bank fundamentals. First, worsening systemic conditions can directly threaten the value of deposits by way of dual agency problems. Second, to the extent that banks are exposed to systemic risk, systemic shocks lead to a future deterioration of fundamentals not captured by their current values. Using data from the recent banking crises in Argentina and Uruguay, the authors show that market discipline is indeed quite robust once systemic risk is factored in. As systemic risk increases, the informational content of past fundamentals declines. These episodes also show how few systemic shocks can trigger a run irrespective of ex-ante fundamentals. Overall, the evidence suggests that in emerging economies, the notion of market discipline needs to account for systemic risk.",
+    "ref_country": [
+      {
+        "name": "Uruguay",
+        "code": "URY"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3440",
+    "url": "http://documents.worldbank.org/curated/en/124081468781148033/pdf/WPS3440.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.129514",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

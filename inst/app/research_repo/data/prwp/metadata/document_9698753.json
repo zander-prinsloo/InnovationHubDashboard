@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exploring the links between HIV/AIDS, social capital, and development",
+    "idno": "9698753",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9698753",
+      "title": "Exploring the links between HIV/AIDS, social capital, and development",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "David,Antonio C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Li, Carmen A."
+      }
+    ],
+    "date_created": "2008/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9698753"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ad714"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ad714"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper attempts to quantify the impact of the HIV/AIDS epidemic on social capital with cross-country data. Using data from the World Values Survey, the authors estimate reduced-form regressions of the main determinants of social capital controlling for HIV prevalence, institutional quality, social distance, and economic indicators. The results obtained indicate that HIV prevalence affects social capital negatively. The empirical estimates suggest that a one standard deviation increase in HIV prevalence will lead to a decline of at least 1 percent in trust, controlling for other determinants of social capital. Moving from a country with a relatively low level of HIV prevalence, such as Estonia, to a country with a relatively high level, such as Uganda, there is a more than 11 percent point decline in social capital. These results are robust in a number of dimensions and highlight the empirical importance of an additional mechanism through which HIV/AIDS hinders the development process.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      },
+      {
+        "name": "Estonia",
+        "code": "EST"
+      }
+    ],
+    "spatial_coverage": "Africa ; Europe and Central Asia ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4679",
+    "url": "http://documents.worldbank.org/curated/en/279591468138574428/pdf/WPS4679.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.906208",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

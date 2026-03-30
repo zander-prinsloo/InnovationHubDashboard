@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Comparative Analysis of AI-Predicted and Crowdsourced Food Prices in an Economically Volatile Region",
+    "idno": "34306669",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34306669",
+      "title": "Comparative Analysis of AI-Predicted and Crowdsourced Food Prices in an Economically Volatile Region",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adewopo,Julius Babatunde"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andree,Bo Pieter Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peter,Helen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Solano-Hermosilla,Gloria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Micale,Fabio"
+      }
+    ],
+    "date_created": "2024/04/23",
+    "date_available": "2024/04/23",
+    "date_published": "2024/04/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34306669"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8a5b9997-4299-4e50-ac10-b25f11061d21"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8a5b9997-4299-4e50-ac10-b25f11061d21"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10758"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "High-frequency monitoring of food commodity prices is important for assessing and responding to shocks, especially in fragile contexts where timely and targeted interventions for food security are critical. However, national price surveys are typically limited in temporal and spatial granularity. It is cost prohibitive to implement traditional data collection at frequent timescales to unravel spatiotemporal price evolution across market segments and at subnational geographic levels. Recent advancements in data innovation offer promising solutions to address the paucity of commodity price data and guide market intelligence for diverse development stakeholders. The use of artificial intelligence to estimate missing price data and a parallel effort to crowdsource commodity price data are both unlocking cost-effective opportunities to generate actionable price data. Yet, little is known about how the data from these alternative methods relate to independent ground truth data. To evaluate if these data strategies can meet the long-standing demand for real-time intelligence on food affordability, this paper analyzes open-source daily crowdsourced data (104,931 datapoints) from a recently published data set in Nature Journal, relative to complementary ground truth sample. The paper subsequently compares these data to open-source monthly artificial intelligence&#x2013;generated price data for identical commodities over a 36-month period in northern Nigeria, from 2019 to 2022. The results show that all the data sources share a high degree of comparability, with variation across commodity and market segments. Overall, the findings provide important support for leveraging these new and innovative data approaches to enable data-driven decision-making in near real time.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10758",
+    "url": "http://documents.worldbank.org/curated/en/099430004232434765/pdf/IDU18a5b99971429914e501ac101b25f11061d21.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.648433",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

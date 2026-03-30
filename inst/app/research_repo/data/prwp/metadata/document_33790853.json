@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "New Algorithm to Estimate Inequality Measures in Cross-Survey Imputation : An Attempt to Correct the Underestimation of Extreme Values",
+    "idno": "33790853",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33790853",
+      "title": "New Algorithm to Estimate Inequality Measures in Cross-Survey Imputation : An Attempt to Correct the Underestimation of Extreme Values",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Betti,Gianni"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Molini,Vasco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mori,Lorenzo"
+      }
+    ],
+    "date_created": "2022/04/20",
+    "date_available": "2022/04/20",
+    "date_published": "2022/04/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33790853"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4786da1d-b37c-4df6-b7ae-f41688c4262c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4786da1d-b37c-4df6-b7ae-f41688c4262c"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10013"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper contributes to the debate on ways to improve the calculation of inequality measures in developing countries experiencing severe budget constraints. Linear regression-based survey-to-survey imputation techniques are most frequently discussed in the literature. These are effective at estimating predictions of poverty indicators but are much less accurate with inequality indicators. To demonstrate this limited accuracy, the first part of the paper discusses several simulations using Moroccan Household Budget Surveys and Labor Force Surveys. The paper proposes a method for overcoming these limitations based on an algorithm that minimizes the sum of the squared difference between a certain number of direct estimates of an index and its empirical version obtained from the predicted values. Indeed, when comparing the estimated results with those directly estimated from the original sample, the bias is negligible. Furthermore, the inequality indices for the years for which there are only model estimates, rather than direct information on expenditures, seem to be consistent with Moroccan economic trends.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10013",
+    "url": "http://documents.worldbank.org/curated/en/099833304202232000/pdf/IDU04786da1d0b37c04df60b7ae0f41688c4262c.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.498212",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

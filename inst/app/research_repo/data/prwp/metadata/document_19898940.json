@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fiscal multipliers in recessions and expansions : does it matter whether government spending is increasing or decreasing",
+    "idno": "19898940",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19898940",
+      "title": "Fiscal multipliers in recessions and expansions : does it matter whether government spending is increasing or decreasing",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Riera-Crichton, Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vegh, Carlos A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vuletin, Guillermo"
+      }
+    ],
+    "date_created": "2014/07/01",
+    "date_available": "2014/07/01",
+    "date_published": "2014/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19898940"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cafa4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cafa4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using non-linear methods, this paper finds that existing estimates of government spending multipliers in expansion and recession may yield biased results by ignoring whether government spending is increasing or decreasing. For industrial countries, the problem originates in the fact that, contrary to one's priors, it is not always the case that government spending is going up in recessions (i.e., acting countercyclically). In almost as many cases, government spending is actually going down (i.e., acting procyclically). Since the economy does not respond symmetrically to government spending increases or decreases, the \"true\" long-run multiplier for bad times (and government spending going up) turns out to be 2.3 compared to 1.3 if we just distinguish between recession and expansion. In the case of developing countries, the bias results from the fact that the multiplier for recessions and government spending going down (the \"when-it-rains-it-pours\" phenomenon) is larger than when government spending is going up.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6993",
+    "url": "http://documents.worldbank.org/curated/en/147591468331251888/pdf/WPS6993.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.668773",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

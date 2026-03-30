@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The treatment of non-essential inputs in a Cobb-Douglas technology : an application to Mexican rural household-level data",
+    "idno": "748706",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "748706",
+      "title": "The treatment of non-essential inputs in a Cobb-Douglas technology : an application to Mexican rural household-level data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soloaga, Isidro"
+      }
+    ],
+    "date_created": "2000/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "748706"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ac5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ac5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The standard approach for fitting a Cobb-Douglas production function to micro data with zero values is to replace those values with \"sufficiently small\" numbers to facilitate the logarithmic transformation. In general, the estimates obtained are extremely sensitive to the transformation chosen, generating doubts about the use of a specification that assumes that all inputs are essential (as the Cobb-Douglas does) when that is not the case. The author presents an alternative method that allows one to estimate the degree of essentiality of the production inputs while retaining the Cobb-Douglas specification. By using the properties of translatable homothetic functions, he estimates by how much the origin of the input set should be translated to allow the Cobb-Douglas functional form to capture the fact that the data have a positive output even when some of the inputs are not used. To highlight the empirical importance of the approach, he applies it to Mexican farm-level production data that he gathered. Many households did not use family or hired labor in farm production, or had different capital composition (that is, zero value for non-land farm assets). The estimations provide a clear measurement of the degree of essentiality of potentially non-essential inputs. They also indicate the size of the error introduced by the common \"trick\" of adding a \"small\" value to zero input values.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2499",
+    "url": "http://documents.worldbank.org/curated/en/164671468773110318/The-treatment-of-non-essential-inputs-in-a-Cobb-Douglas-technology-an-application-to-Mexican-rural-household-level-data",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:38.019617",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

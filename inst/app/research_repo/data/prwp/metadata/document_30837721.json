@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing Rural Accessibility and Rural Roads Investment Needs Using Open Source Data",
+    "idno": "30837721",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30837721",
+      "title": "Assessing Rural Accessibility and Rural Roads Investment Needs Using Open Source Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mikou,Mehdi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rozenberg,Julie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koks,Elco Eduard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fox,Charles James Edward"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peralta Quiros,Tatiana"
+      }
+    ],
+    "date_created": "2019/02/19",
+    "date_available": "2019/02/19",
+    "date_published": "2019/02/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30837721"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086a287db"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0869886dd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Rural accessibility is the only metric used in the Sustainable Development Goals to track progress toward better transport services in low- and middle-income countries. This paper estimates the rural accessibility index, defined as the proportion of the rural population who live within 2 kilometers of an all-season road, in 166 countries using open data. It then explores the cost of increasing the rural accessibility index in 19 countries, using an algorithm that prioritizes rural roads investments based on their impact on rural access and connectivity. Investment costs quickly balloon as the rural accessibility index increases, questioning the affordability of universal access to paved roads for many countries by 2030. If countries spent 1 percent of their gross domestic product annually on the upgrade of rural roads, even under optimistic assumptions on growth of gross domestic product, rural accessibility would only increase from 39 to 52 percent by 2030 across all developing countries. Alternative solutions to rural integration must thus be implemented in the short run until countries can afford to increase significantly access to all weather roads. For example, drones that supply regular food and medicine supply to remote communities are much more affordable than roads in the short term.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8746",
+    "url": "http://documents.worldbank.org/curated/en/759461550242864626/pdf/WPS8746.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.417638",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fair Inheritance Taxation",
+    "idno": "33483619",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33483619",
+      "title": "Fair Inheritance Taxation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Decerf,Benoit Marie A"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maniquet,François"
+      }
+    ],
+    "date_created": "2021/10/12",
+    "date_available": "2021/10/12",
+    "date_published": "2021/10/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33483619"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08a4b1998"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088a6e412"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9804"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the optimal taxation of bequests in a model in which individuals have heterogeneous preferences over their consumption and the net-of-tax bequest received by their heir. The bequest left by an individual depends on both her degree of altruism and the bequest received from her parents. First, the paper studies two principles that are at the heart of the debates on taxing inheritances: (1) children should not be penalized by the lack of altruism of their parents, and (2) parents should be free to choose their bequests. Only one social welfare function satisfies these two principles, together with Pareto efficiency and a separability principle. Second, the paper studies the shape of the inheritance tax scheme that maximizes this social welfare function. It shows that in the aggregate, the inheritance tax must collect money (redistributed through a non-negative demogrant). Moreover, small bequests cannot be taxed (they can potentially be subsidized), while bequests that are larger than those of the most altruistic individuals who did not receive bequests from their parents should be taxed as much as efficiency permits.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9804",
+    "url": "http://documents.worldbank.org/curated/en/977991634065405485/pdf/Fair-Inheritance-Taxation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.259688",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

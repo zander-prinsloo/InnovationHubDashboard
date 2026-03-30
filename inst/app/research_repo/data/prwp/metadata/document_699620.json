@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The pedigree of IEC conversion factors for per capita GNP computations for the World Bank's operational outlines and atlas",
+    "idno": "699620",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699620",
+      "title": "The pedigree of IEC conversion factors for per capita GNP computations for the World Bank's operational outlines and atlas",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "HEE, MICHAEL HOI CHOO"
+      }
+    ],
+    "date_created": "1992/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699620"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c5f3f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c5f3f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Per capita GNP, calculated according to the Bank's Atlas methodology, constitutes The Bank's main criterion for classifying countries to determine eligibility for various beneficial borrowing terms, and also as a broad criterion for distinguishing countries by income groups. The analysis in this paper underscores the operational and practical implications of a systematic and well documented approach to the choice and sources of conversion factors that underpins the Bank's Atlas methodology for per capita income estimates. In principle, the Bank adopts the official annual average exchange as the preferred source for exchange rates for the per capita GNP calculations. However, where this rate is clearly inappropriate, such as when the calender-year rate does not coincide with the fiscal-year national accounts data, or when distortions in the trade and payments system make the official rate an unreliable linkage between relative prices of traded goods, IEC uses an alternative exchange rate (conversion factor). This paper briefly explains how these alternative exchange rates are calculated, the rationale behind them, and the footnoting features in the Bank's Economic and Social Database (BESD) that make these calculations more transparent to users of the data.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS953",
+    "url": "http://documents.worldbank.org/curated/en/403221468766752258/pdf/The-pedigree-of-IEC-conversion-factors-for-per-capita-GNP-computations-for-the-World-Banks-operational-outlines-and-atlas.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.625032",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

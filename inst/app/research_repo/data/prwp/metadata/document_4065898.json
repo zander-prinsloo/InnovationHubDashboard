@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The quality of the legal system, firm ownership, and firm size",
+    "idno": "4065898",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "4065898",
+      "title": "The quality of the legal system, firm ownership, and firm size",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laeven, Luc; Woodruff, Christopher"
+      }
+    ],
+    "date_created": "2004/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "4065898"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05973"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05973"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Employment in developing countries is disproportionately concentrated in very small firms. The authors examine the extent to which the distribution of firm size is related to the quality of the legal system using data from Mexico. They combine Lucas' (1978) model of firm size with Himmelberg, Hubbard, and Love's (2001) consideration of idiosyncratic risk in a framework in which the distribution of entrepreneurial talent and aversion to idiosyncratic risk combine to determine the optimal size of firms. Their data allows them to focus on the differential impact of the legal system on proprietorships and corporations. Moreover, by focusing on firms in a single country, the data draw attention to the importance of variation in the administration of justice and the enforcement of legal verdicts. The authors find that Mexican states with more effective legal systems have larger firms. A one-standard deviation improvement in the quality of the legal system increases the average firm size by about 10-15 percent. The impact of the legal system is greatest in sectors in which proprietorships dominate. This pattern is consistent with better legal systems increasing the investment of firm owners by reducing the idiosyncratic risk they face. All of these findings are upheld when the authors instrument for institutional variables using the log of indigenous population in 1900 and the active presence of the drug trade in the state.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3246",
+    "url": "http://documents.worldbank.org/curated/en/737341468773089435/pdf/wps3246legal.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.101377",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

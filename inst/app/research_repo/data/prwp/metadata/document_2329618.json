@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Consumption, health, gender, and poverty",
+    "idno": "2329618",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2329618",
+      "title": "Consumption, health, gender, and poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Case, Anne"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deaton, Angus"
+      }
+    ],
+    "date_created": "2003/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2329618"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a0b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a0b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Standard methods of measuring poverty assume that an individual is poor if he or she lives in a family whose income or consumption lies below an appropriate poverty line. Such methods provide only limited insight into male and female poverty separately. Nevertheless, there are reasons why household resources are linked to the gender composition of the household: women's earnings are often lower than men's; families in some countries control their fertility through differential stopping rules; and women live longer than men. It is also possible to link family expenditure patterns to the gender composition of the household, something the authors illustrate using data from India and South Africa. Such a procedure provides useful information on who gets what, but cannot tell us how total resources are allocated between males and females. More can be gleaned from data on consumption by individual household members, and for many goods, collecting such information is good survey practice in any case. Even so, it will be some time before such information can be used routinely to produce estimates of poverty by gender. A more promising approach is likely to come within a broader definition of poverty that includes health (and possibly education) as well as income. The authors discuss recent work on collecting self-reported measures of nonfatal health and argue that such measures are already useful for assessing the relative health status of males and females. The evidence is consistent with non-elderly women generally having poorer health than non-elderly men. The authors emphasize the importance of simultaneously measuring poverty in multiple dimensions. The different components of well-being are correlated, and it is misleading to look at any one in isolation from the others.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3020",
+    "url": "http://documents.worldbank.org/curated/en/350051468771599947/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:29.935141",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

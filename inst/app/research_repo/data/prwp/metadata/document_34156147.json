@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Machine Learning Imputation of High Frequency Price Surveys in Papua New Guinea",
+    "idno": "34156147",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34156147",
+      "title": "Machine Learning Imputation of High Frequency Price Surveys in Papua New Guinea",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andree,Bo Pieter Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      }
+    ],
+    "date_created": "2023/09/05",
+    "date_available": "2023/09/05",
+    "date_published": "2023/09/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34156147"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5a856a92-1920-42e2-b9fb-f2f29afbb088"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5a856a92-1920-42e2-b9fb-f2f29afbb088"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10558"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Capabilities to track fast-moving economic developments re-main limited in many regions of the developing world. This complicates prioritizing policies aimed at supporting vulnerable populations. To gain insight into the evolution of fluid events in a data scarce context, this paper explores the ability of recent machine-learning advances to produce continuous data in near-real-time by imputing multiple entries in ongoing surveys. The paper attempts to track inflation in fresh produce prices at the local market level in Papua New Guinea, relying only on incomplete and intermittent survey data. This application is made challenging by high intra-month price volatility, low cross-market price correlations, and weak price trends. The modeling approach uses chained equations to produce an ensemble prediction for multiple price quotes simultaneously. The paper runs cross-validation of the prediction strategy under different designs in terms of markets, foods, and time periods covered. The results show that when the survey is well-designed, imputations can achieve accuracy that is attractive when compared to costly&#x2013;and logistically often infeasible&#x2013;direct measurement. The methods have wider applicability and could help to fill crucial data gaps in data scarce regions such as the Pacific Islands, especially in conjunction with specifically designed continuous surveys.",
+    "ref_country": [
+      {
+        "name": "Papua New Guinea",
+        "code": "PNG"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10559",
+    "url": "http://documents.worldbank.org/curated/en/099230409052324201/pdf/IDU05a856a9201920042e20b9fb0f2f29afbb088.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.249840",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

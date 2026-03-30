@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Productivity Growth and Efficiency Dynamics of Korean Structural Transformation",
+    "idno": "32146105",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32146105",
+      "title": "Productivity Growth and Efficiency Dynamics of Korean Structural Transformation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jeong,Hyeok"
+      }
+    ],
+    "date_created": "2020/06/18",
+    "date_available": "2020/06/18",
+    "date_published": "2020/06/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32146105"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087aca3ff"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087a8593c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper documents the sources of the Republic of Korea's economic growth, as well as the associated productivity growth and efficiency dynamics during its process of structural transformation from 1970 to 2016. The analysis includes land as a separate production factor to sort out the significant effect of changes in intersectoral land allocation, which makes significant differences in measuring the magnitudes and directions of change in sectoral total factor productivity (TFP). Input-based growth and structural changes contributed to the early take-off stage of growth in the 1970s. However, in the following three decades, the source of growth switched to productivity improvements, mainly engineered by the industry sector. This was the reason behind the country's sustained growth and escape from the \"middle-income trap.\" Furthermore, agricultural TFP growth also made an important contribution to structural transformation by pushing out factors from agriculture to industry. Since 2011, however, when the Korean economy seemed to reach a steady state of constant capital-output ratio, TFP has suddenly stagnated. The wedge analysis suggests that the intersectoral allocation of labor was biased toward agriculture while that of capital and land was biased toward industry, compared to efficient levels. Meanwhile, the inter-temporal wedge analysis suggests that the Korean economy was in an over-investment mode throughout its structural transformation. The analysis also shows that the periods of productivity growth are not always associated with the enhancement of allocative efficiency, while growth-disturbing external macroeconomic shocks, such as joining the WTO and the Asian financial crisis, led to improvements in allocative efficiency.",
+    "ref_country": [
+      {
+        "name": "Korea, Republic of",
+        "code": "KOR"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9285",
+    "url": "http://documents.worldbank.org/curated/en/216711592488286605/pdf/Productivity-Growth-and-Efficiency-Dynamics-of-Korean-Structural-Transformation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.552042",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

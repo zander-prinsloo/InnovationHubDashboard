@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Biofuels and climate change mitigation : a CGE analysis incorporating land-use change",
+    "idno": "14286262",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14286262",
+      "title": "Biofuels and climate change mitigation : a CGE analysis incorporating land-use change",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mevel,Simon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timilsina,Govinda R."
+      }
+    ],
+    "date_created": "2011/06/01",
+    "date_available": "2011/06/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14286262"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b85e1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b85e1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The question of whether biofuels help mitigate climate change has attracted much debate in the literature. Using a global computable general equilibrium model that explicitly represents land-use change impacts due to the expansion of biofuels, this study attempts to shed some light on this question. The study shows that if biofuel mandates and targets currently announced by more than 40 countries around the world are implemented by 2020 using crop feedstocks, and if both forests and pasture lands are used to meet the new land demands for biofuel expansion, this would cause a net increase of greenhouse gas emissions released to the atmosphere until 2043, since the cumulative greenhouse gas emissions released through land-use change would exceed the reduction of emissions due to replacement of gasoline and diesel until then. However, if the use of forest lands is avoided by channeling only pasture lands to meet the demand for new lands, a net increase of cumulative greenhouse gas emissions would occur but would cease by 2021, only a year after the assumed full implementation of the mandates and targets. The study also shows, contrary to common perceptions, that the rate of deforestation does not increase with the rate of biofuel expansion; instead, the marginal rate of deforestation and corresponding land-use emissions decrease even if the production of biofuels increases.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5672",
+    "url": "http://documents.worldbank.org/curated/en/119071468163481996/pdf/WPS5672.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.381457",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

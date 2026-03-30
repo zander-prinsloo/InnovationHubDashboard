@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "New Evidence on Learning Trajectories in a Low-Income Setting",
+    "idno": "32945459",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32945459",
+      "title": "New Evidence on Learning Trajectories in a Low-Income Setting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bau,Natalie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Das,Jishnu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yi Chang,Andres"
+      }
+    ],
+    "date_created": "2021/03/25",
+    "date_available": "2021/03/25",
+    "date_published": "2021/03/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32945459"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0884257cd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0884257cd"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9597"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using a unique longitudinal data set collected from primary school students in Pakistan, this paper documents four new facts about learning in low-income countries. First, children’s test scores increase by 1.19 standard deviation between Grades 3 and 6. Second, going to school is associated with greater learning. Children who drop out have the same test score gains prior to dropping out as those who do not but experience no improvements after dropping out. Third, there is significant variation in test score gains across students, but test scores converge over the primary schooling years. Students with initially low test scores gain more than those with initially high scores, even after accounting for mean reversion. Fourth, conditional on past test scores, household characteristics explain little of the variation in learning. To reconcile the findings with the literature, the paper introduces the concept of “fragile learning,” where progression may be followed by stagnation or reversals. The implications of these results are discussed in the context of several ongoing debates in the literature on education in low- and middle-income countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9597",
+    "url": "http://documents.worldbank.org/curated/en/742091616678503240/pdf/New-Evidence-on-Learning-Trajectories-in-a-Low-Income-Setting.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.702424",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

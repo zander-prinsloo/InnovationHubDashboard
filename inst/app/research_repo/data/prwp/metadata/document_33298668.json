@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "One-Stop Source : A Global Database of Inflation",
+    "idno": "33298668",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33298668",
+      "title": "One-Stop Source : A Global Database of Inflation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ha,Jongrim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kose,Ayhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ohnsorge,Franziska Lieselotte"
+      }
+    ],
+    "date_created": "2021/07/27",
+    "date_available": "2021/07/27",
+    "date_published": "2021/07/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33298668"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08883899c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08883899c"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9737"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces a global database that contains inflation series: (i) for a wide range of inflation measures (headline, food, energy, and core consumer price inflation; producer price inflation; and gross domestic product deflator changes); (ii) at multiple frequencies (monthly, quarterly and annual) for an extended period (1970–2021); and (iii) for a large number (up to 196) of countries. As it doubles the number of observations over the next-largest publicly available sources, the database constitutes a comprehensive, single source for inflation series. The paper illustrates the potential use of the database with three applications. First, it studies the evolution of inflation since 1970 and document the broad-based disinflation around the world over the past half-century, with global consumer price inflation down from a peak of roughly 17 percent in 1974 to 2.5 percent in 2020. Second, it examines the behavior of inflation during global recessions. Global inflation fell sharply (on average by 0.9 percentage points) in the year to the trough of global recessions and continued to decline even as recoveries got underway. In 2020, inflation declined less, and more briefly, than in any of the previous four global recessions over the past 50 years. Third, the paper analyzes the role of common factors in explaining movements in different measures of inflation. While, across all inflation measures, inflation synchronization has risen since the early 2000s, it has been much higher for inflation measures that involve a larger share of tradable goods.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9737",
+    "url": "http://documents.worldbank.org/curated/en/287091627411399489/pdf/One-Stop-Source-A-Global-Database-of-Inflation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.716033",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

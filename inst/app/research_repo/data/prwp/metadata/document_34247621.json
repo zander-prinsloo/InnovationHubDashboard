@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Welfare Cost of Drought in Sub-Saharan Africa",
+    "idno": "34247621",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34247621",
+      "title": "The Welfare Cost of Drought in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gascoigne,Jon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baquie,Sandra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vinha,Katja Pauliina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Skoufias,Emmanuel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calcutt,Evie Isabel Neall"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kshirsagar,Varun Sridhar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meenan,Conor"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hill,Ruth"
+      }
+    ],
+    "date_created": "2024/01/29",
+    "date_available": "2024/01/29",
+    "date_published": "2024/01/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34247621"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ae0eac0e-45d2-4c62-8002-56b672eb8155"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ae0eac0e-45d2-4c62-8002-56b672eb8155"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10683"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper quantifies the impact of drought on household consumption for five main agroecological zones in Africa, developing vulnerability (or damage) functions of the relationship between rainfall deficits and poverty. Damage functions are a key element in models that quantify the risk of extreme weather and the impacts of climate change. Although these functions are commonly estimated for storm or flood damages to buildings, they are less often available for income losses from droughts. The paper takes a regional approach to the analysis, developing standardized hazard definitions and methods for matching hazard and household data, allowing survey data from close to 100,000 households to be used in the analysis. The damage functions are used to quantify the impact of historical weather conditions on poverty for eight countries, highlighting the risk to poverty outcomes that weather variability causes. National poverty rates are 1&#x2013;12 percent higher, depending on the country, under the worst weather conditions relative to the best conditions observed in the past 13 years. This amounts to an increase in the total poverty gap that ranges from US$4 million to US$2.4 billion (2011 purchasing power parity).",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10683",
+    "url": "http://documents.worldbank.org/curated/en/099325301292478621/pdf/IDU1ae0eac0e145d214c6218002156b672eb8155.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.137312",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

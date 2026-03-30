@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Travel mode substitution in Sao Paulo : estimates and implications for air pollution control",
+    "idno": "697608",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697608",
+      "title": "Travel mode substitution in Sao Paulo : estimates and implications for air pollution control",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Swait, Joffre"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eskeland, Gunnar S."
+      }
+    ],
+    "date_created": "1995/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697608"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05706"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05706"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "How would travel demand in Sao Paulo respond to demand management instruments? Could higher gasoline prices or lower metro fares (or changes in travel time) help reduce congestion or pollution? The authors use cross-sectional variation from an urban travel survey to study the substitutability in demand between travel modes. The method assumes that the set of trips is given (that is, origin-destination pairs do not change). Choice of mode was found to be quite insensitive to changes; all elasticities were lower than 0.5 in absolute value, and most were close to zero. While the sensitivity of mode choice to relative travel times (that is, speeds) was somewhat greater than that to costs, the general finding is that mode choice is quite inflexible. So, subsidies to less polluting (less congesting) travel modes would not help much in attracting travelers from more polluting (more congesting) modes. (The same holds for subsidized means of making them run faster.) But there are important limitations in the scope of the study. First, the study does not discuss optimal pricing. It merely examines the likely sign and magnitude of the links between pollution and policy parameters such as prices and travel speeds. Second, aggregate demand by mode could also depend on the city's shape and its travel intensity (the number, direction, and length of trips). For example, if a \"city\" stretches along a constructed metro line, the study would not capture such a phenomenon, since sensitive trip generation is excluded. These issues are not examined in the study.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1437",
+    "url": "http://documents.worldbank.org/curated/en/910771468768835622/Travel-mode-substitution-in-Sao-Paulo-estimates-and-implications-for-air-pollution-control",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.330301",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

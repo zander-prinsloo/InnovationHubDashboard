@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Bank competition and financial stability",
+    "idno": "9781899",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9781899",
+      "title": "Bank competition and financial stability",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Berger, Allen N."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Klapper,Leora"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Turk-Ariss, Rima"
+      }
+    ],
+    "date_created": "2008/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9781899"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828abe98"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828abe98"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Under the traditional \"competition-fragility\" view, more bank competition erodes market power, decreases profit margins, and results in reduced franchise value that encourages bank risk taking. Under the alternative \"competition-stability\" view, more market power in the loan market may result in greater bank risk as the higher interest rates charged to loan customers make it more difficult to repay loans and exacerbate moral hazard and adverse selection problems. But even if market power in the loan market results in riskier loan portfolios, the overall risks of banks need not increase if banks protect their franchise values by increasing their equity capital or engaging in other risk-mitigating techniques. The authors test these theories by regressing measures of loan risk, bank risk, and bank equity capital on several measures of market power, as well as indicators of the business environment, using data for 8,235 banks in 23 developed nations. The results suggest that - consistent with the traditional \"competition-fragility\" view - banks with a greater degree of market power also have less overall risk exposure. The data also provide some support for one element of the \"competition-stability\" view - that market power increases loan portfolio risk. The authors show that this risk may be offset in part by higher equity capital ratios.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4696",
+    "url": "http://documents.worldbank.org/curated/en/121111468339560931/pdf/Bank-competition-and-financial-stability.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other financial and private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.861234",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

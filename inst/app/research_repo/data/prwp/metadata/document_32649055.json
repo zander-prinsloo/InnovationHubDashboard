@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Total Factor Productivity Using the Enterprise Surveys : A Methodological Note",
+    "idno": "32649055",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32649055",
+      "title": "Measuring Total Factor Productivity Using the Enterprise Surveys : A Methodological Note",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Francis,David C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karalashvili,Nona"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maemir,Hibret Belete"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodriguez Meza,Jorge Luis"
+      }
+    ],
+    "date_created": "2020/12/08",
+    "date_available": "2020/12/08",
+    "date_published": "2020/12/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32649055"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08809837e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08809837e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Total factor productivity is a key element of economic growth and an important performance metric for policy makers. This note describes the methodology for measuring firm-level total factor productivity using the World Bank's Enterprise Surveys cross-country data. It also presents some estimates recovered from the production function. Two versions of the production function are estimated: one Cobb-Douglas, the other a more flexible translog specification. Both estimations are at the two-digit industry level pooling all the Enterprise Surveys data across economies. Evidence is found against using a Cobb-Douglas specification, which is more parsimonious, and in favor of using the flexible translog specification. The resulting firm-level estimates are all published in the Enterprise Surveys database with a unique firm identifier to link to the rest of the Enterprise Surveys data; because the estimates are reliant on new data, they are updated periodically as new Enterprise Surveys data become available. The results show that: (i) median firms operate close to constant returns to scale; (ii) gross-output and value-added production functions provide similar ranking of sectors in terms of output elasticities, capital intensity, and returns to scale; (iii) there is large, firm-level heterogeneity in output elasticities; and (iv) gross-output-based total factor productivity measures are less dispersed than the value-added ones.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9491",
+    "url": "http://documents.worldbank.org/curated/en/306091607457083831/pdf/Measuring-Total-Factor-Productivity-Using-the-Enterprise-Surveys-A-Methodological-Note.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.644038",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

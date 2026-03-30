@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global survey of development banks",
+    "idno": "15806593",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15806593",
+      "title": "Global survey of development banks",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vicente,Carlos Leonardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Luna-Martinez,Jose"
+      }
+    ],
+    "date_created": "2012/02/01",
+    "date_available": "2012/02/01",
+    "date_published": "2012/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15806593"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bcf3d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bcf3d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Historically, development banks have been an important instrument of governments to promote economic growth by providing credit and a wide range of advisory and capacity building programs to households, small and medium enterprises, and even large private corporations, whose financial needs are not sufficiently served by private commercial banks or local capital markets. During the current financial crisis, most development banks in Latin America, followed by Asia, Africa, and Europe, have assumed a countercyclical role by scaling up their lending operations exactly when private banks experienced temporary difficulties in granting credit to the private sector. Despite the importance of development banks during crisis and non-crisis periods, little is known about them. This survey examines how development banks operate, what their policy mandates are, what financial services they offer, which type of clients they target, how they are regulated and supervised, what business models they have adopted, what governance framework they have, and what challenges they face. It also examines the countercyclical role played by development banks during the recent financial crisis. This survey is based on new data that have been collected from 90 national development banks in 61 countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5969",
+    "url": "http://documents.worldbank.org/curated/en/313731468154461012/pdf/WPS5969.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.516632",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

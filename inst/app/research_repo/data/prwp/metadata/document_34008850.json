@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Human Capital and Climate Change",
+    "idno": "34008850",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34008850",
+      "title": "Human Capital and Climate Change",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Angrist,Noam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winseck,Kevin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patrinos,Harry Anthony"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zivin,Joshua S. Graff"
+      }
+    ],
+    "date_created": "2023/02/24",
+    "date_available": "2023/02/24",
+    "date_published": "2023/02/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34008850"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-54e742ca-8390-487a-955e-f1e36d80c5db"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-54e742ca-8390-487a-955e-f1e36d80c5db"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10316"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Addressing climate change requires individual behavior change and voter support for pro-climate policies, yet surprisingly little is known about how to achieve these outcomes. This paper estimates causal effects of additional education on pro-climate outcomes using new compulsory schooling law data across 16 European countries. It analyzes effects on pro-climate beliefs, behaviors, policy preferences, and novel data on voting for green parties&#x2014;a particularly consequential outcome to combat climate change. Results show a year of education increases pro-climate beliefs, behaviors, most policy preferences, and green voting, with voting gains equivalent to a substantial 35% increase.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10316",
+    "url": "http://documents.worldbank.org/curated/en/099509302242338718/pdf/IDU054e742ca083900487a0955e0f1e36d80c5db.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.011527",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

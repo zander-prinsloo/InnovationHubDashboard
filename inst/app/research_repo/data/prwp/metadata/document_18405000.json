@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Input usage and productivity in Indian manufacturing plants",
+    "idno": "18405000",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18405000",
+      "title": "Input usage and productivity in Indian manufacturing plants",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ghani,Syed Ejaz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kerr,William Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "O'Connell,Stephen A."
+      }
+    ],
+    "date_created": "2013/10/01",
+    "date_available": "2013/10/01",
+    "date_published": "2013/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18405000"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c8fea"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c8fea"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the scale and productivity consequences of varied input use in Indian manufacturing using detailed plant-level data. Counts of distinct material inputs are higher in urban settings than in rural locations, unconditionally and conditional on plant size, and they are also higher in the organized sector than in the unorganized sector. At the district level, higher input usage in the organized sector is generally observed in wealthier districts and those with greater literacy rates. If looking within states, the usage is more closely associated with electricity access, population density, and closer spatial proximity to one of India's largest cities. Plants in the organized sector utilizing a greater variety of inputs display higher productivity, with the effects mostly concentrated among smaller plants with fewer than 50 employees. For the unorganized sector, there is little correlation of input counts and local conditions, for better or for worse, and a more modest link to productivity outcomes.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6656",
+    "url": "http://documents.worldbank.org/curated/en/776911468267863664/pdf/WPS6656.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.420837",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

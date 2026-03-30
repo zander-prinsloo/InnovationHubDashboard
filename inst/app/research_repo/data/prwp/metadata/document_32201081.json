@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Big Data in Transportation : An Economics Perspective",
+    "idno": "32201081",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32201081",
+      "title": "Big Data in Transportation : An Economics Perspective",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Selod,Harris"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soumahoro,Souleymane"
+      }
+    ],
+    "date_created": "2020/06/30",
+    "date_available": "2020/06/30",
+    "date_published": "2020/06/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32201081"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087b1fbe8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087b1fbe8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper reviews the emerging big data literature applied to urban transportation issues from the perspective of economic research. It provides a typology of big data sources relevant to transportation analyses and describes how these data can be used to measure mobility, associated externalities, and welfare impacts. As an application, it showcases the use of daily traffic conditions data in various developed and developing country cities to estimate the causal impact of stay-at-home orders during the Covid-19 pandemic on traffic congestion in Bogotá, New Dehli, New York, and Paris. In light of the advances in big data analytics, the paper concludes with a discussion on policy opportunities and challenges.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "France",
+        "code": "FRA"
+      }
+    ],
+    "spatial_coverage": "South Asia ; Rest Of The World ; Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9308",
+    "url": "http://documents.worldbank.org/curated/en/144551593524811620/pdf/Big-Data-in-Transportation-An-Economics-Perspective.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.404577",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

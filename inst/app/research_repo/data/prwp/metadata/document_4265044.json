@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Convergence, dynamics, and geography of economic growth : The case of municipalities in Rio Grande do Norte, Brazil",
+    "idno": "4265044",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "4265044",
+      "title": "Convergence, dynamics, and geography of economic growth : The case of municipalities in Rio Grande do Norte, Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verner, Dorte; Tebaldi, Edinaldo"
+      }
+    ],
+    "date_created": "2004/05/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "4265044"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05840"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05840"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Analyses of municipal GDP growth in Rio Grande do Norte in the Northeast of Brazil during 1970-96 reveal that the cross-section dispersion of per capita income increased over time. Although the analysis indicates some spatial dependence in income, it is small and has a downward trend, indicating that the growth path is only weakly determined by geographical links in Rio Grande do Norte. Moreover, dynamic analyses based on the Markov chain transition matrix show that the probability of a municipality moving from a poor income class to a rich class is very small and vice-versa. Municipalities located in the middle-income class have high mobility, but there is no strong evidence indicating direction. Public policy should include assisting the rural families by providing them education and training that increases their opportunities for employment. There should also be policies to assist poor and unskilled migrants to integrate fully into the modern economy in the urban areas through skill development training and education.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3302",
+    "url": "http://documents.worldbank.org/curated/en/966951468743940950/pdf/wps3302convergence.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:27.509461",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,129 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A typology of foreign exchange auction markets in sub-Saharan Africa : dynamic models for auction exchange rates",
+    "idno": "697843",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697843",
+      "title": "A typology of foreign exchange auction markets in sub-Saharan Africa : dynamic models for auction exchange rates",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "ARON, JANINE"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbadawi,Ibrahim Ahmed"
+      }
+    ],
+    "date_created": "1994/12/31",
+    "date_available": "1994/12/01",
+    "date_published": "1994/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697843"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a3c41"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a3c41"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In this analytical sequel to \"A Typology of Foreign Exchange Auction Markets in sub-Saharan Africa\", the authors compare the micromanagement of different foreign exchange auctions in sub-Saharan Africa. Multi-unit auctions for foreign exchange were introduced in a number of countries in the 1980s and 1990s, in a transitional step toward a credible, sustainable, unified regime, such as efficient interbank market. But there is little understanding of how auction markets function in sub-Saharan Africa, and there has been virtually no research on the causes of frequent policy reversals or of auction failure. One possible cause of failure -- apart from thin markets, macroeconomic laxity, and vulnerability to terms-of-trade shocks and fluctuations in the disbursement of foreign aid -- is the inappropriate design and management of auctions. The authors estimate models for the microdeterminants of the auction rate, using weekly data on foreign exchange auctions for Ghana, Nigeria, Uganda, and Zambia. Among the policy lessons: 1) Nigeria and Zambia failed to unify and stabilize the exchange rate partly because there was no reserve price rule. When bidders learn such a rule, speculative bidding diminishes. 2) The management of a credible, sustainable reserve price policy requires an efficient secondary market. A simple underlying model, synthesized from the theoretical literature on auctions, specifies the auction rate as a function of fundamental variables and structural shift dummies. The repeated, sequential nature of these multi-unit auctions and the nonstationary nature of most of the auction variables are captured empirically by a cointegrated (error connection) framework. In addition to consistently estimating long-run and short-run parameters of auction fundamentals, the error correction model allows asymptotically efficient testing of three policy hypotheses deriving from auction theory: the competitiveness hypothesis, the effect of uncertainty on the auction-determined rate, and the revenue-equivalence hypothesis. In other words, they used these models to test the impact on the level of the auction rate of increased comptetition among bidders, of the effect of uncertainty (proxied by a volatile supply of foreign exchange), and of different pricing mechanisms.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZMB"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1396",
+    "url": "http://documents.worldbank.org/curated/en/236801468119935741/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.073044",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

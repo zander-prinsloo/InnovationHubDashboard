@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The pulse of public opinion : using Twitter data to analyze public perception of reform in El Salvador",
+    "idno": "24925779",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24925779",
+      "title": "The pulse of public opinion : using Twitter data to analyze public perception of reform in El Salvador",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seabold,Skipper"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rutherford,Alex"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Backer,Olivia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Coppola,Andrea"
+      }
+    ],
+    "date_created": "2015/08/19",
+    "date_available": "2015/08/19",
+    "date_published": "2015/09/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24925779"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083081048"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083081048"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study uses Twitter data to provide a more nuanced understanding of the public reaction to the 2011 reform to the propane gas subsidy in El Salvador. By soliciting a small sample of manually tagged tweets, the study identifies the subject matter and sentiment of all tweets during six one-month periods over three years that concern the subsidy reform. The paper shows that such an analysis using Twitter data can provide a useful complement to existing household survey data and even potentially replace survey data if none were available. The finding show that when people tweet about the subsidy, they almost always do so in a negative manner; and there is a decline in discussion of topics about the reform subsidy, which coincides with increase in support for the subsidy as reported elsewhere. Therefore, the study concludes that decreasing discussion of the subsidy reform indicates an increase in support for the reform. In addition, the gas distributor strikes of May 2011 may have contributed to public perception of the reform more than previously acknowledged. This study is used as an opportunity to provide methodological guidance for researchers who wish to undertake similar studies, documenting the steps in the analysis pipeline with detail and noting the challenges inherent in obtaining data, classification, and inference.",
+    "ref_country": [
+      {
+        "name": "El Salvador",
+        "code": "SLV"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7399",
+    "url": "http://documents.worldbank.org/curated/en/967471468178759590/pdf/WPS7399.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.206162",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

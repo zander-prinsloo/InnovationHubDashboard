@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Hybrid survey to improve the reliability of poverty statistics in a cost-effective manner",
+    "idno": "19641283",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19641283",
+      "title": "Hybrid survey to improve the reliability of poverty statistics in a cost-effective manner",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ahmed,Faizuddin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dorji,Cheku"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Takamatsu,Shinya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoshida,Nobuo"
+      }
+    ],
+    "date_created": "2014/06/01",
+    "date_available": "2014/06/01",
+    "date_published": "2014/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19641283"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bc83c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bc83c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the benefits, in terms of reliability and frequency of poverty statistics, of conducting a hybrid survey that collects non-consumption data from all surveyed households and consumption data from only a small subsample. Collecting detailed consumption or income data for the purpose of estimating poverty is costly and many low-income countries cannot afford to carry out such surveys on a regular basis. One option is to collect only non-consumption data and use consumption models developed from a previous round of household survey data to project poverty data. Although this approach is cost-effective because collection of non-consumption data is much cheaper than collection of consumption data, it is vulnerable to a structural change between the current and previous household surveys and might produce poverty estimates that are not comparable with the previous ones. Instead, the hybrid approach creates consumption models from a subsample of the current survey and applies them to the entire survey to project consumption data for all households in the sample. This paper examines the hybrid approach with data from the Bangladesh Household Income Expenditure Surveys of 2000 and 2005. Improvements in accuracy are achieved even with subsamples of just 320 or 640 households. Budget simulations confirm that the additional cost of collecting consumption data for such small subsamples is minimal.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6909",
+    "url": "http://documents.worldbank.org/curated/en/364691468014449485/pdf/WPS6909.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.802155",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

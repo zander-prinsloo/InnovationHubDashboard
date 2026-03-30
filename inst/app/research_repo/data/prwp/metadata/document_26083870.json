@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating international poverty lines from comparable national thresholds",
+    "idno": "26083870",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26083870",
+      "title": "Estimating international poverty lines from comparable national thresholds",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolliffe,Dean Mitchell"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Prydz,Espen Beer"
+      }
+    ],
+    "date_created": "2016/03/17",
+    "date_available": "2016/03/17",
+    "date_published": "2016/03/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26083870"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08420c978"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08420c978"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "World Bank's international poverty line of $1.90/day, at 2011 purchasing power parity, is based on a collection of national poverty lines, which were originally used to set the international poverty line of $1.25/day at 2005 purchasing power parity. This paper proposes an approach for estimating a more recent, complete, and comparable collection of national poverty thresholds from reported national poverty rates. The paper presents a set of international poverty lines based on this new database of national poverty lines. In contrast to the lines used to estimate the $1.90 international poverty line, this approach produces national poverty lines that are (1) consistent with national poverty rates, (2) expressed in common units, and (3) provide greater support to the estimated international poverty line. These national poverty lines are used to estimate an extreme international poverty line, and three higher lines that are more relevant for higher-income countries. A key finding provides evidence of the robustness and relevance of the $1.90 international poverty line as a measure of extreme poverty for low-income countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7606",
+    "url": "http://documents.worldbank.org/curated/en/837051468184454513/pdf/Estimating-international-poverty-lines-from-comparable-national-thresholds.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.479267",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,167 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Welfare dynamics in Colombia : results from synthetic panels",
+    "idno": "29891371",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29891371",
+      "title": "Welfare dynamics in Colombia : results from synthetic panels",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Balcazar,Carlos Felipe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Malasquez Carbonel,Eduardo Alonso"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olivieri,Sergio Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pico,Julieth"
+      }
+    ],
+    "date_created": "2018/05/14",
+    "date_available": "2018/05/14",
+    "date_published": "2018/05/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29891371"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085a92e62"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085a92e62"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study explores the short-run transitions between poverty, vulnerability, and middle class, using synthetic panels constructed from multiple rounds of Colombia's Integrated Household Survey (in Spanish Gran Encuesta Integrada de Hogares). The paper reports results from two approaches to define a vulnerability line: the first one employs a nonparametric and parsimonious model, while the second utilizes a fully parametric regression model with covariates. The estimation results suggest a range of between $8 to $13 per day per person in 2005 purchasing power parity dollars as the vulnerability line. Using an average daily vulnerability line of $10 per day per person, subsequent estimates on welfare dynamics suggest that, during the past decade, 20 percent of the Colombian population experienced downward mobility, and 24 percent experienced upward mobility. Furthermore, upward mobility increases with higher education levels and is lower for female-headed households.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8441",
+    "url": "http://documents.worldbank.org/curated/en/212121526317738485/pdf/WPS8441.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic statistics",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "modeling and forecasting",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.049476",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

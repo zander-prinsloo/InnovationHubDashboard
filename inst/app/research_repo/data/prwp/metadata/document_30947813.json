@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Rural Roads, Poverty, and Resilience : Evidence from Ethiopia",
+    "idno": "30947813",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30947813",
+      "title": "Rural Roads, Poverty, and Resilience : Evidence from Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nakamura,Shohei"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bundervoet,Tom"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nuru,Mohammed"
+      }
+    ],
+    "date_created": "2019/04/01",
+    "date_available": "2019/04/01",
+    "date_published": "2019/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30947813"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086b2373d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086b1fcf1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study analyzes the impacts of the recent rural road development in Ethiopia on welfare and economic outcomes. The identification of the impacts relies on a difference-in-differences matching approach, taking advantage of the nationally representative household survey and the original road database, both of which are panel data spanning between 2012 and 2016. The results of the econometric analysis overall suggest that Ethiopia's recent rural road development has substantially increased household welfare and supported households in coping with the recent severe droughts. This study estimates that rural roads increased, on average, household consumption by 16.1 percent between 2012 and 2016 (or 3.8 percent per year). The effects of rural road development were largest in the most remote communities, as it increased household consumption by 27.9 percent. Furthermore, in the communities most affected by the El Niño drought, the likelihood of falling into poverty was 14.4 percent lower between 2012 and 2016 if the community was connected by a rural road. Taken together, the results suggest that, by connecting remote communities to markets, rural roads have substantially increased the welfare and resilience of rural households in shock-prone environments.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8800",
+    "url": "http://documents.worldbank.org/curated/en/220781554130465463/pdf/Rural-Roads-Poverty-and-Resilience-Evidence-from-Ethiopia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.109280",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

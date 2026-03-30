@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Household-Level Model of Demand for Electricity Services and Welfare Analysis of Electricity Prices in Rajasthan",
+    "idno": "33225456",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33225456",
+      "title": "A Household-Level Model of Demand for Electricity Services and Welfare Analysis of Electricity Prices in Rajasthan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sinha Roy,Sutirtha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wolak,Frank Anthony"
+      }
+    ],
+    "date_created": "2021/06/28",
+    "date_available": "2021/06/28",
+    "date_published": "2021/06/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33225456"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088770638"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0887703de"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9718"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates a model of household-level demand for electricity services and electricity demand in the Indian state of Rajasthan using a combination of household-level survey and administrative data. The model incorporates customer-level demographic characteristics, billing cycle-level weather variables, and the fact that households face increasing block prices of electricity. The model allows estimating consumer response to price changes by four categories of energy services demand, namely, heating and cooling, lighting, and for domestic and business end-uses. The knowledge of demand response across different end-use helps in differentiating the impact of price changes along the income distribution. The model finds that the demand for heating and cooling energy is the most price inelastic and income elastic service, whereas the demand for domestic end-use is the most price elastic and income inelastic service of all four categories. The structural demand model also helps in comparing the welfare implications of current energy tariffs to those based on normative principles of efficient retail electricity pricing. For this analysis, first, the social marginal cost of electricity is calculated using publicly available data on generation, transmission, and distribution losses and emissions. The social marginal cost estimate, in combination with observable household characteristics, is then used to examine alternative tariff structures that are more affordable, equitable, and revenue sufficient for the utility than current price structure. An alternative tariff design, comprising of an energy price set to the social marginal cost of electricity and a fixed cost component determined by proxy indicators of household willingness to pay, performs better on the above parameters than the current schedule. Other sources of technical losses, related to transmission or distribution, are not studied in this paper.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9718",
+    "url": "http://documents.worldbank.org/curated/en/349581624893158925/pdf/A-Household-Level-Model-of-Demand-for-Electricity-Services-and-Welfare-Analysis-of-Electricity-Prices-in-Rajasthan.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.892411",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

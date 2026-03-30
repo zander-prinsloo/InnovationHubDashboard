@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Farm Labor : Survey Experimental Evidence from Ghana",
+    "idno": "30780034",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30780034",
+      "title": "Measuring Farm Labor : Survey Experimental Evidence from Ghana",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gaddis,Isis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Siwatu,Gbemisola Oseni"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Amparo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pieters,Janneke"
+      }
+    ],
+    "date_created": "2019/01/23",
+    "date_available": "2019/01/23",
+    "date_published": "2019/01/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30780034"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0868b86a8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0868b86a8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study examines recall bias in farm labor by conducting a randomized survey experiment in Ghana. Hours of farm labor obtained from a recall survey conducted at the end of the season are compared with data collected weekly throughout the season. The study finds that the recall method overestimates farm labor per person per plot by about 10 percent, controlling for observable differences at baseline. Recall bias in farm labor per person per plot is accounted for by the fact that households in the recall group report fewer marginal plots and farm workers, denoted here as listing bias. This listing bias also creates a countervailing effect on hours of farm labor at higher levels of aggregation, so that the recall method underestimates farm labor per plot and per household and overestimates the labor productivity of household-operated farms. Consistent with the notion that recall bias is linked to the cognitive burden of reporting on past events, the study finds that recall bias in farm labor has a strong educational gradient.",
+    "ref_country": [
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8717",
+    "url": "http://documents.worldbank.org/curated/en/567781548268138173/pdf/Measuring-Farm-Labor-Survey-Experimental-Evidence-from-Ghana.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.742066",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

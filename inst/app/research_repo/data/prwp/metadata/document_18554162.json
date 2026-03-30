@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exporter dynamics, firm size and growth, and partial year effects",
+    "idno": "18554162",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18554162",
+      "title": "Exporter dynamics, firm size and growth, and partial year effects",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bernard, Andrew B."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Massari,Renzo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Reyes,Jose Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Taglioni,Daria"
+      }
+    ],
+    "date_created": "2013/11/01",
+    "date_available": "2013/11/01",
+    "date_published": "2013/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18554162"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b364d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b364d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Two otherwise identical firms that enter the same market in different months, one in January and one in December, will report dramatically different annual sales for the first calendar year of operations. This partial year effect in annual data leads to downward biased observations of the level of activity upon entry and upward biased growth rates between the year of entry and the following year. This paper examines the implications of partial year effects using Peruvian export data. The partial year bias is very large: the average level of first-year exports of new exporters is understated by 65 percent and the average growth rate between the first and second year of exporting is overstated by 112 percentage points. This paper re-examines a number of stylized facts about firm size and growth that have motivated rapidly expanding theoretical and empirical literatures on firm export dynamics. Correcting the partial year effect eliminates unusually high growth rates in the first year of exporting, raises initial export levels, and shifts 10 percent of market entrants from below to above the median size. Revisiting an older set of facts on firm size and growth, the paper finds that correcting for partial year biases reduces the number of small firms in the firm size distribution and weakens the negative relationship between firm growth and firm size.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6711",
+    "url": "http://documents.worldbank.org/curated/en/236951468159908830/pdf/WPS6711.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.337663",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

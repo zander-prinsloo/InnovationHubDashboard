@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does improved local supply of schooling enhance intergenerational mobility in education evidence from Jordan",
+    "idno": "26791196",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26791196",
+      "title": "Does improved local supply of schooling enhance intergenerational mobility in education evidence from Jordan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Assaad,Ragui"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Saleh, Mohamed"
+      }
+    ],
+    "date_created": "2016/09/15",
+    "date_available": "2016/09/15",
+    "date_published": "2016/09/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26791196"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0845827c8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0845827c8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The impact of the growth of the local supply of public schools in the post-Colonial period on intergenerational mobility in education is a first-order question in the Arab World. This question is examined in Jordan using a unique dataset that links individual data on own schooling and parents' schooling for adults, from a household survey, with the supply of schools in the subdistrict of birth at the time the individual was of age to enroll, from a school census. The identification strategy exploits the variation in the supply of basic and secondary public schools across cohorts and subdistricts of birth in Jordan, controlling for year and subdistrict-of-birth fixed effects and interactions of governorate and year-of-birth fixed effects. The findings show that the local availability of basic public schools does, in fact, increase intergenerational mobility in education. For instance, a one standard deviation increase in the supply of basic public schools per 1,000 people reduces the father-son and mother-son associations of schooling by 18-20 percent and the father-daughter and mother-daughter associations by 33-44 percent. However, an increase in the local supply of secondary public schools does not seem to have an effect on the intergenerational mobility in education.",
+    "ref_country": [
+      {
+        "name": "Jordan",
+        "code": "JOR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7825",
+    "url": "http://documents.worldbank.org/curated/en/460051473960777493/pdf/WPS7825.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.999442",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

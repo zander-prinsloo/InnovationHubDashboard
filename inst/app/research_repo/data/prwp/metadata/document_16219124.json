@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "World food prices and human development: Policy simulations for archetype low-income countries",
+    "idno": "16219124",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16219124",
+      "title": "World food prices and human development: Policy simulations for archetype low-income countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lofgren,Hans"
+      }
+    ],
+    "date_created": "2012/04/01",
+    "date_available": "2012/04/01",
+    "date_published": "2012/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16219124"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a7dc1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a7dc1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In recent years, world food prices have increased and fluctuated widely. This paper explores the impact of international food prices and domestic policies on Millennium Development Goal (MDG) and macro indicators for two archetype low-income countries, a net food exporter and a net food importer, using Maquette for MDG Simulations (MAMS), a Computable General Equilibrium model. The simulations, which cover the period 2011-2025, indicate that the size of positive (negative) effects on macro and MDG indicators of a food export (import) price increase depend on the initial gross domestic product share for food exports (imports), leaving countries that are heavily involved in international food trade more exposed to international shocks. Given relatively low elasticity estimates, the impact of changes in food prices on undernourishment are relatively marginal. Flexible responses (in terms of production shares, whether output is exported or sold at home, and whether domestic demanders buy imports or domestic output) enable countries to benefit from or be less hurt by price changes. The case for policy responses to higher import prices is stronger for the net food importer. An untargeted food subsidy, financed by taxes or spending cuts, reduces undernourishment at the cost of a slight deterioration for most other indicators. By contrast, aid-financed food subsidies neutralize the negative impact of higher import prices whereas financing via domestic borrowing is counterproductive, leading to a deterioration across all indicators. If administered at moderate costs, tax-financed targeted transfers more effectively reduce headcount poverty and inequality with macroeconomic repercussions similar to those of tax-financed subsidies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6033",
+    "url": "http://documents.worldbank.org/curated/en/442421468176674917/pdf/WPS6033.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.108083",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

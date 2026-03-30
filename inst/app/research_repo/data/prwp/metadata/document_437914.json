@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Surveying surveys and questioning questions - learning from World Bank experience",
+    "idno": "437914",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437914",
+      "title": "Surveying surveys and questioning questions - learning from World Bank experience",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Recanatini, Francesca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wallsten, Scott J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Xu,L. C"
+      }
+    ],
+    "date_created": "2000/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437914"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058d1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058d1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The World Bank has increasingly focused on firm-level surveys to build the data foundation needed for accurate policy analysis in developing and transition economies. The authors take stock of some recent Bank surveys, and discuss how to improve their results. Lessons on data issues, and hypothesis testing: 1) Use panel data, if possible. 2) Have enough information about productivity to estimate a production function. 3) Avoid the paradigm of \"list the severity of the obstacle/problem on a scale of 1 to 5\". Instead, ask for data on specific dimensions of the problem that will shed light on alternative hypothesis and policy recommendations. 4) Pick particular disaggregated industries, and sample those industries in each survey. 5) Identify the most important interventions of interest, and consider how you will empirically identify specific changes by picking instruments useful for doing so. Lessons on questionnaire design: a) Incorporate only one idea or dimension in each question. Do not ask, in one question, about the \"quality, integrity, and efficiency\" of services, for example. b) Consider the costs and benefits of numeric scales compared with adjectival scales. Scales in which each point is labeled may be more precise than numeric scales in which only the end points are labeled. But responses are very sensitive to the exact adjective chosen, and it may be impossible to translate adjectives precisely across languages, making it impossible to compare responses across countries. c) Recognize that the share of respondents expressing opinions will be biased upward if the survey does not include a middle (\"indifferent\" or \"don't know\") category, and downward if it does include the middle category. d) When asking degree-of-concern and how-great-an-obstacle question, consider first asking a filter question (such as \"Do you believe this regulation is an obstacle or not?\"). If the answer is yes, then ask how severe the obstacle is. e) Be aware of the effects of context. The act of asking questions can affect the answers given on subsequent, related questions. f) Think carefully about how to ask sensitive questions. Consider using a self-administered module for sensitive questions. alternatively, a randomized response mechanisms may be a useful, truth-revealing mechanism.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2307",
+    "url": "http://documents.worldbank.org/curated/en/234741468739530874/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:40.346946",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

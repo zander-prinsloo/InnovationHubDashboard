@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How to Improve Education Outcomes Most Efficiently ? A Comparison of 150 Interventions Using the New Learning-Adjusted Years of Schooling Metric",
+    "idno": "32505443",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32505443",
+      "title": "How to Improve Education Outcomes Most Efficiently ? A Comparison of 150 Interventions Using the New Learning-Adjusted Years of Schooling Metric",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Angrist,Noam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Evans,David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Filmer,Deon P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Glennerster,Rachel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rogers,F. Halsey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sabarwal,Shwetlena"
+      }
+    ],
+    "date_created": "2020/10/21",
+    "date_available": "2020/10/21",
+    "date_published": "2020/10/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32505443"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08a47bcac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087eef879"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many low- and middle-income countries lag far behind high-income countries in educational access and student learning. Limited resources mean that policymakers must make tough choices about which investments to make to improve education. Although hundreds of education interventions have been rigorously evaluated, making comparisons between the results is challenging. Some studies report changes in years of schooling; others report changes in learning. Standard deviations, the metric typically used to report learning gains, measure gains relative to a local distribution of test scores. This metric makes it hard to judge if the gain is worth the cost in absolute terms. This paper proposes using learning-adjusted years of schooling (LAYS) -- which combines access and quality and compares gains to an absolute, cross-country standard -- as a new metric for reporting gains from education interventions. The paper applies LAYS to compare the effectiveness (and cost-effectiveness, where cost is available) of interventions from 150 impact evaluations across 46 countries. The results show that some of the most cost-effective programs deliver the equivalent of three additional years of high-quality schooling (that is, schooling at quality comparable to the highest-performing education systems) for just $100 per child -- compared with zero years for other classes of interventions.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9450",
+    "url": "http://documents.worldbank.org/curated/en/801901603314530125/pdf/How-to-Improve-Education-Outcomes-Most-Efficiently-A-Comparison-of-150-Interventions-Using-the-New-Learning-Adjusted-Years-of-Schooling-Metric.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.136232",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

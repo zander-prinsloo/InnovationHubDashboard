@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "International data flows and privacy : the conflict and its resolution",
+    "idno": "29870832",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29870832",
+      "title": "International data flows and privacy : the conflict and its resolution",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mattoo,Aaditya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meltzer,Joshua Paul"
+      }
+    ],
+    "date_created": "2018/05/07",
+    "date_available": "2018/05/07",
+    "date_published": "2018/05/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29870832"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0859cb36c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0859bd7f1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The free flow of data across borders underpins today's globalized economy. But the flow of personal data outside the jurisdiction of national regulators also raises concerns about the protection of privacy. Addressing these legitimate concerns without undermining international integration is a challenge. This paper describes and assesses three types of responses to this challenge: unilateral development of national or regional regulation, such as the European Union's Data Protection Directive and forthcoming General Data Protection Regulation; international negotiation of trade disciplines, most recently in the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP); and international cooperation involving regulators, most significantly in the EU-U.S. Privacy Shield Agreement. The paper argues that unilateral restrictions on data flows are costly and can hurt exports, especially of data-processing and other data-based services; international trade rules that limit only the importers' freedom to regulate cannot address the challenge posed by privacy; and regulatory cooperation that aims at harmonization and mutual recognition is not likely to succeed, given the desirable divergence in national privacy regulation. The way forward is to design trade rules (as the CPTPP seeks to do) that reflect the bargain central to successful international cooperation (as in the EU-US Privacy Shield): regulators in data destination countries would assume legal obligations to protect the privacy of foreign citizens in return for obligations on data source countries not to restrict the flow of data. Existing multilateral rules can help ensure that any such arrangements do not discriminate against and are open to participation by other countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Europe",
+        "code": "-"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Europe and Central Asia ; Rest Of The World",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8431",
+    "url": "http://documents.worldbank.org/curated/en/751621525705087132/pdf/WPS8431.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.191935",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

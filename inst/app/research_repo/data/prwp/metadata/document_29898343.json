@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How preferential is preferential trade",
+    "idno": "29898343",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29898343",
+      "title": "How preferential is preferential trade",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Espitia Rueda,Alvaro Raul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mattoo,Aaditya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mimouni,Mondher"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pichot,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rocha,Nadia"
+      }
+    ],
+    "date_created": "2018/05/16",
+    "date_available": "2018/05/16",
+    "date_published": "2018/05/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29898343"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085aaca6a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085aaca6a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "World trade is increasingly ruled by preferential trade agreements (PTAs), but their precise nature remains relatively opaque. This paper assesses a central dimension of these agreements, the significance of tariff preferences, using a new data set on preferential and non-preferential or Most Favored Nation (MFN) applied tariffs, constructed by the International Trade Center and the World Bank. The data set covers 5,203 products, 199 reporters, and 239 partners, representing approximately 97 percent of world imports in 2016. There are three main findings. First, PTAs have significantly widened the scope of tariff-free trade. Whereas 42 percent of the total value of trade traded free under MFN rates in 2016, PTAs have fully liberalized an additional 28 percent of global trade. Second, the extent of preferential liberalization varies significantly across countries and sectors. Around 70 percent of countries have reduced trade-weighted average preferential tariffs to less than 5 percent, but PTAs have not been able to eliminate the high levels of protection in some low-income countries and in agricultural products, textiles, and footwear. Third, while the average preferential margin for trade covered by PTAs is low because one-fifth of world trade under preferential agreements is already duty free, more than a quarter of world trade is subject to an average preference margin of 7.4 percent. Considering competition from preferential and non-preferential sources, however, only 5.2 percent of global exports benefited from a preferential advantage of over 5 percent and only 3.3 percent of global exports suffered from a preferential disadvantage higher than 5 percent. Furthermore, data for a subsample of importers reveal that not all eligible imports take advantage of preferences, because of impediments such as restrictive rules of origin, and therefore actual preference margins are generally lower than potential margins.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8446",
+    "url": "http://documents.worldbank.org/curated/en/655601526483739564/pdf/WPS8446.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.037204",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

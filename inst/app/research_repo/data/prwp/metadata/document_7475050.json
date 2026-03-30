@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "School drop-out and push-out factors in Brazil : the role of early parenthood, child labor, and poverty",
+    "idno": "7475050",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7475050",
+      "title": "School drop-out and push-out factors in Brazil : the role of early parenthood, child labor, and poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cardoso,Ana Rute"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verner,Dorte"
+      }
+    ],
+    "date_created": "2007/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7475050"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5835"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5835"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper aims to identify the major drop-out and push-out factors that lead to school abandonment in an urban surrounding-the shantytowns of Fortaleza, Northeast Brazil. The authors use an extensive survey addressing risk factors faced by the population in these neighborhoods, which cover both in-school and out-of-school youth of both genders. They focus on the role of early parenthood, child labor, and poverty in pushing teenagers out of school. The potential endogeneity of some of the determinants is dealt with in the empirical analysis. The authors take advantage of the rich set of variables available and apply an instrumental variables approach. Early parenthood is instrumented with the age declared by the youngsters as the ideal age to start having sexual relationships. Work is instrumented using the declared reservation wage (minimum salary acceptable to work). Results indicate that early parenthood has a strong impact of driving teenagers out of school. Extreme poverty is another factor lowering school attendance, as children who have suffered hunger at some point in their lives are less likely to attend school. In this particular urban context, working does not necessarily have a detrimental effect on school attendance, which could be linked to the fact that dropping out of school leads most often to inactivity and not to work.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4178",
+    "url": "http://documents.worldbank.org/curated/en/850771468227650701/pdf/wps4178.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:17.167088",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

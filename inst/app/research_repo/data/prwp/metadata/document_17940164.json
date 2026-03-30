@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding the sources of spatial disparity and convergence : evidence from Bangladesh",
+    "idno": "17940164",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17940164",
+      "title": "Understanding the sources of spatial disparity and convergence : evidence from Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shilpi,Forhad J."
+      }
+    ],
+    "date_created": "2013/06/01",
+    "date_available": "2013/06/01",
+    "date_published": "2013/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17940164"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a7d98"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a7d98"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper utilizes the mixed effects model to measure and decompose spatial disparity in per capita expenditure in Bangladesh between 2000 and 2010. It finds a significant decline in spatial disparity in urban areas and the country as a whole but no substantial change in rural areas. The decomposition analysis indicates that average years of education, the percentage of households with electricity connections, and phone ownership account for most of the spatial variations in welfare. Spatial convergence in urban areas can be explained primarily by the expansion of electricity and phone networks for household use. Improved access to these services had little effect on spatial disparity in rural areas. This paper offers several explanations for the difference in convergence rates between urban and rural areas.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6519",
+    "url": "http://documents.worldbank.org/curated/en/135051468003337777/pdf/WPS6519.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.123215",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

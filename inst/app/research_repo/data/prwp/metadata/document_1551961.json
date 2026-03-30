@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Parallel imports of pharmaceutical products in the European Union",
+    "idno": "1551961",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1551961",
+      "title": "Parallel imports of pharmaceutical products in the European Union",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ganslandt, Mattias"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maskus, Keith E."
+      }
+    ],
+    "date_created": "2001/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1551961"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0565c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0565c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The point of parallel imports of pharmaceuticals is arbitrage between countries with different prices. For several years, an important issue in the European Union (EU) has been the evident conflict between differing price regulations in the member states, on the one hand, and the consequences of parallel trade, on the other. In the EU, so long as the manufacturer has placed the good on the market voluntarily, the principle of free movement of goods allows individuals, or firms within the EU to trade goods across borders, without the consent of the producer. In this context, the authors study the effects of parallel trade in the pharmaceutical industry. They develop a model in which an original manufacturer competes in its home market with parallel-importing firms. The two key hypotheses in their theoretical analysis are these: First, if the potential for parallel imports is unlimited, the manufacturer chooses deterrence, and international prices converge. Second, with endogenously limited arbitrage, the manufacturing firm accommodates, and the price in the home market falls as the volume of parallel trade rises. The authors test their hypotheses on data from the Swedish market for 1995-98. Before 1995, Sweden prohibited parallel imports of pharmaceutical products, but entry into the EU, on January 1, 1995, required Sweden to allow them. Simple empirical tests favor the accommodation hypothesis with a time lag. Using data from Sweden, the authors find that the prices of drugs, subject to competition from parallel imports increased less than those for other drugs between 1995 and 1998. Roughly, three-fourths of this effect can be attributed to the lower prices of parallel imports, and one-fourth to lower prices charged by the manufacturing firm. Econometric analysis finds that rents to parallel importers (or resource costs in parallel trade) could be more than the gain to consumers from lower prices.",
+    "ref_country": [
+      {
+        "name": "Sweden",
+        "code": "SWE"
+      },
+      {
+        "name": "Europe",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2630",
+    "url": "http://documents.worldbank.org/curated/en/931831468746678339/Parallel-imports-of-pharmaceutical-products-in-the-European-Union",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.388531",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

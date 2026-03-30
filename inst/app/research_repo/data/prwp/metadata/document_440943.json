@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Interlinkage, limited liability, and strategic interaction",
+    "idno": "440943",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440943",
+      "title": "Interlinkage, limited liability, and strategic interaction",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Basu, Kaushik"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bell, Clive"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bose, Pinaki"
+      }
+    ],
+    "date_created": "1999/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440943"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0563a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0563a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors analyze the example of a landlord, a moneylender, and a tenant (the landlord having access to finance on the same terms as the money lender). It is natural to assume that the landlord has first claim on the tenant's output (as a rule, if they live in the same village, he may have some say in when the crop is harvested). The moneylender is more of an outsider, not well placed to exercise such a claim. A landless, asset-less tenant will typically not get a loan unless he has a tenancy. Without inter-linkage, the landlord is likely to move first. In the non-cooperative sequential game where the landlord is the first mover and also enjoys seniority of claims if the tenant defaults, inter-linkage is superior, even if contracts are non-linear - a result unchanged with the incorporation of moral hazard. The main result is that if a \"passive\" principal - one whose decisions are limited to exercising his property rights to determine his share of returns - is the first mover, allocative efficiency is impaired unless his equilibrium payoffs are uniform across states of nature. The limited liability of the tenant creates the strict superiority of inter-linkage by making uniform rents non-optimal when, with non-collusive principals, the landlord (the passive principal) is the first mover. A change in seniority of claims from the first to the second mover (the moneylender) further strengthens this result. But uniform payoffs for the first mover are not essential for allocative efficiency if he is the only principal with a continuously variable instrument of control. So, the main result is sensitive to changes in the order of play but not to changes in the priority of claims.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2134",
+    "url": "http://documents.worldbank.org/curated/en/457321468739566472/Interlinkage-limited-liability-and-strategic-interaction",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.037672",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Macroeconomic Expectations and Credit Card Spending",
+    "idno": "32775864",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32775864",
+      "title": "Macroeconomic Expectations and Credit Card Spending",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galashin,Mikhail"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kanz,Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Perez Truglia,Ricardo"
+      }
+    ],
+    "date_created": "2021/01/25",
+    "date_available": "2021/01/25",
+    "date_published": "2021/01/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32775864"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08820ef45"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08820ef45"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "How do macroeconomic expectations affect consumer decisions? This paper reports results from a natural field experiment with 2,872 credit card customers from a large commercial bank to answer this question. Participants of the experiment first completed as survey that measured consumer expectations about future inflation and the nominal exchange rate. This survey was combined with an information-provision experiment that generated exogenous variation in respondents’ macroeconomic expectations. The survey and experimental data were then merged with detailed administrative data on participants’ credit card transactions and balances. The experiment was designed to test three standard predictions from models of intertemporal consumption choice: inflation expectations should affect spending on durables; exchange rate expectations should affect spending on tradables; and, holding constant the nominal interest rate, inflation expectations should affect borrowing. The analysis finds that the information provided to participants strongly affects subjective expectations. However, no significant effects are found on actual consumer behavior (as measured in administrative data) or self-reported consumption plans (as measured in survey data). The preferred interpretation is that consumers are not sophisticated enough to factor inflation and exchange rate expectations into their consumption decisions. The absence of a link between consumer expectations and behavior has potentially important implications for macroeconomic policies such as forward guidance.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9524",
+    "url": "http://documents.worldbank.org/curated/en/856051611603146325/pdf/Macroeconomic-Expectations-and-Credit-Card-Spending.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.393651",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

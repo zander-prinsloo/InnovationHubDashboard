@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Land Tenure at the Individual Level : Lessons from Methodological Research in Armenia",
+    "idno": "33882650",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33882650",
+      "title": "Measuring Land Tenure at the Individual Level : Lessons from Methodological Research in Armenia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gourlay,Sydney"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maggio,Giuseppe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Safyan,Anahit"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zezza,Alberto"
+      }
+    ],
+    "date_created": "2022/08/16",
+    "date_available": "2022/08/16",
+    "date_published": "2022/08/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33882650"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1d4176a6-6baa-4a68-b167-6d9ebf6ef268"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1d4176a6-6baa-4a68-b167-6d9ebf6ef268"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10140"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Evidence indicates that land rights are strongly associated with several indicators of well-being and development outcomes, including access to credit, resilience to shocks, productivity, and bargaining power. Accurately capturing gender differences in land rights is thus critical for development policy, prompting the need to shift from household-level land rights data collection to collecting more and better individual-level data on land rights. The importance of individual land rights has been recognized in the Sustainable Development Goals (SDG) agenda, with the inclusion of two key indicators on land rights&#x2014;SDG indicators 1.4.2 and 5.a.1. Although clear guidance exists for computing and monitoring these, the choice of data collection methods may influence the resulting indicators and the understanding of the underlying land rights. Specifically, research has shown that the use of proxy respondents in the collection of data on assets, including land, results in a biased understanding of men&#x2019;s and women&#x2019;s holdings vis-&#xe0;-vis self-reporting. This paper uses data from a methodological experiment in Armenia to assess the implications of survey design&#x2014;namely, respondent strategy and the level of disaggregation of land data&#x2014;on the measurement of individual land rights and SDG indicator monitoring. The findings suggest that in the context of Armenia, the measurement of SDG 5.a.1 and 1.4.2 (a) is robust to respondent approach and data disaggregation level, driven largely by the high rates of documentation. Meanwhile, land rights that are less objective, such as the right to bequeath and perception of tenure security, are sensitive to these survey design choices.",
+    "ref_country": [
+      {
+        "name": "Armenia",
+        "code": "ARM"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10140",
+    "url": "http://documents.worldbank.org/curated/en/099453508162217176/pdf/IDU01d4176a606baa04a680b16706d9ebf6ef268.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.493097",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

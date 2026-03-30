@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Improving the Quality of Survey Estimates from Longitudinal Studies : An Application to LSMS Panel Surveys",
+    "idno": "34443991",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34443991",
+      "title": "Improving the Quality of Survey Estimates from Longitudinal Studies : An Application to LSMS Panel Surveys",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Falorsi,Piero Demetrio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Righi,Paolo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ponzini,Giulia"
+      }
+    ],
+    "date_created": "2025/01/08",
+    "date_available": "2025/01/08",
+    "date_published": "2025/01/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34443991"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ab622959-b614-4d31-aee3-94230828f581"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ab622959-b614-4d31-aee3-94230828f581"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11026"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Longitudinal surveys are an invaluable source for analyzing the current state of and changes in human populations over time. However, maintaining the accuracy of estimates from a panel sample becomes more difficult as the length of the panel survey increases. Key concerns are the lack of sample representativeness, due to the sample erosion caused by deaths and movers and the impact of new births, and migration flows. Moreover, sample fatigue introduces an increasing measurement error. Correct design, implementation, and use of a panel survey considers a set of methods to deal with these problems at different stages of the statistical process: the sampling design, the data collection, and the estimation. This paper focuses on the case of panels with a rotating sample design. This case represents a powerful hybrid solution for facing the impact of panel dynamics on sample representativeness. Empirically, the paper focuses on the estimation procedures. Using data from the Uganda National Panel Survey, the longest Living Standards Measurement Study panel survey, it experimentally evaluates the suggested technique. In summary, the findings show that the calibrated generalized weight share method base estimator yields individual-level statistics that appear to be more accurate than those produced by the current Uganda National Panel Survey estimator. Additionally, the calibrated generalized weight share method base cross-sectional estimates on the transition matrix show a generally higher degree of stability when the sample is changed compared to the current Uganda National Panel Survey estimates.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11026",
+    "url": "http://documents.worldbank.org/curated/en/099547401082519007/pdf/IDU1ab6229591b61414d311aee3194230828f581.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.280857",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

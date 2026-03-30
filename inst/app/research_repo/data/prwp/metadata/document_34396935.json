@@ -1,0 +1,237 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Simulating Aggregate and Distributional Effects of Minimum Wage Increases in Romania : Evidence from Survey and Administrative Tax Data",
+    "idno": "34396935",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34396935",
+      "title": "Simulating Aggregate and Distributional Effects of Minimum Wage Increases in Romania : Evidence from Survey and Administrative Tax Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robayo,Monica"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zamfir,Mădălina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wroński,Marcin"
+      }
+    ],
+    "date_created": "2024/09/30",
+    "date_available": "2024/09/30",
+    "date_published": "2024/09/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34396935"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ae89ff0f-6742-480e-9572-2ba169bf9f3e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ae89ff0f-6742-480e-9572-2ba169bf9f3e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10934"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Minimum wages are an essential component of a country's social protection system, aiming to protect vulnerable workers and reduce poverty and wage inequality. Yet, there are risks associated with poor minimum wage design. Higher minimum wages may result in higher earnings for affected workers but fewer job opportunities for others, including the demographic groups they are intended to help, such as those with very low wages and skills and youth, so ex-ante evaluation of potential employment, wage, and distributional impacts is needed. Over the past decade, Romania experienced significant real growth in the minimum wage and a rising minimum-to-median wage ratio. However, when looking at minimum living standards, the analysis shows that the statutory minimum wage is higher than the living wage needed to cover a consumption food basket estimated by the European Commission under the European Reference budget network, but not enough to include non-food components. The microsimulation results using administrative tax data show that tying minimum wage to inflation or the living wage could lead to a slight short-term wage increase for some workers but may cause job loss in the long run, especially for younger workers. The minimum wage increase could have varying impacts across regions and sectors, with the accommodation and food services sector and those living in the Suceava region, which has the highest proportion of affected employees. Moreover, male employees tend to be more affected than their female counterparts.",
+    "ref_country": [
+      {
+        "name": "EU Accession Countries",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10934",
+    "url": "http://documents.worldbank.org/curated/en/099324309302427521/pdf/IDU1ae89ff0f167421480e1957212ba169bf9f3e.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "participation and civic engagement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social inclusion",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.052094",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,156 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Input Subsidies and the Depletion of Natural Capital : Chinese Distant Water Fishing",
+    "idno": "34043642",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34043642",
+      "title": "Input Subsidies and the Depletion of Natural Capital : Chinese Distant Water Fishing",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Englander,Aaron Gabriel Ratliffe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Jihua"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Villaseñor-Derbez,Juan Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jiang,Qutu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hu,Mingzhao"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deschenes,Olivier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Costello,Christopher"
+      }
+    ],
+    "date_created": "2023/04/17",
+    "date_available": "2023/04/17",
+    "date_published": "2023/04/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34043642"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-740c93fa-9cf6-4a58-9700-80d06c0c1316"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-740c93fa-9cf6-4a58-9700-80d06c0c1316"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10412"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Input subsidies in natural resource sectors are widely believed to deplete the natural capital on which these sectors depend. However, estimating the causal effect of subsidies on resource extraction has been stymied by identification and data challenges. China&#x2019;s fishing fleet is the world&#x2019;s largest, and in 2016 the government changed its fuel subsidy policy for distant water vessels to one that increases with predetermined vessel characteristics. Regression discontinuity estimates imply a long-run elasticity of fishing hours with respect to fuel subsidies of 2.2. Consequently, reducing Chinese fuel subsidies by 50 percent could eliminate biological overfishing in several ocean regions. By demonstrating the substantial impact of fuel subsidies on fishing activity and fish stocks, the findings inform ongoing subsidy reform in China, other nations with subsidized fishing vessel fuel, and the World Trade Organization.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10412",
+    "url": "http://documents.worldbank.org/curated/en/099438404172325670/pdf/IDU0740c93fa09cf604a5809700080d06c0c1316.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.525424",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

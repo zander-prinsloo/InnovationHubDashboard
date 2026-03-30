@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Budget rules and resource booms : a dynamic stochastic general equilibrium analysis",
+    "idno": "19896101",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19896101",
+      "title": "Budget rules and resource booms : a dynamic stochastic general equilibrium analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Devarajan,Shantayanan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dissou,Yazid"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Go,Delfin Sia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robinson,Sherman"
+      }
+    ],
+    "date_created": "2014/07/01",
+    "date_available": "2014/07/01",
+    "date_published": "2014/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19896101"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c0fe8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c0fe8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a dynamic stochastic general equilibrium model to analyze and derive simple budget rules in the face of volatile public revenue from natural resources in a low-income country like Niger. The simulation results suggest three policy lessons or rules of thumb. When a resource price change is positive and temporary, the best strategy is to save the revenue windfall in a sovereign fund, and use the interest income from the fund to raise citizens' consumption over time. This strategy is preferred to investing in public capital domestically, even when private investment benefits from an enhanced public capital stock. Domestic investment raises the prices of domestic goods, leaving less money for government to transfer to households; public investment is not 100 percent effective in raising output. In the presence of a negative temporary resource price change, however, the best strategy is to cut public investment. This strategy dominates other methods, such as trimming government transfers to households, which reduces consumption directly, or borrowing, which incurs an interest premium as debt rises. In the presence of persistent (positive and negative) shocks, the best strategy is a mix of public investment and saving abroad in a balanced regime that provides a natural insurance against both types of price shocks. The combination of interest income from the sovereign fund, transfers to households, and output growth brought about by public investment provides the best protective mechanism to smooth consumption over time in response to changing resource prices.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6984",
+    "url": "http://documents.worldbank.org/curated/en/354011468000025231/pdf/WPS6984.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "macroeconomic management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:51.486599",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

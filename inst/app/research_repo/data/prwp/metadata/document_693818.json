@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How deposit insurance affects financial depth : a cross-country analysis",
+    "idno": "693818",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693818",
+      "title": "How deposit insurance affects financial depth : a cross-country analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cull,Robert J."
+      }
+    ],
+    "date_created": "1998/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693818"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b056dc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b056dc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Should we expect deposit insurance to have a positive effect on development of the financial sector? All insurance pools individual risks: premiums are paid into a fund from which losses are met. In most circumstances, a residual claimant to the fund (typically a private insurance company) loses money when losses exceed premiums. Claimants that underprice risk tend to go bankrupt. With most deposit insurance, however, the residual claimant is a government agency with very different incentives. If the premiums paid by member banks cannot cover current fund expenditures, the taxpayer makes up the shortfall. Facing little threat of insolvency, there is less incentive for administrative agencies to price risk accurately. In the United States, researchers have found that the combination of increasing competition in banking services and underpriced deposit insurance led to riskier banking portfolios without commensurate increases in bank capital. Deposit insurance may facilitate risk-taking, with negative consequences for the health of the financial system. On the positive side, insurance may give depositors increased confidence in the formal financial sector -- which may decrease the likelihood of bank runs and increase financial depth. Indeed, simple bivariate correlations between explicit insurance and financial depth are positive. But when one also controls for income and inflation, that relationship disappears -- in fact, the partial correlation between changes in subsequent financial depth and the adoption of explicit insurance is negative (and quite pronounced). Counterintuitive though it may be, that stylized fact may be partially explained by the political and economic factors that motivated the decision to establish an explicit scheme. The circumstances surrounding decisions about deposit insurance are associated with different movements in subsequent financial depth. Adopting explicit deposit insurance to counteract instability in the financial sector does not appear to solve the problem. The typical reaction to that type of decision has been negative, at least with regard to financial depth in the three years after the program's inception. Adopting explicit deposit insurance when government credibility and institutional development were high appears to have had a positive effect on financial depth.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1875",
+    "url": "http://documents.worldbank.org/curated/en/389061468766522365/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:49.267741",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

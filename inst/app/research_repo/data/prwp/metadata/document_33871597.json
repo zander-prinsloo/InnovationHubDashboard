@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor Market Transitions in Egypt Post-Arab Spring",
+    "idno": "33871597",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33871597",
+      "title": "Labor Market Transitions in Egypt Post-Arab Spring",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deng,Jingyuan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elmallakh,Nelly Youssef Louis William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Flabbi,Luca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gatti,Roberta V."
+      }
+    ],
+    "date_created": "2022/07/21",
+    "date_available": "2022/07/21",
+    "date_published": "2022/07/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33871597"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8d9f53e4-4fb2-4f07-ad7d-c6836da56458"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8d9f53e4-4fb2-4f07-ad7d-c6836da56458"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10126"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the Arab Republic of Egypt&#x2019;s labor market transition dynamics post&#x2013;Arab Spring based on the two most recent rounds of the Egypt Labor Market Panel Survey conducted in 2012 and 2018. In addition to providing disaggregated-level analysis by examining labor market transitions by gender, education, and age groups, the paper provides a cross-country, cross-regional perspective by comparing Egypt&#x2019;s labor market transitions with Mexico&#x2019;s, relying on data from the Encuesta Nacional de Ocupaci&#xf3;n y Empleo. To match the span of Mexico&#x2019;s transitions (which are measured over a one-year period) and Egypt&#x2019;s (which are measured over six years), the analysis uses Monte Carlo simulations of repeated discrete-time Markov chains. Based on these results, the Egyptian labor market appears to be highly rigid compared to the Mexican labor market, which instead shows a large degree of dynamism regardless of individual initial labor market states at baseline. Auxiliary regression analyses focusing on transitions to and from the dominant absorbing labor market states in Egypt &#x2014;public sector employment for both genders, nonparticipation for women, and the informal sector for men&#x2014;show that having a post-secondary education is associated with a lower probability of remaining out of the labor force for women who were already out of the labor force at baseline, while being married at baseline is found to be a significant predictor for women to stay out of the labor force if they were already so. Among men, the better educated are found to be more likely to secure formal employment, be it in the public or private sector, and are more likely to keep their public formal jobs once they secure them.",
+    "ref_country": [
+      {
+        "name": "Egypt, Arab Republic of",
+        "code": "EGY"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10126",
+    "url": "http://documents.worldbank.org/curated/en/099927007212248886/pdf/IDU08d9f53e404fb204f070ad7d0c6836da56458.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.582878",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

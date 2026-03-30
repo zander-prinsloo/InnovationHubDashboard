@@ -1,0 +1,129 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Remittances and Labor Supply in the Northern Triangle",
+    "idno": "30437614",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30437614",
+      "title": "Remittances and Labor Supply in the Northern Triangle",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sousa,Liliana Do Couto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garcia Suaza,Andres Felipe"
+      }
+    ],
+    "date_created": "2018/09/20",
+    "date_available": "2018/09/20",
+    "date_published": "2018/09/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30437614"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086160a23"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086160a23"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Through substitution and income effects, remittances can alter an individual's allocation of time between market activities and household production, decreasing labor supply. This paper uses propensity score matching and household surveys for 2006 and 2014 to estimate the impact of remittances on labor supply in the three countries of the Northern Triangle (El Salvador, Guatemala, and Honduras). The results show that remittances are associated with a reduction in labor force participation, particularly among women. This effect is largest for Salvadoran women (13 percentage points). A sensitivity analysis finds that the negative effect on labor force participation rates of men in El Salvador and Guatemala and women in El Salvador is robust to potential selection bias. Receiving remittances is also associated with a lower likelihood of young adults being in school or at work, with this effect being robust to selection bias for young men in Guatemala. At the same time, the evidence suggests that remittances may be supporting small enterprises and self-employment in El Salvador and Guatemala. The analysis does not find robust evidence of remittances affecting the labor supply in Honduras in 2014.",
+    "ref_country": [
+      {
+        "name": "Central America",
+        "code": "-"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SLV"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GTM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HND"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8597",
+    "url": "http://documents.worldbank.org/curated/en/972271537470563942/pdf/WPS8597.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.924783",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

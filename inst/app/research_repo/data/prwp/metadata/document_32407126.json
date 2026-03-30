@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "One Rule Fits All Heterogeneous Fiscal Rules for Commodity Exporters When Price Shocks Can Be Persistent: Theory and Evidence",
+    "idno": "32407126",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32407126",
+      "title": "One Rule Fits All Heterogeneous Fiscal Rules for Commodity Exporters When Price Shocks Can Be Persistent: Theory and Evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galego Mendes,Arthur"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pennings,Steven Michael"
+      }
+    ],
+    "date_created": "2020/09/15",
+    "date_available": "2020/09/15",
+    "date_published": "2020/09/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32407126"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087df6619"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087dc0fe8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Commodity-exporting developing economies are often characterized as having needlessly procyclical fiscal policy: spending when commodity prices are high and cutting back when prices fall. The standard policy advice is instead to save during price windfalls and maintain spending during price busts. This paper questions this characterization and policy advice. Using a New Keynesian model, it finds that optimal fiscal policy is heterogeneous depending on the commodity exported and exchange rate regime. Optimal fiscal policy is often procyclical in countries with floating exchange rates because many commodity price shocks are highly persistent, and so they should be spent according to the permanent income hypothesis. In contrast, in countries with fixed exchange rates, optimal fiscal policy becomes countercyclical to smooth the business cycle. Empirically, the paper introduces a new measure of fiscal cyclicality, the marginal propensity to spend (MPS) an extra dollar of commodity revenues, and shows that it is moderately procyclical overall but highly heterogeneous across countries depending on their characteristics. Consistent with theory, the MPS is more procyclical in countries with floating exchange rates than those with fixed exchange rates. Moreover, in countries with floating exchange rates, the MPS is higher in countries facing more persistent commodity price shocks.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9400",
+    "url": "http://documents.worldbank.org/curated/en/364551600195983043/pdf/One-Rule-Fits-All-Heterogeneous-Fiscal-Rules-for-Commodity-Exporters-When-Price-Shocks-Can-Be-Persistent-Theory-and-Evidence.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.573698",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

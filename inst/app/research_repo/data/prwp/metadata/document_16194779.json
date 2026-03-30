@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "When do donors trust recipient country systems",
+    "idno": "16194779",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16194779",
+      "title": "When do donors trust recipient country systems",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack,Stephen"
+      }
+    ],
+    "date_created": "2012/04/01",
+    "date_available": "2012/04/01",
+    "date_published": "2012/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16194779"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ba566"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ba566"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The 2005 Paris Declaration on Aid Effectiveness sets targets for increased use by donors of recipient country systems for managing aid. The target is premised on a view that country systems are strengthened when donors trust recipients to manage aid funds, but undermined when donors manage aid through their own separate parallel systems. This study provides an analytical framework for understanding donors' decisions to trust or bypass country systems. Empirical tests are conducted using data from three OECD-DAC surveys designed to monitor progress toward Paris Declaration goals. Tests show that a donor's use of the recipient country's systems is positively related to: (1) the donor's share of aid provided to the recipient (a proxy for the donor's reputational stake in the country's development); (2) perceptions of corruption in the recipient country (a proxy for the trustworthiness or quality of the country's systems); and (3) public support for aid in the donor country (a proxy for the donor's risk tolerance). Findings are robust to corrections for potential sample selection, omitted variables or endogeneity bias.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6019",
+    "url": "http://documents.worldbank.org/curated/en/151661468340885273/pdf/WPS6019.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.165485",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

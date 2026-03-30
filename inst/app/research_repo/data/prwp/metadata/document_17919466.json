@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Resource discoveries, learning, and national income accounting",
+    "idno": "17919466",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17919466",
+      "title": "Resource discoveries, learning, and national income accounting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hamilton, Kirk"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Atkinson, Giles"
+      }
+    ],
+    "date_created": "2013/06/01",
+    "date_available": "2013/06/01",
+    "date_published": "2013/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17919466"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ca41d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ca41d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Questions about the ultimate size of mineral and energy resource endowments and the degree of fiscal prudence which should be exercised by countries engaged in resource extraction have become central for many developing countries during the recent resource boom. To explore these questions, this paper develops a model of optimal resource extraction and discovery that combines two polar assumptions: (i) that discovering a resource today drives up the cost of future resource discoveries, and (ii) that extracting resources yields knowledge that reduces the cost of discovery. Although the model shows that resource discoveries should be valued at marginal discovery cost in measures of national saving and income, the ultimate size of the resource that can be exploited is the result of the interplay between rising discovery costs and accumulating knowledge. Empirical tests of the model show that the resulting income estimates would be extremely volatile for many extractive economies, owing to the lumpiness of resource discoveries. Two alternative accounting approaches, based on Hicksian concepts, yield more intuitive and less volatile income estimates. The question of fiscal prudence for extractive economies hinges on how optimistic countries are about the risks in future mineral and energy markets, and how far into the future these countries are willing to project optimistic trends when making decisions about how much to consume and how much to save of current resource revenues.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6505",
+    "url": "http://documents.worldbank.org/curated/en/697801468328808812/pdf/WPS6505.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.798583",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

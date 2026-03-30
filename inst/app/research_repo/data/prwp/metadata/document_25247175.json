@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Can intense exposure to hand-washing and hygiene information campaigns affect children's socio-emotional skills evidence from Senegal",
+    "idno": "25247175",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25247175",
+      "title": "Can intense exposure to hand-washing and hygiene information campaigns affect children's socio-emotional skills evidence from Senegal",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Borja-Vega,Christian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Briceno,Bertha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garcia Vicente,Fernando"
+      }
+    ],
+    "date_created": "2015/11/05",
+    "date_available": "2015/11/05",
+    "date_published": "2015/11/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25247175"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08319278c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08319278c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Hygiene information and practices play a critical role in preventing diseases, particularly among children. Hygiene behaviors practiced in the household have been linked to development outcomes such as socio-emotional skills. This paper exploits data from impact evaluation surveys of a hygiene information campaign conducted in Senegal, where the randomized design suffered from contamination between comparison groups. The variations in exposure and intensity to hygiene information campaigns captured in the surveys were used to understand contamination biases. Such variations were interacted with the presence of household communication assets to explore potential effects on children’s socio-emotional scores. In the presence of contamination biases, the study exploited the longitudinal sample of children in the surveys to reduce time-dependent biases. For robustness, statistical matching was applied between the impact evaluation surveys and Demographic and Health Surveys conducted in 2008 and 2011. Socio-emotional outcomes were the imputed into Demographic and Health surveys to expand sample sizes. By applying matching techniques and imputing outcomes into a larger sample, impacts were non-negligible. Double-difference estimates showed that children’s socio-emotional scores were higher when intervention status was interacted with the presence of communication assets within households. Without the presence of communication assets in the households the impacts were close to zero. Evaluating the effect of hygiene campaigns on children’s socio-emotional skills is challenging because of the biases from contamination that exist when information flows between comparison groups. Targeted hygiene information to the poorest households is relevant for reducing risks of recurrent infections and enables better conditions for socio-emotional development of children.",
+    "ref_country": [
+      {
+        "name": "Senegal",
+        "code": "SEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7472",
+    "url": "http://documents.worldbank.org/curated/en/765981467995071406/pdf/WPS7472.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.472913",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

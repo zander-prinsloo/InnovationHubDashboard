@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Food insecurity and public agricultural spending in Bolivia : putting money where your mouth is",
+    "idno": "13942351",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "13942351",
+      "title": "Food insecurity and public agricultural spending in Bolivia : putting money where your mouth is",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cuesta Leiva,Jose Antonio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Edmeades,Svetlana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Madrigal Correa,Alma Lucia"
+      }
+    ],
+    "date_created": "2011/03/01",
+    "date_available": "2011/03/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "13942351"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c1139"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c1139"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the reduction of food insecurity in Bolivia, adopting a supply side approach that analyzes the role of agricultural spending on vulnerability. Vulnerability to food insecurity is captured by a municipal level composite -- developed locally within the framework of World Food Program food security analysis -- that combines welfare outcomes, weather conditions and agricultural potential for all 327 municipalities in 2003, 2006 and 2007. Our econometric results indicate that levels of public agricultural spending are positively associated with high or very high vulnerability. The authors interpret this to indicate that agricultural spending allocation decisions are driven by high or very high vulnerability levels. In other words, more agricultural spending appears to be destined to where it is more needed in line with previous findings in other sectors in Bolivia. This is confirmed through a number of specifications, including contemporaneous and lagged relationships between spending and vulnerability. They also find evidence of public spending on infrastructure and research and extension services having a significant (but very small) effect towards reducing high vulnerability. This indicates the importance of the composition of public agricultural spending in shaping its relationship with vulnerability to food insecurity.",
+    "ref_country": [
+      {
+        "name": "Bolivia",
+        "code": "BOL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5604",
+    "url": "http://documents.worldbank.org/curated/en/318641467998179926/pdf/WPS5604.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:04.128233",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

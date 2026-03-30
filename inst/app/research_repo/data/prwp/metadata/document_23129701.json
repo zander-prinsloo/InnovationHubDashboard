@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Climate change, groundwater salinization and road maintenance costs in coastal Bangladesh",
+    "idno": "23129701",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "23129701",
+      "title": "Climate change, groundwater salinization and road maintenance costs in coastal Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hossain, Md. Moqbul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Huq,Mainul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler, David"
+      }
+    ],
+    "date_created": "2014/12/01",
+    "date_available": "2014/12/31",
+    "date_published": "2014/12/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "23129701"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c256d3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c256d3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The potentially-adverse impact of salinity on paved roads is well-established in the engineering literature. The problem seems destined to grow, as climate-related changes in sea level and riverine flows drive future increases in groundwater salinity. However, data scarcity has prevented systematic analysis for poor countries. This paper assesses the impact of groundwater salinity on road maintenance expenditures in the coastal region of Bangladesh. The assessment draws on new panel measures of salinity from 41 stations in coastal Bangladesh, and road maintenance expenditures, income, road network length, and road surfaces from 20 coastal municipalities. In a model relating maintenance expenditure for paved roads to groundwater salinity, municipal income, and road network length, large and significant effects are found for salinity. The regression model is used to predict the effect of within-sample salinity variation on road maintenance expenditure share, holding municipal income and road length constant at sample mean values. Increasing salinity from its sample minimum to its sample maximum increases the predicted road maintenance expenditure share by 252 percent. The implied welfare impact may also be substantial, particularly for poor households, if diversion of expenditures to road maintenance reduces support for community sanitation, health, and other infrastructure related programs.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7147",
+    "url": "http://documents.worldbank.org/curated/en/828391468004833607/pdf/WPS7147.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.480846",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

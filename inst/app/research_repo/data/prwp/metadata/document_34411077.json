@@ -1,0 +1,202 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Designing Air Quality Measurement Systems in Data-Scarce Settings",
+    "idno": "34411077",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34411077",
+      "title": "Designing Air Quality Measurement Systems in Data-Scarce Settings",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoffmann,Bridget"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sveta Milusheva"
+      }
+    ],
+    "date_created": "2024/10/24",
+    "date_available": "2024/10/24",
+    "date_published": "2024/10/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34411077"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-93a70239-0c94-4915-91ff-34046ed0aa1c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-93a70239-0c94-4915-91ff-34046ed0aa1c"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10957"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "While populations in low- and middle-income countries are exposed to some of the highest levels of air pollution and its consequences, the majority of economics research on the topic is focused on high-income settings where there is greater data availability. This paper compares and evaluates the three principal sources of air pollution data (regulatory-grade monitors, satellites, and low-cost monitors) in a Sub-Saharan African context in terms of the accuracy of measurements of inhalable fine particulate matter across spatial and temporal frequencies and their performance when studying policy impacts. Satellite data is closely aligned with data from the regulatory-grade monitors at lower temporal frequencies. The low-cost monitors underestimate the amount of fine particulate matter relative to the other data sources. Calibration, especially context-specific calibration, of the low-cost monitors' data improves its alignment with other data sources. The paper uses each data source to evaluate the air pollution externality of mobility reduction policies using a difference-in-differences design and finds similar results, especially in terms of percent reduction. The paper considers policy makers' constraints to air pollution monitoring in low-income settings and demonstrates that co-locating one regulatory-grade monitor in a network of low-cost monitors can capture the spatial variation of pollution across an urban area and achieve better accuracy than either of these data sources alone. This provides a framework for policy makers to generate the data needed to evaluate environmental policies and externalities.",
+    "ref_country": [
+      {
+        "name": "Senegal",
+        "code": "SEN"
+      }
+    ],
+    "spatial_coverage": "Western and Central Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10957",
+    "url": "http://documents.worldbank.org/curated/en/099536310242431227/pdf/IDU193a7023910c9414915191ff134046ed0aa1c.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "urban development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "job creation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public transport",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "jobs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.845896",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

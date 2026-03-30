@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trading Places : Fundamentals, Speculation, and Information in US Corn Markets",
+    "idno": "34127115",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34127115",
+      "title": "Trading Places : Fundamentals, Speculation, and Information in US Corn Markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arroyo Marioli,Francisco"
+      }
+    ],
+    "date_created": "2023/07/31",
+    "date_available": "2023/07/31",
+    "date_published": "2023/07/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34127115"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-40c818fb-c21a-4e85-a284-4b8d81f888b4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-40c818fb-c21a-4e85-a284-4b8d81f888b4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10531"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "What explains the surge and plunge commodity markets have undergone in the past 20 years? Are speculators to be blamed? Do prices reflect full information? These are the main questions addressed in this paper, in the context of the corn market. This paper formulates and calibrates two quantitative models of corn prices formation. The first model is designed to explain prices in the long run (annual frequency), while the second model applies to prices in the short run (quarterly frequency). For the long-run analysis, the paper finds that deviations of theoretical prices from observed ones are very small after 1996, and before 1996 they can be explained by government intervention. For the short-run analysis, the model is designed to mimic the typical seasonality seen in agricultural markets, incorporate supply and demand shocks as well as news shocks, and allows for speculative storage decisions. The paper finds that demand and supply fundamentals can account for around 52 percent of past price changes from 1975 to 2016. The model also estimates the impact of information shocks to explain an additional 18 percent of quarterly deviations. Finally, it finds that at least 30 percent of short-run price changes seem to have explanations other than supply or demand fundamentals or information, demonstrating that when analyzing quarterly data, prices do not always closely track fundamentals.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "North America",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10531",
+    "url": "http://documents.worldbank.org/curated/en/099416407312327656/pdf/IDU040c818fb0c21a04e850a28404b8d81f888b4.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.583568",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Empirical econometric evaluation of alternative methods of dealing with missing values in investment climate surveys",
+    "idno": "12461308",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12461308",
+      "title": "Empirical econometric evaluation of alternative methods of dealing with missing values in investment climate surveys",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Escribano Saez,Alvaro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Guasch, J. Luis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pena Izquierdo,Jorge"
+      }
+    ],
+    "date_created": "2010/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12461308"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b202d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b202d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Investment climate Surveys are valuable instruments that improve our understanding of the economic, social, political, and institutional factors determining economic growth, particularly in emerging and transition economies. However, at the same time, they have to overcome some difficult issues related to the quality of the information provided; measurement errors, outlier observations, and missing data that are frequently found in these datasets. This paper discusses the applicability of recent procedures to deal with missing observations in investment climate surveys. In particular, it presents a simple replacement mechanism -- for application in models with a large number of explanatory variables -- which in turn is a proxy of two methods: multiple imputations and an export-import algorithm. The performance of this method in the context of total factor productivity estimation in extended production functions is evaluated using investment climate surveys from four countries: India, South Africa, Tanzania, and Turkey. It is shown that the method is very robust and performs reasonably well even under different assumptions on the nature of the mechanism generating missing data.",
+    "ref_country": [
+      {
+        "name": "Southern Africa",
+        "code": "-"
+      },
+      {
+        "name": "Türkiye",
+        "code": "TUR"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "Africa ; Europe and Central Asia ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5346",
+    "url": "http://documents.worldbank.org/curated/en/648011468317992083/pdf/WPS5346.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.497777",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

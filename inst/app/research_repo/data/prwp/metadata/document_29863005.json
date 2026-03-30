@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Household expenditure and poverty measures in 60 minutes : a new approach with results from Mogadishu",
+    "idno": "29863005",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29863005",
+      "title": "Household expenditure and poverty measures in 60 minutes : a new approach with results from Mogadishu",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mistiaen,Johan A."
+      }
+    ],
+    "date_created": "2018/05/03",
+    "date_available": "2018/05/03",
+    "date_published": "2018/05/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29863005"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08599f4e6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08599f4e6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In fragile states and areas beset by insecurity and conflict, the time available for a face-to-face interview is typically limited. That prevents administering the lengthy household consumption expenditure surveys used for measuring poverty. This paper presents a new approach to obtain unbiased estimates of poverty when the time to conduct interviews is a binding constraint. The finite list of consumption recall items is partitioned selectively into a core module and algorithmically into nonoverlapping optional modules. Each household is systematically assigned the core module and randomly assigned one of the optional modules. Multiple imputation techniques are then used to estimate total household consumption. Based on ex post simulations, the approach is demonstrated to yield reliable estimates of per capita consumption and poverty using data from a regular household budget survey collected in Hargeisa, Somaliland. The approach is then applied to a survey conducted in Mogadishu where interview time could not exceed 60 minutes.",
+    "ref_country": [
+      {
+        "name": "Somalia",
+        "code": "SOM"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8430",
+    "url": "http://documents.worldbank.org/curated/en/682571525377824199/pdf/WPS8430.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.202541",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

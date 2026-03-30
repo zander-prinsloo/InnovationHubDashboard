@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Financial intermediation and growth - Chinese style",
+    "idno": "2350351",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2350351",
+      "title": "Financial intermediation and growth - Chinese style",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Boyreau,Genevieve F."
+      }
+    ],
+    "date_created": "2003/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2350351"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ec9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ec9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author analyzes the relationship between growth and financial intermediation at the sub-national level within China. Does the quality of the banking sector in a province affect its rate of growth? Do state and non-state banking sectors perform differently? Does the structure of the local banking sector affect the rate of provincial economic growth? To answer these questions, the author first uses evidence on the fragmentation of regional capital markets to justify the existence of local credit channels. Second, using a dataset of 26 provinces between 1990 and 1999, she defines and introduces indicators of local banking development into the traditional growth regression framework using the GMM-system estimator. The results suggest that credit extended by the banking sector at the state level has a negative impact on provincial economic growth. This negative effect appears to be attributable to the burden of supporting the state-owned corporate sector rather than to the poor performance of state-owned banks. Moreover, provinces with more diversified banking sectors appear to grow faster.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3027",
+    "url": "http://documents.worldbank.org/curated/en/968041468743994539/Financial-intermediation-and-growth-Chinese-style",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:29.789760",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global Technology for Local Monitoring of Air Pollution in Dhaka",
+    "idno": "32469668",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32469668",
+      "title": "Global Technology for Local Monitoring of Air Pollution in Dhaka",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khaliquzzaman,M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David R."
+      }
+    ],
+    "date_created": "2020/10/07",
+    "date_available": "2020/10/07",
+    "date_published": "2020/10/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32469668"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087e7a164"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087e7a164"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The World Health Organization attributes about 3.3 million annual premature deaths to outdoor air pollution in low- and middle-income countries. Comprehensive pollution monitoring in urban areas has been too costly for many developing countries; yet sparse information has hindered cost-effective pollution management strategies. Global information technologies offer a potential escape from this information trap, but their accuracy remains uncertain. This paper uses ground-based measures of fine particulates and nitrogen dioxide, provided by the CAMS-3 Darussalam monitoring station in Dhaka, Bangladesh, to test three global technologies: the European Space Agency’s Sentinel-5P, the National Aeronautics and Space Administration’s Moderate Resolution Imaging Spectroradiometer, and Google Traffic. The results indicate that all three global technologies can provide useful information for extension of air pollution measurement beyond the few areas that are currently monitored by ground stations. Each technology tracks ground-based fine particulates measures with high significance, and the European Space Agency’s Sentinel-5P and Google Traffic perform similarly for ground-based nitrogen dioxide measures. Google Traffic can provide accurate tracking at higher spatial and temporal resolution than the satellite sources, but only for emissions from motor vehicles in major metro areas. The Moderate Resolution Imaging Spectroradiometer and the European Space Agency’s Sentinel-5P capture the effects of emissions from other sources at all locations.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9429",
+    "url": "http://documents.worldbank.org/curated/en/583491602078309833/pdf/Global-Technology-for-Local-Monitoring-of-Air-Pollution-in-Dhaka.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.364568",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Lowering Prices of Pharmaceuticals, Medical Supplies, and Equipment : Insights from Big Data for Better Procurement Strategies in Latin America",
+    "idno": "33142299",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33142299",
+      "title": "Lowering Prices of Pharmaceuticals, Medical Supplies, and Equipment : Insights from Big Data for Better Procurement Strategies in Latin America",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fazekas,Mihály"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Oliveira,Alexandre Borges De"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Regös,Nóra"
+      }
+    ],
+    "date_created": "2021/06/04",
+    "date_available": "2021/06/04",
+    "date_published": "2021/06/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33142299"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08868e1ab"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08868b178"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9689"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Containing rapidly growing health care costs in the Latin American and the Caribbean region, especially amid the COVID-19 pandemic, requires an in-depth analysis of prices from a novel perspective. This paper documents hitherto understudied variations in prices paid for pharmaceuticals, equipment, and medical supplies within countries and markets. It also identifies effective procurement strategies for lowering prices within existing regulatory frameworks. The analysis uses public procurement data gathered by governments’ electronic procurement systems in nine countries and territories across the region. The data are uniquely detailed and complete, encompassing the minute detail of purchasing decisions and processes made across all regulated public entities in the study countries and territories. Traditional regression analysis and machine learning (random forests) methods are used to explain prices as a function of procurement decisions and outputs, such as the number of bidders. Based on in-depth discussions with policy makers, the paper also devises realistic policy interventions, which in turn can be used to estimate savings scenarios. First, the findings show that the prices paid vary greatly across and within countries. The latter is surprising given that the regulatory and institutional framework is largely fixed within each country. Second, a high proportion of within-country and -market variation can be explained by standard features of procurement policy implementation, such as the length of advertising tenders. Third, the explanatory models point to the potential for lowering prices across the region by about 14 percent by implementing low-level, yet impactful changes to how purchasing is done.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9689",
+    "url": "http://documents.worldbank.org/curated/en/110791622827821491/pdf/Lowering-Prices-of-Pharmaceuticals-Medical-Supplies-and-Equipment-Insights-from-Big-Data-for-Better-Procurement-Strategies-in-Latin-America.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.113755",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

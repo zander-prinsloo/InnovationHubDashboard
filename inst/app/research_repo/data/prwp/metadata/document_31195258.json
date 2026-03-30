@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Preschool Availability and Female Labor Force Participation : Evidence from Indonesia",
+    "idno": "31195258",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31195258",
+      "title": "Preschool Availability and Female Labor Force Participation : Evidence from Indonesia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Halim,Daniel Zefanya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Johnson,Hillary C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Perova,Elizaveta"
+      }
+    ],
+    "date_created": "2019/06/25",
+    "date_available": "2019/06/25",
+    "date_published": "2019/06/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31195258"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086e169f3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086e169f3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "At 50.9 percent, female labor force participation in Indonesia is far below the regional average of 60.8 percent. Is it being hindered by a lack of affordable childcare services in the country? This paper exploits the joint variations in preschool age eligibility and access to preschool across regions and over years in a difference-in-difference-in-differences framework. With a longitudinal survey that tracks individuals for an average of 22 years, a panel of mothers was constructed to estimate the elasticity of maternal employment to preschool access. The analysis finds that an additional public preschool per 1,000 children increases the work participation of mothers of preschool age eligible children by 11-16 percent from the baseline mean. Private preschools do not increase work participation at the extensive margin, but they increase the likelihood of holding a second job. The availability of preschools induces mothers to informal sector occupations that do not require full-time commitments.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8915",
+    "url": "http://documents.worldbank.org/curated/en/393431561484915075/pdf/Preschool-Availability-and-Female-Labor-Force-Participation-Evidence-from-Indonesia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.311700",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

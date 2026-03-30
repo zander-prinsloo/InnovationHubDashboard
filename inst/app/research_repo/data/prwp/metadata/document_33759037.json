@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Globalization and Factor Income Taxation",
+    "idno": "33759037",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33759037",
+      "title": "Globalization and Factor Income Taxation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bachas,Pierre Jean"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fisher-Post,Matthew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jensen,Anders"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zucman,Gabriel"
+      }
+    ],
+    "date_created": "2022/03/15",
+    "date_available": "2022/03/15",
+    "date_published": "2022/03/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33759037"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d2ceae"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088d2ceae"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9973"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "How has globalization affected the relative taxation of labor and capital, and why? To address this question, this paper builds and analyzes a new database of effective macroeconomic tax rates covering 150 countries since 1965, constructed by combining national accounts data with government revenue statistics. Four main findings are obtained. (1) The effective tax rates on labor and capital have converged globally since the 1960s, due to a 10 percentage-point increase in labor taxation and a 5 percentage-point decline in capital taxation. (2) The decline in capital taxation is concentrated in high-income countries. By contrast, capital taxation has increased in developing countries since the 1990s, albeit from a low base. (3) Consistently across a variety of research designs, the findings show that the rise in capital taxation in developing countries can be explained by a tax capacity effect of international trade: trade openness leads to a concentration of economic activity in formal corporate structures, where capital taxes are easier to impose. (4) At the same time, international economic integration reduces statutory tax rates, due to increased tax competition. In high-income countries, this negative tax competition effect of trade has dominated, while in developing countries, the positive tax-capacity effect of international trade appears to have prevailed.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9973",
+    "url": "http://documents.worldbank.org/curated/en/790531647369435179/pdf/Globalization-and-Factor-Income-Taxation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.776802",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

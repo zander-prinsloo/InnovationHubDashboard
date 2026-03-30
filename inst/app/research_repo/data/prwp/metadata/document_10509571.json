@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Infrastructure and growth in Africa",
+    "idno": "10509571",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10509571",
+      "title": "Infrastructure and growth in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calderon,Cesar"
+      }
+    ],
+    "date_created": "2009/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10509571"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf441"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf441"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The goal of the paper is to provide a comprehensive assessment of the impact of infrastructure development on growth in African countries. Based on econometric estimates for a sample of 136 countries from 1960-2005, the authors evaluate the impact on per capita growth of faster accumulation of infrastructure stocks and of enhancement in the quality of infrastructure services for 39 African countries in three key infrastructure sectors: telecommunications, electricity, and roads.Using an econometric technique suitable for dynamic panel data models and likely endogenous regressors, the authors find that infrastructure stocks and service quality boost economic growth. The growth payoff of reaching the infrastructure development of the African leader (Mauritius) is 1.1 percent of GDP per year in North Africa and 2.3 percent in Sub-Saharan Africa, with most of the contribution coming from more, rather than better, infrastructure. Across Africa, infrastructure contributed 99 basis points to per capita economic growth, versus 68 points for other structural policies. Most of the contribution came from increases in stocks (89 basis points), versus quality improvements (10 basis points). The findings show that growth is positively affected by the volume of infrastructure stocks and the quality of infrastructure services; simulations show that our empirical findings are significant statistically and economically. Identifying areas of opportunity to generate productivity growth, the authors find that African countries are likely to gain more from larger stocks of infrastructure than from enhancements in the quality of existing infrastructure. The payoffs are largest for telephone density, electricity-generating capacity, road-network length, and road quality.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4914",
+    "url": "http://documents.worldbank.org/curated/en/365631467990387228/pdf/WPS4914.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.359581",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

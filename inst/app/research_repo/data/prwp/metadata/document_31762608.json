@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global Corporate Debt during Crises : Implications of Switching Borrowing across Markets",
+    "idno": "31762608",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31762608",
+      "title": "Global Corporate Debt during Crises : Implications of Switching Borrowing across Markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cortina Lorente,Juan Jose"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Didier Brandao,Tatiana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler,Sergio L."
+      }
+    ],
+    "date_created": "2020/02/06",
+    "date_available": "2020/02/06",
+    "date_published": "2020/02/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31762608"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0875b023c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0875b013b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies how crises prompted firms to switch borrowing across markets, impacting the amount borrowed, maturity, and currency denomination at the firm and aggregate levels. Using data on worldwide debt issuance from advanced and emerging economies, the paper shows that firms shifted their issuances between domestic and international syndicated loans and corporate bonds during financial crises. Firms reduced their borrowing in shock-hit markets but increased it in other debt markets. Firms also moved toward longer-term markets, maintaining (or even increasing) their borrowing maturity. As they moved toward domestic markets during international crises, firms reduced the share of foreign currency debt. The opposite occurred during domestic crises. Large firms were the ones that switched between international and domestic markets, affecting aggregate capital raising activity. The analysis of four distinct markets generates patterns consistent with credit supply shocks that are different from those obtained when studying the dynamics of individual markets.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9142",
+    "url": "http://documents.worldbank.org/curated/en/105021580999161805/pdf/Global-Corporate-Debt-during-Crises-Implications-of-Switching-Borrowing-across-Markets.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.549141",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

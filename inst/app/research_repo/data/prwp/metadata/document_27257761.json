@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are poor individuals mainly found in poor households evidence using nutrition data for Africa",
+    "idno": "27257761",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27257761",
+      "title": "Are poor individuals mainly found in poor households evidence using nutrition data for Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brown,Caitlin Susan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion,Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van De Walle,Dominique"
+      }
+    ],
+    "date_created": "2017/03/09",
+    "date_available": "2017/03/09",
+    "date_published": "2017/03/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27257761"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0849d24d6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0849d24d6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Antipoverty policies in developing countries often assume that targeting poor households will be reasonably effective in reaching poor individuals. This paper questions this assumption, using nutritional status as a proxy for individual poverty. The comprehensive assessment for Sub-Saharan Africa reveals that undernourished women and children are spread widely across the distribution of household wealth and consumption. Roughly three-quarters of underweight women and undernourished children are not found in the poorest 20 percent of households, and around half are not found in the poorest 40 percent. The mean joint probability of being an underweight woman and living in the poorest wealth quintile is only 0.03. Countries with higher overall rates of undernutrition tend to have a higher share of undernourished individuals in nonpoor households. The results are consistent with evidence of substantial intrahousehold inequality.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8001",
+    "url": "http://documents.worldbank.org/curated/en/427491489094206188/pdf/WPS8001.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.496537",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

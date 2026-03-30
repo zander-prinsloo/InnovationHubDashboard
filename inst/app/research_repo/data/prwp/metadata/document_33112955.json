@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Reducing Bias in Phone Survey Samples : Effectiveness of Reweighting Techniques Using Face-to-Face Surveys as Frames in Four African Countries",
+    "idno": "33112955",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33112955",
+      "title": "Reducing Bias in Phone Survey Samples : Effectiveness of Reweighting Techniques Using Face-to-Face Surveys as Frames in Four African Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ambel,Alemayehu A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcgee,Kevin Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tsegay,Asmelash Haile"
+      }
+    ],
+    "date_created": "2021/05/26",
+    "date_available": "2021/05/26",
+    "date_published": "2021/05/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33112955"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0886279ab"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0886279ab"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9676"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Several developing countries are currently implementing phone surveys in response to immediate data needs to monitor the socioeconomic impact of COVID-19. However, phone surveys are often subject to coverage and non-response bias that can compromise the representativeness of the sample and the external validity of the estimates obtained from the survey. Using data from high-frequency phone surveys in Ethiopia, Malawi, Nigeria, and Uganda, this study investigates the magnitude and source of biases present in these four surveys and explores the effectiveness of techniques applied to reduce bias. Varying levels of coverage and non-response bias are found in all four countries. The successfully contacted samples in these four countries were biased toward wealthier households with higher living standards. Left unaddressed, this bias would result in biased estimates from the interviewed sample that do not fully reflect the situation of poorer households in the country. However, phone survey biases can be substantially reduced by applying survey weight adjustments using information from the representative survey from which the sample is drawn. Applying these methods to the four surveys resulted in a substantial reduction in bias, although the bias was not fully eradicated. This highlights one of the potential advantages of drawing phone survey samples from existing face-to-face, representative surveys over random digit dialing or using lists from telecom providers where such adjustment methods can be more limited.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      }
+    ],
+    "spatial_coverage": "Africa East ; Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9676",
+    "url": "http://documents.worldbank.org/curated/en/859261622035611710/pdf/Reducing-Bias-in-Phone-Survey-Samples-Effectiveness-of-Reweighting-Techniques-Using-Face-to-Face-Surveys-as-Frames-in-Four-African-Countries.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.244246",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

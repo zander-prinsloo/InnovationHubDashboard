@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What is behind the decline in poverty since 2000 evidence from Bangladesh, Peru and Thailand",
+    "idno": "16739242",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16739242",
+      "title": "What is behind the decline in poverty since 2000 evidence from Bangladesh, Peru and Thailand",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Inchauste Comboni,Maria Gabriela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olivieri,Sergio Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Saavedra Chanduvi,Jaime"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winkler-Seales,Hernan Jorge"
+      }
+    ],
+    "date_created": "2012/09/01",
+    "date_available": "2012/09/01",
+    "date_published": "2012/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16739242"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b33f1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b33f1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper quantifies the contributions of different factors to poverty reduction observed in Bangladesh, Peru and Thailand over the last decade. In contrast to methods that focus on aggregate summary statistics, the method adopted here generates entire counterfactual distributions to account for the contributions of demographics and income from labor and non-labor sources in explaining poverty reduction. The authors find that the most important contributor was the growth in labor income, mostly in the form of farm income in Bangladesh and Thailand and non-farm income in the case of Peru. This growth in labor incomes was driven by higher returns to individual and household endowments, pointing to increases in productivity and real wages as the driving force behind poverty declines. Lower dependency ratios also helped to reduce poverty, particularly in Bangladesh. Non-labor income contributed as well, albeit to a smaller extent, in the form of international remittances in the case of Bangladesh and through public and private transfers in Peru and Thailand. Transfers are more important in explaining the reduction in extreme compared with moderate poverty.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      },
+      {
+        "name": "Thailand",
+        "code": "THA"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; Latin America & Caribbean ; South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6199",
+    "url": "http://documents.worldbank.org/curated/en/685041468119326324/pdf/wps6199.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.036044",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

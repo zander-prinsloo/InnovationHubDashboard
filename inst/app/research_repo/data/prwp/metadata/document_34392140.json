@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using Poverty Lines to Measure Refugee Self-Reliance",
+    "idno": "34392140",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34392140",
+      "title": "Using Poverty Lines to Measure Refugee Self-Reliance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoogeveen,Johannes G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hopper,Robert Benjamin"
+      }
+    ],
+    "date_created": "2024/09/17",
+    "date_available": "2024/09/17",
+    "date_published": "2024/09/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34392140"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4a79187a-173b-4aa6-b4b7-cfe5aaf49a9b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4a79187a-173b-4aa6-b4b7-cfe5aaf49a9b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10910"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Humanitarian models of refugee assistance increasingly promote refugee self-reliance without offering a clear understanding of what constitutes self-reliance, or how to measure it, although measurement is essential to assess whether the promotion of self-reliance has been successful. This paper proposes an approach to measuring self-reliance rooted in global poverty measurement: a refugee is self-reliant if their self-earned income exceeds the locally relevant poverty line. In its empirical application, the paper uses estimates of self-reliance drawn from 11 consumption surveys, which present the universe of data that can be used for such purposes. Refugees in middle-income countries are found to be far more likely to be self-reliant than those in lower income countries, while refugees residing in urban and non-camp settings demonstrate higher levels of self-reliance than those in rural and camp environments, reflecting the presence of greater economic opportunities outside camps and in urban areas. The paper also finds evidence that aid and self-reliance are inversely correlated, with more aid spent in environments where refugee self-reliance is constrained. The paper argues that a different outcome should be envisaged, one in which governments that encourage refugees to be self-reliant receive more aid. Such an approach would be beneficial for refugees, who would gain financial autonomy, and for host country citizens, who often face high levels of poverty and at times are even poorer than refugees.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10910",
+    "url": "http://documents.worldbank.org/curated/en/099319209172425555/pdf/IDU14a79187a1173b14aa61b4b71cfe5aaf49a9b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.199072",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Public infrastructure and private investment in the Middle East and North Africa",
+    "idno": "6054340",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6054340",
+      "title": "Public infrastructure and private investment in the Middle East and North Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Agenor,Pierre-Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nabli,Mustapha Kamel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yousef, Tarik M."
+      }
+    ],
+    "date_created": "2005/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6054340"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a2d44"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a2d44"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors examine the impact of public infrastructure on private capital formation in three countries of the Middle East and North Africa-Egypt, Jordan, and Tunisia. They highlight various channels through which public infrastructure may affect private investment. Then they describe their empirical framework, which is based on a vector autoregression (VAR) model that accounts for flows and (quality-adjusted) stocks of public infrastructure, private investment, as well as changes in output, private sector credit, and the real exchange rate. The authors propose two aggregate measures of the quality of public infrastructure and use principal components to derive a composite indicator. Their analysis suggests that public infrastructure has both \"flow\" and \"stock\" effects on private investment in Egypt, but only a \"stock\" effect in Jordan and Tunisia. But these effects are small and short-lived, reflecting the unfavorable environment for private investment in their sample of countries. Reducing unproductive public capital expenditure and improving quality must be accompanied by policy reforms aimed at limiting investment to infrastructure capital that crowds in the private sector and corrects for fundamental market failures. This will entail privatization and greater involvement of the private sector in infrastructure investment. While infrastructure (in the form of the provision of critical telecommunications, transport, and energy services) is important, other improvements in the environment in which domestic investment is conducted are crucial. These include the need to provide financing on adequate terms and guarantee a secure and efficient justice system.",
+    "ref_country": [
+      {
+        "name": "Middle East and North Africa",
+        "code": "MNA"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3661",
+    "url": "http://documents.worldbank.org/curated/en/578981468278034018/pdf/wps3661.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.609731",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

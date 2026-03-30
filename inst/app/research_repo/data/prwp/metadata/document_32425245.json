@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Stochastic Modeling of Food Insecurity",
+    "idno": "32425245",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32425245",
+      "title": "Stochastic Modeling of Food Insecurity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Dieter"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andree,Bo Pieter Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chamorro Elizondo,Andres Fernando"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Spencer,Phoebe Girouard"
+      }
+    ],
+    "date_created": "2020/09/22",
+    "date_available": "2020/09/22",
+    "date_published": "2020/09/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32425245"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087df6058"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087df52a4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent advances in food insecurity classification have made analytical approaches to predict and inform response to food crises possible. This paper develops a predictive, statistical framework to identify drivers of food insecurity risk with simulation capabilities for scenario analyses, risk assessment and forecasting purposes. It utilizes a panel vector-autoregression to model food insecurity distributions of 15 Sub-Saharan African countries between October 2009 and February 2019. Statistical variable selection methods are employed to identify the most important agronomic, weather, conflict and economic variables. The paper finds that food insecurity dynamics are asymmetric and past-dependent, with low insecurity states more likely to transition to high insecurity states than vice versa. Conflict variables are more relevant for dynamics in highly critical stages, while agronomic and weather variables are more important for less critical states. Food prices are predictive for all cases. A Bayesian extension is introduced to incorporate expert opinions through the use of priors, which lead to significant improvements in model performance.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9413",
+    "url": "http://documents.worldbank.org/curated/en/911801600788869914/pdf/Stochastic-Modeling-of-Food-Insecurity.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.465280",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

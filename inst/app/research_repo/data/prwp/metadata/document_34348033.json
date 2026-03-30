@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Effect of Pricing Instruments on CO2 Emissions: Empirical Evidence from Australia",
+    "idno": "34348033",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34348033",
+      "title": "The Effect of Pricing Instruments on CO2 Emissions: Empirical Evidence from Australia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraynak,Daniel Christopher"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timilsina,Govinda R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alberini,Anna"
+      }
+    ],
+    "date_created": "2024/06/24",
+    "date_available": "2024/06/24",
+    "date_published": "2024/06/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34348033"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-22df653f-8e90-4a0f-9fda-6d3be2f31cb2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-22df653f-8e90-4a0f-9fda-6d3be2f31cb2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10812"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study investigates the emission reduction effects of a mix of market-based climate policies in Australia, where a dramatic ramp-up of incentives for renewable electricity generation was paired with a short-lived carbon tax. A synthetic control method is employed to estimate the joint effect of the policies. Contrary to the general perception in the existing literature, this study shows that the green electricity and carbon tax policies together caused a 7 percent reduction in emissions per capita from 2009 to 2018. The emission reduction impacts attenuated when the carbon price was repealed, and the renewable targets were softened. The study also finds that the policy mix did not reduce the production of Australian coal and may have expanded its export. The findings suggest that even imperfect climate change mitigation policies can have substantial and persistent effects on emissions as well as unintended consequences.",
+    "ref_country": [
+      {
+        "name": "Australia",
+        "code": "AUS"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10812",
+    "url": "http://documents.worldbank.org/curated/en/099216506242410116/pdf/IDU122df653f18e9014a0f19fda16d3be2f31cb2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.068049",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

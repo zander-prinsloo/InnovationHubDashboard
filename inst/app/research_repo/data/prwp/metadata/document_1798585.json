@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Money demand in Venezuela : multiple cycle extraction in a cointegration frmaework",
+    "idno": "1798585",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1798585",
+      "title": "Money demand in Venezuela : multiple cycle extraction in a cointegration frmaework",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cuevas,Mario Adolfo"
+      }
+    ],
+    "date_created": "2002/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1798585"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05446"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05446"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Money demand in Venezuela is modeled using structural time series and error correction approaches, for the period 1993.1 to 2001.4. The preferred model features seasonal cointegration and was estimated following a structural time series approach. There are similarities in the long-run behavior of money demand associated with the structural time series and error correction approaches. Estimated short-run dynamics are more fragile, with the structural time series modeling approach providing richer insights into the adjustment dynamics of money demand. A cycle with a three-year period has been found to be common to money demand, real GDP, and opportunity cost variables. This cycle is robust to changes in model specification, including choice of opportunity cost variables. Higher frequency cycles are also found to exist, but are more sensitive to model specification. Results are also presented for a combined approach that takes advantage of error correction models, as well as insights into short-run dynamics afforded by the structural time series modeling approach.",
+    "ref_country": [
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2844",
+    "url": "http://documents.worldbank.org/curated/en/451001468760795039/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:34.433313",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Children's growth and poverty in rural Guatemala",
+    "idno": "440001",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440001",
+      "title": "Children's growth and poverty in rural Guatemala",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gragnolati,Michele"
+      }
+    ],
+    "date_created": "1999/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440001"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04db8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04db8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author investigates the extent and determinants of poor child health and nutrition in rural Guatemala, as reflected in attained height. Exploiting a rich data set on relevant social, economic, ethnic, and geographic characteristics, he estimates the role played by exogeneous individual, household, and community covariates in shaping differentials in children's height. Then he addresses empirical questions ignored in previous anthropometric research, such as the distribution of child stunting across communities and the magnitude of intra-family correlation of height-for-age outcomes, before and after controlling for observed covariates. The author estimates are guided by the economic model of the family and the proximate determinants framework. The author fits multilevel models to hierarchically clustered data to control for family and community heterogeneity. His results confirm findings from previous research, suggesting that poor child growth outcomes in Guatemala are the result of widespread poverty. He finds that height-for-age differentials between children of latino mothers and children of indigenous mothers who do not speak Spanish are larger among children living in communities with better health care facilities. Estimates derived from multilevel models reveal much clustering of child height-for-age outcomes within families and communities. The models account for most of the community-level variation in child growth patterns, but explain only half of the overall intra-family correlation.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2193",
+    "url": "http://documents.worldbank.org/curated/en/920691468757211914/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.696602",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

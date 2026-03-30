@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Bankruptcy reorganization through markets : Auction-based Creditor Ordering by Reducing Debts (ACCORD)",
+    "idno": "439476",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "439476",
+      "title": "Bankruptcy reorganization through markets : Auction-based Creditor Ordering by Reducing Debts (ACCORD)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hausch, Donald B."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ramachandran, S."
+      }
+    ],
+    "date_created": "1999/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "439476"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b62"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b62"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors further develop such a market-based approach for situations in which claimants are severely cash-constrained and there is good reason for existing owner-managers to remain in control. Under the ACCORD scheme-Auction-based Creditor Ordering by Reducing Debts-creditors remain creditors but form a queue, to be serviced in sequence from the firm's operating cash flows. Creditors bid for their position in this queue. Those accepting greater proportionate reductions in the face value of their claims (perhaps most pessimistic about the firm's prospects) are placed ahead of the others. A preexisting hierarchy of claims is honored by having claimants bid for their positions within the relevant segment of the queue. No one in the queue, including owners (whoa re last), is paid anything until the (reduced) debts of the first in line are fully discharged. The queue then moves up and the next claimant in line is serviced. Deferred creditors, who must wait their turn for the firm's operating cash surpluses, are not junior creditors in the conventional sense. The authors determine equilibrium bidding strategies, showing that the firm's aggregate debts would be reduced to a more serviceable level. This would improve the incentives of the firm's owner-managers, who remain in control, to operate the firm efficiently. Economic resources would thus be better used, and losses already incurred would be efficiently and quickly allocated among creditors. The authors suggest that ACCORD would be appropriate for East Asia, where, despite new bankruptcy laws, inexperienced courts are unlikely to nudge creditors into a quick negotiated agreement nor to be able to cope with systemic bankruptcy. Moreover, when the government is a major unsatisfied creditor, whose agents may not act in the taxpayers' best interests, market-based solutions might remove political interference from restructuring decisions. Neither owners nor creditors would be worse off than they are now.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2230",
+    "url": "http://documents.worldbank.org/curated/en/483471468766211767/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.000156",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

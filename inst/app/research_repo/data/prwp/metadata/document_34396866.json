@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Spatial Inequality and Informality in Kenya’s Firm Network",
+    "idno": "34396866",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34396866",
+      "title": "Spatial Inequality and Informality in Kenya’s Firm Network",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wiedemann,Verena Christina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kirui,Benard K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khandelwal,Vatsal"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chacha,Peter W."
+      }
+    ],
+    "date_created": "2024/09/30",
+    "date_available": "2024/09/30",
+    "date_published": "2024/09/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34396866"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-cbcafe95-348e-47c4-81b2-8f42b4ec6da5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-cbcafe95-348e-47c4-81b2-8f42b4ec6da5"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10932"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The spatial configuration of domestic supply chains plays a crucial role in the transmission of shocks. This paper investigates the representativeness of formal firm-to-firm trade data in capturing overall domestic trade patterns in Kenya &#x2014; a context with a high prevalence of informal economic activity. It first documents a series of stylized facts and shows that informal economic activity is not randomly distributed across space and sectors, with a higher incidence of informality in downstream sectors and smaller regional markets. The paper then links granular transaction-level data on formal firms with data on informal economic activity to estimate a structural model and predict a counterfactual network that accounts for informal firms. The findings show that formal sector data overstates the spatial concentration of aggregate trade flows and under accounts for trade within regions and across regions with stronger social ties. Additionally, the higher the informality in a sector and region is, the more formal sector data underestimates its vulnerability to domestic output shocks and overestimate its vulnerability to import shocks.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10932",
+    "url": "http://documents.worldbank.org/curated/en/099158309302418763/pdf/IDU1cbcafe951348e147c4181b218f42b4ec6da5.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.073721",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

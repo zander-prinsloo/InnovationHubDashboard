@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Price Adjustments and Poverty Measurement",
+    "idno": "34051216",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34051216",
+      "title": "Price Adjustments and Poverty Measurement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amendola,Nicola"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mancini,Giulia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Redaelli,Silvia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vecchi,Giovanni"
+      }
+    ],
+    "date_created": "2023/04/27",
+    "date_available": "2023/04/27",
+    "date_published": "2023/04/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34051216"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-6af3b518-9e4e-4984-b03f-3e26a6c1f357"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-6af3b518-9e4e-4984-b03f-3e26a6c1f357"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10426"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Measuring poverty entails making interpersonal welfare comparisons, that should account for differences in prices faced by households, both over time and across space. This paper investigates the impact of seemingly minor differences in the practical implementation of price adjustments, by developing an analytical framework that is consistent with standard consumer theory and mindful of the data limitations faced by practitioners. The main result is at odds with common sense: even when multiple price indexes are available, say a food and a nonfood Consumer Price Index, it turns out that using a single price index, the total Consumer Price Index, to adjust the consumption aggregate is recommended. The practice of adjusting the components of the consumption aggregate separately, using matching deflators&#x2014;food expenditure with the food index and nonfood expenditure with the nonfood index&#x2014;can lead to a systematic bias in the welfare measure, and consequently in poverty and inequality measures. The direction of the bias can be easily predicted based on the price level and household consumption patterns. On the interplay between spatial and temporal deflation, the findings show that temporal deflation should be carried out before implementing adjustments to spatial cost-of-living differences. The paper illustrates these findings using the Islamic Republic of Iran&#x2019;s 2019 Household Income and Expenditure survey: the bias in the headcount poverty rate due to incorrect deflation is substantive (5&#x2013;10 percent for estimates at the national level, 15&#x2013;20 percent in urban and rural areas, and more than 30 percent for district-level headcount rates). Higher-order Foster-Greer-Thorbecke poverty measures are even more affected.",
+    "ref_country": [
+      {
+        "name": "Iran, Islamic Republic of",
+        "code": "IRN"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPs10426",
+    "url": "http://documents.worldbank.org/curated/en/099311104272341601/pdf/IDU06af3b51809e4e049840b03f03e26a6c1f357.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.434775",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Productivity, innovation and growth in Sri Lanka : an empirical investigation",
+    "idno": "17211806",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17211806",
+      "title": "Productivity, innovation and growth in Sri Lanka : an empirical investigation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dutz,Mark Andrew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "O'Connell,Stephen A."
+      }
+    ],
+    "date_created": "2013/02/01",
+    "date_available": "2013/02/01",
+    "date_published": "2013/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17211806"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c934c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c934c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study investigates the impact of key business environment indicators on productivity, innovation, and growth in Sri Lanka through a cluster-level productivity analysis, a firm-level total factor productivity analysis, and a firm-level innovation analysis. For the cluster-level productivity analysis (as measured by output and value added per worker), it combines two established data sources in a novel way by importing average 'industry-size-location' cluster-level business environment variables from the World Bank Enterprise Survey to the comprehensive Sri Lanka Census of Industry productivity data available for similar clusters of enterprises. For the firm-level total factor productivity analysis, it compares data from the 2011 World Bank Enterprise Survey with those from 2004. For the firm-level innovation analysis, it compares findings from the 2011 World Bank Enterprise Survey with a representative sample of enterprises collected as part of the Sri Lanka Longitudinal Survey of Enterprises. The empirical findings highlight the importance -- for cluster-level productivity, firm-level total factor productivity, and innovation -- of connectivity to global knowledge (reflected by one or more of export participation, directly imported inputs, foreign ownership, and use of the internet), availability of skills, access to finance, and competition. The paper also presents evidence, under the assumption that the samples are statistically representative, that both allocative and average technical efficiency have improved, with allocative efficiency increasing roughly four-fold between 2003 and 2010, and accounting for the overwhelming share of the aggregate increase in total factor productivity over this time period. Most of the improvement in allocative efficiency has occurred among larger firms, and in large rather than small cities.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6354",
+    "url": "http://documents.worldbank.org/curated/en/308331468301523413/pdf/wps6354.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.987293",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "New estimates of extreme poverty for children",
+    "idno": "26832168",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26832168",
+      "title": "New estimates of extreme poverty for children",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Suarez Becerra,Pablo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Evans,Martin C"
+      }
+    ],
+    "date_created": "2016/10/02",
+    "date_available": "2016/10/02",
+    "date_published": "2016/10/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26832168"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0845e9186"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0845e11af"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses household surveys from 89 countries to estimate the rate of extreme poverty among children in the developing world. The estimates are based on the same surveys and welfare measures as official World Bank poverty estimates. Of children under age 18 years, 19.5 percent are estimated to live on less than $1.90 per day, as opposed to 9.2 percent of adults ages 18 and above. Poverty rates are high for children ages 0 to 4 years, slightly higher among ages 5 to 9 years, and steadily decline for successively older age groups. The analysis also examines the sensitivity of age-based poverty estimates to the use of alternative household equivalence scales when adjusting the international poverty line accordingly. Child poverty rates remain above 17 percent, and are greater than adult poverty rates, for all reasonable two-parameter equivalence scales.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7845",
+    "url": "http://documents.worldbank.org/curated/en/402511475417572525/pdf/WPS7845.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.791337",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

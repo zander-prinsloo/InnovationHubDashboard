@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Effects of Transportation Infrastructure on Deforestation in the Amazon : A General Equilibrium Approach",
+    "idno": "34045289",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34045289",
+      "title": "The Effects of Transportation Infrastructure on Deforestation in the Amazon : A General Equilibrium Approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Assunção,Juliano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carlquist Rabelo De Araujo,Rafael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amorim Braganca,Arthur"
+      }
+    ],
+    "date_created": "2023/04/19",
+    "date_available": "2023/04/19",
+    "date_published": "2023/04/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34045289"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-114c90f5-59af-4341-a34b-cf206b4ecebb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-114c90f5-59af-4341-a34b-cf206b4ecebb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10415"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Investments in transportation infrastructure can impact the environment beyond their immediate surroundings. This paper builds an interregional trade model to estimate the general equilibrium effects of changes in infrastructure on deforestation. Using panel data on the evolution of the transportation network in Brazil and land use data in the Amazon, the paper estimates the model and finds sizable effects of infrastructure on deforestation. Model simulations show that ignoring general equilibrium underestimates the impacts of deforestation by one-quarter. The paper also shows that the model can be used for evaluation of the deforestation induced by individual projects, which is an essential input for public policies.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10415",
+    "url": "http://documents.worldbank.org/curated/en/099753004192311879/pdf/IDU0114c90f5059af043410a34b0cf206b4ecebb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.502347",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

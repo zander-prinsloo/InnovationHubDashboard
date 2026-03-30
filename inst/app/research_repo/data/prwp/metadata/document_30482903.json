@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Proxy Means Test for Sri Lanka",
+    "idno": "30482903",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30482903",
+      "title": "A Proxy Means Test for Sri Lanka",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sebastian,Ashwini Rekha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shivakumaran,Shivapragasam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Silwal,Ani Rudra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Walker,Thomas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoshida,Nobuo"
+      }
+    ],
+    "date_created": "2018/10/09",
+    "date_available": "2018/10/09",
+    "date_published": "2018/10/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30482903"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08641485d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08641485d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper intends to inform the effort of the Sri Lankan government to reform the targeting efficacy of its social protection programs, in particular, Samurdhi, which currently distributes benefits based on self-reported income. The paper develops a proxy means test for Sri Lanka based on the Household Income and Expenditure Survey 2016 and evaluates its performance for targeting benefits of Samurdhi. The paper considers a range of models and policy parameters that could be applied depending on data availability and country preferences. The results indicate that switching to a proxy means test could considerably improve the targeting performance of Samurdhi and would significantly improve the poverty impact of the program. The analysis finds that the performance of the proposed proxy means test model suffers when the coefficients are estimated from samples smaller than 1,000 households. However, the analysis does not find a similar loss of model performance when the model is estimated from seasonal data, provided the sample size is sufficiently large. The proposed model could be applied to targeting a variety of safety net programs after validating and refining the model by conducting a pilot survey.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8605",
+    "url": "http://documents.worldbank.org/curated/en/911001539090001831/pdf/WPS8605.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.796019",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

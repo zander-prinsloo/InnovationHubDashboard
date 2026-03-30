@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Understanding the impact of economic shocks on labor market outcomes in developing countries : an application to Indonesia and Mexico",
+    "idno": "12157833",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12157833",
+      "title": "Understanding the impact of economic shocks on labor market outcomes in developing countries : an application to Indonesia and Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gutierrez,Catalina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paci,Pierella"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Park,Beom Sock"
+      }
+    ],
+    "date_created": "2010/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12157833"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bcc8e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bcc8e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In this paper the authors use a search and matching model of multi-sector labor markets, to understand the channels through which economic shocks affect labor market outcomes in developing countries. In the model workers can be employed in agriculture, formal or informal urban jobs, or unemployed. Economic shocks are manifested as either increased turbulence in the formal/informal sectors or a decrease in overall sectoral productivity. By calibrating the model to Indonesia and Mexico, the authors are able to understand how the 1998 Indonesian crisis and the 2001 Mexican recession translated into labor market outcomes. They then venture to simulate how the current financial crisis might affect the allocation of labor and earnings across sectors, in these countries. The results suggest that in both countries past crises have increased the degree of turbulence of the formal sector, increasing job destruction. However, while in Indonesia the crisis affected the overall formal sector productivity, this was not the case in Mexico. This explains the larger blow to formal wages -- relative to the size of the shock- witnessed by Indonesian workers. The response of the informal sector was also different: In both countries the informal sector was able to act as a buffer, as relative earnings increased. However, while in Mexico it became much harder to find informal sector opportunities and easier to keep the job once found; in Indonesia turbulence in the informal sector increased substantially increasing the job destruction rate of informal jobs and limiting the cushioning role that the informal sector might have played. The agricultural sector was spared from the shock in both countries. In Indonesia, it actually benefited from an unusual exogenous increase in the price of rise. The simulations show that if either the informal or agricultural sectors are spared from the shocks, large reallocations of labor might occur, and the overall effect of the shock is smaller. Instead, if these sectors cant buffer the shock, the reallocation of labor is much smaller, but earnings in the formal sector drop substantially. The authors also explore the impact of alternative policies. They find that in relatively flexible markets where informality can be seen more as a choice rather than as queuing, unemployment benefits and informal employment subsidies may have paradoxical effects, by discouraging formal search. Instead, policies targeted at creating informal employment and boosting formal TFP growth have the desired effects.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; Latin America & Caribbean ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5283",
+    "url": "http://documents.worldbank.org/curated/en/223781468148170391/pdf/WPS5283.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.819116",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

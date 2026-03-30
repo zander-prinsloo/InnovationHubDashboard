@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Tracking Methane Emissions by Satellite : A New World Bank Database andCase Study for Irrigated Rice Production",
+    "idno": "33932899",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33932899",
+      "title": "Tracking Methane Emissions by Satellite : A New World Bank Database andCase Study for Irrigated Rice Production",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David"
+      }
+    ],
+    "date_created": "2022/11/07",
+    "date_available": "2022/11/07",
+    "date_published": "2022/11/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33932899"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d18b63b5-20e7-4f2e-abd7-f1371d118996"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d18b63b5-20e7-4f2e-abd7-f1371d118996"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10224"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Atmospheric methane is a potent greenhouse gas that has accounted for 23 percent of radiative forcing in the lower atmosphere since 1750. Since methane has a much shorter atmospheric duration than carbon dioxide and other greenhouse gases, it provides a critical opportunity for near-term atmospheric greenhouse gas reduction. Thus, 122 countries have joined the recently launched Global Methane Pledge to reduce methane emissions at least 30 percent from 2020 levels by 2030. Unfortunately, the Pledge confronts a serious information problem at the outset: the near-total absence of directly measured data for problem diagnosis, program design, and performance assessment. At present, priority areas for emissions reduction are identified with spatially formatted &#x201c;bottom-up&#x201d; emissions inventories, such as the Emissions Database for Global Atmospheric Research, which combines sectoral activity data with broadly calibrated emissions factors from engineering studies. This paper addresses the information problem by introducing a new World Bank database of monthly atmospheric methane concentrations, calculated for a high-resolution spatial grid from data provided by the European Space Agency&#x2019;s Sentinel-5P satellite platform. It illustrates the potential utility of the database with a global study of methane emissions from irrigated rice production, which accounts for about 10 percent of agricultural methane emissions. A comparative analysis suggests that the Sentinel-5P data supplement the Emissions Database for Global Atmospheric Research data with more fine-grained spatial information, which may support local programs to track, verify, and reward adoption of methane-reducing rice production techniques. If this approach proves valuable for irrigated rice production, it seems likely to work for other methane sources as well.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10224",
+    "url": "http://documents.worldbank.org/curated/en/099547111072231680/pdf/IDU0d18b63b5020e704f2e0abd70f1371d118996.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.627627",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

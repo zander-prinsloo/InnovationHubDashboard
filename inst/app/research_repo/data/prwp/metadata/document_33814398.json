@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Green Investment by Firms : Finance or Climate Driven",
+    "idno": "33814398",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33814398",
+      "title": "Green Investment by Firms : Finance or Climate Driven",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kalantzis,Fotios"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schweiger,Helena"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dominguez,Sofia"
+      }
+    ],
+    "date_created": "2022/06/08",
+    "date_available": "2022/06/09",
+    "date_published": "2022/06/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33814398"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-2bf347ba-8605-4010-8674-10ed29aa4f84"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-2bf347ba-8605-4010-8674-10ed29aa4f84"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10064"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is limited research on the determinants of firms’ green investment strategies in developing regions despite their importance to meet global climate change targets. Understanding how changes in firm climate investment affect environmental performance is essential for policy makers and firms alike. Based on unique data from the joint European Bank for Reconstruction and Development–European Investment Bank–World Bank Group Enterprise Surveys, this paper empirically examines the role of access to finance and green management practices in firms’ green investment strategies. Based on logistic regressions, the econometric analysis finds a positive influence of green management practices on the number of mitigation measures implemented. By contrast, firms that are financially constrained are less likely to pursue many mitigation measures. Finally, the results do not show significant differences in the impact of financial constraints on the type of green investment, but indicate that better green management practices lead to a higher likelihood of investing in both capital- and non-capital-intensive green measures.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10064",
+    "url": "http://documents.worldbank.org/curated/en/099725305102236711/pdf/IDU02bf347ba086050401008674010ed29aa4f84.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.011333",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

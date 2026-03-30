@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The response of Japanese and U.S. steel prices to changes in the yen - dollar exchange rate",
+    "idno": "700325",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700325",
+      "title": "The response of Japanese and U.S. steel prices to changes in the yen - dollar exchange rate",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Varangis, Panos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Duncan, Ronald C."
+      }
+    ],
+    "date_created": "1990/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700325"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a9ab5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a9ab5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Import prices in the U.S. have not responded as expected to large fluctuations in the exchange rate. This paper analyzes the response of Japanese and U.S. steel prices to changes in the yen-dollar exchange rate (the exchange rate pass-through, or percentage change in import prices as a result of changes in the exchange rate or the exporter's cost of production). It concludes that: (a) the magnitude of elasticity of the pass-through depends on the elasticity of import demand, the convexity of the demand curve, and the elasticity of the marginal cost of production output; (b) in a competitive pricing market the pass-through is equal to 1 only if marginal costs are constant; (c) if marginal costs are increasing, the pass-through is less than 1; (d) the pass-through can be greater than 1 for both competitive and noncompetitive pricing markets if marginal costs are declining and the import demand curve is very convex; (e) if marginal costs are declining fast enough when production is increasing, the pass-through can be greater than 1 even if the demand curve is not convex; and (f) the yen-dollar exchange rate is not fully passed through in steel prices. When the exchange rate changes, both U.S. and Japanese steel prices change; U.S. producers adjust prices immediately, whereas Japanese are conservative. One implication is that devaluation may lead to a shift of resources within the export sector, from higher pass-through sectors to lower pass-through sectors.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS367",
+    "url": "http://documents.worldbank.org/curated/en/813071468741333189/The-response-of-Japanese-and-U-S-steel-prices-to-changes-in-the-yen-dollar-exchange-rate",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:05.066573",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

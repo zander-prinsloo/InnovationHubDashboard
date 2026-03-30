@@ -1,0 +1,230 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Statistical Matching for Combining the European Survey on Income and Living Conditions and the Household Budget Surveys: An Evaluation of Energy Expenditures in Bulgaria",
+    "idno": "34348356",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34348356",
+      "title": "Statistical Matching for Combining the European Survey on Income and Living Conditions and the Household Budget Surveys: An Evaluation of Energy Expenditures in Bulgaria",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rude,Britta Laurin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robayo,Monica"
+      }
+    ],
+    "date_created": "2024/06/24",
+    "date_available": "2024/06/24",
+    "date_published": "2024/06/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34348356"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8642b8e2-60eb-42ff-8e24-ebb95b21d260"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8642b8e2-60eb-42ff-8e24-ebb95b21d260"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10818"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Energy poverty has gained attention in the context of increasing energy prices and the recent energy crisis in Europe. However, measuring energy poverty and characterizing the energy poor are challenging, given that expenditure surveys (household budget surveys) often need more information to characterize the energy poor. Additionally, there is no consensus on how to measure and monitor energy poverty. It is also unknown how and why it differs from income poverty. While income poverty relies on a well-defined poverty line, energy poverty does not have a clearly defined energy poverty line that indicates the minimum energy necessary for satisfying basic needs. In addition, monetary poverty and other welfare measures are measured with income in EU countries using the European Survey of Income and Living Conditions. Therefore, it is not straightforward to characterize energy affordability among the monetary income poor or to estimate the overlap between official income poverty and energy poverty. This paper explores statistical matching as a potential strategy to overcome these data challenges in the context of Bulgaria. Via data fusion, a unique dataset is generated that contains information on energy spending shares, income-based indicators of poverty and inequality, and additional variables on households' living conditions and welfare. For this purpose, the paper first generates a harmonized dataset, which consists of the European Survey of Income and Living Conditions and household budget survey data. It then employs different imputation models and chooses the best-performing one to impute energy spending shares into data. Based on the resulting dataset, it overlays energy poverty with monetary poverty. The findings show that a large share of the energy poor is not income poor, calling for differentiated policy measures to tackle energy poverty. Importantly, these findings depend on the underlying definition of energy poverty. This paper contributes to a growing body of literature exploring the potential of statistical matching to improve the current data environment in the European Union.",
+    "ref_country": [
+      {
+        "name": "EU Accession Countries",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10818",
+    "url": "http://documents.worldbank.org/curated/en/099918006242435645/pdf/IDU18642b8e2160eb142ff18e241ebb95b21d260.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "participation and civic engagement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social inclusion",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.053516",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

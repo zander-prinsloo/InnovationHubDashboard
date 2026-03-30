@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of recall periods on reported morbidity and health seeking behavior",
+    "idno": "14877406",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14877406",
+      "title": "The impact of recall periods on reported morbidity and health seeking behavior",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Das, Jishnu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hammer, Jeffrey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanchez-Paramo, Carolina"
+      }
+    ],
+    "date_created": "2011/08/01",
+    "date_available": "2011/08/01",
+    "date_published": "2011/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14877406"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c222d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c222d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Between 2000 and 2002, the authors followed 1621 individuals in Delhi, India using a combination of weekly and monthly-recall health questionnaires. In 2008, they augmented these data with another 8 weeks of surveys during which households were experimentally allocated to surveys with different recall periods in the second half of the survey. This paper shows that the length of the recall period had a large impact on reported morbidity, doctor visits, time spent sick, whether at least one day of work/school was lost due to sickness, and the reported use of self-medication. The effects are more pronounced among the poor than the rich. In one example, differential recall effects across income groups reverse the sign of the gradient between doctor visits and per-capita expenditures such that the poor use health care providers more than the rich in the weekly recall surveys but less in monthly recall surveys. The authors hypothesize that illnesses -- especially among the poor -- are no longer perceived as \"extraordinary events\" but have become part of \"normal\" life. They discuss the implications of these results for health survey methodology, and the economic interpretation of sickness in poor populations.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5778",
+    "url": "http://documents.worldbank.org/curated/en/154581468260357974/pdf/WPS5778.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.089165",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

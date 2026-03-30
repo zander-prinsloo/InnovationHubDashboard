@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Analyzing the sustainability of fiscal deficits in developing countries",
+    "idno": "438489",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438489",
+      "title": "Analyzing the sustainability of fiscal deficits in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cuddington,John T."
+      }
+    ],
+    "date_created": "1997/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438489"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ab3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ab3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author surveys the recent literature on the sustainability of fiscal deficits, most of which focuses on the United States and other industrial countries, to see how useful it might be in developing countries. The accounting approach to analysis focuses on steady states and assumes that a fiscal deficit (or surplus) that leads to unchanging debt/GDP ratios over time is sustainable. The data required to apply this approach are relatively modest. The present-value constraint (PVC) approach assumes that the sustainability of fiscal policy depends ultimately on what level of fiscal deficit is financeable, which depends in turn on the behavior of lenders. Recent empirical implementations of this approach concentrate on methods for testing whether maintaining current fiscal policy (as captured by historical time series on government spending, revenue, and debt) violates the present-value-constraint or, equivalently, the no-Ponzi-game (NPG) condition. The econometric methods used in this literature (such as tests for the prsence of unit roots and cointegration) require long-time series over a constant fiscal regime, requirements that may be unrealistic in many countries. Typically, analyzing the sustainability of deficits in developing countries involves issues that are not particularly important in industrialized countries. Developing countries rely far more on seignorage to finance deficits, although the degree of that reliance varies greatly among countries; the simultaneous presence of both domestic and foreign-currency borrowing is central in a growing number of developing countries; and concessional lending and grants may also be an important part of fiscal finance. The author generalizes the PVC approach to economies that use money-financing of deficits, economies for which concessional financing is available, and economies that incur both domestic and foreign debt. He proposes a possible compromise in approaches: rather than use time series techniques to describe constant fiscal regimes, one can specify fiscal rules into the foreseeable future based on country-specific information about fiscal targets (perhaps as stated in IMF stabilization programs). Then one can calculate the implied time path for domestic and foreign debt, given current debt levels as initial conditions. Using this hypothesized time path for debt, one can ask whether it satisfies the no-Ponzi-game condition. If it does, fiscal policy is -by this definition- sustainable. If the NPG condition is violated, fiscal policy is unsustainable.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1784",
+    "url": "http://documents.worldbank.org/curated/en/686211468765620625/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:50.049667",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

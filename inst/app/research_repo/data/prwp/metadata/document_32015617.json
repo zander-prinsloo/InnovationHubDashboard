@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Cabinet Size and Governance in Sub-Saharan Africa",
+    "idno": "32015617",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32015617",
+      "title": "Cabinet Size and Governance in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wehner,Joachim Hans-Georg"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mills,Linnea Cecilia"
+      }
+    ],
+    "date_created": "2020/05/06",
+    "date_available": "2020/05/06",
+    "date_published": "2020/05/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32015617"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0878e0d2f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0878e0d2f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There is frequent public and media concern over the cost of bloated cabinets in many Sub-Saharan African countries. Scholarship on elite clientelism links cabinet positions with corruption and practices that undermine sound policy making. This paper presents new data on the number of ministers in African governments and shows a negative association with several measures of governance. The associations are robust in a regression framework that exploits within-country variation over time and accounts for various potential confounders. These patterns suggest that policy makers, donors, investors, and citizens should pay close attention to the number of ministers appointed to the cabinet. Although the paper cautions against simplistic policy prescriptions, a sizable increase in the number of ministers is likely bad news for governance.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9232",
+    "url": "http://documents.worldbank.org/curated/en/378931588794736471/pdf/Cabinet-Size-and-Governance-in-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.895289",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

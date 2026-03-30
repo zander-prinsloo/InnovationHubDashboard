@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Macroeconomic implications of financial imperfections : a survey",
+    "idno": "28724101",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "28724101",
+      "title": "Macroeconomic implications of financial imperfections : a survey",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kose,Ayhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Claessens ,Stijn"
+      }
+    ],
+    "date_created": "2017/11/28",
+    "date_available": "2017/11/28",
+    "date_published": "2017/11/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "28724101"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08539b510"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08539b510"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper surveys the theoretical and empirical literature on the macroeconomic implications of financial imperfections. It focuses on two major channels through which financial imperfections can affect macroeconomic outcomes. The first channel, which operates through the demand side of finance and is captured by financial accelerator-type mechanisms, describes how changes in borrowers' balance sheets can affect their access to finance and thereby amplify and propagate economic and financial shocks. The second channel, which is associated with the supply side of finance, emphasises the implications of changes in financial intermediaries' balance sheets for the supply of credit, liquidity and asset prices, and, consequently, for macroeconomic outcomes. These channels have been shown to be important in explaining the linkages between the real economy and the financial sector. That said, many questions remain.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8260",
+    "url": "http://documents.worldbank.org/curated/en/336871511879910570/pdf/WPS8260.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.562994",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Revisiting the Trade-Creating Effects of Non-Tariff Barriers",
+    "idno": "34009866",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34009866",
+      "title": "Revisiting the Trade-Creating Effects of Non-Tariff Barriers",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Felbermayr,Gabriel Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Teti,Feodora Francesca Angelika"
+      }
+    ],
+    "date_created": "2023/02/27",
+    "date_available": "2023/02/27",
+    "date_published": "2023/02/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34009866"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8ddcaa26-b1ed-47e8-b495-d3f0a1acbd2f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8ddcaa26-b1ed-47e8-b495-d3f0a1acbd2f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10322"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Modern regional trade agreements focus on promoting bilateral exchange mostly by lowering non-tariff barriers to trade. But do existing regional trade agreements actually deliver what they promise? This paper argues that existing results in the literature are upward biased because of measurement error in a crucial control variable: tariff rates. Using a novel data set of high-quality tariff information, the paper shows that, on average, non-tariff barriers reductions in deep regional trade agreements boost services trade but not goods trade. Estimating separate non-tariff barrier effects for each regional trade agreement reveals strong heterogeneity: only 23 percent of all regional trade agreements seem to lower non-tariff barriers. For most regional trade agreements, we fail to find any significant effect, while 9 percent appear to reduce trade, possibly because a more balanced regulation evens out comparative advantages. The trade agreements that foster trade the most include non-discriminatory trade policy changes.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10322",
+    "url": "http://documents.worldbank.org/curated/en/099618302272351037/pdf/IDU08ddcaa260b1ed047e80b4950d3f0a1acbd2f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.998757",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

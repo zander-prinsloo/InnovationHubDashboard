@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Weathering Shocks : Unraveling the Effects of Short-Term Weather Shocks on Poverty in Paraguay",
+    "idno": "34418587",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34418587",
+      "title": "Weathering Shocks : Unraveling the Effects of Short-Term Weather Shocks on Poverty in Paraguay",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Janz,Teresa"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gassmann,Franziska"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "de Ervin,Lyliana Gayoso"
+      }
+    ],
+    "date_created": "2024/11/06",
+    "date_available": "2024/11/06",
+    "date_published": "2024/11/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34418587"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8dbff1ed-233a-447c-90fc-3c8ef3b583e8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8dbff1ed-233a-447c-90fc-3c8ef3b583e8"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10970"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In Paraguay, poverty reduction has stalled since 2014 due to a deceleration in economic growth, which has been argued to be partly due to a series of climate-related events. Nevertheless, little is known about the impacts of climate-related shocks on the poor. This study analyzes the extent to which short-term weather shocks have affected incomes and poverty in Paraguay. It combines data from the yearly household survey series, the Permanent Continuous Household Survey; the fifth generation European Centre for Medium-Range Weather Forecasts atmospheric reanalysis of the global climate temperature data; and Climate Hazards Group InfraRed Precipitation with Station data from 2004 to 2019. The research design exploits variation in weather shocks across districts and time, using ordinary least squares pooled regression analysis. The results show that heat shocks led to significant household income reductions: 5 percent in urban areas and up to 8.8 percent in rural areas, on average. Heat shocks also increased poverty by 1.7 and 4.2 percentage points in urban and rural areas, respectively. Floods primarily affected urban areas, increasing poverty by 1.9 percentage points. The impacts vary substantially across regions and household characteristics: female-headed households in rural areas are particularly vulnerable to heat shocks, while households that are active in the primary sector suffer most from both heat and drought shocks. These findings evidence the disproportional impacts of short-term weather shocks on income and poverty across regions and household characteristics. The results highlight the need to consider actions to promote adaptation and climate risk strategies tailored to subpopulations that are vulnerable to climate, to enhance overall resilience in the country.",
+    "ref_country": [
+      {
+        "name": "Paraguay",
+        "code": "PRY"
+      },
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10970",
+    "url": "http://documents.worldbank.org/curated/en/099331411062421620/pdf/IDU18dbff1ed1233a1447c190fc13c8ef3b583e8.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.777590",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

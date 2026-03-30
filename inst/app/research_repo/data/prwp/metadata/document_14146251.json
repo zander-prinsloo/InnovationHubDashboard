@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor market transitions and social security in Colombia",
+    "idno": "14146251",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14146251",
+      "title": "Labor market transitions and social security in Colombia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bohorquez Penuela,Camilo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cuesta Leiva,Jose Antonio"
+      }
+    ],
+    "date_created": "2011/05/01",
+    "date_available": "2011/05/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14146251"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c188d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c188d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper quantifies the magnitude of transitions across occupational categories in Colombia, a country with high unemployment and informality but quickly increasing its social security coverage for health. The analysis makes use of a panel of households between 2008 and 2009, representative of the main metropolitan areas in the country. Results confirm previous evidence found in Colombia and elsewhere in the region that transitions between occupations are large and asymmetric: they are disproportionally more likely to happen from formal to informal occupations than vice versa. The paper finds for the first time that such transitions are also different for salaried workers compared with the self-employed, as well as by poverty status of the worker. Salaried workers are more likely to transition first into other salaried jobs, while self-employed are more likely to transition into unemployment or out of the labor force. There are marked differences in the profiles of transitioning and non-transitioning workers, both in terms of socioeconomic characteristics and social security coverage. Causal analysis shows that affiliation to social security on health deters occupational transitions, while pension insurance does not. Hence, high-volume transitions may not be crisis-specific phenomena, but rather associated with contributive and non-contributive social security mechanisms that incentivize informality, and workers' preferences for informal jobs. The debate on labor market and social security reforms needs to take these features of transitions into account.",
+    "ref_country": [
+      {
+        "name": "Colombia",
+        "code": "COL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5650",
+    "url": "http://documents.worldbank.org/curated/en/165101468018593022/pdf/WPS5650.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.770614",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

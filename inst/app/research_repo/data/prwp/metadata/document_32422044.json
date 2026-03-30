@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Role of Inequality for Poverty Reduction",
+    "idno": "32422044",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32422044",
+      "title": "The Role of Inequality for Poverty Reduction",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bergstrom,Katy Ann"
+      }
+    ],
+    "date_created": "2020/09/21",
+    "date_available": "2020/09/21",
+    "date_published": "2020/09/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32422044"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087e0b004"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087deb7a4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using World Bank PovcalNet data from 1974-2018 for 135 countries, this paper approximates the identity that links growth in mean incomes and changes in the distribution of relative incomes to reductions in absolute poverty, and, in turn, examines the role of income inequality for poverty reduction. The analysis finds that the assumption that income is log-normally distributed allows one to approximate the identity well. Using this approximation, both the growth and inequality elasticities of poverty reduction are calculated. The inequality elasticity of poverty reduction is larger, on average, compared to the (absolute) growth elasticity of poverty reduction. Moreover, the (absolute) growth elasticity declines steeply with a country's initial level of inequality. However, despite these results, most of the observed changes in poverty can be explained by changes in mean incomes. This is a consequence of changes in income inequality (as measured by percentage changes in the standard deviation of log-income) being an order of magnitude smaller than changes in mean incomes. Overall, the results highlight the important role income inequality can play in reducing poverty even if prior poverty changes have, in large part, been a consequence of economic growth.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9409",
+    "url": "http://documents.worldbank.org/curated/en/969971600710472848/pdf/The-Role-of-Inequality-for-Poverty-Reduction.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.508238",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

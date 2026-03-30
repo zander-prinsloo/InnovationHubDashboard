@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Energy Price Shocks and Current Account Balances : Evidence from Emerging Market and Developing Economies",
+    "idno": "34206486",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34206486",
+      "title": "Energy Price Shocks and Current Account Balances : Evidence from Emerging Market and Developing Economies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lebrand,Mathilde Sylvie Maria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vasishtha,Garima"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yilmazkuday,Hakan"
+      }
+    ],
+    "date_created": "2023/12/01",
+    "date_available": "2023/12/01",
+    "date_published": "2023/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34206486"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b00bb592-b38c-41f0-93b8-460779a24451"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b00bb592-b38c-41f0-93b8-460779a24451"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10623"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the effects of real energy price shocks on the current account balances of 45 emerging market and developing economies using country-specific structural vector autoregression models. The empirical results suggest that a 1 percent increase in real oil prices results in up to 0.11 percentage point cumulative improvement in the current account balances of oil exporters after five years, while a similar shock to real natural gas prices results in up to 0.06 percentage point improvement in the current account balances of natural gas exporters after five years. Real coal price shocks result in higher current account balances of oil exporters and natural gas exporters, suggesting substitution of coal with oil and natural gas in such cases. When the contributions of alternative real energy prices to the variance of current account balances are compared, oil price shocks dominate those of natural gas and coal prices. On the source of oil price shocks, the results support the view that the effects of oil demand shocks on current account balances are different from those of oil supply shocks. The results are robust to alternative specifications and identification schemes.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10623",
+    "url": "http://documents.worldbank.org/curated/en/099529112012323945/pdf/IDU0b00bb5920b38c041f0093b80460779a24451.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.555590",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are Vaccination Campaigns Misinformed ? Experimental Evidence from COVID-19 in Low- and Middle-Income Countries",
+    "idno": "34060080",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34060080",
+      "title": "Are Vaccination Campaigns Misinformed ? Experimental Evidence from COVID-19 in Low- and Middle-Income Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Markhof,Yannick Valentin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wollburg,Philip Randolph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zezza,Alberto"
+      }
+    ],
+    "date_created": "2023/05/10",
+    "date_available": "2023/05/10",
+    "date_published": "2023/05/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34060080"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-6fc518af-ff2d-4035-9add-bd9712833aae"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-6fc518af-ff2d-4035-9add-bd9712833aae"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10443"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Routine immunization coverage estimated in surveys often substantially differs from figures reported in administrative records, presenting a dilemma for researchers and policy makers. Using high-frequency phone surveys and administrative records from government sources in 36 low- and middle-income countries, this paper shows that such misalignment has also been common in the case of COVID-19. Across the sample, survey estimates exceed administrative figures by 47 percent on average, at times suggesting markedly different policy conclusions depending on the data source consulted. This pattern is particularly stark and consistent in Sub-Saharan Africa. To investigate the sources of this discrepancy, the paper presents results from six methodological experiments that vary survey design choices and documents their effect on estimated COVID-19 vaccine coverage. The results show that design choices matter, in particular the selection of respondents to be interviewed. However, phone survey estimates prove remarkably robust to several commonly claimed biases. After accounting for observed errors of representation and measurement in the survey data, there remains a nonnegligible, unexplained residual gap with administrative records. The paper provides indicative evidence of flaws and weaknesses in administrative data recording and reporting that affect reported vaccination rates and could contribute to this gap. The findings matter for past research on COVID-19 vaccination, future immunization efforts, and the design of robust data production systems on health topics.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10443",
+    "url": "http://documents.worldbank.org/curated/en/099403205102338642/pdf/IDU06fc518af0ff2d0403509add0bd9712833aae.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.289586",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Upstream Tariff Simulator (UTAS) : A Tool to Assess the Impact of Tariff Reform on Input Costs and Effective Protection across Sectors",
+    "idno": "31800714",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31800714",
+      "title": "The Upstream Tariff Simulator (UTAS) : A Tool to Assess the Impact of Tariff Reform on Input Costs and Effective Protection across Sectors",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eberhard,Andreas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Varela,Gonzalo J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Casal,Lucia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ganz,Federico"
+      }
+    ],
+    "date_created": "2020/02/20",
+    "date_available": "2020/02/20",
+    "date_published": "2020/02/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31800714"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0876337f5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0876337f5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Increased international production fragmentation implies that firms at home rely on imported intermediates for production. In this context, tariff policy design needs to consider the impact downstream of changes in tariffs upstream. Policy makers embarking on tariff reforms need to answer questions such as: what is the impact of tariff changes on production costs downstream? What are the key input tariffs that could be reduced to lower production costs in priority sectors considering sectors' backward linkages? Or how will a tariff rationalization plan that focuses on tariff reductions in raw materials and intermediates affect effective protection across sectors? This paper presents the Upstream Tariff Simulator, a simple Microsoft Excel–based tool designed to help policy makers answer these questions, by combining information on tariffs and input-output structures and allowing alternative sectoral aggregations, and alternative market structures for input markets. It provides the underlying conceptual framework and a range of examples that show the insights that the tool can provide to policy makers when analyzing the impact of tariff reforms.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9158",
+    "url": "http://documents.worldbank.org/curated/en/304221582227572364/pdf/The-Upstream-Tariff-Simulator-UTAS-A-Tool-to-Assess-the-Impact-of-Tariff-Reform-on-Input-Costs-and-Effective-Protection-across-Sectors.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.411919",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Interplay of Policy, Institutions, and Culture in the Time of Covid-19",
+    "idno": "32559472",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32559472",
+      "title": "The Interplay of Policy, Institutions, and Culture in the Time of Covid-19",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fang,Sheng"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peng,Mike W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Xu,L. Colin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yi,Yuanyuan"
+      }
+    ],
+    "date_created": "2020/11/06",
+    "date_available": "2020/11/06",
+    "date_published": "2020/11/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32559472"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088428dac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087f7a7d4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Leveraging data in 147 countries from the Johns Hopkins University, the World Bank, and other sources, we investigate how the COVID-19 pandemic spread and how the mortality rates are associated with preexisting vulnerabilities, the government’s mobility restriction policy, institutions (democracy), and culture (i.e., trust and individualistic culture). While delay in domestic mobility restrictions is not significantly associated with pandemic outcomes, increasing delay in restricting international mobility is associated with higher pandemic mortality rate. Some pre-existing vulnerabilities are positively associated with the spread of the pandemic but not the mortality rate. However, when vulnerabilities are accompanied with delay in domestic mobility restrictions, the pandemic has higher mortality. Democracy is associated with lower policy delay in restricting mobility, lower pandemic mortality rate, and features better protection of the vulnerable population from pandemic harms. However, delay in domestic mobility restrictions have more adverse effects in democratic countries. Trust is not associated with worse pandemic outcomes, but its combinations with policy delay and obesity are. More individualistic countries do not feature different pandemic outcomes. However, in such countries, government delay in domestic mobility restrictions is associated with significantly higher pandemic mortality rate, and the marginal effects of the share of elderly on pandemic spread is greater.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9470",
+    "url": "http://documents.worldbank.org/curated/en/372411604669851394/pdf/The-Interplay-of-Policy-Institutions-and-Culture-in-the-Time-of-Covid-19.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.929163",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

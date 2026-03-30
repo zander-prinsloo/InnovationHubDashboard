@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Managers, investors, and crises : mutual fund strategies in emerging markets",
+    "idno": "443624",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "443624",
+      "title": "Managers, investors, and crises : mutual fund strategies in emerging markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaminsky,Graciela Laura"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lyons,Richard K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler,Sergio L."
+      }
+    ],
+    "date_created": "2000/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "443624"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05838"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05838"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors address the trading strategies of mutual funds in emerging markets. The data set they develop permits analyses of these strategies at the level of individual portfolios. A methodologically novel feature of their analysis: they disentangle the behavior of fund managers from that of investors. For both managers and investors, they strongly reject the 0 hypothesis of no momentum trading. Funds' momentum trading is positive: they systematically buy winners and sell losers. Contemporaneous momentum trading (buying current winners and selling current losers) is stronger during crises, and stronger for fund investors than for fund managers. Lagged momentum trading (buying past winners and selling past losers) is stronger during noncrises, and stronger for fund managers. Investors also engage in contagion trading-selling assets from one country when asset prices fall in another. These findings are based on data about mutual funds that represent only 10 percent of the market capitalization in the countries considered. Were it a larger share of the market, finding counterparties for their trades (the investors who buy when they sell and sell when they buy) would be difficult-and the premise that funds respond to contemporaneous returns rather than causing them would become tenuous.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2399",
+    "url": "http://documents.worldbank.org/curated/en/678181468739465948/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.200203",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

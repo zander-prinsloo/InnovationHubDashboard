@@ -1,0 +1,161 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Alternative Paths for Yemen up to 2030 : A CGE-Based Simulation Analysis",
+    "idno": "34193411",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34193411",
+      "title": "Alternative Paths for Yemen up to 2030 : A CGE-Based Simulation Analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lofgren,Hans"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cicowiez,Martín"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mele,Gianluca"
+      }
+    ],
+    "date_created": "2023/11/08",
+    "date_available": "2023/11/08",
+    "date_published": "2023/11/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34193411"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-53cfd481-1eb6-4272-9ee1-24bfd808028b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-53cfd481-1eb6-4272-9ee1-24bfd808028b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10599"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Over nine years of violence and conflict have profoundly altered the Republic of Yemen&#x2019;s economy. The war has shattered the country&#x2019;s already fragile socioeconomic equilibria, affecting nearly every facet of life. Since the onset of the conflict, economic diagnostics have focused on descriptions of the deteriorating macro-fiscal and poverty conditions, lack of food security, and loss of capital accumulation. However, relatively little attention has gone toward the development of a forward-looking vision for the country, rooted in Yemen&#x2019;s current economic structure. This paper helps to fill this gap by presenting and analyzing a set of scenarios for Yemen&#x2019;s economy up to 2030. The analysis is based on a new version of the Sustainable Development Goal Simulation model, a dynamic computable general equilibrium (CGE) model, which is applied to a new social accounting matrix (SAM) for Yemen. The new social accounting matrix has the virtue of consolidating sparce and often inconsistent Yemeni data from multiple sources (the World Bank, the International Monetary Fund, and the United Nations system) into a coherent framework that reflects the basic structure of the economy, both at the macro and sectoral levels. The simulation analysis is built around three broad scenarios spanning 2022 through 2030. The results suggest that if the conflict subsides, governance is strengthened, and the donor community provides crucial aid, considerable progress, including reduced poverty rates and improved living conditions, can be achieved by 2030. Given Yemen&#x2019;s low levels of infrastructure and human development, the potential payoffs from investments in these areas are great.",
+    "ref_country": [
+      {
+        "name": "Yemen",
+        "code": "YEM"
+      },
+      {
+        "name": "Republic of",
+        "code": "-"
+      },
+      {
+        "name": "Yemen, Republic of",
+        "code": "YEM"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10599",
+    "url": "http://documents.worldbank.org/curated/en/099249311082315064/pdf/IDU053cfd48101eb60427209ee1024bfd808028b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.746113",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

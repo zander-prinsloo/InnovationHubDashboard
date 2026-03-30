@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of Tax Blacklisting",
+    "idno": "34056955",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34056955",
+      "title": "The Impact of Tax Blacklisting",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Collin,Matthew Edward"
+      }
+    ],
+    "date_created": "2023/05/04",
+    "date_available": "2023/05/04",
+    "date_published": "2023/05/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34056955"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-fd264bfb-c6f7-4cda-9bd2-025a1aa3a08c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-fd264bfb-c6f7-4cda-9bd2-025a1aa3a08c"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10435"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the policy and economic impacts of a European Union&#x2013;led effort to review and &#x201c;blacklist&#x201d; jurisdictions based on their compliance with international standards designed to curb corporate profit shifting and private tax evasion. Using a combination of regression discontinuity and difference-and-difference methods, there is evidence of only limited improvements in tax governance four years after the inception of the list. There is also no clear evidence that the listing exercise had any impact on offshore wealth or shifted profits, largely because the bulk of jurisdictions that host both of these were not targeted by the European Union. The results suggest that &#x201c;coercive&#x201d; efforts to reduce global tax evasion and avoidance will struggle without better targeting and enforcement.",
+    "ref_country": [
+      {
+        "name": "European Union",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10435",
+    "url": "http://documents.worldbank.org/curated/en/099918205042371705/pdf/IDU0fd264bfb0c6f704cda09bd20025a1aa3a08c.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.377889",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

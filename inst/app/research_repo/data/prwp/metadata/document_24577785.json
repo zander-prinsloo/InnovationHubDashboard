@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Business cycles accounting for Paraguay",
+    "idno": "24577785",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24577785",
+      "title": "Business cycles accounting for Paraguay",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koehler-Geib,Fritzi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hnatkovska,Viktoria"
+      }
+    ],
+    "date_created": "2015/06/02",
+    "date_available": "2015/06/02",
+    "date_published": "2015/06/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24577785"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082eeab76"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082ee78f3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study investigates the role of domestic and external shocks in business cycle fluctuations in Paraguay during 1991–2012. Time-series methods and a structural model-based approach are used to conduct an integrated analysis of business cycles. First, structural vector autoregression is used to assess the role played by external factors and domestic shocks in driving fluctuations in gross domestic product through impulse response functions and variance decompositions. The analysis finds that external shocks such as terms of trade, world interest rate and foreign demand account for over 50 percent of real gross domestic product fluctuations. Given Paraguay’s strong dependence on agriculture, an analysis is also done for the agricultural and non-agricultural sectors separately. The analysis finds that non-agricultural gross domestic product is to a large extent driven by external shocks, which account for over 50 percent of its volatility. In contrast, the volatility in agricultural gross domestic product is primarily due to shocks to domestic variables, mainly shocks to agricultural output. A further difference between the sectors is that shocks to government consumption are more important for agricultural gross domestic product, while shocks to the domestic real interest rate play a larger role in the volatility of non-agricultural gross domestic product. Second, the paper investigates the sources of business cycle fluctuations through the lens of a neoclassical growth model with an agricultural and non-agricultural sector. The analysis finds some signs of improvements, as labor market distortions have declined, firms’ access to credit improved, and agricultural efficiency rose over time. Nevertheless, challenges remain, as gaps in labor and capital returns between agriculture and non-agriculture remain large, efficiency in the non-agricultural sector shows no signs of improvement, and households’ access to finance has deteriorated.",
+    "ref_country": [
+      {
+        "name": "Paraguay",
+        "code": "PRY"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7284",
+    "url": "http://documents.worldbank.org/curated/en/107391467999714574/pdf/WPS7284.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.134814",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identification Properties for Estimating the Impact of Regulation on Markups and Productivity",
+    "idno": "32767934",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32767934",
+      "title": "Identification Properties for Estimating the Impact of Regulation on Markups and Productivity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sampi Bravo,James Robert Ezequiel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jooste,Charl"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vostroknutova,Ekaterina"
+      }
+    ],
+    "date_created": "2021/01/21",
+    "date_available": "2021/01/21",
+    "date_published": "2021/01/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32767934"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088210507"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0881f422d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper addresses several shortcomings in the productivity and markup estimation literature. Using Monte-Carlo simulations, the analysis shows that the methods in Ackerberg, Caves and Frazer (2015) and De Loecker and Warzynski (2012) produce biased estimates of the impact of policy variables on markups and productivity. This bias stems from endogeneity due to the following: (1) the functional form of the production function; (2) the omission of demand shifters; (3) the absence of price information; (4) the violation of the Markov process for productivity; and (5) misspecification when marginal costs are excluded in the estimation. The paper addresses these concerns using a quasi-maximum likelihood approach and a generalized estimator for the production function. It produces unbiased estimates of the impact of regulation on markups and productivity. The paper therefore proposes a work-around solution for the identification problem identified in Bond, Hashemi, Kaplan and Zoch (2020), and an unbiased measure of productivity, by directly accounting for the joint impact of regulation on markups and productivity.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9523",
+    "url": "http://documents.worldbank.org/curated/en/560821611247482947/pdf/Identification-Properties-for-Estimating-the-Impact-of-Regulation-on-Markups-and-Productivity.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.393795",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

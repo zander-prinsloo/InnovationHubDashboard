@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Commodity price uncertainty in developing countries",
+    "idno": "693238",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693238",
+      "title": "Commodity price uncertainty in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dehn,Jan"
+      }
+    ],
+    "date_created": "2000/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693238"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b057d8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b057d8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Uncertainty about commodity export prices is important to developing countries -- both governments and producers -- that export primary commodities. Commodity export price uncertainty is typically measured as the standard deviation in the terms of trade. There are three problems with this approach: 1) Terms of trade indices are unsuitable as proxies for commodity price movements per se. 2) The shortness of terms of trade time series makes them inappropriate as a base for constructing time-varying uncertainty measures. 3) Simple standard deviation measures ignore the distinction between predictable and unpredictable elements in the price process, so they risk overstating uncertainty. 4) The author examines commodity price uncertainty in developing countries using new data for quarterly aggregate commodity price indices for 113 developing countries for the period 1957-97. Each index is a geometrically weighted index of 57 commodity prices. He constructs six different measures of uncertainty. The uncertainty measures confirm the importance of distinguishing between predictable and unpredictable components in the price process. But there is a positive, highly significant relationship between commodity export concentration and commodity price uncertainty for all six measures. No obvious link is found between a country's regional affiliation and its exposure to uncertainty. Sub-Saharan African countries, for example, are no more prone to commodity price uncertainty than countries in other commodity-producing regions, although to the extent that they depend more on commodities, they will be affected more than countries with more diversified export baskets. Similarly, there is no apparent relationship between a country's experiences of uncertainty and the type of commodities that dominate its exports-except that oil producers face greater uncertainty (because of discrete, well-publicized oil shocks). A measure of uncertainty based on generalized autoregressive conditional heteroskedasticity (GARCH) indicates considerable time variation in uncertainty. Uncertainty is sometimes characterized by discrete spikes, although uncertainty in countries exhibits a secular increase over time. Most countries experience uncertainty, which tends to persist. It is unclear what lies behind the time variation in uncertainty.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2426",
+    "url": "http://documents.worldbank.org/curated/en/485921468766821102/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.175729",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

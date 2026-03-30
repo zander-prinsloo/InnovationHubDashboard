@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impacts of Disasters on African Agriculture: New Evidence from Micro-Data",
+    "idno": "34234814",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34234814",
+      "title": "The Impacts of Disasters on African Agriculture: New Evidence from Micro-Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wollburg,Philip Randolph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Markhof,Yannick Valentin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bentze,Thomas Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ponzini,Giulia"
+      }
+    ],
+    "date_created": "2024/01/09",
+    "date_available": "2024/01/09",
+    "date_published": "2024/01/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34234814"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a0538771-b76b-4abe-a96b-51bc26fb28e2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a0538771-b76b-4abe-a96b-51bc26fb28e2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10660"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Disasters affect millions of people each year and cause economic losses worth many billions of dollars globally. Reporting on disaster impacts in research, policy, and news primarily relies on macro statistics based on disaster inventories. The macro statistics suggest that a relatively small share of disaster damages accrues in Africa. This paper, instead, uses detailed survey micro-data from six African countries to quantify disaster damages in one key sector: crop agriculture. The micro-data reveals much higher damages and more people affected than the macro statistics would indicate. On average, 36 percent of the agricultural plots in the sample suffer crop losses due to adverse climatic events. In the countries and time period analyzed, these losses reduced total crop production by an average of 29 percent. Importantly, many of these losses are underreported or undetected in key disaster inventories and therefore elude macro statistics. In the case of droughts and floods, the economic losses recorded in the micro-data are $5.1 billion higher than in the macro statistics, affecting 145 million to 170 million people, more than four times as many as the macro statistics suggest. The difference stems mostly from smaller and less severe but frequent adverse events that are not recorded in disaster inventories.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10660",
+    "url": "http://documents.worldbank.org/curated/en/099631201092430123/pdf/IDU1a05387711b76b14abe1a96b151bc26fb28e2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.328787",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

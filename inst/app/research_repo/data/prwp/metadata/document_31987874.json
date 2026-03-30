@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating Poverty among Refugee Populations : A Cross-Survey Imputation Exercise for Chad",
+    "idno": "31987874",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31987874",
+      "title": "Estimating Poverty among Refugee Populations : A Cross-Survey Imputation Exercise for Chad",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beltram,Theresa"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sarr,Ibrahima-000535387"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2020/04/27",
+    "date_available": "2020/04/27",
+    "date_published": "2020/04/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31987874"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0878886de"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0878886de"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Household consumption surveys do not typically cover refugee populations, and poverty estimates for refugees are rare. This paper tests the performance of cross-survey imputation methods to estimate poverty for a sample of refugees in Chad, by combining United Nations High Commissioner for Refugees survey and administrative data. The proposed method offers poverty estimates based on administrative data that fall within a 95 percent margin of poverty estimates based on survey consumption data. This result is robust to different poverty lines, sets of regressors, and modeling assumptions of the error term. The method outperforms common targeting methods, such as proxy means tests and the targeting method currently used by humanitarian organizations in Chad.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9222",
+    "url": "http://documents.worldbank.org/curated/en/511711588016782589/pdf/Estimating-Poverty-among-Refugee-Populations-A-Cross-Survey-Imputation-Exercise-for-Chad.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.968229",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Potential for application of a probabilistic catastrophe risk modelling framework to poverty outcomes : general form vulnerability functions relating household poverty outcomes to hazard intensity in Ethiopia",
+    "idno": "26510000",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26510000",
+      "title": "Potential for application of a probabilistic catastrophe risk modelling framework to poverty outcomes : general form vulnerability functions relating household poverty outcomes to hazard intensity in Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Porter,Catherine"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "White,Emily Jennifer"
+      }
+    ],
+    "date_created": "2016/06/21",
+    "date_available": "2016/06/21",
+    "date_published": "2016/06/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26510000"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0843e98e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0843e98e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the potential to combine catastrophe risk modelling (CAT risk modeling) with economic analysis of vulnerability to poverty using the example of drought hazard impacts on the welfare of rural households in Ethiopia. The aim is to determine the potential for applying a derived set of damage (vulnerability) functions based on realized shocks and household expenditure/consumption outcomes, onto a forward-looking view of drought risk. The paper outlines the CAT risk modeling framework and the role of the vulnerability module, which describes the response of an affected exposure to a given hazard intensity. The need to explicitly account for different household characteristics that determine vulnerability within our model is considered, analogous to how a CAT risk model would differentiate damage functions for buildings by different classes of construction. Results for a regression model are presented, estimating ex-post drought impacts on consumption for heterogeneous household types (e.g. with cattle, safety-net access, illness). Next, the validity/generalizability of the derived functions are assessed, to infer applicability of the derived relationships within a CAT risk modelling framework. In particular, the analysis focuses on external validity: whether the relationships established in the dataset can be used for forecasting outside of the sample used for analysis. The model is stress-tested using statistical methods of resampling. This involves randomly splitting the data into “training” and \"testing\" datasets. The tests show consistency of results across the datasets. Finally, future plans are outlined with regard to developing a fuller catastrophe risk model to combine with the consumption results.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7717",
+    "url": "http://documents.worldbank.org/curated/en/854961468184437420/pdf/WPS7717.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.751980",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

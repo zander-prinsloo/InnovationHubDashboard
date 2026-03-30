@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Longitudinal Cross-Country Dataset on Agricultural Productivity and Welfare in Sub-Saharan Africa",
+    "idno": "34423791",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34423791",
+      "title": "A Longitudinal Cross-Country Dataset on Agricultural Productivity and Welfare in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bentze,Thomas Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wollburg,Philip Randolph"
+      }
+    ],
+    "date_created": "2024/11/18",
+    "date_available": "2024/11/18",
+    "date_published": "2024/11/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34423791"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-99b0eff4-783d-44c7-bf48-40c83ca123a0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-99b0eff4-783d-44c7-bf48-40c83ca123a0"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10976"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Since 2008, the World Bank's Living Standards Measurement Study&#x2013;Integrated Surveys on Agriculture (LSMS-ISA) program has supported the collection of nationally representative, longitudinal, multi-topic household survey data to inform researchers and policy makers of living standards in Sub-Saharan Africa. The surveys maintain a distinct focus on the agricultural sector, collecting detailed plot-level data and information about agricultural activities, while measuring socioeconomic conditions of thousands of smallholder farmers and households across multiple countries. This paper presents a harmonized panel dataset (HP) from LSMS-ISA surveys from 2008 to 2021 in seven Sub-Saharan African countries: Ethiopia, Malawi, Mali, Niger, Nigeria, Tanzania, and Uganda, from 2008 to 2021. It includes more than 200,000 agricultural plot observations, more than 400,000 individuals, and about 59,000 households. The HP allows for in-depth analysis of farm, household, and individual dynamics over time and across countries. It is ideal for researchers interested in studying the dynamics between agriculture, economic development, and welfare outcomes in Sub-Saharan Africa.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10976",
+    "url": "http://documents.worldbank.org/curated/en/099422411182437399/pdf/IDU199b0eff41783d144c71bf48140c83ca123a0.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.708700",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

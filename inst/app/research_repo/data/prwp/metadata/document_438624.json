@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Access to markets and the benefits of rural roads",
+    "idno": "438624",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438624",
+      "title": "Access to markets and the benefits of rural roads",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jacoby,Hanan G."
+      }
+    ],
+    "date_created": "1998/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438624"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058e2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058e2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Transport infrastructure plays a central role in rural development, yet little is known about the size - or, especially, the distribution - of benefits from road investments. Among other benefits, rural roads provide cheaper access to both markets for agricultural output and for modern inputs. The author develops and implements a method for nonparametrically estimating the benefits from road projects at the household level. The idea is that since these benefits get capitalized in land values, they can be estimated by examining how the value of farmland falls with distance from agricultural markets. Household-level benefits from hypothetical road projects are calculated from the predicted appreciation in value of the household's farmland. These predicted benefits are then related to household per-capita expenditures to assess their distributional consequences. The empirical analysis, using data from Nepal, shows large benefits from extending roads into remote rural areas, much of these gains going to poorer households. But rural road construction is not the magic bullet for poverty alleviation. The benefits are neither large enough nor targeted well enough to reduce income inequality appreciably.",
+    "ref_country": [
+      {
+        "name": "Nepal",
+        "code": "NPL"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2028",
+    "url": "http://documents.worldbank.org/curated/en/622271468761382023/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:43.579274",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

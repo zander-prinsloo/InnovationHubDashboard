@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring Untapped Revenue Potential in Developing Countries : Cross-Country Frontier and Panel Data Analysis",
+    "idno": "33418360",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33418360",
+      "title": "Measuring Untapped Revenue Potential in Developing Countries : Cross-Country Frontier and Panel Data Analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bogetic,Zeljko"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Naeher,Dominik"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Narayanan,Raghavan"
+      }
+    ],
+    "date_created": "2021/09/15",
+    "date_available": "2021/09/15",
+    "date_published": "2021/09/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33418360"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088b7969d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088999f98"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9776"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Efforts aimed at supporting domestic revenue mobilization in developing countries are often designed and evaluated based on empirical indicators, such as revenue-to-GDP ratios, which capture differences in achieved outcomes across countries. This paper studies a complementary approach to estimate domestic revenue potential that also takes into account differences in countries’ fundamental economic structures and constraints associated with different capacities to raise domestic revenues, which are not captured by simple revenue-to-GDP ratios. Specifically, nonparametric data envelopment analysis is applied to estimate domestic revenue potential in a panel of 118 low- and middle-income countries from 2008 to 2019. The analysis addresses the following research questions: (i) How efficient are low-income countries compared with richer countries in mobilizing domestic revenues given the national economic conditions and resources available to each country? (ii) What factors account for the variation in relative domestic revenue mobilization efficiency, that is, the fact that some countries generate more revenues than other countries with comparable economic structures? The paper discusses the policy implications of the findings and demonstrates how the proposed method can be used to identify countries that are already performing close to their limit and those that still feature large untapped potential for further increasing revenues (and thus likely higher marginal benefits to external support for domestic revenue mobilization). Finally, the paper provides insights on the extent to which existing international support for domestic revenue mobilization is targeted at countries with larger untapped revenue potential.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9776",
+    "url": "http://documents.worldbank.org/curated/en/947561631709784641/pdf/Measuring-Untapped-Revenue-Potential-in-Developing-Countries-Cross-Country-Frontier-and-Panel-Data-Analysis.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.493947",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

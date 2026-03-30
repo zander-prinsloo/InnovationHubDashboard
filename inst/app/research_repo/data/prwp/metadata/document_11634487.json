@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "National drought insurance for Malawi",
+    "idno": "11634487",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11634487",
+      "title": "National drought insurance for Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nucifora,Antonio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Syroka,Joanna"
+      }
+    ],
+    "date_created": "2010/01/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11634487"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b56fa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b56fa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Malawi has experienced several catastrophic droughts over the past few decades. The impact of these shocks has been far reaching, and the resulting macroeconomic instability has been a major constraint to growth and poverty reduction in Malawi. This paper describes a weather risk management tool that has been developed to help the government manage the financial impact of drought-related national maize production shortfalls. The instrument is an index-based weather derivative contract designed to transfer the financial risk of severe and catastrophic national drought that adversely impacts the government's budget to the international risk markets. Because rainfall and maize yields are highly correlated, changes in rainfall -- its timing, cumulative amount, and distribution -- can act as an accurate proxy for maize losses. An index has been constructed using rainfall data from 23 weather stations throughout Malawi and uses daily rainfall as an input to predict maize yields and therefore production throughout the country. The index picks up the well documented historical drought events in 2005, 1995, 1994, and 1992 and a weather derivative contract based on such an index would have triggered timely cash payouts to the government in those years. This innovative risk management instrument was pioneered in 2008/2009 by the Government of Malawi, with the assistance of the World Bank, and was a first for a sovereign entity in Africa. Several piloting seasons will be necessary to understand the scope and limitations of such contracts, and their role in the government's strategy, contingency planning, and operational drought response framework.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5169",
+    "url": "http://documents.worldbank.org/curated/en/930811468271571483/pdf/WPS5169.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.460095",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

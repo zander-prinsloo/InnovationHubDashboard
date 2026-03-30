@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Human capital and industry wage structure in Guatemala",
+    "idno": "697506",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697506",
+      "title": "Human capital and industry wage structure in Guatemala",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sakellariou, Chris N."
+      }
+    ],
+    "date_created": "1995/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697506"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05abf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05abf"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The presence and persistence of substantial wage differentials between industries has been documented. Differences between industries could result from (1) the normal functioning of competitive labor markets (compensating differential levels of human capital), (2) institutional factors, such as the presence of a union, and (3) efficiency wages paid on some industries (employers finding they can increase profits by paying workers above-market wages). Using the testable model of endogenous growth, the author analyzes microdata from the Guatemala Household Survey to estimate the external effects of education. First, he estimates a wage equation and filters out the internal effects of education. Then, to isolate external effects, he regresses the resulting wage premiums in industry on average human capital as well as on industry-specific characteristics. Stronger conclusions cannot be drawn, but the analysis does not reject the hypothesis that external effects are present.",
+    "ref_country": [
+      {
+        "name": "Guatemala",
+        "code": "GTM"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1445",
+    "url": "http://documents.worldbank.org/curated/en/829701468771575183/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.318748",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

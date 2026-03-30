@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Geographic patterns of land use and land intensity in the Brazilian Amazon",
+    "idno": "1614880",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1614880",
+      "title": "Geographic patterns of land use and land intensity in the Brazilian Amazon",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chomitz, Kenneth M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thomas, Timothy S."
+      }
+    ],
+    "date_created": "2001/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1614880"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c7a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c7a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using census data from the Censo Agropecuario 1995-96, the authors map indicators of current land use, and agricultural productivity across Brazil's Legal Amazon, These data permit geographical resolution about ten times finer than afforded by \"municipio\" data, used in previous studies. The authors focus on the extent, and productivity of pasture, the dominant land use in Amazonia today. Simple tabulations suggest that most agricultural land in Amazonia yields little private economic value. Nearly ninety percent of agricultural land is either devoted to pasture, or has been out of use for more than four years. About forty percent of the currently used pastureland, has a stocking ratio of less that 0.5 cattle per hectare. Tabulations also show a skewed distribution of land ownership: almost half of Amazonian farmland is located in the one percent of properties that contain more than two thousand hectares. Multivariate analyses relate forest conversion, and pasture productivity to precipitation, soil quality, infrastructure, and market access, proximity to past conversion, and protection status. The authors find precipitation to have a strong deterrent effect on agriculture. The probability that land is currently claimed, or used for agriculture, or intensively stocked with cattle, declines substantially with increasing precipitation levels, holding other factors (such as road access) constant. Proxies for land abandonment are also higher in high rainfall areas. Together these findings suggest that the wetter Western Amazon is inhospitable to exploitation for pasture, using current technologies. On the other hand, land conversion, and stocking rates are positively correlated with proximity to past clearing. This suggests that in the areas of active deforestation in eastern Amazonia, the frontier is not :hollow:, and land use intensifies over time. But this area remains a mosaic of lands with higher, and lower potential agricultural value.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2687",
+    "url": "http://documents.worldbank.org/curated/en/102381468769744789/Geographic-patterns-of-land-use-and-land-intensity-in-the-Brazilian-Amazon",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.047797",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation",
+    "idno": "31315490",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31315490",
+      "title": "Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Munoz,Ercio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Olaberria,Eduardo"
+      }
+    ],
+    "date_created": "2019/08/06",
+    "date_available": "2019/08/06",
+    "date_published": "2019/08/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31315490"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086f8b31d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086f8b31d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies whether budget rigidities affect the probability of countries getting into fiscal distress and reduce the likelihood of governments performing fiscal adjustments. Budget rigidities are constraints that limit the ability of the government to change the size and structure of the public budget in the short term. Budget rigidities stem from different institutional arrangements and therefore can take different forms. To build an indicator of rigid spending that is comparable across a large set of countries, this paper employs a simple definition based on budget components that are naturally inflexible: the sum of public wages, pensions, and debt service. It decomposes this measure into a structural component and a nonstructural component. Then, the paper applies a linear probability model to a panel of 182 advanced and developing countries. A key finding is that relatively high shares of rigid (observed) components of public spending contribute to countries getting into fiscal distress and are a constraint for fiscal consolidation. The paper finds evidence that a relatively high share of nonstructural rigid spending contributes to the probability of fiscal distress and reduces the probability of fiscal consolidation. Moreover, the effect of rigid expenditure seems to be more relevant for economies with high inequality, governments with lower margins of majority, and countries with lower institutional quality. In addition, when looking at the composition of the measure of rigid expenditure, there is also some evidence that higher expenditure on pensions reduces the probability of fiscal adjustment more robustly than higher expenditure on wages.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8957",
+    "url": "http://documents.worldbank.org/curated/en/250821565096379368/pdf/Are-Budget-Rigidities-a-Source-of-Fiscal-Distress-and-a-Constraint-for-Fiscal-Consolidation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.881624",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

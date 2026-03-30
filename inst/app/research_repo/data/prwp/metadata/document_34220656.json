@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Correcting Sampling and Nonresponse Bias in Phone Survey Poverty Estimation Using Reweighting and Poverty Projection Models",
+    "idno": "34220656",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34220656",
+      "title": "Correcting Sampling and Nonresponse Bias in Phone Survey Poverty Estimation Using Reweighting and Poverty Projection Models",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Kexin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Takamatsu,Shinya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoshida,Nobuo"
+      }
+    ],
+    "date_created": "2023/12/20",
+    "date_available": "2023/12/20",
+    "date_published": "2023/12/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34220656"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e2c666e6-beea-41bd-92b8-2ed3b1ea5a99"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e2c666e6-beea-41bd-92b8-2ed3b1ea5a99"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10656"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To monitor the evolution of household living conditions during the COVID-19 pandemic, the World Bank conducted COVID-19 High-Frequency Phone Surveys in around 80 countries. Phone surveys are cheap and easy to implement, but they have some major limitations, such as the absence of poverty data, sampling bias due to incomplete telephone coverage in many developing countries, and frequent nonresponses to phone interviews. To overcome these limitations, the World Bank conducted pilots in 20 countries where the Survey of Wellbeing via Instant and Frequent Tracking, a rapid poverty monitoring tool, was adopted to estimate poverty rates based on 10 to 15 simple questions collected via phone interviews, and where sampling weights were adjusted to correct the sampling and nonresponse bias. This paper examines whether reweighting procedures and the Survey of Wellbeing via Instant and Frequent Tracking methodology can eliminate the bias in poverty estimation based on the COVID-19 High-Frequency Phone Surveys. Experiments using artificial phone survey samples show that (i) reweighting procedures cannot fully eliminate bias in poverty estimates, as previous research has demonstrated, but (ii) when combined with Survey of Wellbeing via Instant and Frequent Tracking poverty projections, they effectively eliminate bias in poverty estimates and other statistics.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10656",
+    "url": "http://documents.worldbank.org/curated/en/099439112202312439/pdf/IDU1e2c666e61beea141bd192b812ed3b1ea5a99.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.340760",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

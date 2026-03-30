@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How much labor do South African exports contain",
+    "idno": "27393365",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27393365",
+      "title": "How much labor do South African exports contain",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cali,Massimiliano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hollweg,Claire Honore"
+      }
+    ],
+    "date_created": "2017/04/25",
+    "date_available": "2017/04/25",
+    "date_published": "2017/04/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27393365"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084b005aa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084b005aa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Like many emerging economies, South Africa has identified exports as an engine for more inclusive, job-intensive growth. However, employment growth did not follow the substantial export growth that South Africa experienced in the 2000s. This paper uses a newly developed World Bank database -- the Labor Content of Exports -- to show that the composition of South Africa's export growth helps to understand the weak relationship between export and employment growth. Minerals exports, which propelled export as well as wage growth, are not job intensive and as a result supported far less job growth. Minerals have also increasingly become an enclave sector with few backward linkages to the domestic economy. In contrast, manufacturing exports support jobs and wages primarily in input-providing sectors, where indirect manufacturing employment is nearly 4.5 times greater than direct manufacturing employment. The paper also documents a shift in the labor content of global value chain–intensive manufacturing sectors away from direct manufacturing to indirect services. Such a shift has been biased toward skilled labor. As a results of these trends, labor in services sectors has been the main beneficiary of South Africa's export growth, absorbing more than half of the growth in wage income from exports over the 2000s, primarily by supplying inputs to other sectors' exports.",
+    "ref_country": [
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8037",
+    "url": "http://documents.worldbank.org/curated/en/544181493128206993/pdf/WPS8037.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.264078",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

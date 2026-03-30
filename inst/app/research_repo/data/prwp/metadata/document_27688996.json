@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Whose power gets cut using high-frequency satellite images to measure power supply irregularity",
+    "idno": "27688996",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27688996",
+      "title": "Whose power gets cut using high-frequency satellite images to measure power supply irregularity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Min,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "O'Keeffe,Zachary"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Fan"
+      }
+    ],
+    "date_created": "2017/06/29",
+    "date_available": "2017/06/29",
+    "date_published": "2017/06/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27688996"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084d63efd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084d63efd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In many parts of the developing world, access to electricity is uneven and inconsistent, characterized by frequent and long hours of power outages. Many countries now engage in systematic load shedding because of persistent power shortages. When and where electricity is provided can have important impacts on welfare and growth. But quantifying those impacts is difficult because utility-level data on power outages are rarely available and not always reliable. This paper introduces a new method of tracking power outages from outer space. This measure identifies outage-prone areas by detecting excess fluctuations in light outputs. To develop these measures, the study processed the complete historical archive of sub-orbital Defense Meteorological Satellite Program's Operational Linescan System (DMSP-OLS) nighttime imagery captured over South Asia on every night since 1993. The analysis computes annual estimates of the Power Supply Irregularity index for all 600,000 villages in India from 1993 to 2013. The Power Supply Irregularity index measures are consistent with ground-based measures of power supply reliability from the Indian Human Development Survey, and with feeder-level outage data from one of the largest utilities in India. The study’s methods open new opportunities to study the determinants of power outages as well as their impacts on welfare.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8131",
+    "url": "http://documents.worldbank.org/curated/en/125911498758273922/pdf/WPS8131.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.490382",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

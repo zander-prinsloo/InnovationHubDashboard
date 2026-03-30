@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Propensity score matching and policy impact analysis - a demonstration in EViews",
+    "idno": "6708043",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6708043",
+      "title": "Propensity score matching and policy impact analysis - a demonstration in EViews",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Essama-Nssah, B."
+      }
+    ],
+    "date_created": "2006/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6708043"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4b58"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4b58"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Effective development policymaking creates a need for reliable methods of assessing effectiveness. There should be, therefore, an intimate relationship between effective policymaking and impact analysis. The goal of a development intervention defines the metric by which to assess its impact, while impact evaluation can produce reliable information on which policymakers may base decisions to modify or cancel ineffective programs and thus make the most of limited resources. This paper reviews the logic of propensity score matching (PSM) and, using data on the National Support Work Demonstration, compares that approach with other evaluation methods such as double difference, instrumental variable, and Heckman's method of selection bias correction. In addition, it demonstrates how to implement nearest-neighbor and kernel-based methods, and plot program incidence curves in E-Views. In the end, the plausibility of an evaluation method hinges critically on the correctness of the socioeconomic model underlying program design and implementation, and on the quality and quantity of available data. In any case, PSM can act as an effective adjuvant to other methods.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3877",
+    "url": "http://documents.worldbank.org/curated/en/802731468135581892/pdf/wps38770rev0pdf.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:22.226046",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

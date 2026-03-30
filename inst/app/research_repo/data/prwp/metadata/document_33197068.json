@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Falling Price of Cement in Africa",
+    "idno": "33197068",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33197068",
+      "title": "The Falling Price of Cement in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Leone, Fabrizio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Macchiavello,Rocco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Reed,Tristan"
+      }
+    ],
+    "date_created": "2021/06/22",
+    "date_available": "2021/06/22",
+    "date_published": "2021/06/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33197068"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088dd3df8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08872773d"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9706"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Prices for several intermediate inputs, including cement, are higher in developing economies—particularly in Africa. Combining data from the International Comparison Program with a global directory of cement plants we estimate an industry equilibrium model to distinguish between drivers of international price dispersion: demand, costs, conduct, and entry. Developing economies feature both higher marginal costs and higher markups. African markets are not characterized by higher barriers to entry and, if anything, feature relatively more competitive conduct. The small size of many national markets, however, limits entry and competition and explains most of the higher markups. Policy implications are discussed.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9706",
+    "url": "http://documents.worldbank.org/curated/en/727041624328488778/pdf/The-Falling-Price-of-Cement-in-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.959487",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

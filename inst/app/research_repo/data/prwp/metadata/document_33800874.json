@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Determining the Caloric Content of Food Consumed away from Home : An Application to the Construction of a Cost-of-Basic-Needs Poverty Line",
+    "idno": "33800874",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33800874",
+      "title": "Determining the Caloric Content of Food Consumed away from Home : An Application to the Construction of a Cost-of-Basic-Needs Poverty Line",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Himelein,Kristen"
+      }
+    ],
+    "date_created": "2022/04/25",
+    "date_available": "2022/04/26",
+    "date_published": "2022/04/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33800874"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-de680119-2ce0-4043-aa93-282fc3c6fafd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-de680119-2ce0-4043-aa93-282fc3c6fafd"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10018"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Food purchased and consumed away from home is a growing share of household expenditure in developing countries. Therefore, measuring the monetary value and estimating the caloric equivalent of these meals are increasingly important for the accurate calculation of a cost-of-basic-needs poverty line. The standard approach uses the per-calorie cost of the food consumed at home to estimate the caloric equivalent of food purchased and consumed away from home, but it does not include an allowance for the overhead or profit of the food seller. This paper retains the assumption of equal composition in the food baskets consumed inside and outside the home and uses data from a consumption experiment in the Marshall Islands to estimate a &#x201c;multiplier&#x201d; to increase the per-calorie cost to allow for these expenses. The methodology generates reasonable estimates of meal-specific and overall multipliers. Although the impact of their application is minimal in this case, it may be larger in contexts with higher shares of food purchased and consumed away from home in total consumption.",
+    "ref_country": [
+      {
+        "name": "Marshall Islands",
+        "code": "MHL"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10018",
+    "url": "http://documents.worldbank.org/curated/en/099319404262234256/pdf/IDU0de68011902ce0040430aa930282fc3c6fafd.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.497985",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

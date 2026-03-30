@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Nonfarm income, inequality, and land in Rural Egypt",
+    "idno": "440386",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440386",
+      "title": "Nonfarm income, inequality, and land in Rural Egypt",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adams, Richard H., Jr"
+      }
+    ],
+    "date_created": "1999/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440386"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ab4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ab4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author uses household-level data from a nationally representative survey to analyze the impact of nonfarm income on income inequality in rural Egypt. After pinpointing the importance of nonfarm income to the rural poor, the author decomposes total rural income among five sources, nonfarm, agricultural, livestock, rental, and transfer. He shows that while nonfarm income represents the most important inequality-reducing source of income, agricultural income represents the most important inequality-increasing source. A 1 percent marginal increase in nonfarm income will cause the Gini coefficient of overall income to fall by 12.8 percent. But a 1 percent marginal increase in agricultural income will cause the Gini coefficient to rise by 15.8 percent. The reason for this difference has to do with land, which is distributed very unevenly in this study. Regression analysis of the determinants of income shows that land ownership is positively and statistically related to the receipt of agricultural income but has no statistical relationship to the receipt of nonfarm income. This leads the author to three conclusions: 1) If policymakers are interested in reducing poverty and improving income distribution in rural Egypt, they should focus on nonfarm income - which not only accounts for almost 60 percent of total income for the rural poor but also favorably affects income distribution. 2) Nonfarm income is an inequality-reducing source of income in a land-scarce setting such as rural Egypt because inadequate land \"pushes\" poorer households out of agriculture and into the nonfarm sector. 3) Agricultural income contributes most to rural income inequality because it is highly correlated with land ownership and with total rural income.",
+    "ref_country": [
+      {
+        "name": "Egypt, Arab Republic of",
+        "code": "EGY"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2178",
+    "url": "http://documents.worldbank.org/curated/en/703511468769829725/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.643990",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

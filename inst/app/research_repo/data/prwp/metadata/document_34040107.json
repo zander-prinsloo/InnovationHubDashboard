@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does Agricultural Intensification Pay ?",
+    "idno": "34040107",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34040107",
+      "title": "Does Agricultural Intensification Pay ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aihounton,Dossou Ghislain Boris"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Christiaensen,Luc"
+      }
+    ],
+    "date_created": "2023/04/11",
+    "date_available": "2023/04/12",
+    "date_published": "2023/04/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34040107"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4d8ee302-f202-430b-bbba-eb0d7f36bc12"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4d8ee302-f202-430b-bbba-eb0d7f36bc12"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10405"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Modern inputs and mechanization are promoted across Africa to raise smallholder labor productivity and broker the structural transformation. Yet, adoption has remained low and the implications for returns to labor and labor allocation remain poorly understood. This paper explores the effects of different intensification packages on farm performance, market orientation, and food security using data from lowland rice farmers in C&#xf4;te d'Ivoire. Employing a multinomial treatment effect model, the findings reveal that intensification increases land and labor productivity, especially when agro-chemicals and mechanized land preparation are combined. Returns to labor double to triple, inducing specialization and greater market orientation as well as greater food security, while productively releasing agricultural labor for other activities. Labor in agriculture becomes more waged. The gender balance remains the same. Child labor input does not decrease. The findings call for greater attention to labor productivity and confirm that agricultural intensification can pay and enhance rural transformation.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Cote d'Ivoire",
+        "code": "CIV"
+      }
+    ],
+    "spatial_coverage": "Western and Central Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10405",
+    "url": "http://documents.worldbank.org/curated/en/099345204122310522/pdf/IDU04d8ee3020f2020430b0bbba0eb0d7f36bc12.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.548475",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

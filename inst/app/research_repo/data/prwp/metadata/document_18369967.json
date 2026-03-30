@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Addressing household air pollution : a case study in rural Madagascar",
+    "idno": "18369967",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18369967",
+      "title": "Addressing household air pollution : a case study in rural Madagascar",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martin,Paul Jonathan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Samad,Hussain A."
+      }
+    ],
+    "date_created": "2013/09/01",
+    "date_available": "2013/09/01",
+    "date_published": "2013/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18369967"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b9053"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b9053"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Household air pollution is the second leading cause of disease in Madagascar, where more than 99 percent of households rely on solid biomass, such as charcoal, wood, and crop waste, as the main cooking fuel. Only a limited number of studies have looked at the emissions and health consequences of cook stoves in Africa. This paper summarizes an initiative to monitor household air pollution in two towns in Madagascar, with a stratified sample of 154 and 184 households. Concentrations of fine particulate matter and carbon monoxide in each kitchen were monitored three times using UCB Particle Monitors and GasBadge Pro Single Gas Monitors. The average concentrations of both pollutants significantly exceeded World Health Organization guidelines for indoor exposure. A fixed-effect panel regression analysis was conducted to investigate the effects of various factors, including fuel (charcoal, wood, and ethanol), stove (traditional and improved ethanol), kitchen size, ventilation, building materials, and ambient environment. Judging by its effect on fine particulate matter and carbon monoxide, ethanol is significantly cleaner than biomass fuels and, for both pollutants, a larger kitchen significantly improves the quality of household air. Compared with traditional charcoal stoves, improved charcoal stoves were found to have no significant impact on air quality, but the improved wood stove with a chimney was effective in reducing concentrations of carbon monoxide in the kitchen, as was ventilation.",
+    "ref_country": [
+      {
+        "name": "Madagascar",
+        "code": "MDG"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6627",
+    "url": "http://documents.worldbank.org/curated/en/460921468270893342/pdf/WPS6627.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.943073",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

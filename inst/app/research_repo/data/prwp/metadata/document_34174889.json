@@ -1,0 +1,279 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Geospatial Analysis of Displacement in Afghanistan",
+    "idno": "34174889",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34174889",
+      "title": "Geospatial Analysis of Displacement in Afghanistan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dahmani Scuitti,Anais"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knippenberg,Erwin Willem Yvonnick Leon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kosmidou-Bradley,Walker Turnbull"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Belanger,Johanna Lee"
+      }
+    ],
+    "date_created": "2023/10/04",
+    "date_available": "2023/10/04",
+    "date_published": "2023/10/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34174889"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-3c1ca6ba-6ffa-4761-8e1f-709f7beb61e2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-3c1ca6ba-6ffa-4761-8e1f-709f7beb61e2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10583"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Given increasing levels of displacement due to conflict and climate change, it is important to establish robust monitoring systems. This paper explores how remote sensing data, particularly geospatial data, can be leveraged to monitor displacement flows. It draws lessons from northeastern Afghanistan, namely the 2018 drought, which is considered one of the worst in decades. The analysis identifies displacement patterns by combining displacement data from the International Organization for Migration Displacement Tracking Matrix with nighttime lights. The results suggest that the cumulated displacement movements from 2018 to 2020 can be proxied by trends in nighttime light imagery. Settlements with higher net inflows of displaced persons between 2018 and 2020 have comparatively larger nighttime light growth. Allowing for nonlinearity suggests decreasing marginal returns of displacement on nighttime lights, as settlements showing the largest expansion of nighttime lights are those with the lowest displacement inflows. The model uses data on nighttime lights to predict whether a settlement was a net receiver of displacement flows during 2018&#x2013;20 and correctly classifies 63.2 percent of the settlements as net inflow or net outflow. This study provides a proof of concept to test whether population displacements can be proxied using geospatial data trained on administrative records in a data-scarce environment, where real-time insights can inform humanitarian assistance. This work was done before the political crisis of August 2021.",
+    "ref_country": [
+      {
+        "name": "Afghanistan",
+        "code": "AFG"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10583",
+    "url": "http://documents.worldbank.org/curated/en/099807010042337170/pdf/IDU03c1ca6ba06ffa0476108e1f0709f7beb61e2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial stability",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fragility",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "conflict and violence",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "geospatial services",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "transparency",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accountability and good governance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "spatial growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial sector integrity",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "forced displacement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.964114",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,143 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Updating poverty estimates at frequent intervals in the absence of consumption data : methods and illustration with reference to a middle-income country",
+    "idno": "20230001",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20230001",
+      "title": "Updating poverty estimates at frequent intervals in the absence of consumption data : methods and illustration with reference to a middle-income country",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serajuddin,Umar"
+      }
+    ],
+    "date_created": "2014/09/01",
+    "date_available": "2014/09/01",
+    "date_published": "2014/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20230001"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828be1c4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828be1c4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Obtaining consistent estimates on poverty over time as well as monitoring poverty trends on a timely basis is a priority concern for policy makers. However, these objectives are not readily achieved in practice when household consumption data are neither frequently collected, nor constructed using consistent and transparent criteria. This paper develops a formal framework for survey-to-survey poverty imputation in an attempt to overcome these obstacles, and to elevate the discussion of these methods beyond the largely ad-hoc efforts in the existing literature. The framework introduced here imposes few restrictive assumptions, works with simple variance formulas, provides guidance on the selection of control variables for model building, and can be generally applied to imputation either from one survey to another survey with the same design, or to another survey with a different design. Empirical results analyzing the Household Expenditure and Income Survey and the Unemployment and Employment Survey in Jordan are quite encouraging, with imputation-based poverty estimates closely tracking the direct estimates of poverty.",
+    "ref_country": [
+      {
+        "name": "Jordan",
+        "code": "JOR"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7043",
+    "url": "http://documents.worldbank.org/curated/en/885871468038932722/pdf/Updating-poverty-estimates-at-frequent-intervals-in-the-absence-of-consumption-data-methods-and-illustration-with-reference-to-a-middle-income-country.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.253795",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Buffer or Bottleneck ? Employment Exposure to Generative AI and the Digital Divide in Latin America",
+    "idno": "34371097",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34371097",
+      "title": "Buffer or Bottleneck ? Employment Exposure to Generative AI and the Digital Divide in Latin America",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gmyrek,Paweł"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winkler-Seales,Hernan Jorge"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garganta,Santiago"
+      }
+    ],
+    "date_created": "2024/07/26",
+    "date_available": "2024/07/31",
+    "date_published": "2024/07/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34371097"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-97096bf3-6be8-4a25-b452-45b5f0fd5aca"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-97096bf3-6be8-4a25-b452-45b5f0fd5aca"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10863"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Empirical evidence on the potential impacts of generative artificial intelligence (GenAI) is mostly focused on high-income countries. In contrast, little is known about the role of this technology on the future economic pathways of developing economies. This paper contributes to fill this gap by estimating the exposure of the Latin American labor market to GenAI. It provides detailed statistics of GenAI exposure between and within countries by leveraging a rich set of harmonized household and labor force surveys. To account for the slower pace of technology adoption in developing economies, it adjusts the measures of exposure to GenAI by using the likelihood of accessing digital technologies at work. This is then used to assess the extent to which the digital divide across and within countries will be a barrier to maximize the productivity gains among occupations that could otherwise be augmented by GenAI tools. The findings show that certain characteristics are consistently correlated with higher exposure. Specifically, urban-based jobs that require higher education, are situated in the formal sector, and are held by individuals with higher incomes are more likely to come into interaction with this technology. Moreover, there is a pronounced tilt toward younger workers facing greater exposure, including the risk of job automation, particularly in the finance, insurance, and public administration sectors. When adjusting for access to digital technologies, the findings show that the digital divide is a major barrier to realizing the positive effects of GenAI on jobs in the region. In particular, nearly half of the positions that could potentially benefit from augmentation are hampered by lack of use of digital technologies. This negative effect of the digital divide is more pronounced in poorer countries.",
+    "ref_country": [
+      {
+        "name": "Latin America & Caribbean",
+        "code": "-"
+      },
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10863",
+    "url": "http://documents.worldbank.org/curated/en/099826507262419608/pdf/IDU197096bf316be814a251b452145b5f0fd5aca.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.667950",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

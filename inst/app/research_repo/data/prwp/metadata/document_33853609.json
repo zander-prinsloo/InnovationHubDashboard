@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating Local Agricultural GDP across the World",
+    "idno": "33853609",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33853609",
+      "title": "Estimating Local Agricultural GDP across the World",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blankespoor,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ru,Yating"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wood-Sichra,Ulrike"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thomas,Timothy S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "You,Liangzhi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kalvelagen,Erwin"
+      }
+    ],
+    "date_created": "2022/06/27",
+    "date_available": "2022/06/27",
+    "date_published": "2022/06/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33853609"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1132bffa-820e-4b04-95ed-bcc222744fdc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1132bffa-820e-4b04-95ed-bcc222744fdc"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10109"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Economic statistics are frequently produced at an administrative level such as the sub-national division. However, these measures may not adequately capture the local variation in the economic activities that is useful for analyzing local economic development patterns and the exposure to natural disasters. Agriculture GDP is a critical indicator for measurement of the primary sector, on which 60 percent of the world’s population depends for their livelihoods. Through a data fusion method based on cross-entropy optimization, this paper disaggregates national and subnational administrative statistics of Agricultural GDP into a global gridded dataset at approximately 10 x 10 kilometers using satellite-derived indicators of the components that make up agricultural GDP, namely crop, livestock, fishery, hunting and timber production. The paper examines the exposure of areas with at least one extreme drought during 2000 to 2009 to agricultural GDP, where nearly 1.2 billion people live. The findings show an estimated US$432 billion of agricultural GDP circa 2010.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10109",
+    "url": "http://documents.worldbank.org/curated/en/099044106272226657/pdf/IDU01132bffa0820e04b04095ed0bcc222744fdc.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.706363",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

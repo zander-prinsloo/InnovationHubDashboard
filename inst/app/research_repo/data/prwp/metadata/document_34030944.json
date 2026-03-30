@@ -1,0 +1,152 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Simulating the Effect of Business Tax Abolition through a New Regional CGE Model : Evidence from Italy",
+    "idno": "34030944",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34030944",
+      "title": "Simulating the Effect of Business Tax Abolition through a New Regional CGE Model : Evidence from Italy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baldassarre,Alessio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calà,Valerio Ferdinando"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carullo,Danilo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dudu,Hasan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fusco,Elisa Marie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Giacobbe,Pasquale"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Orecchia,Carlo"
+      }
+    ],
+    "date_created": "2023/03/29",
+    "date_available": "2023/03/29",
+    "date_published": "2023/03/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34030944"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d4c5420a-36e3-48de-875f-c8c25d7dca6a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d4c5420a-36e3-48de-875f-c8c25d7dca6a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10387"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The main goal of regional computable general equilibrium models is to analyze how different regions within a specific area react to certain shocks. Therefore, countries with high heterogeneity among regions, like Italy, constitute an interesting case study for regional computable general equilibrium model analysis. This paper presents the regional part of the new (recursive) dynamic single-country computable general equilibrium model called the Italian Regional and Environmental Computable General Equilibrium of the Department of Finance, based on the Mitigation, Adaptation and New Technologies Applied General Equilibrium model of the World Bank. A new regional social accounting matrix for Italy (20 regions at the Nomenclature of territorial units for statistics level) has been constructed. The social accounting matrix is used as input data to simulate the abolition of the regional tax on productive activities (regional business tax) through three different scenarios, focusing on the effects on gross domestic product, regional value added, and welfare. The results show that under the modeling assumptions, the complete abolition of the regional tax on productive activities would positively impact Italian economic growth and regional welfare.",
+    "ref_country": [
+      {
+        "name": "Italy",
+        "code": "ITA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10387",
+    "url": "http://documents.worldbank.org/curated/en/099256203292313304/pdf/IDU0d4c5420a036e3048de0875f0c8c25d7dca6a.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.595495",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

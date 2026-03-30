@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Macroeconomic uncertainty and private investment in developing countries - an empirical investigation",
+    "idno": "442065",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442065",
+      "title": "Macroeconomic uncertainty and private investment in developing countries - an empirical investigation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      }
+    ],
+    "date_created": "1998/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442065"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b055b2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b055b2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The impact of uncertainty on investment has attracted considerable attention in the analytical and empirical macroeconomic literature. In theory, however, uncertainty can affect investment through different channels, some of which operate in mutually opposing direction. So, the sigh of its overall effect is ambiguous and can be assessed only empirically. To thoroughly assess the impact of macroeconomic uncertainty on private investment, the author uses a large panel data set on developing countries. He draws a distinction between sample variability and uncertainty, constructs alternative measure of the volatility of innovations to five key macroeconomic variables (inflation, growth, the terms of trade, the real exchange rate, and the price of capital goods), and examines their association with aggregate private investment. He then adds these constructed measures to an empirical investment equation that is estimated using alternative panel data econometric methods, allowing for simultaneity, country-specific effects, and parameter heterogeneity across countries. The results underscore the robustness of the link between investment and uncertainty. Virtually all of the volatility measures in the paper show a strong negative association with investment ratios. In addition, the regression estimates indicate that uncertainty has an adverse direct impact on investment, over and above any indirect effect that might also be at work. This finding is particularly robust in the case of real exchange rate volatility, which invariably has a robust negative effect on investment, regardless of econometric specification.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2035",
+    "url": "http://documents.worldbank.org/curated/en/420401468741328458/Macroeconomic-uncertainty-and-private-investment-in-developing-countries-an-empirical-investigation",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:43.528234",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

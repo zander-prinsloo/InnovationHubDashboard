@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using Machine Learning to Assess Yield Impacts of Crop Rotation : Combining Satellite and Statistical Data for Ukraine",
+    "idno": "32192033",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32192033",
+      "title": "Using Machine Learning to Assess Yield Impacts of Crop Rotation : Combining Satellite and Statistical Data for Ukraine",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deininger,Klaus W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ali,Daniel Ayalew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kussul,Nataliia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lavreniuk,Mykola"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nivievskyi,Oleg"
+      }
+    ],
+    "date_created": "2020/06/29",
+    "date_available": "2020/06/29",
+    "date_published": "2020/06/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32192033"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087b27161"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087b08dd8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "To overcome the constraints for policy and practice posed by limited availability of data on crop rotation, this paper applies machine learning to freely available satellite imagery to identify the rotational practices of more than 7,000 villages in Ukraine. Rotation effects estimated based on combining these data with survey-based yield information point toward statistically significant and economically meaningful effects that differ from what has been reported in the literature, highlighting the value of this approach. Independently derived indices of vegetative development and soil water content produce similar results, not only supporting the robustness of the results, but also suggesting that the opportunities for spatial and temporal disaggregation inherent in such data offer tremendous unexploited opportunities for policy-relevant analysis.",
+    "ref_country": [
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9306",
+    "url": "http://documents.worldbank.org/curated/en/459481593442273789/pdf/Using-Machine-Learning-to-Assess-Yield-Impacts-of-Crop-Rotation-Combining-Satellite-and-Statistical-Data-for-Ukraine.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.461020",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

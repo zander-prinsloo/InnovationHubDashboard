@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Building or bypassing recipient country systems : are donors defying the Paris declaration",
+    "idno": "17620953",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17620953",
+      "title": "Building or bypassing recipient country systems : are donors defying the Paris declaration",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack, Stephen"
+      }
+    ],
+    "date_created": "2013/04/01",
+    "date_available": "2013/04/01",
+    "date_published": "2013/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17620953"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bcd64"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bcd64"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The 2005 Paris Declaration on Aid Effectiveness sets targets for increased use by donors of recipient country systems for managing aid. It also calls for donors to be more responsive to the quality of recipient country systems: the optimal level of their use, in terms of maximizing the development effectiveness of aid, is believed to vary with their quality. This study investigates the degree to which donors' use of country systems is in fact positively related to their quality, using indicators explicitly endorsed for this purpose by the Paris Declaration and covering the 2005-2010 period. The results of these tests strongly confirm a positive and significant relationship, and show it is robust to corrections for potential sample selection, omitted variables, or endogeneity bias. The result holds even when estimates are informed only by variation over time within each donor-recipient pair in use and quality of country systems. Moreover, donor-specific tests show that use of country systems varies positively with their quality for the vast majority of donors. These findings contradict several other studies that claim there is no relation and imply that donors in this respect are failing to live up to their commitments under the Paris Declaration. The author's interpretation of the available evidence on use of country systems is more favorable: donors' behavior over the measurement period is largely consistent with their commitments in this area. In this respect, at least, donors appear to have modified their aid practices in ways that build rather than undermine administrative capacity and accountability in recipient country governments.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6423",
+    "url": "http://documents.worldbank.org/curated/en/789561468148770236/pdf/wps6423.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.625274",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

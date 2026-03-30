@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Over-Drilling : Local Externalities and the Social Cost of Electricity Subsidies for Groundwater Pumping",
+    "idno": "34103141",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34103141",
+      "title": "Over-Drilling : Local Externalities and the Social Cost of Electricity Subsidies for Groundwater Pumping",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bueren,Jesus"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gine,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jacoby,Hanan G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mira,Pedro"
+      }
+    ],
+    "date_created": "2023/06/27",
+    "date_available": "2023/06/27",
+    "date_published": "2023/06/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34103141"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-57a8b483-c350-4114-b7e8-3f7752e1a5de"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-57a8b483-c350-4114-b7e8-3f7752e1a5de"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10508"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Borewells for groundwater extraction have proliferated across South Asia, encouraged by subsidized electricity for pumping. Because borewells operating near one another experience mutually attenuated discharges and higher failure rates, farmers deciding whether and when to drill interact strategically with potentially many neighbors through the spatial network of agricultural plots. To incorporate such interactions in policy counterfactuals, this paper estimates a dynamic discrete network game of well-drilling using plot-level panel data from two states of southern India. The current regime of free (but rationed) electricity is then compared against an annual tax on all functioning borewells that fully defrays electricity costs. The cost-recovery tax, by reining in over-drilling, eliminates a deadweight loss of 170 USD per acre of land with groundwater potential, 30% of the fiscal cost of the subsidy. Further, taxing borewells at a rate 18% higher than annual electricity costs (to address the negative externalities) is socially optimal. The model estimates also suggest a practical compensation scheme to build farmer support for electricity price reform.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10508",
+    "url": "http://documents.worldbank.org/curated/en/099508406272329149/pdf/IDU157a8b4831c350141141b7e813f7752e1a5de.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.766086",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

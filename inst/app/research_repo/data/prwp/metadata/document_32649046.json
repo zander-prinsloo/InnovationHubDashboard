@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Do Coronavirus Containment Measures Work Worldwide Evidence",
+    "idno": "32649046",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32649046",
+      "title": "Do Coronavirus Containment Measures Work Worldwide Evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blanco,Fernando Heber"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Emrullahu,Drilona"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soto,Raimundo"
+      }
+    ],
+    "date_created": "2020/12/08",
+    "date_available": "2020/12/08",
+    "date_published": "2020/12/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32649046"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08809812c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08809812c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using a daily data base covering 158 countries during January to August 2020, this paper assesses the effectiveness of coronavirus containment measures in reducing contagion and death rates. To estimate the effectiveness of different containment measures, the paper uses a methodological approach that takes into consideration the persistence in the dynamics between coronavirus containment measures and contagion/death rates, countries’ idiosyncratic characteristics, and the endogeneity of the containment measures. To obtain efficient estimates of the effect of coronavirus containment measures on contagion and death rates, a dynamic panel-data technique is used, complemented by efficient instruments for the decision of adopting coronavirus containment measures. The results show that countries with better health systems, higher temperatures, and more democratic regimes tended to delay the adoption of coronavirus containment measures. The results also detect demonstration effects as the early adoption of coronavirus containment measures in Western Europe led other countries to accelerate their adoption. Using predictions from the estimated model, it is possible to benchmark the timing of adoption of coronavirus containment measures and assess whether their adoption was timely or not and if they were lifted prematurely or not. The findings of this exercise show that countries with timely adopted coronavirus containment measures restricted activities, meanwhile they lagged in the adoption of measures restricting individual liberties. The evidence indicates that most countries resisted the urge to lift restrictions in advance, once they have been in place: over 60 percent of the countries have reacted as predicted by our econometric models, maintaining coronavirus containment measures in place until contagion rates receded. Nevertheless, around one-quarter of the countries lifted their restrictions one month or more ahead of what the worldwide evidence would have suggested, in particular by removing lockdowns and re-opening workplaces. Finally, the results show that coronavirus containment measures have been effective in reducing contagion and death rates, but there are differences in the effectiveness among them, and restrictions on activities have been more effective than restrictions on personal liberties.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9490",
+    "url": "http://documents.worldbank.org/curated/en/262351607455364773/pdf/Do-Coronavirus-Containment-Measures-Work-Worldwide-Evidence.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.643979",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

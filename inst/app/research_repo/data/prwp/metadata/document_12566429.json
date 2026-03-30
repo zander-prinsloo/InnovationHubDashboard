@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Export discoveries, diversification and barriers to entry",
+    "idno": "12566429",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12566429",
+      "title": "Export discoveries, diversification and barriers to entry",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Klinger, Bailey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman, Daniel"
+      }
+    ],
+    "date_created": "2010/07/01",
+    "date_available": "2010/07/20",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12566429"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bb156"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bb156"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The literature on the relationship between economic diversification and development has grown rapidly in recent years, partly due to the surprising finding that diversification rises with gross domestic product per capita up to a certain point. Export diversification along the extensive margin is inextricable from the introduction of new export products. The authors test the hypothesis that the threat of imitation inhibits the introduction of new exports -- export discoveries -- under the assumption that the intensive and extensive margins of exports are correlated within broad country-industry groups. Econometric evidence from panel-data techniques that are appropriate for count data (the number of discoveries) suggests that discoveries within countries and industries rise with the growth of exports along the intensive margin (relative to the growth of non-export gross domestic product) but the magnitude of this partial correlation increases with domestic barriers to entry and with customs delays in exporting. However, the magnification effect of barriers to entry appears to be less significant as a determinant of total within-country export discoveries. This is consistent with inter-industry and within-country spillovers related to export discoveries, implying that barriers to entry enhance the effect of export growth on discoveries within country-industries but total discoveries might be unaffected by barriers to entry.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5366",
+    "url": "http://documents.worldbank.org/curated/en/857581468348846023/pdf/WPS5366.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.280617",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

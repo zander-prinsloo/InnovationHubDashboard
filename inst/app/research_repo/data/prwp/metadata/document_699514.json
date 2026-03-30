@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Tariff index theory",
+    "idno": "699514",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699514",
+      "title": "Tariff index theory",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anderson,James E."
+      }
+    ],
+    "date_created": "1992/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699514"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ac3da"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ac3da"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "For a single tariff, the height of the tariff is an unambiguous measure of the policy's restrictiveness. With more than one tariff, theory has not provided an extension that captures the idea of the tariff's height, so analysts have used index numbers such as the mean and the coefficient of variation (standard deviation divided by the mean) of tariffs. By contrast, the theoretical literature on the piecemeal reform of tariffs shows that efficiency gains from tariff reform depend on complex conditions that have little relation to the mean or variance of tariffs. But in the absence of a connection between theory and empirical measures, it is difficult to know whether to discard the measures. Moreover, the piecemeal reform question of measuring the welfare gain from a tariff is not directly related to the problem of evaluating the height of restrictiveness. The problem of finding a single number analogous to the height of tariffs is the tariff index number problem. The authors have developed a solution: the Trade Restrictiveness Index, which they define as the uniform tariff factor that is equivalent in trade restrictiveness (equivalent in the balance of trade) to the actual differentiated tariff structure. Here, the author develops the Trade Restrictiveness Index in terms of mean and variance-covariance indexes of the tariff schedule. There are two payoffs. First, the Trade Restrictiveness Index can be decomposed into expressions that rescue the commonsense idea that lower mean and lower variance of tariffs are both efficient. Second, a special case is offered in which the proper weights in the mean and variance of tariffs are the observed trade weights. Thus, the Trade Restrictiveness Index is superior to traditional summary measures such as the average tariff rate and the coefficient variation for the tariff schedule. It requires only limited additional information on the structure of the economy to yield a measure that is preferable on both theoretical and practical grounds.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1023",
+    "url": "http://documents.worldbank.org/curated/en/535991468740384998/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.321706",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Childcare and Maternal Employment : Evidence from Vietnam",
+    "idno": "31083293",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31083293",
+      "title": "Childcare and Maternal Employment : Evidence from Vietnam",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hiraga,Masako"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Cuong Viet"
+      }
+    ],
+    "date_created": "2019/05/17",
+    "date_available": "2019/06/20",
+    "date_published": "2019/06/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31083293"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086de990e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086cb7f54"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Little literature currently exists on the effects of childcare use on maternal labor market outcomes in a developing country context, and recent studies offer mixed results. This paper attempts to fill these gaps by analyzing several of the latest rounds of the Vietnam Household Living Standards Survey spanning the early to mid-2010s. Addressing endogeneity issues with a regression discontinuity estimator based on children's birth months, the paper finds a sizable effect of childcare attendance on women's labor market outcomes, including their total annual wages, household income, and poverty status. The effects of childcare attendance differ by women's characteristics and are particularly strong for younger, more educated women. Furthermore, childcare has a medium-term effect and positively impacts men's labor market outcomes as well.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8856",
+    "url": "http://documents.worldbank.org/curated/en/739441558098304418/pdf/Childcare-and-Maternal-Employment-Evidence-from-Vietnam.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.636147",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

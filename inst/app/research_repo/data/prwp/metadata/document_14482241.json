@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade liberalization, firm heterogeneity, and wages : new evidence from matched employer-employee data",
+    "idno": "14482241",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14482241",
+      "title": "Trade liberalization, firm heterogeneity, and wages : new evidence from matched employer-employee data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krishna, Pravin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Poole, Jennifer P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Senses, Mine Zeynep"
+      }
+    ],
+    "date_created": "2011/06/01",
+    "date_available": "2011/06/01",
+    "date_published": "2011/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14482241"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c0a4e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c0a4e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In this paper, the authors use a linked employer-employee database from Brazil to examine the impact of trade reform on the wages of workers employed at heterogeneous firms. The analysis of the data at the firm-level confirms earlier findings of a differential positive effect of trade liberalization on the average wages at exporting firms relative to non-exporting firms. However, this analysis of average firm-level wages is incomplete along several dimensions. First, it cannot fully account for the impact of a change in trade barriers on workforce composition especially in terms of unobservable (time-invariant) characteristics of workers (innate ability) and any additional productivity that obtains in the context of employment in the specific firm (match specific ability). Furthermore, the firm-level analysis is undertaken under the assumption that the assignment of workers to firms is random. This ignores the sorting of worker into firms and leads to a bias in estimates of the differential impact of trade on workers at exporting firms relative to non-exporting firms. Using detailed information on worker and firm characteristics to control for compositional effects and using firm-worker match specific effects to account for the endogenous mobility of workers, the authors find the differential effect of trade openness on wages in exporting firms relative to domestic firms to be insignificant. Consistent with the models of Helpman, Itskhoki, and Redding (2010) and Davidson, Matusz and Schevchenko (2008), they also find that the workforce composition improves systematically in exporting firms in terms of innate (time invariant) worker ability and in terms the quality of the worker-firm matches.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5711",
+    "url": "http://documents.worldbank.org/curated/en/749441468163480269/pdf/WPS5711.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.532137",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

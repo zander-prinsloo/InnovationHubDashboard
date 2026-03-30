@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What Explains Global Inflation",
+    "idno": "34218168",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34218168",
+      "title": "What Explains Global Inflation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ha,Jongrim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kose,Ayhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ohnsorge,Franziska Lieselotte"
+      }
+    ],
+    "date_created": "2023/12/18",
+    "date_available": "2023/12/18",
+    "date_published": "2023/12/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34218168"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4d2b00a8-52e3-4034-9fc1-33a96b1c81ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4d2b00a8-52e3-4034-9fc1-33a96b1c81ac"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10648"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the drivers of fluctuations in global inflation, defined as a common factor across monthly headline consumer price index (CPI) inflation in G7 countries, over the past half-century. It estimates a Factor-Augmented Vector Autoregression model where a wide range of shocks, including global demand, supply, oil price, and interest rate shocks, are identified through narrative sign restrictions motivated by the predictions of a simple dynamic general equilibrium model. The authors report three main results. First, oil price shocks followed by global demand shocks explained the lion&#x2019;s share of variation in global inflation. Second, the contribution of global demand and oil price shocks increased over time, from 56 percent during 1970&#x2013;1985 to 65 percent during 2001&#x2013;2022, whereas the importance of global supply shocks declined. Since the pandemic, global demand and oil price shocks have accounted for most of the variation in global inflation. Finally, oil price shocks played a much smaller role in global core CPI inflation variation, for which global supply shocks were the main source of variation. These results are robust to various sensitivity exercises, including alternative definitions of global variables, different samples of countries, and additional narrative restrictions.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10648",
+    "url": "http://documents.worldbank.org/curated/en/099417212182324899/pdf/IDU04d2b00a8052e30403409fc1033a96b1c81ac.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.395565",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

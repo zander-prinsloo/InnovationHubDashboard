@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Environmental Hazards, Climate, and Health in Cambodia : The Shield of Sanitation",
+    "idno": "34275344",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34275344",
+      "title": "Environmental Hazards, Climate, and Health in Cambodia : The Shield of Sanitation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "World Bank"
+      }
+    ],
+    "date_created": "2024/03/05",
+    "date_available": "2024/03/05",
+    "date_published": "2024/03/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34275344"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a6ed49c9-5919-4f4e-98a2-bde2d796969f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a6ed49c9-5919-4f4e-98a2-bde2d796969f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10715"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Environmental degradation is the largest public health challenge of the century and is likely to be exacerbated by climate change. This study undertakes a comprehensive examination of the health implications of environmental hazards in Cambodia, simultaneously addressing extreme temperatures, precipitation patterns, and air pollution. It leverages data from the Demographic and Health Surveys and satellite-derived metrics on temperature, precipitation, and fine particulate matter. The analysis identifies a positive association between temperature and the occurrence of diarrhea and cough among children and a nonlinear relationship between precipitation and these health outcomes. Furthermore, the study demonstrates that pollution significantly impacts cough incidence. To anticipate future trends, climate simulations are employed to forecast the incidence of child diarrhea in Cambodia under different climate and development scenarios. The projections indicate that diarrhea incidence could increase to 19 percent by 2040 without significant adaptation measures that would lessen the adverse impact of weather. For instance, the acceleration in toilet ownership over the last decade reduced diarrhea incidence by at least 1.2 to 1.4 percentage points. Nevertheless, the path ahead requires proactive efforts to improve sanitation and hygiene. The forecasts suggest that, without additional strategies to counter climate change&#x2019;s adverse effects, only universal toilet ownership would contain the climate-driven increase in diarrhea incidence expected by 2040.",
+    "ref_country": [
+      {
+        "name": "Cambodia",
+        "code": "KHM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10715",
+    "url": "http://documents.worldbank.org/curated/en/099027103062441502/pdf/IDU1a6ed49c91591914f4e198a21bde2d796969f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "health systems and policies",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "health finance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "health service delivery",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "health system strengthening",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.956438",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

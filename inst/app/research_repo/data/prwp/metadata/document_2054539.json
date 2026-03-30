@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does globalization hurt the poor",
+    "idno": "2054539",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2054539",
+      "title": "Does globalization hurt the poor",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Agenor,Pierre-Richard"
+      }
+    ],
+    "date_created": "2002/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2054539"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05cef"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05cef"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Ag�or attempts to examine analytically and empirically the extent to which globalization affects the poor in low- and middle-income countries. He begins with a description of various channels through which trade openness and financial integration may have an adverse effect on poverty. However, the author also stresses the possible nonlinearities involved-possibilities that have seldom been recognized in the ongoing debate. Ag�or then presents cross-country regressions that relate measures of real and financial integration to poverty. The regressions control for changes in income per capita and output growth rates, as well as various other macroeconomic and structural variables, such as the inflation tax, changes in the real exchange rate and the terms of trade, health and schooling indicators, and macroeconomic volatility. The author uses not only individual indicators of trade and financial openness but also a \"globalization index\" based on principal components analysis, and tests for both linear and nonlinear effects. The results suggest the existence of a nonmonotonic, Laffer-type relationship between globalization and poverty. At low levels, globalization appears to hurt the poor; but beyond a certain threshold, it seems to reduce poverty-possibly because it brings with it renewed impetus for reform. So, globalization may hurt the poor not because it went too far, but rather because it did not go far enough.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2922",
+    "url": "http://documents.worldbank.org/curated/en/817891468765873632/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:33.807142",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

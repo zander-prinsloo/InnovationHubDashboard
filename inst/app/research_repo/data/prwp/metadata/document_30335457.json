@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Lassoing Welfare Dynamics with Cross-Sectional Data",
+    "idno": "30335457",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30335457",
+      "title": "Lassoing Welfare Dynamics with Cross-Sectional Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lucchetti,Leonardo Ramiro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Corral Rodas,Paul Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ham,Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garriga,Santiago"
+      }
+    ],
+    "date_created": "2018/08/08",
+    "date_available": "2018/08/08",
+    "date_published": "2018/08/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30335457"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0880e951c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085e8063a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces, validates, and applies a Least Absolute Shrinkage and Selection Operator with multiple imputation by Predictive Mean Matching (LASSO-PMM) method to estimate intra-generational welfare dynamics using cross-sectional data. Compared to previous welfare dynamic prediction methods, the LASSO-PMM makes fewer and less restrictive assumptions and allows estimating poverty transitions and income changes. We validate the method using 36 harmonized panel data sets in four Latin American countries and then apply it to cross-section data from 43 countries across the world. To the best of our knowledge, this is the first paper that uses these many datasets to validate and estimate welfare and mobility predictions. Validation results indicate that LASSO-PMM predictions are in general statistically indistinguishable from actual household poverty rates, mobility indicators, and income or consumption changes; results which are further supported by a series of sensitivity tests and robustness checks. These findings are sufficiently encouraging to suggest that estimating economic mobility using a LASSO-PMM approach may accurately approximate actual welfare dynamics in settings where panel data are unavailable. This application provides useful policy information on the dynamics of individual welfare in countries where two or more rounds of cross-section data are available.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8545",
+    "url": "http://documents.worldbank.org/curated/en/949841533741579213/pdf/Lassoing-Welfare-Dynamics-with-Cross-Sectional-Data.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.372085",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

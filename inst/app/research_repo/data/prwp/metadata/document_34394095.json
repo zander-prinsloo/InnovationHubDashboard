@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Division of Revenues from Unexpected Demand Shocks",
+    "idno": "34394095",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34394095",
+      "title": "The Division of Revenues from Unexpected Demand Shocks",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bastos,Paulo S. R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Monteiro,Natalia P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Straume,Odd Rune"
+      }
+    ],
+    "date_created": "2024/09/23",
+    "date_available": "2024/09/23",
+    "date_published": "2024/09/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34394095"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ac5a0c22-51c3-458e-a676-f62ca8981787"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ac5a0c22-51c3-458e-a676-f62ca8981787"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10925"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper exploits gaps between observed and recently forecasted Gross Domestic Product growth in export destinations to estimate the effects of unexpected demand shocks on worker compensation. Using employer-employee panel data, the paper finds that the revenues from these demand shocks are partly transmitted to workers in the form of higher average wages, especially close to the top of the within-firm wage distribution. These wage responses occur both in the form of higher overtime payment and base wage increases. The findings also show that there are significant increases in bonus-related pay in firms managed by high-skilled managers, and the unequal average distribution of unexpected revenues is also mainly driven by wage effects in the same subset of firms. This suggests that the way in which revenues from unexpected demand shocks are transmitted to workers is significantly related to managerial capabilities.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10925",
+    "url": "http://documents.worldbank.org/curated/en/099429109232426149/pdf/IDU1ac5a0c22151c31458e1a6761f62ca8981787.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.125805",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

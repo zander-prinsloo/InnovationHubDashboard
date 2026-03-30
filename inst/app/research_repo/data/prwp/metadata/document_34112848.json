@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Gender-Segmented Labor Markets and Trade Shocks",
+    "idno": "34112848",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34112848",
+      "title": "Gender-Segmented Labor Markets and Trade Shocks",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bezerra De Goes,Carlos Andre"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Acevedo,Gladys C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robertson,Raymond"
+      }
+    ],
+    "date_created": "2023/07/06",
+    "date_available": "2023/07/06",
+    "date_published": "2023/07/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34112848"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-d9e1ef01-558b-4cb1-b110-52e55e8b97cd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-d9e1ef01-558b-4cb1-b110-52e55e8b97cd"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10518"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Gender segmentation in labor markets shapes the local effects of international trade. This paper develops a theory that embeds trade in gender-segmented labor markets and shows that in this framework, foreign demand shocks may increase or decrease the female-to-male employment ratio. If a foreign demand shock from a relevant market happens in a female-intensive (male-intensive) sector, the model predicts that the female-to-male employment ratio should increase (decrease). The paper then uses plausibly exogenous variation in the exposure of Tunisian local labor markets to foreign demand shocks and shows that the empirical results are consistent with the theoretical prediction. In Tunisia, a country with a high degree of gender segmentation in the labor markets, foreign demand shocks have been relatively larger in male-intensive sectors. This induced a decrease in the female-to-male employment ratio, with households likely substituting female for male labor supply.",
+    "ref_country": [
+      {
+        "name": "Tunisia",
+        "code": "TUN"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10518",
+    "url": "http://documents.worldbank.org/curated/en/099217207062316866/pdf/IDU0d9e1ef010558b04cb10b110052e55e8b97cd.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.675682",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

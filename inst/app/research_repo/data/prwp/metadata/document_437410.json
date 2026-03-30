@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Information and modeling issues in designing water and sanitation subsidy schemes",
+    "idno": "437410",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437410",
+      "title": "Information and modeling issues in designing water and sanitation subsidy schemes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gomez-Lobo, Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster, Vivien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Halpern, Jonat"
+      }
+    ],
+    "date_created": "2000/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437410"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b33"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b33"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In designing a rational scheme for subsidizing water services, it is important to support the choice of design parameters with empirical analysis that stimulates the impact of subsidy options on the target population. Otherwise, there is little guarantee that the subsidy program will meet its objectives. But such analysis is informationally demanding. Ideally, researchers should have access to a single, consistent data set containing household-level information on consumption, willingness to pay, and a range of socioeconomic characteristics. Such a comprehensive data set will rarely exist. The authors suggest overcoming this data deficiency by collating, and imaginatevily manipulating different sources of data to generate estimates of the missing variables. The most valuable sources of information, they explain, are likely to be the following: 1) Customer databases of the water company, which provide robust information on the measured consumption of formal customers, but little information on unmeasured consumption, informal customers, willingness to pay, or socioeconomic variables. 2) General socioeconomic household surveys, which are an excellent source of socioeconomic information, but tend to record water expenditure rather than physical consumption. 3) Willingness-to-pay surveys, which are generally tailored to a specific project, are very flexible, and may be the only source of willingness-to-pay data. However, they are expensive to undertake, and the information collected is based on hypothetical rather than real behavior. Where such surveys are unavailable, international benchmark values on willingness to pay may be used. Combining data sets requires some effort and creativity, and creates difficulties of its own. But once a suitable data set has been constructed, a simulation model can be created using simple spreadsheet software. The model used to design Panama's water subsidy proposal addressed these questions: a) What are the targeting properties of different eligibility criteria for the subsidy? b) How large should the subsidy be? c) How much will the subsidy scheme cost, including administrative costs? Armed with the above information, policymakers should be in a position to design a subsidy program that reaches the intended beneficiaries, provides them with the level of financial support that is strictly necessary, meets the overall budget restrictions, and does not waste an excessive amount of funding on administrative costs.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2345",
+    "url": "http://documents.worldbank.org/curated/en/302531468766769885/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.743087",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

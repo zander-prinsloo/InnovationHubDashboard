@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Productivity Loss and Misallocation of Resources in Southeast Asia",
+    "idno": "32620851",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32620851",
+      "title": "Productivity Loss and Misallocation of Resources in Southeast Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Nicola,Francesca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Ha Minh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza,Norman V."
+      }
+    ],
+    "date_created": "2020/11/30",
+    "date_available": "2020/11/30",
+    "date_published": "2020/11/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32620851"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088043c6b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088043c6b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines within-sector resource misallocation in three Southeast Asian countries -- Indonesia, Malaysia, and Vietnam. The methodology accounts for measurement error in revenues and costs. The firm-level evidence suggests that measurement error is substantial, resulting in an overestimation of misallocation by as much as 30 percent. Nevertheless, resource misallocation across firms within a sector remains large, albeit declining. The findings imply that there are considerable potential gains from efficient reallocation -- above 80 percent for Indonesia and around 20 to 30 percent for Malaysia and Vietnam. Private domestic firms and firms with higher productivity appear to face larger distortions that prevent them from expanding.",
+    "ref_country": [
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      },
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      },
+      {
+        "name": "South East Asia and Mongolia",
+        "code": "MNG"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9483",
+    "url": "http://documents.worldbank.org/curated/en/988961606749814811/pdf/Productivity-Loss-and-Misallocation-of-Resources-in-Southeast-Asia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.733734",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

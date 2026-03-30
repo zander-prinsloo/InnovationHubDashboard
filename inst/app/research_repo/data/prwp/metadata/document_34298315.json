@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "COVID-19 Increased Existing Gender Mortality Gaps in High-Income Countries More Than in Middle-Income Countries",
+    "idno": "34298315",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34298315",
+      "title": "COVID-19 Increased Existing Gender Mortality Gaps in High-Income Countries More Than in Middle-Income Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beegle,Kathleen G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demombynes,Gabriel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Walque,Damien B. C. M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gubbins,Paul Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Veillard,Jeremy Henri Maurice"
+      }
+    ],
+    "date_created": "2024/04/09",
+    "date_available": "2024/04/09",
+    "date_published": "2024/04/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34298315"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-59044c8b-b3ee-46b0-928c-b9248d269cce"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-59044c8b-b3ee-46b0-928c-b9248d269cce"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10750"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Men die at higher rates in nearly all places and at all ages beyond age 45. Using World Health Organization excess mortality estimates by sex and age groups for 75 countries in 2020 and 62 countries in 2021, this paper analyzes how patterns of excess mortality varied by sex and age groups across countries during the COVID-19 pandemic and their association with country income level. In 2020, the pandemic amplified the gender mortality gap for the world, but with variation across countries and by country income level. In high-income countries, rates of excess mortality were much higher for men than women. In contrast, in middle-income countries, the sex ratio of excess mortality was similar to the sex ratio of expected all-cause mortality. The exacerbation of the sex ratio of excess mortality observed in 2020 in high-income countries declined in 2021, likely as a result of the faster rollout of vaccination against COVID-19.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10750",
+    "url": "http://documents.worldbank.org/curated/en/099750404092472550/pdf/IDU159044c8b1b3ee146b01928c1b9248d269cce.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.692473",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

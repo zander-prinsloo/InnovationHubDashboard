@@ -1,0 +1,152 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using ORBIS to Build a Global Database of Firms with State Participation",
+    "idno": "33954934",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33954934",
+      "title": "Using ORBIS to Build a Global Database of Firms with State Participation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dall'Olio,Andrea Mario"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goodwin,Tanja K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Licetti,Martha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Orlowski,Jan Alexander Kazimierz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patino Pena,Fausto Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ratsimbazafy,Francis Ralambotsiferana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanchez Navarro,Dennis"
+      }
+    ],
+    "date_created": "2022/12/13",
+    "date_available": "2022/12/13",
+    "date_published": "2022/12/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33954934"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-3d958604-b285-4839-8112-922e33694f65"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-3d958604-b285-4839-8112-922e33694f65"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10261"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a novel methodology to construct a harmonized cross-country database of the state&#x2019;s footprint in markets: the Businesses of the State database. The methodology of the database is built on three criteria&#x2014;(i) a harmonized definition of state-owned enterprises, (ii) identification of direct and indirect state ownership linkages at the national and subnational levels across the corporate sector, and (iii) classification of economic activities depending on their efficiency rationale&#x2014;which conceptualize a framework to trace state presence in the corporate sector across economic activities. The database is constructed leveraging different firm-level data sources including the ORBIS Global Database, as the primary data source, which is then complemented with supplementary data sources (EMIS Intelligence, Factiva, Worldscope, Pitchbook, among others) to mitigate ORBIS&#x2019;s data limitations across countries and regions. The Businesses of the State database identifies an unprecedented number of firms with state participation across countries and economic activities, as well as providing novel insights on financial performance, economic performance, and governance of state-owned enterprises. A deep-dive analysis of 36 countries within the Businesses of the State database shows that 69 percent of state-owned enterprises operate in competitive activities (low efficiency-rationale for state participation), 16% are in partially contestable industries (moderate efficiency rationale), and 15 percent are natural monopolies (strong efficiency rationale). Furthermore, this analysis suggests that performance-based productivity of state-owned enterprises (revenue per worker) is negatively correlated with government control variables, such as government shareholding percentage and direct versus indirect government ownership.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10261",
+    "url": "http://documents.worldbank.org/curated/en/099800112132221252/pdf/IDU03d9586040b28504839081120922e33694f65.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.296397",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

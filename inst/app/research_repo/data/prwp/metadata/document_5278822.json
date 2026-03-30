@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Growth, inequality, and simulated poverty paths for Tanzania, 1992-2002",
+    "idno": "5278822",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5278822",
+      "title": "Growth, inequality, and simulated poverty paths for Tanzania, 1992-2002",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demombynes,Gabriel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoogeveen,Johannes G."
+      }
+    ],
+    "date_created": "2004/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5278822"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b059b4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b059b4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Although Tanzania experienced relatively rapid growth in per capita GDP in the 19952001 period, household budget survey (HBS) data show only a modest and statistically insignificant decline in poverty between 1992 and 2001. To assess the likely trajectory of poverty rates over the course of the period, changes in poverty are simulated using unit-record HBS data and national accounts growth rates under varying assumptions for growth rates and inequality changes. To this end the projection approach of Datt and Walker (2002) is used along with an extension that is better suited to taking into account distributional changes observed between the two household surveys. The simulations suggest that following increases in poverty during the economic slowdown of the early 1990s, recent growth in Tanzania has brought a decline in poverty, particularly in urban areas. Unless recent growth is sustained, the country will not meet its 2015 Millennium Development Goal (MDG). Poverty reduction is on track in urban areas, but reaching the MDG target for bringing down poverty in rural areas, where most Tanzanians live, requires sustaining high growth in rural output per capita.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3432",
+    "url": "http://documents.worldbank.org/curated/en/432911468760787184/pdf/wps3432.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.535262",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

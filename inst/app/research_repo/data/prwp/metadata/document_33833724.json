@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Demand for Digital and Complementary Skills in Southeast Asia",
+    "idno": "33833724",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33833724",
+      "title": "The Demand for Digital and Complementary Skills in Southeast Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cunningham,Wendy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moroz,Harry Edmund"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Muller,Noel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Solatorio,Aivin Vicquierra"
+      }
+    ],
+    "date_created": "2022/05/31",
+    "date_available": "2022/05/31",
+    "date_published": "2022/05/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33833724"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-15d114c3-628f-46a2-a644-99df1ade479f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-15d114c3-628f-46a2-a644-99df1ade479f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10070"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As the economies of Southeast Asia continue adopting digital technologies, policy makers increasingly ask how to prepare the workforce for emerging labor demands. However, little is known about the skills that workers need to adapt to these changes. Skills profiles in low- and middle-income countries are typically derived from data collected in the United States, which is known to inaccurately reflect their occupational skills. This paper uses online job postings data from Malaysia to identify the digital, cognitive, and socioemotional skills required for digital and non-digital occupations. The skills profiles for each occupation are then merged with labor force survey data from Cambodia, Malaysia, Thailand, and Vietnam to sketch skills profiles of the workforces in these countries. Using descriptive statistics and linear probability model regressions, the paper finds evidence that highly digital occupations require not only digital skills, but also cognitive and socioemotional skills. Similarly, virtually all occupations, regardless of the digital intensity of the job, require some basic or intermediate digital skills. Pairwise correlations and a factor analysis confirm the complementarity between digital skills and different subsets of cognitive and socioemotional skills. The data also confirm that, even with the excitement about the digital revolution, the bulk of employment in Southeast Asia is in low- (around two-thirds) or medium-digital (around one-third) occupations. Only between 1 and 5 percent of jobs are highly digital in the four countries studied. These findings suggest that as education and training systems adapt to teach basic digital skills, they will need to continue to foster cognitive and socioemotional skills.",
+    "ref_country": [
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10070",
+    "url": "http://documents.worldbank.org/curated/en/099207106012292605/pdf/IDU015d114c30628f046a20a644099df1ade479f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.065249",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

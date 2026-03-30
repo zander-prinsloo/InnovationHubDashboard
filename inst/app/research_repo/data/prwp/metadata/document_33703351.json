@@ -1,0 +1,143 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Multidimensionality of Land Ownership among Men and Women in Sub-Saharan Africa",
+    "idno": "33703351",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33703351",
+      "title": "Multidimensionality of Land Ownership among Men and Women in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hasanbasri,Ardina Roosiany"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Koolwal,Gayatri B."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Moylan,Heather G."
+      }
+    ],
+    "date_created": "2022/01/13",
+    "date_available": "2022/01/13",
+    "date_published": "2022/01/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33703351"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088c7fb89"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088c7fb89"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9900"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Across Sub-Saharan African countries with customary tenure systems and low levels of documented land ownership, there are limited nationally representative insights on men and women landowners&#x2019; rights over land. Variations in institutions and norms governing land ownership further complicate cross-country comparisons. Using machine learning techniques and nationally representative, intrahousehold survey data elicited in private from men and women on their ownership of assets, this paper creates unique profiles of landowners in Ethiopia, Malawi, and Tanzania, anchored in a range of constructs related to self-reported rights and control over land parcels. The analysis reveals a high degree of cross-country consistency in the new insights. Landowners, particularly women, often do not have full rights and decision-making power over land. Multiple correspondence analysis demonstrates that transfer rights (rights to bequeath, sell, rent out, and use as collateral) contribute the most to the variation in the composition of the constructs related to rights and control over land. Hierarchical clustering shows that landowners can effectively be clustered into three categories: (1) owners with mostly exclusive transfer rights, (2) owners with mostly joint transfer rights, and (3) owners with no/limited transfer rights. Owners with transfer rights tend to have all other rights and measures of control. Women are overrepresented in the cluster of landowners with no/limited transfer rights, and in moving from the cluster with mostly joint transfer rights to the one with mostly exclusive transfer rights, the increase in the share of individuals not needing permission to exercise any right is considerably greater among women than men.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa ; Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9900",
+    "url": "http://documents.worldbank.org/curated/en/701991642088025579/pdf/Multidimensionality-of-Land-Ownership-among-Men-and-Women-in-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.385496",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

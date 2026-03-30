@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Intertemporal excess burden, bequest motives, and the budget deficit",
+    "idno": "2427516",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2427516",
+      "title": "Intertemporal excess burden, bequest motives, and the budget deficit",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chen,Derek Hung Chiat"
+      }
+    ],
+    "date_created": "2003/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2427516"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05d3b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05d3b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author aims to empirically determine the significant factors that affect the levels of budget deficits of central governments across time and across countries. He empirically tests two prominent theories of budget deficits-the Barro (1979) tax-smoothing approach, and the still-untested theory of negative bequest motives advocated by Cukierman and Meltzer (1989). The author uses econometric techniques including fixed-effects (both country and time) panel regressions spanning 87 countries over the period 1975 to 1992, and the Griliches treatment of missing data. The author finds relatively stronger statistical support for the tax-smoothing approach among developing countries but not in industrial countries. The existence of empirical evidence supporting the theory of negative bequest motives is indeterminate. The author also conducted post-regression analyses to assess the proportion of observed differences in budget deficits the factors were actually able to explain. These reveal that both theories are generally weak in accounting for inter-temporal changes in budget deficit shares for both industrial and developing countries. The theories performed significantly better in accounting for cross-section differences. The author has many contributions to the literature. First, he analyzes the question of what determines the size of central government budget deficits using cross-country time series data leading into the 1990s. Second, he provides empirical tests of the still-untested Cukierman-Meltzer (1989) negative bequest motive theory of budget deficits. By using the panel data, the author attempts to determine the factors that influence not only the inter-temporal differences in budget deficits but also those factors that lead to cross-country differences. Last but not least, he provides some preliminary evidence that poverty reduction is necessary for long-term government budget deficit reduction.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3086",
+    "url": "http://documents.worldbank.org/curated/en/466821468766465704/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:29.238162",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impact of Drought on Poverty in Somalia",
+    "idno": "30751745",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30751745",
+      "title": "Impact of Drought on Poverty in Somalia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wollburg,Philip Randolph"
+      }
+    ],
+    "date_created": "2019/01/10",
+    "date_available": "2019/01/10",
+    "date_published": "2019/01/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30751745"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086856539"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086856539"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Understanding the magnitude and importance of income shocks, such as drought or conflict, in causing and perpetuating poverty is critical to designing policies aimed at building resilience and contributing toward the goal of ending poverty. This paper uses micro-data from two waves of the Somali High Frequency Survey to assess the impact of the severe drought that Somalia experienced in 2016/17 on poverty, hunger, and consumption. The analysis uses a regression framework to quantify the effects of the drought, relying on spatial variation in drought exposure and the timing of data collection, which took place before and during the drought, for identification. The drought is found to have a sizable effect on poverty, consumption, and hunger in rural areas, where agricultural households and those lacking access to infrastructure and basic services are most severely affected. A renewed drought shock could lead to an increase in poverty of 9 percentage points. The findings underscore the importance of investing in rural resilience, especially among agricultural households.",
+    "ref_country": [
+      {
+        "name": "Somalia",
+        "code": "SOM"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8698",
+    "url": "http://documents.worldbank.org/curated/en/524061547136956461/pdf/WPS8698.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.985635",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The effects of local environmental institutions on perceptions of smoke and fire problems in Brazil",
+    "idno": "9019244",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9019244",
+      "title": "The effects of local environmental institutions on perceptions of smoke and fire problems in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wertz-Kanounnikoff, Sheila"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "M. Chomitz, Kenneth"
+      }
+    ],
+    "date_created": "2008/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9019244"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828acd78"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828acd78"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Environmental concern in developing countries has risen rapidly over the past decade. At the same time, decentralization and civic participation in environmental policy-making have also burgeoned. This paper uses data from the Brazilian Municipal Environmental Survey 2001 to examine the causal effect of municipio (county) level environmental institutions on perceptions about environmental problems in Brazil. Consistent with models of public choice, the analysis assumes that the existence of an environmental secretary or an environmental council is related to characteristics of the municipio population. To control for endogeneity - the possibility that the presence of environmental institutions merely signals constituents' tastes rather than influences municipal actions - the authors construct a system of equations that identifies the causal impact of the institutions. Estimation via a trivariate probit model allows for correlation of unobserved determinants of problem perception, presence of an environmental secretary, and presence of an environmental council. The results suggest that the presence of environmental secretaries has a strong, highly significant, positive causal effect on environmental problem perception. Presence of local environmental councils with civic participation has a significant but weaker impact on environmental problem perception. The authors conclude that local environmental institutions indeed shape local environmental awareness and that participatory institutions can influence local government.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4522",
+    "url": "http://documents.worldbank.org/curated/en/633321468016787580/pdf/wps4522.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:13.908356",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

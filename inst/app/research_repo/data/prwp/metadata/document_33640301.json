@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Nowcasting Global Poverty",
+    "idno": "33640301",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33640301",
+      "title": "Nowcasting Global Poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mahler,Daniel Gerszon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Castaneda Aguilar,Raul Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      }
+    ],
+    "date_created": "2021/11/01",
+    "date_available": "2022/03/24",
+    "date_published": "2022/03/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33640301"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d42aa0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088bb489b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9860"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper evaluates different methods for nowcasting country-level poverty rates, including methods that apply statistical learning to large-scale country-level data obtained from the World Development Indicators and Google Earth Engine. The methods are evaluated by withholding measured poverty rates and determining how accurately the methods predict the held-out data. A simple approach that scales the last observed welfare distribution by a fraction of real GDP per capita growth—a method that departs slightly from current World Bank practice—performs nearly as well as models using statistical learning on 1,000+ variables. This GDP-based approach outperforms all models that predict poverty rates directly, even when the last survey is up to five years old. The results indicate that in this context, the additional complexity introduced by applying statistical learning techniques to a large set of variables yields only marginal improvements in accuracy.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9860",
+    "url": "http://documents.worldbank.org/curated/en/143231637760743360/pdf/Nowcasting-Global-Poverty.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.019033",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

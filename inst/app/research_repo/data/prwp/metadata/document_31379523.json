@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "RUSMOD -- A Tool for Distributional Analysis in the Russian Federation",
+    "idno": "31379523",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31379523",
+      "title": "RUSMOD -- A Tool for Distributional Analysis in the Russian Federation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matytsin,Mikhail"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Popova,Daria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Freije-Rodriguez,Samuel"
+      }
+    ],
+    "date_created": "2019/09/03",
+    "date_available": "2019/09/03",
+    "date_published": "2019/09/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31379523"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087076cb8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087076cb8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The purpose of this paper is to introduce applications of RUSMOD -- a microsimulation model for fiscal incidence analysis in the Russian Federation. RUSMOD combines household survey micro-data and fiscal policy rules to simulate the Russian tax-benefit system: the size and distribution of taxes collected and benefits paid, and the impact of the system on different population groups. Microsimulation models, such as RUSMOD, are habitually used in developed countries, and can be versatile budgetary policy tools. Using this model, the current tax-benefit system in Russia is examined. The impact of the system is measured across the income distribution, age groups, family types, localities, as well as across time. One of the applications of RUSMOD this paper aims to assess is the role of the tax-benefit system in explaining the incidence of informal employment in Russia. The paper investigates whether the existing system creates disincentives for formalization in terms of reducing disposable incomes and increasing poverty and inequality, and whether a hypothetical tax reform would be able to reduce the opportunity costs of formalization for informal workers, improve distributional outcomes, and increase fiscal revenues.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8994",
+    "url": "http://documents.worldbank.org/curated/en/603961567514069098/pdf/RUSMOD-A-Tool-for-Distributional-Analysis-in-the-Russian-Federation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.659176",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Making sense of Africa's infrastructure endowment : a benchmarking approach",
+    "idno": "10509356",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10509356",
+      "title": "Making sense of Africa's infrastructure endowment : a benchmarking approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,Vivien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pierce,Justin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yepes Delgado,Tito"
+      }
+    ],
+    "date_created": "2009/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10509356"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c0fbb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c0fbb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper's objective is to explain factors underlying Africa's weak infrastructure endowment and to identify suitable infrastructure goals for the region based on benchmarking against international peers. The authors use a dataset covering the stocks of key infrastructure-including information and communication technology (ICT), power, roads, and water-across 155 developing countries over the period 1960 to 2005. The paper also examines subregional differences within Africa. They make use of regression techniques to control for a comprehensive set of economic, demographic, geographic, and historic conditioning factors, as well as adjusting for potential endogeneities. Results show that Africa lags behind all other regions of the developing world in its infrastructure endowment, except in ICT. By far the largest gaps arise in the power sector, with generating capacity and household access to electricity at half the levels observed in South Asia. While it is often assumed that Africa's infrastructure deficit is largely a reflection of its relatively low income levels, the authors find that African countries have much more limited infrastructure than income peers in other parts of the developing world. Countries that face the most challenging environment, with low population density, weak governance, and history of conflict, have the poorest infrastructure endowments. At the outset of the data series, Africa was doing significantly better than other developing regions for road density, generation capacity, and fixed-line telephones, but Africa's relative position has deteriorated over time. The most dramatic loss of ground has come in electrical generating capacity, which has stagnated since 1980.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4912",
+    "url": "http://documents.worldbank.org/curated/en/276771468191932943/pdf/WPS4912.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.493819",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

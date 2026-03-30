@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Financial indicators and growth in a cross section of countries",
+    "idno": "699786",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699786",
+      "title": "Financial indicators and growth in a cross section of countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "King, Robert G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levine, Ross"
+      }
+    ],
+    "date_created": "1992/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699786"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce7f0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce7f0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors use existing measures of the financial system - and construct many new measures - to document the relationship between the financial system and long-run growth in a cross-section of countries between 1960 and 1989. They consider various measures of the size of the financial system, the importance of different financial institutions, the financial system's allocation of credit, the financial system's efficiency, and the degree of financial repression. They use graphs, correlations, and regressions to gauge the robustness of the partial correlation between growth and the financial indicators. They also examine two channels through which financial indicators may be linked to growth: the share of GDP allocated to investment; and the efficiency with which resources are used. They find that many of the financial system indicators are significantly correlated with growth through both investment and efficiency. Moreover, many of these partial correlations remain strong after controlling for initial conditions, dummy variables for Africa and Latin America, and measures of monetary, fiscal, and trade performance. Their analysis suggests that it is empirically important to identify which financial intermediaries are doing the intermediation and to whom the financial system is allocating credit rather than simply using proxies for the overall size of the financial system, as has been common in past studies.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS819",
+    "url": "http://documents.worldbank.org/curated/en/316371468767079250/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:01.870744",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

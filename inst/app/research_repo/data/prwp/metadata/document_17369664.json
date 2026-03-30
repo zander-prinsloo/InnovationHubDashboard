@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The income lever and the allocation of aid",
+    "idno": "17369664",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17369664",
+      "title": "The income lever and the allocation of aid",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ceriani,Lidia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2013/02/01",
+    "date_available": "2013/02/21",
+    "date_published": "2013/02/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17369664"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c85cd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c85cd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper develops a concept and a measure of the monetary capacity of a country to reduce its own poverty and shows how these tools can be used to guide budget allocations or the allocation of aid. The authors call this concept the income lever. Making use of tax and distributive theory, the paper shows how different redistributive criteria correspond to the different normative criteria of the income lever. It then constructs various income lever indexes based on these criteria and uses such indexes to rank countries according to their own capacity to reduce poverty. As shown in the empirical application, this methodology can provide an equitable tool to rank countries or regions when it comes to budget or aid allocations, whether it is the allocation of social funds within the European Union (North-North transfers) or the allocation of aid from rich to poor countries (North-South transfers). The findings indicate that the allocation of social funds in the European Union follows closely the rank that results from the income lever indexes proposed while the allocation of aid to Sub-Saharan African countries does not.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6367",
+    "url": "http://documents.worldbank.org/curated/en/678261468179971458/pdf/wps6367.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.077348",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

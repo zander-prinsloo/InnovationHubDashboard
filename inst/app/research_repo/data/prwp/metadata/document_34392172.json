@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Do Capital Incentives Distort Technology Diffusion ? Evidence on Cloud, Big Data and AI",
+    "idno": "34392172",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34392172",
+      "title": "Do Capital Incentives Distort Technology Diffusion ? Evidence on Cloud, Big Data and AI",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DeStefano,Timothy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Johnstone,Nick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kneller,Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timmis,Jonathan David"
+      }
+    ],
+    "date_created": "2024/09/17",
+    "date_available": "2024/09/17",
+    "date_published": "2024/09/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34392172"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-bad42116-90e2-475a-a448-b0ecfdc4e2eb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-bad42116-90e2-475a-a448-b0ecfdc4e2eb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10911"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The arrival of cloud computing provides firms a new way to access digital technologies as digital services. Yet, capital incentive policies present in every OECD country are still targeted towards investments in information technology (IT) capital. If cloud services are partial substitutes for IT investments, the presence of capital incentive policies may unintentionally discourage the adoption of cloud and technologies that rely on the cloud, such as artificial intelligence (AI) and big data analytics. This paper exploits a tax incentive in the UK for capital investment as a quasi-natural experiment to examine the impact on firm adoption of cloud computing, big data analytics and AI. The empirical results find that the policy increased investment in IT capital as would be expected; but it slowed firm adoption of cloud, big data and AI. Matched employer-employee data shows that the policy also led firms to reduce their demand for workers that perform data analytics, but not other types of workers.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GBR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10911",
+    "url": "http://documents.worldbank.org/curated/en/099404009172440311/pdf/IDU1bad42116190e21475a1a4481b0ecfdc4e2eb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.198990",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

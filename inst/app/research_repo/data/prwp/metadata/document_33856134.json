@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade Fraud and Non-Tariff Measures",
+    "idno": "33856134",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33856134",
+      "title": "Trade Fraud and Non-Tariff Measures",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kee,Hiau Looi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nicita,Alessandro"
+      }
+    ],
+    "date_created": "2022/06/29",
+    "date_available": "2022/06/29",
+    "date_published": "2022/06/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33856134"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b25d29bb-fa0e-44ae-904c-235eb8c716a6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b25d29bb-fa0e-44ae-904c-235eb8c716a6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10112"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Similar to tariffs, non-tariff measures may induce trade fraud when they are restrictive. This paper examines whether discrepancies observed in the official trade statistics of importing and exporting countries are partly due to trade fraud from evading border non-tariff measures. To capture the restrictiveness of non-tariff measures, the paper estimates the ad valorem equivalent with importer-exporter-product variations. It presents a theoretical model and empirical evidence showing that discrepancies increase with ad valorem equivalents, consistent with the trade fraud due to traders intentionally mis-declaring countries of origin or misclassifying products in order to evade border non-tariff measures. The results are driven by homogeneous products and the trade between developed and developing countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10112",
+    "url": "http://documents.worldbank.org/curated/en/099458106292296273/pdf/IDU0b25d29bb0fa0e044ae0904c0235eb8c716a6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.695496",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

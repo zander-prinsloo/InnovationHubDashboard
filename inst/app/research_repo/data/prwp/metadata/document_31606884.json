@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Intergenerational Impact of Population Shocks on Children's Health : Evidence from the 1993-2001 Refugee Crisis in Tanzania",
+    "idno": "31606884",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31606884",
+      "title": "Intergenerational Impact of Population Shocks on Children's Health : Evidence from the 1993-2001 Refugee Crisis in Tanzania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang Sonne,Soazic Elise"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2019/12/03",
+    "date_available": "2019/12/03",
+    "date_published": "2019/12/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31606884"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0873a015b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0873a015b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines how parents' early childhood exposure to a refugee crisis impacts their children's health status. Based on Demographic and Health Survey data from Tanzania with the migration history of mothers and fathers, the analysis exploits geographical, time, and cohort variations using shock intensity and distance from refugee camps to instrument treatment. The findings show that children who were born to parents who were living closer to refugee camps during their early childhood have lower height for their age and are more likely to be stunted. The results are robust to alternative functional forms of the distance from camps, alternative specifications of the treatment and control groups, alternative cohorts of mothers, and several placebo tests.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9075",
+    "url": "http://documents.worldbank.org/curated/en/520491575397140628/pdf/Intergenerational-Impact-of-Population-Shocks-on-Childrens-Health-Evidence-from-the-1993-2001-Refugee-Crisis-in-Tanzania.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:28.976626",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

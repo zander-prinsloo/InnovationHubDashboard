@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Refugee Return and Social Cohesion",
+    "idno": "33849421",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33849421",
+      "title": "Refugee Return and Social Cohesion",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruiz,Isabel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vargas Silva,Carlos Ivan"
+      }
+    ],
+    "date_created": "2022/06/22",
+    "date_available": "2022/06/23",
+    "date_published": "2022/06/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33849421"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-52aadee5-89b3-4b0b-8806-5a64276a8e34"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-52aadee5-89b3-4b0b-8806-5a64276a8e34"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10100"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the impact of refugee return on social cohesion using data from Burundi, a country that experienced high levels of repatriation during the 2000s. It uses a nationwide survey conducted in 2015 and relies on geographic features of the communities for identification purposes. The results suggest varying impacts of refugee return on different aspects of social cohesion. The stronger effects, suggest that refugee return has a negative impact on the feeling that community members help each other, could borrow money for emergencies from non-household members and feeling that the community is peaceful. The estimated impacts on measures of reconciliation, post-conflict justice, trust and participation in community groups are mostly statistically insignificant. The paper also explores how these effects differ across different sub-samples based on ethnic composition, land scarcity and attitudes towards return. The results highlight the possible role of new migration-related societal divisions (i.e. returnees versus stayees) in affecting post-return social cohesion.",
+    "ref_country": [
+      {
+        "name": "Burundi",
+        "code": "BDI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10100",
+    "url": "http://documents.worldbank.org/curated/en/099032406232218786/pdf/IDU052aadee5089b304b0b0880605a64276a8e34.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.811628",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

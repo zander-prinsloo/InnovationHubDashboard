@@ -1,0 +1,147 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trickle Down Tax Morale : A Cross Country Survey Experiment",
+    "idno": "32746167",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32746167",
+      "title": "Trickle Down Tax Morale : A Cross Country Survey Experiment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mellon,Jonathan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peixoto,Tiago Carneiro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sjoberg,Fredrik Matias"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gauri,Varun"
+      }
+    ],
+    "date_created": "2021/01/13",
+    "date_available": "2021/01/13",
+    "date_published": "2021/01/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32746167"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0881abc3b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0881abc3b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9507"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Studies have encouraged pro-social behavior by experimentally manipulating people's views of what others like them tend to do (descriptive norms). These studies positively change behaviors, including charitable giving, littering, organ donation, and tax compliance. This paper argues that these results may be explained by a tendency to reciprocate positive actions and avoid being taken advantage of. The descriptive norm account predicts that positively describing the behavior of ordinary people will be most effective at increasing citizens’ willingness to pay taxes, and messages describing the behavior of other groups should be less effective. However, reciprocity theory suggests that highlighting pro-social behavior by groups believed not to contribute their fair share, such as rich people, should be effective because it will reduce the subject's perception that they are being taken advantage of when they pay taxes. These theories are tested in an online experiment in Kenya, Australia, the United States, the Philippines, and South Africa. The findings show that the descriptive norms treatment is ineffective, while the rich people treatment significantly increases tax morale, supporting reciprocity theory. The findings suggest that tax agencies may increase tax compliance by visibly tackling tax avoidance among groups believed to avoid taxes, such as rich citizens.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      },
+      {
+        "name": "Australia",
+        "code": "AUS"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "Philippines",
+        "code": "PHL"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZAF"
+      }
+    ],
+    "spatial_coverage": "Africa East ; East Asia and Pacific ; Rest Of The World",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9507",
+    "url": "http://documents.worldbank.org/curated/en/868051610551141811/pdf/Trickle-Down-Tax-Morale-A-Cross-Country-Survey-Experiment.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.535814",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

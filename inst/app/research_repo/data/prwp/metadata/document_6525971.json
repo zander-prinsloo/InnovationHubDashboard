@@ -1,0 +1,136 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Getting real about inequality : evidence from Brazil, Colombia, Mexico, and Peru",
+    "idno": "6525971",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6525971",
+      "title": "Getting real about inequality : evidence from Brazil, Colombia, Mexico, and Peru",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goni, Edwin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez, Humberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      }
+    ],
+    "date_created": "2006/01/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6525971"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b0029"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b0029"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Consumption baskets vary across households and inflation rates vary across goods. As a result, standard consumer price index (CPI) inflation may provide a misleading measure of the inflation actually faced by poor households, more so the more unequal the distribution of aggregate consumption across households. Likewise, changes in observed nominal consumption inequality may be very different from those in true inequality, that is, that measured using household-specific CPIs. The authors explore empirically these issues using household data covering nine episodes from four Latin American countries (Brazil, Colombia, Mexico, and Peru). They find that in these countries standard CPI inflation typically reflects the inflation rate faced by a rich consumer located in the 80 to 90 percentile of the distribution of consumption expenditure. In most episodes the authors also find that inflation was anti-rich-that is, the inflation faced by the richest consumers was higher than the inflation faced by the poorest consumers. As a result of this bias, the observed increases in nominal inequality generally exceed the actual changes in real inequality. These results are robust to correcting for quality change bias in the CPI, to the use of alternative price indices, and to the use of alternative inequality measures.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3815",
+    "url": "http://documents.worldbank.org/curated/en/541661468049747153/pdf/wps3815.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.112589",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

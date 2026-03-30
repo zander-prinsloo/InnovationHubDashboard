@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Resource misallocation and productivity gaps in Malaysia",
+    "idno": "29731086",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29731086",
+      "title": "Resource misallocation and productivity gaps in Malaysia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chuah,Lay Lian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza,Norman V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Ha Minh"
+      }
+    ],
+    "date_created": "2018/03/19",
+    "date_available": "2018/03/19",
+    "date_published": "2018/03/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29731086"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0857c40ab"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0857c3fb0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The reallocation of resources from low- to high-productivity firms can generate large aggregate productivity gains. The paper uses data from the Malaysian manufacturing census to measure the country's hypothetical productivity gains when moving toward the level of within-sector allocative efficiency in the United States to be between 13 and 36 percent. Across three census periods in 2000, 2005, and 2010 (the most recent available), the productivity gaps appear to have somewhat widened. This suggests that the \"catching-up\" process remains a challenge and a potential opportunity, particularly if total factor productivity is expected to be the dominant source of future economic growth. The simulations, based on different magnitudes of the realization of hypothetical productivity gains, show that Malaysia's gross domestic product growth can potentially increase by 0.4 to 1.3 percentage points per year over five years. The analysis accounts only for resource misallocation within sectors. There may be other, possibly large, resource misallocation across sectors. If so, closing those gaps could boost total factor productivity and gross domestic product growth even further.",
+    "ref_country": [
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8368",
+    "url": "http://documents.worldbank.org/curated/en/916081521465294530/pdf/WPS8368.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.679672",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

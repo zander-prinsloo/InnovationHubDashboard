@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Extent of GVC Engagement in Sub-Saharan Africa",
+    "idno": "31239043",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31239043",
+      "title": "The Extent of GVC Engagement in Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Biesebroeck,Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mensah,Emmanuel Buadi"
+      }
+    ],
+    "date_created": "2019/07/10",
+    "date_available": "2019/07/10",
+    "date_published": "2019/07/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31239043"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086e9d501"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086e9d501"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper exploits information from two different datasets to provide a novel and multi-dimensional picture of the engagement of all sub-Saharan African countries in global value chains (GVCs). It documents in detail the nature of the underlying data and the way it is used to construct several indicators of GVC engagement. As a companion to the paper, the data files are made available to interested researchers. While it is impossible to summarize the broad range of experiences that we document, two patterns stand out. First, the level of GVC engagement of most countries in sub-Saharan Africa is rather low, especially for their manufacturing sectors. Second, while there is increased GVC engagement over time in some countries, this pattern is by no means universal. The average engagement for the region over the time period studied (1995-2018) is not even positive on average across countries for several indicators.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8937",
+    "url": "http://documents.worldbank.org/curated/en/455761562786933258/pdf/The-Extent-of-GVC-Engagement-in-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.102196",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Improvements in the World Bank's ease of doing business rankings : do they translate into greater foreign direct investment inflows",
+    "idno": "14974488",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14974488",
+      "title": "Improvements in the World Bank's ease of doing business rankings : do they translate into greater foreign direct investment inflows",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jayasuriya,Dinuk Sanjaya"
+      }
+    ],
+    "date_created": "2011/09/01",
+    "date_available": "2011/09/01",
+    "date_published": "2011/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14974488"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b748f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b748f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The World Bank's Ease of Doing Business reports have been ranking countries since 2006. However, do improvements in rankings generate greater foreign direct investment inflows? This study is the first to test such a proposition empirically with Arellano-Bond dynamic panel estimators using the official rankings from 2006 to 2009. The paper shows this relationship is significant for the average country. However, when the sample is restricted to developing countries, the results suggest an improved ranking has, on average, an insignificant (albeit positive) influence on foreign direct investment inflows. Although robust, this result should be taken with caution given that it refers to the average developing country using data across a four-year time period. Finally, the paper demonstrates that, on average, countries that undertake large-scale reforms relative to other countries do not necessarily attract greater foreign direct investment inflows. This analysis may have important ramifications for developing country governments wanting to improve their Doing Business Rankings in the hope of attracting foreign direct investment inflows.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5787",
+    "url": "http://documents.worldbank.org/curated/en/789351468331750147/pdf/WPS5787.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:02.758632",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

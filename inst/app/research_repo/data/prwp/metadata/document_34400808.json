@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Household and Firm Exposure to Heat and Floods in South Asia",
+    "idno": "34400808",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34400808",
+      "title": "Household and Firm Exposure to Heat and Floods in South Asia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behrer,Arnold Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rexer,Jonah Matthew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sharma,Siddharth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Triyana,Margaret Maggie"
+      }
+    ],
+    "date_created": "2024/10/07",
+    "date_available": "2024/10/07",
+    "date_published": "2024/10/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34400808"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-2871f1b9-f77a-4f2d-ab04-e48c0b4b795a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-2871f1b9-f77a-4f2d-ab04-e48c0b4b795a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10947"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Climate change is increasing household exposure to extreme heat, floods and other natural disasters. This paper examines the differential exposure of poorer households to heat and floods in South Asia. The use of spatially detailed data on climate shocks and relative wealth allows the analysis in this paper to capture highly localized variation in wealth, heat and floods. It finds that poorer South Asian households experience more heat than better-off ones. In urban areas, poorer households also experience more recurrent flooding. Using spatially detailed data on the universe of firms in India, this paper also finds that smaller firms are more exposed to heat and flooding. The paper concludes by discussing potential mechanisms that could explain these disparities in exposure to climate shocks.",
+    "ref_country": [
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10947",
+    "url": "http://documents.worldbank.org/curated/en/099327010072426463/pdf/IDU12871f1b91f77a14f2d1ab041e48c0b4b795a.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.971443",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

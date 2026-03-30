@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Excluding the rural population: the impact of public expenditure on child malnutrition in Peru",
+    "idno": "18412716",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18412716",
+      "title": "Excluding the rural population: the impact of public expenditure on child malnutrition in Peru",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gajate-Garrido, Gissele"
+      }
+    ],
+    "date_created": "2013/10/01",
+    "date_available": "2013/10/01",
+    "date_published": "2013/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18412716"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c0835"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c0835"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Why is the urban-rural gap in child malnutrition increasing in Peru despite government efforts to improve the provision of public services? To answer this question, the impact of regional public expenditure in Peru on young children's nutritional outcomes is examined. To account for policy endogeneity, public expenditures are instrumented using unanticipated regional mining revenues. Even after accounting for changes in expenditure composition due to increases in mining revenues, public spending has a significant and positive impact on children's outcomes only in urban areas. However, even in urban areas, barriers exist that diminish the effectiveness of public expenditure, so indigenous and frailer children in these areas do not benefit from public spending. These children face constraints that limit their ability to use public services. This result reveals the paramount importance of initial conditions. In rural areas, possibly because of the lower quantity and quality of public services, there is no positive effect for any children.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6666",
+    "url": "http://documents.worldbank.org/curated/en/744781468293755875/pdf/WPS6666.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.432140",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

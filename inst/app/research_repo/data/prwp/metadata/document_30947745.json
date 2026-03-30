@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Micro-Equity for Microenterprises",
+    "idno": "30947745",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30947745",
+      "title": "Micro-Equity for Microenterprises",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Mel,Suresh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mckenzie,David J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Woodruff,Christopher Marshall"
+      }
+    ],
+    "date_created": "2019/04/01",
+    "date_available": "2019/04/01",
+    "date_published": "2019/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30947745"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086b1f8a8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086b1f8a8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many microenterprises in developing countries have high returns to capital, but also face risky revenue streams. In principle, equity offers several advantages over debt when financing investments of this nature, but the use of equity in practice has been largely limited to investments in much larger firms. The authors develop a model contract to make self-liquidating, quasi-equity investments in microenterprises. This contract has three key parameters that can be used to shift risk between the entrepreneur and the investor, resulting in a continuum of contracts ranging from a debt-like contract that shifts little risk from the entrepreneur to a pure revenue-sharing contract in which the investor absorbs much more of the risk. The paper discusses implementation choices, and then provides lessons from a proof-of-concept carried out by an investment partner, KGC Equity, which made nine investments averaging $3,800 in Sri Lankan microenterprises. This pilot demonstrates that this new contract structure can work in practice, but also highlights the difficulties of micro-equity investments in an environment with weak contract enforcement.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8799",
+    "url": "http://documents.worldbank.org/curated/en/647381554128100263/pdf/Micro-Equity-for-Microenterprises.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.120779",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

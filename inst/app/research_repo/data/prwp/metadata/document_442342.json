@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "INFRISK : a computer simulation approach to risk management in infrastructure project finance transactions",
+    "idno": "442342",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442342",
+      "title": "INFRISK : a computer simulation approach to risk management in infrastructure project finance transactions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dailami, Mansoor"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lipkovich, Ilya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Dyck, John"
+      }
+    ],
+    "date_created": "1999/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442342"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b056aa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b056aa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Few issues in modern finance have inspired the interest of both practitioners and theoreticians more than risk evaluation and management. The basic principle governing risk management in an infrastructure project finance deal is intuitive and well-articulated: allocate project-specific risks to parties best able to bear them (taking into account each party's appetite for, and aversion to, risk); control performance risk through incentives; and use market hedging instruments (derivatives) for covering marketwide risks arising from fluctuations in, for instance, interest and exchange rates, among other things. In practice, however, governments have been asked to provide guarantees for various kinds of projects, often at no charge, because of problems associated with market imperfections: a) Derivative markets (swaps, forwards) for currency and interest-rate risk hedging either do not exist or are inadequately developed in most developing countries. b) Limited contracting possibilities (because of problems with credibility of enforcement). c) Differing methods for risk measurement and evaluation. Two factors distinguish the financing of infrastructure projects from corporate and traditional limited-recourse project finance: 1) a high concentration of project risk early in the project life cycle (pre-completion), and 2) a risk profile that changes as the project comes to fruition, with a relatively stable cash flow subject to market and regulatory risk once the project is completed. The authors introduce INFRISK, a computer-based risk-management approach to infrastructure project transactions that involve the private sector. Developed in-house in the Economic Development Institute of the World Bank, INFRISK is a guide to practitioners in the field and a training tool for raising awareness and improving expertise in the application of modern risk management techniques. INFRISK can analyze a project's exposure to a variety of market, credit, and performance risks form the perspective of key contracting parties (project promoter, creditor, and government). Their model is driven by the concept of the project's economic viability. Drawing on recent developments in the literature on project evaluation under uncertainty, INFRISK generates probability distributions for key decision variables, such as a project's net present value, internal rate of return, or capacity to service its debt on time during the life of the project. Computationally, INFRISK works in conjunction with Microsoft Excel and supports both the construction and the operation phases of a capital investment project. For a particular risk variable of interest (such as the revenue stream, operations and maintenance costs, and construction costs, among others) the program first generates a stream of probability of distributions for each year of a project's life through a Monte Carlo simulation technique. One of the key contributions made by INFRISK is to enable the use of a broader set of probability distributions (uniform, normal, beta, and lognormal) in conducting Monte Carlo simulations rather than relying only on the commonly used normal distribution. A user's guide provides instruction on the use of the package.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2083",
+    "url": "http://documents.worldbank.org/curated/en/903671468739455227/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.563294",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

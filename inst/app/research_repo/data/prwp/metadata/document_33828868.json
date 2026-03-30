@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade, Transport, and Territorial Development",
+    "idno": "33828868",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33828868",
+      "title": "Trade, Transport, and Territorial Development",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Kunal"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grover,Arti Goswami"
+      }
+    ],
+    "date_created": "2022/05/25",
+    "date_available": "2022/05/25",
+    "date_published": "2022/05/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33828868"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-36227560-9bfa-481e-aac8-fa93523a16fe"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-36227560-9bfa-481e-aac8-fa93523a16fe"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10066"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The spatial distribution of economic activity is known to depend on trade costs, both international and domestic. This paper examines the interplay between these external and internal trade costs using a model of trade and production that is tested with the organized manufacturing sector data for India from 1989 to 2009. The analysis establishes that the trade liberalization episode of the early 1990s helped spread manufacturing away from the primary region (districts closest to ports) to the secondary region between 1994 and 2000. Such dispersion of activity away from the primary to the secondary region was driven by high internal trade costs that insulated manufacturers from import competition. This trend reversed post-2000, a period of massive decline in internal trade costs, attributed to the Golden Quadrilateral highway upgrades. During this period, the districts along the highway network in the secondary region gained market access and manufacturing activity, while those off the network lost. Irrespective of the period, or the nature of trade costs, manufacturing activity in the interior region (districts farthest from ports) remained depressed, thereby emphasizing the importance of complementary conditions in driving territorial development.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10066",
+    "url": "http://documents.worldbank.org/curated/en/099431205252212181/pdf/IDU03622756009bfa0481e0aac80fa93523a16fe.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.088547",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

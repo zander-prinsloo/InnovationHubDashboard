@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A profile of the world's young developing country migrants",
+    "idno": "7106674",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7106674",
+      "title": "A profile of the world's young developing country migrants",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McKenzie, David J."
+      }
+    ],
+    "date_created": "2006/10/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7106674"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828acc1c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828acc1c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper uses individual level census and household survey data to present a rich profile of the young developing migrants around the world. Youth are found to comprise a large share of all migrants, particularly in migration to other developing countries, with the probability of migration peaking in the late teens or early twenties. The paper examines in detail the age and gender composition of migrants, whether young migrants move alone or with a parent or spouse, their participation in schooling and work in the destination country, the types of jobs they do, and the age of return migration. The results suggest a high degree of commonality in the youth migrant experience across a number of destination countries. In particular, developing country youth tend to work in similar occupations all around the world, and are more concentrated in these occupations than older migrants or native youth. Nevertheless, there is also considerable heterogeneity among youth migrants: 29 percent of 18 to 24 year olds are attending school in their destination country, but another 29 percent are not working or in school. This illustrates both the potential of migration for building human capital, and the fear that lack of integration prevents it from being used.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4021",
+    "url": "http://documents.worldbank.org/curated/en/175021468175471361/pdf/wps4021.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.100478",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

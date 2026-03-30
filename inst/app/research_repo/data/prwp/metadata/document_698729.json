@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing Bank performance and the impact of financial restructuring in a macroeconomic framework : a new application",
+    "idno": "698729",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698729",
+      "title": "Assessing Bank performance and the impact of financial restructuring in a macroeconomic framework : a new application",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Boray, Yavuz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sierra, Hector"
+      }
+    ],
+    "date_created": "1993/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698729"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c691f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c691f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors present a simulation model (applied here to Uruguay and implemented in Javelin) that permits analysis of the interaction between a financial system and the economic environment in which it operates. The model allows the user to compute and project the indicators necessary to monitor the performance of a financial institution and to examine how those indicators respond to economic change. Traditionally, economic analysis in the World Bank has focused on either the real or financial sector, but rarely on the interaction between them. The introduction of the extended Revised Minimum Standard Model, or RMSM-X, reflects the Bank's recognition of the importance of incorporating the financial system into the macroeconomy. Nevertheless, the monetary module in the RMSM-X is too aggregated to allow for any meaningful analysis of the viability of a country's financial system, or any institution in particular. By design, the RMSM-X provides only a generic framework, or platform, that then may be adapted to particular cases. The authors develop a tool that uses a time series that shows developing trend lines. The model requires an adequate level of detail and a consistency of content, interpretation, and presentation of the financial and economic data, plus an adequate grouping of banks to ensure that comparisons are between like entities. The model should be useful to financial analysts who need to plan for and forecast the growth and profits of a financial institution, or a group of institutions, and who are interested in capturing the links with the macroeconomy in a fully consistent framework. The model allows the user to compute and project indicators that are necessary to monitor the performance of a financial institution and to examine how these indicators change in response to changes in the macroenvironment. The model should also be valuable to economists interested in assessing the viability of the financial system, particularly in assessing the impact of financial restructuring. When major financial restructuring is involved, model simulations can help policymakers and supervisors to reassure themselves that bank rehabilitation is worth its costs.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1237",
+    "url": "http://documents.worldbank.org/curated/en/231751468765882640/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.501816",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

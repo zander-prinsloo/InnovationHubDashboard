@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Monitoring banking sector fragility : a multivariate logit approach with an application to the 1996-97 banking crises",
+    "idno": "442340",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442340",
+      "title": "Monitoring banking sector fragility : a multivariate logit approach with an application to the 1996-97 banking crises",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt, Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Detragiache, Enrica"
+      }
+    ],
+    "date_created": "1999/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442340"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ae3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ae3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors explore how a multivariate logit empirical model of banking crisis probabilities can be used to monitor fragility in the banking sector. The proposed approach relies on readily available data, and the fragility assessment has a clear interpretation based on in-sample statistics. Also, the monitoring system can be tailored to fit the preferences of the decisionmakers, and the model has better in-sample performance than currently available alternatives. Despite these advantages, the monitoring system would have missed the 1997 banking crises in Indonesia, Malaysia, and the Republic of Korea, while it would have detected some weakness in Thailand and the Philippines. It would have clearly foreseen the 1996 crisis in Jamaica. Aggregate variables can convey information about general economic conditions often associated with fragility in the banking sector but are silent about the situation at individual banks or in specific segments of the banking sector - so crises that may develop from specific weaknesses in some market segments and spread through contagion would not be detected. The econometric study of systemic banking crises is a relatively new field of study. The development and evaluation of monitoring and forecasting tools based on the results of studies such as this are at an embryonic stage at best. The authors highlight elements that need to be evaluated in developing \"ready-to-use\" procedures for decision-makers and explore possible avenues for doing so. The monitoring system must be designed to fit the needs of policymakers, so systems must be developed as part of an interactive process involving both econometricians and decisionmakers.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2085",
+    "url": "http://documents.worldbank.org/curated/en/110151468773110980/Monitoring-banking-sector-fragility-a-multivariate-logit-approach-with-an-application-to-the-1996-97-banking-crises",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.661501",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

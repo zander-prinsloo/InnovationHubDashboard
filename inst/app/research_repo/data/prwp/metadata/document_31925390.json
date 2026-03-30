@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Owe a Bank Millions, the Bank Has a Problem : Credit Concentration in Bad Times",
+    "idno": "31925390",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31925390",
+      "title": "Owe a Bank Millions, the Bank Has a Problem : Credit Concentration in Bad Times",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Agarwal,Sumit"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Correa,Ricardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morais,Bernardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roldan,Jessica"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruiz Ortega,Claudia"
+      }
+    ],
+    "date_created": "2020/04/02",
+    "date_available": "2020/04/02",
+    "date_published": "2020/04/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31925390"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0877afce8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0877afce8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the dynamics of credit supply when a negative shock impacts a substantial share of bank loans. The analysis exploits the 2014 collapse of energy prices, using the universe of Mexican commercial bank loans. The findings show that, after the drop in energy prices, the credit default swap spreads (CDS) of firms in the energy sector soared, and banks that were more exposed to the energy sector increased even more their exposure ex post, by supplying loans to their larger debtors in the energy sector at lower interest rates. An increase of one standard deviation in ex-ante exposure to the energy sector increased loan volume to borrowers in the sector by 18 percent and reduced loan rates charged by 6 percent, even though borrower’s CDS spreads were widening. Highly exposed banks amplified this sector-specific shock to the rest of the economy by contracting lending to other sectors, with important real effects, as the borrowers could not switch credit suppliers. Finally, the energy price shock had a large negative impact on macro outcomes, especially in the capital-intensive secondary sector. Quantitatively, a one standard deviation increase in the exposure of a state's banks to the energy sector reduces its GDP by 1.8 percent.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9202",
+    "url": "http://documents.worldbank.org/curated/en/822751585858319206/pdf/Owe-a-Bank-Millions-the-Bank-Has-a-Problem-Credit-Concentration-in-Bad-Times.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.102061",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

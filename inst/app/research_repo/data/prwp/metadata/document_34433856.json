@@ -1,0 +1,231 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impacts of Disasters in Conflict Settings : Evidence from Mozambique and Nigeria",
+    "idno": "34433856",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34433856",
+      "title": "Impacts of Disasters in Conflict Settings : Evidence from Mozambique and Nigeria",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ben Bih,Karima"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Desjonqueres,Chloe Genevieve Helene"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jafino,Bramka Arga"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blanc,Elodie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Masson,Solene Adeline Johanne"
+      }
+    ],
+    "date_created": "2024/12/09",
+    "date_available": "2024/12/09",
+    "date_published": "2024/12/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34433856"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-67bd455d-907a-4d67-94fd-8951da0a2ff3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-67bd455d-907a-4d67-94fd-8951da0a2ff3"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10995"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the differentiated economic impact of natural hazard-related disasters (the specific disasters and climate shocks studied here being floods) when they occur in conflict versus non-conflict affected areas. Existing literature shows that disasters and climate shocks can cause significant distress to countries and people on an institutional and household level. However, assumptions are made that their impact tends to be larger in conflict-affected areas, with little evidence available on the differentiated extent of these damages. This paper investigates whether, and to what extent, the presence of conflicts has amplified the impacts of floods on economic activity and people, and hampered recovery. The paper applies a &#x201c;top-down&#x201d; approach to estimating the differential impacts of disasters and climate shocks between conflict and non-conflict affected areas using satellite-derived imagery of nightlight radiance as a proxy for economic activity, along with geospatial footprints of floods. The analysis considers two case studies: the 2019 tropical cyclones Idai and Kenneth and subsequent floods in Mozambique, and the July 2022 floods in Nigeria. Using difference-in-difference estimations, the analysis finds that there are significant differences in disaster and climate shock impacts and recovery between conflict and non-conflict affected areas. Particularly, there is a greater decline in economic activity and a longer recovery time in conflict affected areas, as proxied by the greater change in the intensity of nightlight radiance.",
+    "ref_country": [
+      {
+        "name": "Mozambique",
+        "code": "MOZ"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10995",
+    "url": "http://documents.worldbank.org/curated/en/099020312092438810/pdf/IDU167bd455d1907a14d67194fd18951da0a2ff3.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "forced displacement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disaster preparedness",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disaster response and recovery",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "conflict prevention",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fragility",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "conflict and violence",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disaster risk management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.572109",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

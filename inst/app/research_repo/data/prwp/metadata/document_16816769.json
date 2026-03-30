@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Export superstars",
+    "idno": "16816769",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16816769",
+      "title": "Export superstars",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Freund, Caroline"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pierola, Martha Denisse"
+      }
+    ],
+    "date_created": "2012/10/01",
+    "date_available": "2012/10/01",
+    "date_published": "2012/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16816769"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b447a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b447a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper shows that the top 1 percent of exporters critically shape trade patterns, using firm-level data from 32 countries. In particular, variation in average firm size (the intensive margin) explains over two thirds of the variation in the sector distribution of exports across countries, the remaining share is explained by variation in the number of firms (the extensive margin). Variation in average firm size across sectors is largely driven by variation in the sectoral distribution of exports from the top 1 percent of firms in a country -- export superstars. In contrast, the sectoral distribution of exports from the remaining 99 percent of firms is more similar across countries, and the distribution of the total number of firms across sectors is very similar across countries. This paper also finds that current export superstars typically entered the export market relatively large, reached the top 1 percent after less than three years of exporting, and account for more than half of a country's total exports, export growth and diversification. The results underscore the role of individual firms in determining both trade volumes and trade patterns.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6222",
+    "url": "http://documents.worldbank.org/curated/en/503361468340158798/pdf/wps6222.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "export development and competitiveness",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.877621",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

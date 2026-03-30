@@ -1,0 +1,143 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Who remained in poverty, who moved up, and who fell down an investigation of poverty dynamics in Senegal in the late 2000s",
+    "idno": "23055398",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "23055398",
+      "title": "Who remained in poverty, who moved up, and who fell down an investigation of poverty dynamics in Senegal in the late 2000s",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Swinkels,Robertus A"
+      }
+    ],
+    "date_created": "2014/12/01",
+    "date_available": "2014/11/30",
+    "date_published": "2014/11/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "23055398"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c25ed2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c25ed2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Poverty estimates based on cross-section data provide static snapshots of poverty rates. Although a time series of cross-section data can offer some insights into poverty trends, it does not allow for an assessment of dynamics at the household level. Such a dynamic perspective on poverty generally calls for panel data and this kind of analysis can usefully inform poverty reduction policy, notably the design of social protection interventions. Absent actual panel data for Senegal, this paper applies new statistical methods to construct synthetic panel data from two rounds of cross-section household surveys in 2005 and 2011. These data are used to study poverty transitions. The results suggest that, in marked contrast to the picture obtained from cross-section data, there exists a great deal of mobility in and out of poverty during this period. More than half the population experiences changes in its poverty status and more than two-thirds of the extreme (food) poor move up one or two welfare categories. Factors such as rural residence, disability, exposure to some kind of natural disaster, and informality in the labor market are associated with a heightened risk of falling into poverty. Belonging to certain ethnicities and factors such as migration, working in the non-agriculture sector, and having access to social capital are associated with a lower risk of falling into poverty.",
+    "ref_country": [
+      {
+        "name": "Senegal",
+        "code": "SEN"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7141",
+    "url": "http://documents.worldbank.org/curated/en/862121468296672365/pdf/WPS7141.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.557712",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

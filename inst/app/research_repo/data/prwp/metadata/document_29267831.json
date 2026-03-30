@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How do multinationals report their economic, social, and environmental impacts evidence from global reporting initiative data",
+    "idno": "29267831",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29267831",
+      "title": "How do multinationals report their economic, social, and environmental impacts evidence from global reporting initiative data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winkler,Deborah Elisabeth"
+      }
+    ],
+    "date_created": "2017/12/13",
+    "date_available": "2017/12/13",
+    "date_published": "2017/12/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29267831"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085437908"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085437908"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the role of multinational enterprises in sustainability reporting. The study assesses how multinational enterprise status correlates with a company's average disclosure rate and probability of reporting on economic, labor and social, environmental, and governance indicators. It uses a unique data set that offers company-level information on sustainability reporting from the Global Reporting Initiative, which covers 2,020 companies in 81 countries and 54 sustainability indicators. The summary statistics show that multinational enterprises and large domestic companies have higher average disclosure rates than small and medium-size enterprises. However, the econometric analysis suggests that multinational enterprise status does not matter for the average disclosure rate, but company size shows a strongly positive correlation. Differentiating by type of multinational enterprise reveals that the relationship becomes positive and significant for private companies. By contrast, the correlation between multinational enterprise status and the average disclosure rate does not vary by listing status, sector, region, or income level. Focusing on the relationship by development category also shows no significant correlation. Finally, accounting for the heterogeneity of the sustainability indicators, the study analyzes the relationship between multinational enterprise status and the probability of disclosure at the detailed indicator level, and confirms a significant correlation for 12 indicators.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8274",
+    "url": "http://documents.worldbank.org/curated/en/331701513193783109/pdf/WPS8274.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.526189",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "In Light of What They Know : How do Local Leaders Make Targeting Decisions",
+    "idno": "32550167",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32550167",
+      "title": "In Light of What They Know : How do Local Leaders Make Targeting Decisions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dervisevic,Ervin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garz,Seth Aaron Levine"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mannava,Aneesh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Perova,Elizaveta"
+      }
+    ],
+    "date_created": "2020/11/03",
+    "date_available": "2020/11/03",
+    "date_published": "2020/11/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32550167"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087f5dcfc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087f5dcfc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes how local leaders make targeting decisions in the context of a public workfare program in the Lao People~^!!^s Democratic Republic. The study finds that village heads are progressive in their targeting, prioritizing the poorer households in their villages. The study benchmarks this decentralized selection to the common alternative proxy means test method and finds that village heads are at least as progressive as a proxy means test method approach. To illuminate what poverty-related information village heads could plausibly be incorporating into their internal selection decisions, the study designs and administers a set of exercises for village heads to rank villagers on land ownership, access to nutrition, and experience with recent shocks -- indicators that are likely to differ in their observability to village heads and could plausibly be associated with need for public support. The study finds that village heads~^!!^ perceptions, as revealed through the ranking exercise, differ substantially from actual levels reported in surveys of the villagers themselves. The study then uses a data-driven machine learning approach to identify the predictors of village head selection. It concludes that village heads rely on a combination of easily observable household characteristics, forming a holistic impression of household welfare, rather than specific indicators like actual land ownership, nutrition, or economic shocks.",
+    "ref_country": [
+      {
+        "name": "Lao People's Democratic Republic",
+        "code": "LAO"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9465",
+    "url": "http://documents.worldbank.org/curated/en/683561604432151071/pdf/In-Light-of-What-They-Know-How-do-Local-Leaders-Make-Targeting-Decisions.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.036257",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

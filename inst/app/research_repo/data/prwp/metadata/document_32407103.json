@@ -1,0 +1,140 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Determinants of Property Tax Revenue : Lessons from Empirical Analysis",
+    "idno": "32407103",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32407103",
+      "title": "Determinants of Property Tax Revenue : Lessons from Empirical Analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Awasthi,Rajul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Le,Tuan Minh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "You,Chenli"
+      }
+    ],
+    "date_created": "2020/09/15",
+    "date_available": "2020/09/15",
+    "date_published": "2020/09/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32407103"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087dc10fe"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087dc0dd0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many developing countries have struggled with realizing sufficient revenues from property tax. However, as developing countries experience economic growth, they are also seeing property values rising, providing a bigger tax base from which to realize revenues. Technology has made tax administration easier and more effective and developing country governments have been improving their quality of governance and considering introducing or enhancing property tax revenue collection to diversify their tax and fiscal revenues. This paper explores the determinants of property tax revenue using data from the United States, Canada, Australia, Chile, and the Organisation for Economic Co-operation and Development for 2006 to 2016, using a fixed effects model. The results show that increases in gross domestic product and population lead to increases in property tax revenue and an increase in federal transfers decreases it. The outcomes of the empirical analysis highlight the statistically significant impacts on property tax collection of a country's state of development and its demographic, fiscal, and property tax–specific characteristics. A critical question for further research is whether and how the empirical methodologies and specifications as applied to the set of developed economies would be replicated in the context of developing countries.",
+    "ref_country": [
+      {
+        "name": "Canada",
+        "code": "CAN"
+      },
+      {
+        "name": "Australia",
+        "code": "AUS"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Rest Of The World ; East Asia and Pacific ; Latin America & Caribbean ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9399",
+    "url": "http://documents.worldbank.org/curated/en/360151600192574693/pdf/Determinants-of-Property-Tax-Revenue-Lessons-from-Empirical-Analysis.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.562998",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Man vs. machine in predicting successful entrepreneurs : evidence from a business plan competition in Nigeria",
+    "idno": "29265869",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29265869",
+      "title": "Man vs. machine in predicting successful entrepreneurs : evidence from a business plan competition in Nigeria",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mckenzie,David J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sansone,Dario"
+      }
+    ],
+    "date_created": "2017/12/12",
+    "date_available": "2017/12/12",
+    "date_published": "2017/12/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29265869"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08542dafb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085429cd7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper compares the relative performance of man and machine in being able to predict outcomes for entrants in a business plan competition in Nigeria. The first human predictions are business plan scores from judges, and the second are simple ad hoc prediction models used by researchers. The paper compares these (out-of-sample) performances with those of three machine learning approaches. The results show that (i) business plan scores from judges are uncorrelated with business survival, employment, sales, or profits three years later; (ii) a few key characteristics of entrepreneurs such as gender, age, ability, and business sector do have some predictive power for future outcomes; (iii) modern machine learning methods do not offer noticeable improvements; (iv) the overall predictive power of all approaches is very low, highlighting the fundamental difficulty of picking winners; and (v) the models do twice as well as random selection in identifying firms in the top tail of performance.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8271",
+    "url": "http://documents.worldbank.org/curated/en/968231513116778571/pdf/WPS8271.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.539020",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

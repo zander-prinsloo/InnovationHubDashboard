@@ -1,0 +1,118 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty and income seasonality in Bangladesh",
+    "idno": "10509331",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10509331",
+      "title": "Poverty and income seasonality in Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khandker, Shahidur R."
+      }
+    ],
+    "date_created": "2009/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10509331"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf440"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf440"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Seasonal poverty in Bangladesh, locally known as monga, refers to seasonal deprivation of food during the pre-harvest season of Aman rice. An analysis of household income and expenditure survey data shows that average household income and consumption are much lower during monga season than in other seasons, and that seasonal income greatly influences seasonal consumption. However, lack of income and consumption smoothing is more acute in greater Rangpur, the North West region, than in other regions, causing widespread seasonal deprivation. The analysis shows that agricultural income diversification accompanied by better access to micro-credit, irrigation, education, electrification, social safety net programs, and dynamic labor markets has helped reduce seasonality in income and poverty in regions other than Rangpur in the recent past. Hence, government policies should promote income diversification through infrastructure investments and provide income transfers to the targeted poor to contain income seasonality and poverty in this impoverished part of Bangladesh.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4923",
+    "url": "http://documents.worldbank.org/curated/en/632771467998809401/pdf/WPS4923.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "rural policies and institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:11.493736",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

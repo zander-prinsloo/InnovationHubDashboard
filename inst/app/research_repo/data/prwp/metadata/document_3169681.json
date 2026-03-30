@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Building and running general equilibrium models in EViews : Building and running general equilibrium models in eviews",
+    "idno": "3169681",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "3169681",
+      "title": "Building and running general equilibrium models in EViews : Building and running general equilibrium models in eviews",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Essama-Nssah B."
+      }
+    ],
+    "date_created": "2004/01/23",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "3169681"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05e1b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05e1b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A crucial step in policy analysis involves computing consequences of policy actions. The author shows how to implement numerically a general equilibrium model in EViews. Computable general equilibrium models are now commonly used in both industrial and developing countries to assess the impact of external shocks or economic policies on the structure of the economy or the distribution of welfare. The current version of EViews offers a set of tools for building and solving simulation models in general. The same tools make it possible to conduct policy analysis within a general equilibrium framework. Based on the generalized Salter-Swan framework and macroeconomic data for Indonesia, the author shows how to process a social accounting matrix, specify and calibrate the model, and run simulations. The results replicate welfare and structural effects of shocks and policies consistent with the underlying conceptual framework. They also reveal the key role played by structural parameters, such as the elasticity of export transformation and that of import substitution, in determining the extent of structural adjustment to shocks and the relevance of the policy response.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3197",
+    "url": "http://documents.worldbank.org/curated/en/817531468761705434/pdf/wps3197models.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.205408",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

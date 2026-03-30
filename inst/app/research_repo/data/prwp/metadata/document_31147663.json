@@ -1,0 +1,160 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor and Welfare Impacts of a Large-Scale Livelihoods Program : Quasi-Experimental Evidence from India",
+    "idno": "31147663",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31147663",
+      "title": "Labor and Welfare Impacts of a Large-Scale Livelihoods Program : Quasi-Experimental Evidence from India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pandey,Vivek"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gupta,Abhishek"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gupta,Shivani"
+      }
+    ],
+    "date_created": "2019/06/11",
+    "date_available": "2019/06/11",
+    "date_published": "2019/06/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31147663"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086d8ce0e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086d8ce0e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Improving the livelihoods of poor households and transitioning more women back to the labor force is a major challenge in South Asia. Self-employment promoted through women's groups has often been cited as a promising intervention towards this end. However, the evidence on the impact of such programs on household income and labor outcomes is limited, especially for government programs like the National Rural Livelihoods Mission in India. This study aims to provide empirical evidence on the welfare impacts of an \"intensive approach\" adopted under this program. The data for the study come from 4,316 household surveys in 727 villages. The study uses matching methods with the population and socioeconomic census, as well as an instrumental variable approach to construct a retrospective control group. The analysis finds that the program has been able to achieve its primary objective of improving livelihoods by transitioning more women into work. The program has also expanded access to credit, increased the proportion of savings, and reduced interest rates on credit for rural households. This is the first study to estimate the annual income effects of a government-run rural livelihoods program in India, and it shows significant increases in median income across the sample. The results for 30th, 40th, and 75th percentiles are also large and significant. However, the study did not find significant average treatment effects for income. Contrary to previous studies, this study finds weaker impacts on assets, except for livestock.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8883",
+    "url": "http://documents.worldbank.org/curated/en/773231560264458668/pdf/Labor-and-Welfare-Impacts-of-a-Large-Scale-Livelihoods-Program-Quasi-Experimental-Evidence-from-India.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "rural markets",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural policies and institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "rural non-farm income generation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.499725",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

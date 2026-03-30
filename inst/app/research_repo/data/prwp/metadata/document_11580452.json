@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "International aid and financial crises in donor countries",
+    "idno": "11580452",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11580452",
+      "title": "International aid and financial crises in donor countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang, Hai-Anh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack, Steve"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rogers, Halsey"
+      }
+    ],
+    "date_created": "2009/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11580452"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ae013"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ae013"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The global financial crisis has already led to sharp downturns in the developing world. In the past, international aid has been able to offset partially the effects of crises that began in the developing world, but because this crisis began in the wealthy countries, donors may be less willing or able to increase aid in this crisis. Not only have donor-country incomes fallen, but the cause of the drop -- the banking and financial-sector crisis -- may exacerbate the effect on aid flows because of its heavy fiscal costs. This paper estimates how donor-country banking crises have affected aid flows in the past, using panel data from 24 donor countries between 1977 and 2007. The analysis finds that banking crises in donor countries are associated with a substantial additional fall in aid flows, beyond any income-related effects, perhaps because of the high fiscal costs of crisis and the debt hangover in the post-crisis periods. In most specifications, aid flows from crisis-affected countries fall by an average of 20 to 25 percent (relative to the counterfactual) and bottom out only about a decade after the banking crisis hits. In addition, the results confirm that donor-country incomes are robustly related to per-capita aid flows, with an elasticity of about 3. Because all donor countries are being hit hard by the current global recession, and several have also suffered banking-sector crises, there are reasons to expect that aid could fall by a significant amount (again, relative to the counterfactual) in the coming years -- just when aid may be most clearly justified to help smooth exogenous shocks to developing countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5162",
+    "url": "http://documents.worldbank.org/curated/en/186711468135932075/pdf/WPS5162.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.588591",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

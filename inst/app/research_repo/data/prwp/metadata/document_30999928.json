@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Auction Length and Prices : Evidence from Random Auction Closing in Brazil",
+    "idno": "30999928",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30999928",
+      "title": "Auction Length and Prices : Evidence from Random Auction Closing in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Oliveira,Alexandre Borges De"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fabregas Masllovet,Abdoulaye"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fazekas,Mihaly"
+      }
+    ],
+    "date_created": "2019/04/22",
+    "date_available": "2019/04/22",
+    "date_published": "2019/04/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30999928"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086bd8095"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086bd8095"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Electronic reverse auctions are the most used competitive method for procurement of goods and non-consulting services by the Federal Government of Brazil. These auctions are closed randomly, which perfectly satisfies fairness considerations but may be suboptimal from an efficiency perspective. There are concerns that tenders are closed too early and randomness favors bidders with algorithmic bidding software, leading to high prices. Hence, this paper investigates what would happen if the random closing rule was replaced by another rule. The paper uses the complete data set of completed electronic actions in 2015–17 comprising 112 million bids for 0.9 million items purchased. Exploiting the random closing rule, simple OLS models are run with a wide set of fixed effects as well as covariates capturing competition. The findings point at alternative strategies to optimize auction design: simple actions such as increasing the average and minimum length of the random phase can result in 2.8 and 0.6 percent price savings, respectively, or R$540 million and R$116 million per year; or more complex designs such as setting the length to the maximum for the random phase if there are 15 bidders or more can yield 2.6 percent or R$ 500 million a year in price savings, or doing the same if a large discount is placed within three minutes to closing can yield 1.1 percent lower prices or R$ 210 million a year in savings.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8828",
+    "url": "http://documents.worldbank.org/curated/en/663441555954348673/pdf/Auction-Length-and-Prices-Evidence-from-Random-Auction-Closing-in-Brazil.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.889844",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

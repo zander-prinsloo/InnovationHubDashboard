@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What Makes a Program Good ? Evidence from Short-Cycle Higher Education Programs in Latin America and the Caribbean",
+    "idno": "33231528",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33231528",
+      "title": "What Makes a Program Good ? Evidence from Short-Cycle Higher Education Programs in Latin America and the Caribbean",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dinarte Diaz,Lelys Ileana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferreyra,Maria Marta"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Urzua,Sergio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bassi,Marina"
+      }
+    ],
+    "date_created": "2021/06/29",
+    "date_available": "2021/06/29",
+    "date_published": "2021/06/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33231528"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08a452a1f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08877ec64"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9722"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Short-cycle higher education programs (SCPs) can play a central role in skill development and higher education expansion, yet their quality varies greatly within and among countries. This paper explores the relationship between programs&#x2019; practices and inputs (quality determinants) and student academic and labor market outcomes. It designs and conduct a novel survey to collect program-level information on quality determinants and average outcomes for Brazil, Colombia, Dominican Republic, Ecuador, and Peru. Categories of quality determinants include training and curriculum, infrastructure, faculty, link with productive sector, costs and funding, and practices on student admission and institutional governance. The paper also collects administrative, student-level data on higher education and formal employment for SCP students in Brazil and Ecuador and match it to survey data. Machine learning methods are used to select the quality determinants that predict outcomes at the program and student levels. Estimates indicate that some quality determinants may favor academic and labor market outcomes while others may hinder them. Two practices predict improvements in all labor market outcomes in Brazil and Ecuador&#x2014;teaching numerical competencies and providing job market information&#x2014;and one practice&#x2014;teaching numerical competencies&#x2014;additionally predicts improvements in labor market outcomes for all survey countries. Since quality determinants account for 20-40 percent of the explained variation in student-level outcomes, quality determinants might have a role shrinking program quality gaps. Findings have implications for the design and replication of high-quality SCPs, their regulation, and the development of information systems.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Caribbean",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9722",
+    "url": "http://documents.worldbank.org/curated/en/462491624980349135/pdf/What-Makes-a-Program-Good-Evidence-from-Short-Cycle-Higher-Education-Programs-in-Latin-America-and-the-Caribbean.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.869611",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

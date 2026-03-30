@@ -1,0 +1,199 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia",
+    "idno": "34446480",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34446480",
+      "title": "Exploring Geospatial-Based Approaches to Develop a Pre-Census National Sampling Frame in Armenia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ismailakhunova,Saida"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Purevjav,Avralt-Od"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Byambasuren,Tsenguunjav"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Qader,Sarchil Hama Qader"
+      }
+    ],
+    "date_created": "2025/01/16",
+    "date_available": "2025/01/16",
+    "date_published": "2025/01/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34446480"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-7ba04f39-e883-4e91-adea-1672ad0a4d86"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-7ba04f39-e883-4e91-adea-1672ad0a4d86"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11039"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The lack of a workable and accurate national sampling frame is one of the methodological constraints in conducting representative national surveys. It undermines policy and research efforts in many developing countries, particularly those experiencing significant internal displacement and relocation due to territorial and military conflicts. This paper addresses this issue by constructing the first digitized national sampling frame in Armenia, a conflict-affected developing country, where reliable and accessible national sampling frames for household and individual surveys are severely limited. The first-ever sensible digitized urban and rural classification boundaries in the country have been created for the sampling frame. The paper constructs a national sampling frame that meets international standards based on the pre-census enumeration areas tool, leveraging a semi-automatic and resource-efficient approach and the most recent data available. The generated national sampling frame offers several advantages over the existing potential sampling frames in the country, which are based on census settlements, electoral precincts, grid sampling, and old census enumeration areas. This new frame is applied to conducting the World Bank&#x2019;s &#x201c;Listening to Armenia&#x201d; survey, demonstrating its potential for other socioeconomic surveys in the country. The method can also be employed to generate and update national sampling frames in other countries more efficiently, given that manually generating both the digitized and non-digitized national sampling frames requires substantial financial and non-financial resources.",
+    "ref_country": [
+      {
+        "name": "Armenia",
+        "code": "ARM"
+      },
+      {
+        "name": "Caucasus",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11039",
+    "url": "http://documents.worldbank.org/curated/en/099435501162526801/pdf/IDU17ba04f391e88314e911adea11672ad0a4d86.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.127295",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

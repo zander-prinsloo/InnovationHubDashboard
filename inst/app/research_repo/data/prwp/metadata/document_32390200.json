@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Making Gravity Great Again",
+    "idno": "32390200",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32390200",
+      "title": "Making Gravity Great Again",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martin,William J."
+      }
+    ],
+    "date_created": "2020/09/09",
+    "date_available": "2020/09/09",
+    "date_published": "2020/09/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32390200"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087d8fc9d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087d8eded"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The gravity model is now widely used for policy analysis and hypothesis testing, but different estimators give sharply different parameter estimates and popular estimators are likely biased because dependent variables are limited-dependent, error variances are nonconstant and missing data frequently reported as zeros. Monte Carlo analysis based on real-world parameters for aggregate trade shows that the traditional Ordinary Least Squares estimator in logarithms is strongly biased downwards. The popular Poisson Pseudo Maximum Likelihood model also suffers from downward bias. An Eaton-Kortum maximum-likelihood approach dealing with the identified sources of bias provides unbiased parameter estimates.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9391",
+    "url": "http://documents.worldbank.org/curated/en/100241599665436997/pdf/Making-Gravity-Great-Again.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.617852",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

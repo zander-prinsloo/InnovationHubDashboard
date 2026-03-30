@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How Well Do Internet-Based Surveys Track Labor Market Indicators in Middle-Income Countries ?",
+    "idno": "34020263",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34020263",
+      "title": "How Well Do Internet-Based Surveys Track Labor Market Indicators in Middle-Income Countries ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soundararajan,Vidhya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soubeiga,Sidiki"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Amparo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Weber,Michael"
+      }
+    ],
+    "date_created": "2023/03/13",
+    "date_available": "2023/03/13",
+    "date_published": "2023/03/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34020263"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-6596cf9a-9dbd-473a-9c6e-c4dc3e9383bd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-6596cf9a-9dbd-473a-9c6e-c4dc3e9383bd"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10359"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Online surveys are convenient, cost-effective, speedy, and increasingly popular instruments for data collection. This study investigates whether online surveys that used Random Domain Intercept Technology to recruit respondents were accurately measured labor market outcomes in six middle-income countries in the aftermath of the COVID-19 pandemic. Compared with the national average, online surveys oversampled males, youth, those with higher levels of education, and those in smaller households. Reweighting using propensity score estimates fails to equalize the means of variables excluded from the model. When comparing the employment-to-population ratio from the internet surveys to the most recent relevant nationally representative surveys, the average deviation is 30 percent. Reweighting using propensity scores in that case worsened the bias. Internet survey estimates of informal and self-employment rates also tend to be inconsistent with benchmark data, although the latter are available for fewer countries. Overall, the results suggest that despite the advantages and convenience of recruiting internet survey participants through Random Domain Intercept Technology, the resulting sample is not representative and even after propensity score reweighting, it can yield estimates that are at odds with nationally representative surveys.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10359",
+    "url": "http://documents.worldbank.org/curated/en/099254503132376827/pdf/IDU06596cf9a09dbd0473a09c6e0c4dc3e9383bd.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.785726",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

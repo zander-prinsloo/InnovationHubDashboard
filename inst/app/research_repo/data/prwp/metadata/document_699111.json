@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How trade liberalization affected productivity in Morocco",
+    "idno": "699111",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699111",
+      "title": "How trade liberalization affected productivity in Morocco",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haddad,Mona E."
+      }
+    ],
+    "date_created": "1993/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699111"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a3ca5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a3ca5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The economic literature now accepts theoretical arguments that liberal, outward-oriented trade policy is better than restrictive, inward-oriented policies. Traditionally such arguments for the gains from trade have rested on the concept of allocative efficiency. But a new argument for liberal trade has emerged: increased technical efficiency or productivity. The best-known attempts to link trade policy and productivity are based on X-efficiency, economies of scale, capacity use, increased competition, and technological catch-up. The author estimates total factor productivity (TFP) at the firm level using panel data from the Moroccan industrial census in a production-funtion framework during Morocco's period of trade liberalization (1984-89). The author corrected for several problems that usually bias the estimate of productivity. The use of panel data allowed her to take into account the heterogeneity across firms. These firm-specific effects were tested for randomness. Differences between large firms and small firms were checked. She also corrected for errors in measuring capital stock, so common in data from developing countries, and for simultaneity bias because of the endogeneity of factor inputs or because managers have some knowledge about the noise in the production function. The author then estimated the effect of various trade and market-structure variables on the level of TFP, as well as on the deviation of firm TFP from the efficiency frontier. The results are not very sensitive to the different measures of TFP and show that trade openness has a significant positive effect on firm productivity through: outward orientation from export promotion; import liberalization; and more direct foreign investment. By splitting the sample into protected and unprotected sectors, the author showed lower productivity in protected sectors. The results are clear. Trade liberalization in Morocco improved productivity in manufacturing firms, so they could exploit their comparative advantage and compete better with foreign firms.",
+    "ref_country": [
+      {
+        "name": "Morocco",
+        "code": "MAR"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1096",
+    "url": "http://documents.worldbank.org/curated/en/410401468756969257/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.345168",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

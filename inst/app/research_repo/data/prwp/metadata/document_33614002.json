@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Preparation, Practice, and Beliefs : A Machine Learning Approach to Understanding Teacher Effectiveness",
+    "idno": "33614002",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33614002",
+      "title": "Preparation, Practice, and Beliefs : A Machine Learning Approach to Understanding Teacher Effectiveness",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Filmer,Deon P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nahata,Vatsal"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sabarwal,Shwetlena"
+      }
+    ],
+    "date_created": "2021/11/15",
+    "date_available": "2021/11/15",
+    "date_published": "2021/11/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33614002"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088b6f58f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088b6f58f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9847"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses machine learning methods to identify key predictors of teacher effectiveness, proxied by student learning gains linked to a teacher over an academic year. Conditional inference forests and the least absolute shrinkage and selection operator are applied to matched student-teacher data for math and Kiswahili from grades 2 and 3 in 392 schools across Tanzania. These two machine learning methods produce consistent results and outperform standard ordinary least squares in out-of-sample prediction by 14&#x2013;24 percent. As in previous research, commonly used teacher covariates like teacher gender, education, experience, and so forth are not good predictors of teacher effectiveness. Instead, teacher practice (what teachers do, measured through classroom observations and student surveys) and teacher beliefs (measured through teacher surveys) emerge as much more important. Overall, teacher covariates are stronger predictors of teacher effectiveness in math than in Kiswahili. Teacher beliefs that they can help disadvantaged and struggling students learn (for math) and they have good relationships within schools (for Kiswahili), teacher practice of providing written feedback and reviewing key concepts at the end of class (for math), and spending extra time with struggling students (for Kiswahili) are highly predictive of teacher effectiveness. As is teacher preparation on how to teach foundational topics (for both Math and Kiswahili). These results demonstrate the need to pay more systematic attention to teacher preparation, practice, and beliefs in teacher research and policy.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9847",
+    "url": "http://documents.worldbank.org/curated/en/737101636989604541/pdf/Preparation-Practice-and-Beliefs-A-Machine-Learning-Approach-to-Understanding-Teacher-Effectiveness.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.815555",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

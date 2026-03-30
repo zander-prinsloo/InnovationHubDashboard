@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The structure of import tariffs in the Russian Federation : 2001-05",
+    "idno": "7745680",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "7745680",
+      "title": "The structure of import tariffs in the Russian Federation : 2001-05",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shepotylo,Oleksandr"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tarr,David"
+      }
+    ],
+    "date_created": "2007/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "7745680"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4eb1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4eb1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The Russian tariff structure contains over 11,000 tariff lines of which about 1,700 use the so-called \"combined\" tariff rate system. For the combined system tariff lines, the actual tariff applied by Russian customs is the maximum of the ad valorem or specific tariff. The lack of available data and the difficulty in calculating the ad valorem equivalence of the specific tariffs have resulted in some previous efforts that have simply ignored the specific tariffs. This is the first paper to accurately assess the tariff rates. The authors show that ignoring the specific tariffs results in an underestimate of the actual tariff rates by about 1 to 3 percentage points, depending on the year. The average tariff in Russia has increased between 2001 and 2003 from about 11.5 to between 13 and 14.5 percent, but it has held steady in 2004 and 2005. This places Russia's tariffs at a level slightly higher than other middle-income countries and considerably higher than the OECD countries. The trade weighted standard deviation of the tariff approximately doubled from 9.5 percent in 2001 to 18 percent in 2003, but then fell to 15.2 percent by 2005. The food sector and light industry are the aggregate sectors with the highest tariff rates-their tariff rates in 2005 were 23.1 percent and 19.5 percent on a trade-weighted basis, but the increase in their tariffs has not led to an increase in their output.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4265",
+    "url": "http://documents.worldbank.org/curated/en/220461468294969693/pdf/wps4265.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.203057",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

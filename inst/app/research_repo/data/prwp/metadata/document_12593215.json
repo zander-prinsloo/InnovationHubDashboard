@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Crop production and road connectivity in Sub-Saharan Africa : a spatial analysis",
+    "idno": "12593215",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12593215",
+      "title": "Crop production and road connectivity in Sub-Saharan Africa : a spatial analysis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dorosh,Paul A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmidt,Emily M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Hyoung Gun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "You, Liang"
+      }
+    ],
+    "date_created": "2010/07/01",
+    "date_available": "2010/07/28",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12593215"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cb480"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cb480"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study examines the relationship between transport infrastructure and agriculture in Sub-Saharan Africa using new data obtained from geographic information systems (GIS). First, the authors analyze the impact of road connectivity on crop production and choice of technology. Second, they explore the impact of investments that reduce road travel times. Finally, they show how this type of analysis can be used to compare cost-benefit ratios for alternative road investments in terms of agricultural output per dollar invested. The authors find that agricultural production is highly correlated with proximity (as measured by travel time) to urban markets. Likewise, adoption of high-productive/high-input technology is negatively correlated with travel time to urban centers. There is therefore substantial scope for increasing agricultural production in Sub-Saharan Africa, particularly in more remote areas. Total crop production relative to potential production is 45 percent for areas within four hours travel time from a city of 100,000 people. In contrast, it is just 5 percent for areas more than eight hours away. Low population densities and long travel times to urban centers sharply constrain production. Reducing transport costs and travel times to these areas would expand the feasible market size for these regions. Compared to West Africa, East Africa has lower population density, smaller local markets, lower road connectivity, and lower average crop production per unit area. Unlike in East Africa, reducing travel time does not significantly increase the adoption of high-input/high-yield technology in West Africa. This may be because West Africa already has a relatively well-connected road network.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5385",
+    "url": "http://documents.worldbank.org/curated/en/319731468006253963/pdf/WPS5835.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.267969",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

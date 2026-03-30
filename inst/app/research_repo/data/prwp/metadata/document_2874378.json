@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exchange rate appreciations, labor market rigidities, and informality",
+    "idno": "2874378",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2874378",
+      "title": "Exchange rate appreciations, labor market rigidities, and informality",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fiess,Norbert Matthias"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fugazza,Marco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney,William F."
+      }
+    ],
+    "date_created": "2002/02/07",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2874378"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0596b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0596b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper works at the interface of the literature exploring the raison d'etre of the informal labor market and that explaining the real exchange rate appreciations occurring in many Latin American countries during periods of reform. The authors first build a small country-Australian style model where the informal sector is seen as an unregulated non-tradables sector, augmented by heterogeneity in entrepreneurial ability and capital adjustment costs. They then examine the behavior of the model with and without a formal sector rigidity. It shows that the co-movements of relative formal/informal incomes, formal/informal sector size, and the real exchange rate can offer insight into the level of distortion in the labor market and the source of exchange rate fluctuations. The paper then explores time series data from Brazil, Colombia and Mexico using multivariate co-integration techniques to establish what \"regime\" each country is in at various periods of time. Mexico appears to be relatively undistorted and the 1987-92 appreciation appears to be largely a function of a boom in the non-tradables sector rather than wage inertia. In spite of a secular expansion of the informal sector there is little evidence of dualism or of a rigidity driven appreciation of the Real, from 1993-1996. Post 1995 Colombia corresponds to a classic segmented labor market and an appreciation partly driven by labor market rigidities. Graphical analysis suggests that neither the Argentine appreciation (1988-1992) or the celebrated Chilean appreciation (1975-1982) were driven by inertial forces",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2771",
+    "url": "http://documents.worldbank.org/curated/en/960641468773692634/pdf/wps2771.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:35.071469",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

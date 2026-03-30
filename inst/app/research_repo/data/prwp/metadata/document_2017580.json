@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The demand for commodity insurance by developing country agricultural producers - theory and an application to cocoa in Ghana",
+    "idno": "2017580",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2017580",
+      "title": "The demand for commodity insurance by developing country agricultural producers - theory and an application to cocoa in Ghana",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sarris,Alexander H"
+      }
+    ],
+    "date_created": "2002/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2017580"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b8f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b8f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author considers the benefit to agricultural producers of commodity price insurance that provides in every year-but in advance of the resolution of production and price uncertainty-a minimum price for a fixed or variable portion of production. Under the assumption that producers do not change their long term production and income diversification pattern, the author suggests a theoretical framework that leads to explicit formulas of the benefit in providing this type of insurance. He shows that this benefit depends not only on the actuarially fair insurance premium, but also on household-specific factors that depend on the attitudes to risk, the consumption smoothing parameters, and the household-specific exposures to income risks. The author applies the theoretical framework for Ghana, using the Ghana Living Standards Survey data to specify various classes of cocoa-producing households and monthly price data for both domestic and international prices, to formulate appropriate models for ascertaining price risks faced by producers. The author gives empirical estimates of the actuarially fair premium, and shows that they are smaller than market-based put option prices from organized exchanges. The overall benefit in providing minimum price insurance to households, however, turns out to be substantially higher than the actuarially fair premiums and the market-based put option prices. This is due to both the magnitude of the uncertainties facing the households, as well as their risk and consumption smoothing behavior.",
+    "ref_country": [
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2887",
+    "url": "http://documents.worldbank.org/curated/en/838611468771079188/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:33.976979",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

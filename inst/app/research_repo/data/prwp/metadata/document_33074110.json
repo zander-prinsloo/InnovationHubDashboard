@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Representativeness of Individual-Level Data in COVID-19 Phone Surveys : Findings from Sub-Saharan Africa",
+    "idno": "33074110",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33074110",
+      "title": "Representativeness of Individual-Level Data in COVID-19 Phone Surveys : Findings from Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brubaker,Joshua Milton"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wollburg,Philip Randolph"
+      }
+    ],
+    "date_created": "2021/05/13",
+    "date_available": "2021/05/13",
+    "date_published": "2021/05/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33074110"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0885b9ceb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0885b9ceb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9660"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The COVID-19 pandemic has created urgent demand for timely data, leading to a surge in mobile phone surveys for tracking the impacts of and responses to the pandemic. This paper assesses, and attempts to mitigate, selection biases in individual-level analyses based on phone survey data. The research uses data from (i) national phone surveys that have been implemented in Ethiopia, Malawi, Nigeria, and Uganda during the pandemic, and (ii) the pre-COVID-19 national face-to-face surveys that served as the sampling frames for the phone surveys. The availability of pre-COVID-19 face-to-face survey data permits comparisons of phone survey respondents with the general adult population. Phone survey respondents are more likely to be household heads or their spouses and non-farm enterprise owners, and on average, are older and better educated vis-à-vis the general adult population. To improve the representativeness of individual-level phone survey data, the household-level phone survey sampling weights are calibrated based on propensity score adjustments that are derived from a model of an individual’s likelihood of being interviewed as a function of individual- and household-level attributes. Reweighting improves the representativeness of the estimates for the phone survey respondents, moving them closer to those of the general adult population. This holds for women and men and a range of demographic, education, and labor market outcomes. However, reweighting increases the variance of the estimates and fails to overcome selection biases. Obtaining reliable data on men and women through phone surveys requires random selection of adult interviewees within sampled households.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9660",
+    "url": "http://documents.worldbank.org/curated/en/131501620912712969/pdf/Representativeness-of-Individual-Level-Data-in-COVID-19-Phone-Surveys-Findings-from-Sub-Saharan-Africa.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.392775",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

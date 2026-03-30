@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Why Do Indian States Differ in Their Infrastructure Development",
+    "idno": "33842613",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33842613",
+      "title": "Why Do Indian States Differ in Their Infrastructure Development",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timilsina,Govinda R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sahoo,Pravakar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dash,Ranjan Kumar"
+      }
+    ],
+    "date_created": "2022/06/14",
+    "date_available": "2022/06/14",
+    "date_published": "2022/06/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33842613"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f7ba5dfa-6554-4f2d-ae80-71c9548ebfa2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f7ba5dfa-6554-4f2d-ae80-71c9548ebfa2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10086"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The literature suggests that one of the main factors behind the interstate inequality in economic development in India is the variation in the level of infrastructure development. However, unequal infrastructure development across the Indian States is less understood. This study empirically analyzes various factors (economic, fiscal, demographic, social, institutional, and political) to explain interstate infrastructure inequality using a panel data set for 18 states in India between 2004 and 2020. Employing the principal component analysis technique, three separate infrastructure indices are developed for physical, social, and financial infrastructures. The relationship of each index with its explanatory variables is estimated using System Generalized Method of Moments. The results show that economic factors—including economic performance, financial development, investment, and economic structure—are more influential on physical infrastructure. For social infrastructure, in addition to economic factors, fiscal and demographic factors are more influential. Meanwhile, economic and demographic factors are found to drive financial infrastructure. Financial development fosters physical infrastructure, while its impact on social infrastructure is weak.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10086",
+    "url": "http://documents.worldbank.org/curated/en/099449406142235214/pdf/IDU0f7ba5dfa0655404f2d0ae80071c9548ebfa2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.918230",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

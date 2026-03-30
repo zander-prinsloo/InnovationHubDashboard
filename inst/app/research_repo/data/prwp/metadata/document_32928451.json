@@ -1,0 +1,160 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Will Every Child Be Able to Read by 2030 Defining Learning Poverty and Mapping the Dimensions of the Challenge",
+    "idno": "32928451",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32928451",
+      "title": "Will Every Child Be Able to Read by 2030 Defining Learning Poverty and Mapping the Dimensions of the Challenge",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azevedo,Joao Pedro Wagner De"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Goldemberg,Diana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Montoya,Silvia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nayar,Reema"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rogers,F. Halsey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Saavedra,Jaime"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stacy,Brian William"
+      }
+    ],
+    "date_created": "2021/03/19",
+    "date_available": "2021/03/19",
+    "date_published": "2021/03/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32928451"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0883f180c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0883f180c"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9588"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In October 2019, the World Bank and UNESCO Institute for Statistics proposed a new metric, Learning Poverty, designed to spotlight low levels of learning and track progress toward ensuring that all children acquire foundational skills. This paper provides the technical background for that indicator, and for its main findings—first, that even before COVID-19, 53 percent of all children in low- and middle-income countries could not read with comprehension by age 10, and second, that at pre-COVID-19 trends, the Learning Poverty rate was on track to fall only to 44 percent by 2030, far short of the universal literacy envisioned under the Sustainable Development Goals. The paper contributes to the literature in four ways. First, it formally describes the new synthetic Learning Poverty metric, which combines the dimensions of learning with schooling and thus reflects the learning of all children, and it presents, for the first time, standard errors associated with the proposed measure. Second, it documents how this indicator is calculated at the country, regional, and global levels, and discusses the robustness associated with different aggregation approaches. Third, it documents historical rates of progress and compares them with the rate of progress that would be required for countries to halve Learning Poverty by 2030, as envisioned under the learning target announced by the World Bank in 2019. Fourth, it provides heterogeneity analysis by gender, region, and other variables, and documents learning poverty’s strong correlation with metrics of learning for other ages. These results show that the Learning Poverty indicator, together with improved measurement of learning, can be used as an evidence-based tool to promote progress toward all children reading by age 10—a prerequisite for achieving all the ambitious education aspirations included under Sustainable Development Goals 4.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "portuguese",
+        "code": ""
+      },
+      {
+        "name": "spanish",
+        "code": "es"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9588",
+    "url": "http://documents.worldbank.org/curated/en/258831616162286391/pdf/Will-Every-Child-Be-Able-to-Read-by-2030-Defining-Learning-Poverty-and-Mapping-the-Dimensions-of-the-Challenge.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.725007",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

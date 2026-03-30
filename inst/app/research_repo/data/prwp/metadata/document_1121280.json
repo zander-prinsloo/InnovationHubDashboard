@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "State ownership and labor redundancy - estimates based on enterprise-level data from Vietnam",
+    "idno": "1121280",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1121280",
+      "title": "State ownership and labor redundancy - estimates based on enterprise-level data from Vietnam",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Belser, Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rama,Martin G."
+      }
+    ],
+    "date_created": "2001/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1121280"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b1e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b1e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Privatizing, or restructuring state-owned enterprises, may lead to massive layoffs, but the number of redundant workers is usually unknown beforehand. The authors estimate labor redundancy by comparing employment levels across enterprises with different degrees of state ownership. In their model, state enterprises are a hybrid between labor-managed enterprises, and profit-maximizing enterprises, with the profit motive becoming less prominent as the state of capital increases. This model leads to an employment equation, that is estimated using an enterprise database from Vietnam. In this database, constructed especially for this paper, roughly a third of the enterprises are fully state-owned, a third are fully private, and a third are joint ventures between the state, and the private sector. The employment equations control for sector activity, region, and the enterprise's age, among other variables. The results suggest that if the state share of capital were brought down to zero, roughly half of the workers in the corresponding enterprises would be redundant. This is more than ten times the estimate by the current enterprise directors. The results also show a wide dispersion of redundancy across sectors of activity. There is only a weak correlation between estimated labor redundancy, and twelve ad hoc indicators of profitability, productivity, and labor cost. But the correlation between most ad hoc indicators also is weak, suggesting that these indicators are not reliable tools for identifying the most overstaffed enterprises.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2599",
+    "url": "http://documents.worldbank.org/curated/en/975391468777561399/State-ownership-and-labor-redundancy-estimates-based-on-enterprise-level-data-from-Vietnam",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.917292",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

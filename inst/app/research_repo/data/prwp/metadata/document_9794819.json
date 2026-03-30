@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Aggregate economic shocks, child schooling and child health",
+    "idno": "9794819",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9794819",
+      "title": "Aggregate economic shocks, child schooling and child health",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferreira, Francisco H. G."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schady, Norbert"
+      }
+    ],
+    "date_created": "2008/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9794819"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828af3dc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828af3dc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Do aggregate economic shocks, such as those caused by macroeconomic crises or droughts, reduce child human capital? The answer to this question has important implications for public policy. If shocks reduce investments in children, they may transmit poverty from one generation to the next. This paper uses a simple framework to analyze the effects of aggregate economic shocks on child schooling and health. It shows that the expected effects are ambiguous, because of a tension between income and substitution effects. The paper then reviews the recent empirical literature on the subject. In richer countries, like the United States, child health and education outcomes are counter-cyclical: they improve during recessions. In poorer countries, mostly in Africa and low-income Asia, the outcomes are pro-cyclical: infant mortality rises, and school enrollment and nutrition fall during recessions. In the middle-income countries of Latin America, the picture is more nuanced: health outcomes are generally pro-cyclical, and education outcomes counter-cyclical. Each of these findings is consistent with the simple conceptual framework. The paper discusses possible implications for expenditure allocation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4701",
+    "url": "http://documents.worldbank.org/curated/en/980531468339622056/pdf/WPS4701.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other human development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.794301",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

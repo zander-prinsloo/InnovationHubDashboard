@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Beyond the AI Divide : A Simple Approach to Identifying Global and Local Overperformers in AI Preparedness",
+    "idno": "34459301",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34459301",
+      "title": "Beyond the AI Divide : A Simple Approach to Identifying Global and Local Overperformers in AI Preparedness",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mandon,Pierre Jean-Claude"
+      }
+    ],
+    "date_created": "2025/02/24",
+    "date_available": "2025/02/24",
+    "date_published": "2025/02/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34459301"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5c1b47f8-89d8-4064-8b72-329105034043"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5c1b47f8-89d8-4064-8b72-329105034043"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-11073"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines global disparities in artificial intelligence preparedness, using the 2023 Artificial Intelligence Preparedness Index developed by the International Monetary Fund alongside the multidimensional Economic Complexity Index. The proposed methodology identifies both global and local overperformers by comparing actual artificial intelligence readiness scores to predictions based on economic complexity, offering a comprehensive assessment of national artificial intelligence capabilities. The findings highlight the varying significance of regulation and ethics frameworks, digital infrastructure, as well as human capital and labor market development in driving artificial intelligence overperformance across different income levels. Through case studies, including Singapore, Northern Europe, Malaysia, Kazakhstan, Ghana, Rwanda, and emerging demographic giants like China and India, the analysis illustrates how even resource-constrained nations can achieve substantial artificial intelligence advancements through strategic investments and coherent policies. The study underscores the need for offering actionable insights to foster peer learning and knowledge-sharing among countries. It concludes with recommendations for improving artificial intelligence preparedness metrics and calls for future research to incorporate cognitive and cultural dimensions into readiness frameworks.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS11073",
+    "url": "http://documents.worldbank.org/curated/en/099517502242572646/pdf/IDU15c1b47f8189d81406418b721329105034043.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:05.792851",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

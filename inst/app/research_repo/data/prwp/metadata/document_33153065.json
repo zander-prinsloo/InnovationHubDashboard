@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Incentivizing Conservation of de facto Community-Owned Forests",
+    "idno": "33153065",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33153065",
+      "title": "Incentivizing Conservation of de facto Community-Owned Forests",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van Soest,Daan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adjognon,Guigonan Serge"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "van der Heijden,Eline"
+      }
+    ],
+    "date_created": "2021/06/08",
+    "date_available": "2021/06/08",
+    "date_published": "2021/06/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33153065"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0886acad0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0886acad0"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9693"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Payments for environmental services are a nature conservation policy in which landowners receive financial compensation conditional on verified environmental service delivery. Contracts for payments for environmental services have been found to be effective in inducing conservation on private lands, but they may give rise to strong free-riding incentives when implemented on lands that are, de facto or de jure, commonly owned. This study implemented a randomized controlled trial in arid Burkina Faso to test the relative effectiveness of two collective payment for environmental services schemes in inducing forest conservation—a linear group payment scheme, in which group payments increase linearly with tree survival rates, and a threshold group payment scheme. The extant theory predicts that the latter incentive mechanism will (weakly) outperform the former. This paper develops a new theory that shows that the reverse may also hold—but only if the relationship between effort and tree survival rates is very uncertain. The findings show that threshold group payments increase intermediate measures of cooperation, but—consistent with Burkina Faso’s harsh conditions rendering tree survival quite stochastic—actual survival rates are higher with the linear group payments. The paper presents field experimental evidence as well as lab experimental results to explore the mechanisms giving rise to these results.",
+    "ref_country": [
+      {
+        "name": "Burkina Faso",
+        "code": "BFA"
+      }
+    ],
+    "spatial_coverage": "Africa West",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9693",
+    "url": "http://documents.worldbank.org/curated/en/216171623174715621/pdf/Incentivizing-Conservation-of-de-facto-Community-Owned-Forests.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.081643",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The organization of political parties and the politics of bureaucratic reform",
+    "idno": "18474749",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18474749",
+      "title": "The organization of political parties and the politics of bureaucratic reform",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cruz, Cesi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Keefer,Philip E."
+      }
+    ],
+    "date_created": "2013/11/01",
+    "date_available": "2013/11/01",
+    "date_published": "2013/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18474749"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b72a6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b72a6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Bureaucratic reform is a priority of donor organizations, including the World Bank, but is notoriously difficult to implement. In many countries, politicians have little interest in the basic financial and personnel management systems that are essential to political oversight of bureaucratic performance. To explain this, this paper presents a new perspective on the political economy of bureaucracy. Politicians in some countries belong to parties that are organized to allow party members to act collectively to limit leader shirking. This is particularly the case with programmatic parties. Such politicians have stronger incentives to pursue public policies that require a well-functioning public administration. Novel evidence offers robust support for this argument. From a sample of 439 World Bank public sector reform loans in 109 countries, the paper finds that public sector reforms are more likely to succeed in countries with programmatic political parties.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6686",
+    "url": "http://documents.worldbank.org/curated/en/998771468340259616/pdf/WPS6686.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "public expenditure",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial management and procurement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "legal institutions for a market economy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.221126",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

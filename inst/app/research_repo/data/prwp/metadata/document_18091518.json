@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty, malnutrition and vulnerability in Mali",
+    "idno": "18091518",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18091518",
+      "title": "Poverty, malnutrition and vulnerability in Mali",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eozenou,Patrick Hoang-Vu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Madani,Dorsati H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Swinkels,Robertus A"
+      }
+    ],
+    "date_created": "2013/08/01",
+    "date_available": "2013/08/01",
+    "date_published": "2013/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18091518"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ba0e7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ba0e7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides new insight into the poverty, malnutrition and vulnerability issues in Mali, using existing household survey data. First, it presents a profile of households that are poor, \"food poor,\" or have malnourished children. Second, it explores the impact of recent weather and price shocks on household welfare and identifies those affected most by the shocks. Finally, it estimates vulnerability to poverty by modeling both households' expected consumption and their consumption volatility, and by distinguishing between idiosyncratic and covariate risks. The basic results of the analysis match conventional knowledge about poverty, food poverty, and malnutrition. The prevalence of chronic malnutrition is high in Mali, with 44 percent of Malian households and 66 percent of food poor Malian households having at least one stunted child. A 25 percent increase in cereal prices and a 25 percent decrease in cereal production are estimated to increase the number of food poor by 610,000 people. An estimated US$ 5.4 million of extra aid per year will be needed to lift the newly food poor above the food poverty line. About US$ 182 million is needed to do this for all existing and new food poor. Vulnerability incidence is in general two to three times higher among the poor than the non-poor, except in urban areas and in the region of Sikasso where the vulnerability incidence is five to six times higher among the poor. Overall, vulnerability is mostly driven by poverty induced vulnerability, except in the capital, Bamako, where vulnerability is more driven by risk induced vulnerability.",
+    "ref_country": [
+      {
+        "name": "Mali",
+        "code": "MLI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6561",
+    "url": "http://documents.worldbank.org/curated/en/676141468280154043/pdf/WPS6561.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.576751",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

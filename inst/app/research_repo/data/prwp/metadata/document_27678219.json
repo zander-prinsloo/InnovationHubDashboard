@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "\"Create\" or \"buy\" : internal vs. external sources of innovation and firm productivity",
+    "idno": "27678219",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27678219",
+      "title": "\"Create\" or \"buy\" : internal vs. external sources of innovation and firm productivity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Choi,Jieun"
+      }
+    ],
+    "date_created": "2017/06/27",
+    "date_available": "2017/06/27",
+    "date_published": "2017/06/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27678219"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084d365e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084d365e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The role of innovation in improving productivity might vary according to a country's relative position in technology advancement. Frontier countries might benefit more from policies that promote firms' internal innovation (create), while follower countries would gain more from policies favoring the adoption of existing technologies through innovation outsourcing (buy). However, in many countries, the government policies to promote innovation narrowly focus on \"creating,\" regardless of considerations of the level of a country's technological advancement. This paper investigates the effect of different sources of innovation on output via productivity with representative manufacturing firms in Tunisia from 1997 to 2007. It finds that \"buying\" has a positive effect on productivity whereas \"creating\" does not, which might imply that Tunisian firms do not invest sufficiently in \"creating,\" or that \"creating\" is more difficult for Tunisian firms because they might be too far from the technology frontier. Meanwhile, there is no synergy from using both sources of innovation simultaneously –- a finding that counters literature suggesting that \"creating\" could enhance firms' absorptive capacity. The paper considers the possibility that \"creating\" and \"buying\" substitute for each other in Tunisia, where resources are limited, assuming the effect of innovation is not linear or requires a certain amount of investment (threshold) to positively affect productivity. The estimation result using the Tobit model supports this assumption. The findings suggest that innovation policy in Tunisia should emphasize adoption and adaptation, rather that creation and innovation. To encourage firms' \"buying,\" the government can promote exports and workers' skills, whereas incentives that encourage firms to hire more technicians or to acquire foreign investment might not be efficient ways to encourage \"buying.\" Moreover, the fact that there is a minimum requirement (threshold) for innovation investment suggests that policies that aim to reduce this threshold or support firms around this threshold could catalyze the innovation investment.",
+    "ref_country": [
+      {
+        "name": "Tunisia",
+        "code": "TUN"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8121",
+    "url": "http://documents.worldbank.org/curated/en/270861498570809131/pdf/WPS8121.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.545885",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

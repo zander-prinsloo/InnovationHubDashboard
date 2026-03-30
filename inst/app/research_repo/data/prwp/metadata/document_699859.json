@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Economic stagnation, fixed factors, and policy thresholds",
+    "idno": "699859",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699859",
+      "title": "Economic stagnation, fixed factors, and policy thresholds",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Easterly, William"
+      }
+    ],
+    "date_created": "1991/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699859"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce1f3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce1f3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Analysis of decade-long growth rates in all countries shows a striking regularity: episodes of rapid growth are limited largely to a middle range of initial income; neither very poor nor very rich countries experienced rapid growth. Episodes of negative growth are limited to low and middle-income countries. This paper develops a simple model that sheds light on this experience. The model has two familiar elements from the growth literature: (1) a Stone-Gearly utility function (saving is low at low income), and (2) fixed factors with the marginal product of capital bounded away from zero. The second property is derived by assuming an elasticity of substitution greater than one between an exogenous labor input and a broad concept of capital. The paper extends the model to consider multiple capital goods and public capital. It finds that stagnation is consistent with an array of statistical evidence because of fixed factors. Economic policies - not initial conditions - determine whether countries stagnate. Results confirm that initial income and policy variables have a different effect on whether a country stagnates than they do on the rate of growth once it starts growing, as expected from the distinction between steady-state and transitional effects. These results suggest that cross-section growth regressions may be misspecified because of the nonlinearity inherent in the possibility of steady-state stagnation.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS795",
+    "url": "http://documents.worldbank.org/curated/en/293711468767353948/Economic-stagnation-fixed-factors-and-policy-thresholds",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:02.312053",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

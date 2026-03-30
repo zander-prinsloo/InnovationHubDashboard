@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is investment in Africa too low or too high : macro and micro evidence",
+    "idno": "888056",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "888056",
+      "title": "Is investment in Africa too low or too high : macro and micro evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Devarajan, Shantayanan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Easterley, William R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pack, Howard"
+      }
+    ],
+    "date_created": "2001/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "888056"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05dc1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05dc1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors investigate the relationship between weak growth performance and low investment rates in Africa. The cross-country evidence suggests no direct relationship. The positive and significant coefficient on private investment appears to be driven by Botswana's presence in the sample. Allowing for the endogeneity of private investment, controlling for policy, and positing a nonlinear relationship make no difference to the conclusion. Higher investment in Africa would not by itself produce faster GDP growth. Africa's low investment and growth rates seem to be symptoms of underlying factors. To investigate those factors and to correct for some of the problems with cross-country analysis, the authors undertook a case study of manufacturing investment in Tanzania. They tried to identify why output per worker declined while capital per worker increased. Some of the usual suspects--such as shifts from high- to low-productivity subsectors, the presence of state-owned enterprises, or poor polices--did not play a significant role in this decline. Instead, low capacity utilization (possibly the by-product of poor policies) and constraints on absorptive capacity for skill acquisition seem to be critical factors. If Tanzania is not atypical, the low productivity of investment in Africa was the result of a combination of factors that occurred simultaneously, not any single factor. What does this tell us? First, we should be more careful about calling for an investment boom so that Africa can resume growth. Unless some or all of the underlying problems are addressed, the results may be disappointing. We should also be more circumspect about Africa's low savings rate; it may be low because returns to investment were so low. The relatively high level of capital flight from Africa may have been a level rational response to the lack of investment oportunities at home. Second, there is probably no single key to unlocking investment and GDP growth in Africa. All of the factors contributing to low productivity should be addressed simultaneously.",
+    "ref_country": [
+      {
+        "name": "Botswana",
+        "code": "BWA"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2519",
+    "url": "http://documents.worldbank.org/curated/en/228721468767981507/Is-investment-in-Africa-too-low-or-too-high-macro-and-micro-evidence",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:37.671027",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

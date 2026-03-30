@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Spatial Misallocation, Informality, and Transit Improvements : Evidence from Mexico City",
+    "idno": "33775233",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33775233",
+      "title": "Spatial Misallocation, Informality, and Transit Improvements : Evidence from Mexico City",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zarate Vasquez,Roman David"
+      }
+    ],
+    "date_created": "2022/03/30",
+    "date_available": "2022/03/30",
+    "date_published": "2022/03/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33775233"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4600b00f-f3e4-4c4f-8552-cd82c82a60a5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4600b00f-f3e4-4c4f-8552-cd82c82a60a5"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9990"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes a new mechanism to explain resource misallocation in developing countries: the high commuting costs within cities that prevent workers from accessing formal employment. To test this mechanism, the paper combines a rich collection of microdata and exploits the opening of new subway lines in Mexico City. The findings show that transit improvements reduce informality by 7 percent in areas near the new stations. The paper develops a spatial model that accounts for the direct effects of infrastructure in perfectly economies and allocative efficiency. Changes in allocative efficiency driven by workers’ reallocation to the formal sector amplify the gains by 20–25 percent.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9990",
+    "url": "http://documents.worldbank.org/curated/en/099332303302232640/pdf/IDU04600b00f0f3e404c4f085520cd82c82a60a5.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.634289",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

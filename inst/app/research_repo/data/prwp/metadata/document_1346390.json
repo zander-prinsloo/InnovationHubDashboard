@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The economic control of infectious diseases",
+    "idno": "1346390",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1346390",
+      "title": "The economic control of infectious diseases",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gersovitz, Mark"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hammer,Jeffrey S."
+      }
+    ],
+    "date_created": "2001/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1346390"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05d2d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05d2d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite interesting work on infectious diseases by such economists as Peter Francis, Michael Kremer, and Tomas Philipson, the literature does not set out the general structure of externalities involved in the prevention, and care of such diseases. The authors identify two kinds of externality. First, infectious people can infect other people, who in turn can infect others, and so on, in what the authors call the pure infection externality. In controlling their own infection, people do not take into account the social consequence of their infection. Second, in the pure prevention externality, one individual's preventive actions (such as killing mosquitoes) may directly affect the probability of others becoming infected, whether or not the preventive action succeeds for the individual undertaking it. The authors provide a general framework for discussing these externalities, and the role of government interventions to offset them. They move the discussion away from its focus on HIV (a fatal infection for which there are few interventions), and on vaccinations (which involve plausibly discrete decisions), to more general ideas of prevention, and cure applicable to many diseases for which interventions exhibit a continuum of intensities, subject to diminishing marginal returns. Infections, and actions to prevent, or cure them entail costs. Individuals balance those parts of different costs that they can actually control. In balancing costs to society, government policy should take individual behavior into account. Doing so requires a strategy combining preventive, and curative interventions, to offset both the pure infection externality, and the pure prevention externality. The relative importance of the strategy's components depends on: 1) The biology of the disease - including whether an infection is transmitted from person to person, or by vectors. 2) The possible outcomes of infection: death, recovery with susceptibility, or recovery with immunity. 3) The relative costs of the interventions. 4) Whether interventions are targeted at the population as a whole, the uninfected, the infected, or contacts between the uninfected, and the infected. 5) The behavior of individuals that leads to the two types of externalities.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2607",
+    "url": "http://documents.worldbank.org/curated/en/593191468782131159/The-economic-control-of-infectious-diseases",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.906224",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

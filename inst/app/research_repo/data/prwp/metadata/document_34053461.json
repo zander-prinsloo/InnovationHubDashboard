@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty Mapping in the Age of Machine Learning",
+    "idno": "34053461",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34053461",
+      "title": "Poverty Mapping in the Age of Machine Learning",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Corral Rodas,Paul Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Henderson,Heath Linn"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Segovia Juarez,Sandra Carolina"
+      }
+    ],
+    "date_created": "2023/05/01",
+    "date_available": "2023/05/01",
+    "date_published": "2023/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34053461"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c1878458-51a4-4708-8a96-c8b70982671b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c1878458-51a4-4708-8a96-c8b70982671b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10429"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent years have witnessed considerable methodological advances in poverty mapping, much of which has focused on the application of modern machine-learning approaches to remotely sensed data. Poverty maps produced with these methods generally share a common validation procedure, which assesses model performance by comparing subnational machine-learning-based poverty estimates with survey-based, direct estimates. Although unbiased, survey-based estimates at a granular level can be imprecise measures of true poverty rates, meaning that it is unclear whether the validation procedures used in machine-learning approaches are informative of actual model performance. This paper examines the credibility of existing approaches to model validation by constructing a pseudo-census from the Mexican Intercensal Survey of 2015, which is used to conduct several design-based simulation experiments. The findings show that the validation procedure often used for machine-learning approaches can be misleading in terms of model assessment since it yields incorrect information for choosing what may be the best set of estimates across different methods and scenarios. Using alternative validation methods, the paper shows that machine-learning-based estimates can rival traditional, more data intensive poverty mapping approaches. Further, the closest approximation to existing machine-learning approaches, using publicly available geo-referenced data, performs poorly when evaluated against &#x201c;true&#x201d; poverty rates and fails to outperform traditional poverty mapping methods in targeting simulations.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10429",
+    "url": "http://documents.worldbank.org/curated/en/099759405012313710/pdf/IDU0c1878458051a40470808a960c8b70982671b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.411935",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

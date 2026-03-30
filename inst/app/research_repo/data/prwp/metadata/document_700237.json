@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Do steel prices move together : a cointegration test",
+    "idno": "700237",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700237",
+      "title": "Do steel prices move together : a cointegration test",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Qian, Ying"
+      }
+    ],
+    "date_created": "1990/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700237"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c7f41"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c7f41"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Lack of international comparability in crude steel prices presents a problem in constructing an econometric model of the global steel market. The commonly used measures of crude steel prices are the weighted average of the prices of steel products and the index of the weighted average of prices based on a certain year. But in the context of constructing an econometric model of the global steel market, these measures are not comparable internationally. If the various product prices are cointegrated, it is appropriate to use the price of the most widely produced and traded product in the model (uncoated steel sheet) as an indicator of the general movement of crude steel prices. This paper concludes that the price of uncoated steel sheet cointegrates with the prices of other steel products in France and Germany. The same is not true of the United States, which may point to quality problems with the price data. Use of the price data of uncoated steel sheet as the indicator of crude steel prices in the global steel model would thus seem appropriate for capturing long-term price movements of various steel products. Using cointegration tests, this paper also investigates the relationship between macroeconomic variables and steel product prices.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS453",
+    "url": "http://documents.worldbank.org/curated/en/780591468765596146/Do-steel-prices-move-together-a-cointegration-test",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:04.693064",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Disaster risk, climate change, and poverty : assessing the global exposure of poor people to floods and droughts",
+    "idno": "25250857",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25250857",
+      "title": "Disaster risk, climate change, and poverty : assessing the global exposure of poor people to floods and droughts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winsemius,Hessel C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jongman,Brenden"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Veldkamp,Ted I.E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bangalore,Mook"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ward,Philip J."
+      }
+    ],
+    "date_created": "2015/11/05",
+    "date_available": "2015/11/09",
+    "date_published": "2016/02/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25250857"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0831972af"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0831972af"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "People living in poverty are particularly vulnerable to shocks, including those caused by natural disasters such as floods and droughts. Previous studies in local contexts have shown that poor people are also often overrepresented in hazard-prone areas. However, systematic evidence across countries demonstrating this finding is lacking. This paper analyzes at the country level whether poor people are disproportionally exposed to floods and droughts, and how this exposure may change in a future climate. To this end, household survey data with spatial identifiers from 52 countries are combined with present-day and future flood and drought hazard maps. The paper defines and calculates a “poverty exposure bias” and finds support that poor people are often overexposed to droughts and urban floods. For floods, no such signal is found for rural households, suggesting that different mechanisms—such as land scarcity—are more important drivers in urban areas. The poverty exposure bias does not change significantly under future climate scenarios, although the absolute number of people potentially exposed to floods or droughts can increase or decrease significantly, depending on the scenario and the region. The study finds some evidence of regional patterns: in particular, many countries in Africa exhibit a positive poverty exposure bias for floods and droughts. For these hot spots, implementing risk-sensitive land-use and development policies that protect poor people should be a priority.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7480",
+    "url": "http://documents.worldbank.org/curated/en/965831468189531165/pdf/WPS7480.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.483687",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,153 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Data gaps, data incomparability, and data imputation : a review of poverty measurement methods for data-scarce environments",
+    "idno": "29285218",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29285218",
+      "title": "Data gaps, data incomparability, and data imputation : a review of poverty measurement methods for data-scarce environments",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jolliffe,Dean Mitchell"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carletto,Calogero"
+      }
+    ],
+    "date_created": "2017/12/19",
+    "date_available": "2017/12/19",
+    "date_published": "2017/12/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29285218"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085464801"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085464801"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper reviews methods that have been employed to estimate poverty in contexts where household consumption data are unavailable or missing. These contexts range from completely missing and partially missing consumption data in cross-sectional household surveys, to missing panel household data. The paper focuses on methods that aim to compare trends and dynamic patterns of poverty outcomes over time. It presents the various methods under a common framework, with pedagogical discussion on the intuition. Empirical illustrations are provided using several rounds of household survey data from Vietnam. Furthermore, the paper provides a practical guide with detailed instructions on computer programs that can be used to implement the reviewed techniques.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8282",
+    "url": "http://documents.worldbank.org/curated/en/551171513690220305/pdf/Data-gaps-data-incomparability-and-data-imputation-a-review-of-poverty-measurement-methods-for-data-scarce-environments.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic statistics",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "modeling and forecasting",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.424854",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

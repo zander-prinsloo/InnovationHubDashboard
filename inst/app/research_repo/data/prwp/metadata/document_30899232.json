@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Employment in South Asia : A New Dataset",
+    "idno": "30899232",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30899232",
+      "title": "Employment in South Asia : A New Dataset",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beyer,Robert Carl Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chocce Falla,Milagros Alejandra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rama,Martin G."
+      }
+    ],
+    "date_created": "2019/03/13",
+    "date_available": "2019/03/13",
+    "date_published": "2019/03/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30899232"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086a68848"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086a68848"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a new dataset of comparable employment indicators for South Asian countries, constructed from more than 60 primary data sources from 2001 to 2017. The main contribution of the paper is to curate the information provided by individual respondents to censuses and surveys, in a way that is consistent across countries and over time. The usefulness of the dataset is illustrated by conducting a rigorous assessment of employment characteristics, of changes in employment over time, and of the short- and long-run relationship between economic growth and employment growth in South Asia. The exercise shows that agriculture still employs the majority of the working-age population across the region and, except in Sri Lanka, more than half of the employment is self-employment or unpaid family work. The paper also shows that employment rates are generally decreasing in South Asia, and that in some countries female employment rates are falling rapidly. Seasonal growth patterns are shown to affect the composition of employment, while non-seasonal changes in short-run growth affect the overall level of employment. The paper estimates that, in the long run, one percentage point growth of gross domestic product has led on average to a 0.34 percent increase in employment.",
+    "ref_country": [
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8779",
+    "url": "http://documents.worldbank.org/curated/en/736971552481304605/pdf/WPS8779.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.287873",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

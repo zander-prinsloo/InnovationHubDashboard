@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does governing law affect bond spreads",
+    "idno": "26868025",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26868025",
+      "title": "Does governing law affect bond spreads",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ratha,Dilip K."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De,Supriyo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kurlat,Sergio Andres"
+      }
+    ],
+    "date_created": "2016/10/17",
+    "date_available": "2016/10/17",
+    "date_published": "2016/10/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26868025"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08463866e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08463866e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Controlling for bond and issuer characteristics, bond spreads are expected to be equal across different legal jurisdictions, and differences are expected to disappear through arbitrage. However, an analysis of 435 U.S. dollar–denominated bonds issued by 53 emerging market sovereigns during 1990-2015 reveals that after the financial crisis of 2008, the launch spread of sovereign bonds issued under U.K. law has been higher than those issued under U.S. law, by 130 basis points for BB bonds and 175 basis points for B- bonds. This effect was not significant for investment grade bonds. On average, bonds issued under U.K. law had weaker ratings and shorter tenors post-crisis. The post-crisis impact of governing law on sovereign bond spreads is not explained by collective action clauses, or first-time bond issuances. Instead, the difference seems to be related to the perception that U.S. law offers stronger investor protection, and that the investor base for bonds issued under U.S. law is larger than that for bonds issued under U.K. law. The difference in spreads persists in the secondary market even after 180 days, perhaps because of the lack of liquidity, as investors tend to buy and hold these more attractive bonds on a longer term basis.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GBR"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Europe and Central Asia ; Rest Of The World",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7863",
+    "url": "http://documents.worldbank.org/curated/en/903341476714665225/pdf/Does-governing-law-affect-bond-spreads.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:41.680581",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

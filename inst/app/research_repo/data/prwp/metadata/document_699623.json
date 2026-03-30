@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Regression estimates of per capital gross domestic product based on purchasing power parities",
+    "idno": "699623",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699623",
+      "title": "Regression estimates of per capital gross domestic product based on purchasing power parities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ahmad, Sultan"
+      }
+    ],
+    "date_created": "1992/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699623"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6172"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6172"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The estimates of the gross national product (GNP) per capita in US dollars published in the World Bank Atlas are used throughout the world for comparing relative levels of income across countries. The Atlas method of calculating per capita GNP is designed to smooth effects of fluctuations in prices and exchange rates and consists of converting local currency values to US dollars by a form of average exchange rates. Since exchange rates do not measure relative purchasing powers of currencies in domestic markets, the Atlas estimates can often show changes in the relative ranking of two countries from one year to the next even if there are not changes in real growth rates but if there are changes in exchange rates which are not in line with relative price changes. Improved estimates can be obtained if purchasing power parities (PPP) rather than exchange rates are used as conversion factors. However, PPP-based estimates of per capita income are yet to cover all countries and all years in the Atlas. There have been attempts in the past to fill the gaps by short-cut estimates using regression techniques or by using a reduced set of information. In an attempt to fill these gaps, the Bank has used regression estimates of its own and published them in the World Development Indicators. This paper describes how these estimates were made. In addition, it: deals with choice of methods and explanatory variables; presents selected regressions; and, analyses the results. Finally, it compares the results with those of the Penn World Tables, the latest estimates available in the public domain.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS956",
+    "url": "http://documents.worldbank.org/curated/en/308531468739497421/Regression-estimates-of-per-capital-gross-domestic-product-based-on-purchasing-power-parities",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.624770",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

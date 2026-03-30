@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Growth without governance",
+    "idno": "2075846",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2075846",
+      "title": "Growth without governance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaufmann, Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay, Aart"
+      }
+    ],
+    "date_created": "2002/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2075846"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ddd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ddd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "It is well known that there is a strong positive correlation between per capita incomes and the quality of governance across countries. the authors propose an empirical strategy that allows separation of this correlation into (1) a strong positive causal effect running from better governance to higher per capita incomes, and, perhaps surprisingly at first, (2) a weak and even negative causal effect running in the opposite direction from per capita incomes to governance. The first result confirms existing evidence on the importance of good governance for economic development. The second result is new and suggests the absence of a \"virtuous circle\" in which higher incomes lead to further improvements in governance. This motivates the authors' choice of title, \"Growth Without Governance.\" They document this evidence using a newly updated set of worldwide governance-indicators covering 175 countries for the period 2000-01, and use the results to interpret the relationship between incomes and governance focusing on the Latin America and Caribbean region-within a worldwide empirical context. Finally, the authors speculate about the potential importance of elite influence and state capture in accounting for the surprising negative effects of per capita incomes on governance, present some evidence on such capture in some Latin American countries, and suggest priorities for actions to improve governance when such pernicious elite influence shapes public policy.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2928",
+    "url": "http://documents.worldbank.org/curated/en/811781468766468180/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:33.765694",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The implications of hyperbolic discounting for project evaluation",
+    "idno": "693473",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693473",
+      "title": "The implications of hyperbolic discounting for project evaluation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cropper, Maureen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laibson, David"
+      }
+    ],
+    "date_created": "1998/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693473"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05666"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05666"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The neoclassical theory of project evaluation is based on models in which agents discount the future at a constant exponential rate. But there is strong empirical evidence that people discount the future hyperbolically, applying larger annual discount rates to near-term returns than to returns in the distant future. This has led some policymakers to argue that, in evaluating programs with benefits spread over decades (such as subway systems and abatement of greenhouse gases), a low long-term discount rate should be used. In fact, some economists have suggested that higher discount rates be applied in the present and lower rates in the future. The authors demonstrate that this is incorrect. The problem with hyperbolic discounting is that it leads to time-inconsistent plans -- a person who discounts the future hyperbolically will not carry out the consumption plans he makes today. The authors note that if social decisionmakers were to use people's 1998 hyperbolic rates of time preferences, plans made in 1998 would not be followed -- because the low discount rate applied to returns in, say, 2020, will become a high discount rate as the year 2020 approaches. Since it makes sense to analyze only plans that will actually be followed, the authors characterize the equilibrium of an intertemporal game played by an individual who discounts the future hyperbolically. Along an equilibrium consumption path, the individual will behave as though he were discounting the future at a constant exponential rate. The individual's consumption path is, however, Pareto inferior: He would be better off if he could force himself to consume less and save more. This provides a rationale for government subsidization of interest rates or, equivalently, lowering the required rate of return on investment projects. Although hyperbolic discounting provides a rationale for lowering the required rate of return on investment projects, it does not provide justification for those who seek to treat environmental projects differently from other investment projects.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1943",
+    "url": "http://documents.worldbank.org/curated/en/649661468739560260/The-implications-of-hyperbolic-discounting-for-project-evaluation",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:45.149638",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

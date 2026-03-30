@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of a pay-for-performance scheme on prescription quality in rural China : an impact evaluation",
+    "idno": "19581000",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19581000",
+      "title": "The impact of a pay-for-performance scheme on prescription quality in rural China : an impact evaluation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Liu,Xiaoyun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meng,Qingyue"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sun,Qiang"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sun,Xiaojie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff,Robert Adam Stephen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yip,Chi Man Winnie"
+      }
+    ],
+    "date_created": "2014/05/01",
+    "date_available": "2014/05/01",
+    "date_published": "2014/04/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19581000"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cab2f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cab2f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In China, health care providers have traditionally been paid fee-for-service and overprescribing and high out-of-pocket spending are common. In this study, township health centers in two counties were assigned almost randomly to two groups: in one, fee-for-service was replaced by a global capitated budget; in the other, by a mix of global capitated budget and pay-for-performance. Performance captured inter alia \"irrational\" drug prescribing; 20 percent of the global capitated budget was withheld each quarter, points were deducted for failure to meet targets, and some of the withheld budget was returned in line with the points deducted. Outcomes included appropriate prescribing and prescription cost, data on which were obtained by digitizing prescriptions from a month just before the reform and from the same month a year later. Impacts were assessed via multivariate differences-in-differences with township health center fixed effects. To reduce bias from non-randomness in assignment, the sample was trimmed by coarsened exact matching. Pay-for-performance reduced inappropriate prescribing significantly and substantially in the county where the initial level was above the penalty threshold, but end-line rates were still appreciable; no effects were seen in the county where initial levels were around or below the threshold, or on out-of-pocket spending in either county.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6892",
+    "url": "http://documents.worldbank.org/curated/en/816321468216269290/pdf/WPS6892.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.340346",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

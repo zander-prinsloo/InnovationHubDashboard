@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A structural model of establishment and industry evolution : evidence from Chile",
+    "idno": "10620032",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10620032",
+      "title": "A structural model of establishment and industry evolution : evidence from Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seker, Murat"
+      }
+    ],
+    "date_created": "2009/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10620032"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6f7d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6f7d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many recent models have been developed to fit the basic facts on establishment and industry evolution. While these models yield a simple interpretation of the basic features of the data, they are too stylized to confront the micro-level data in a more formal quantitative analysis. In this paper, the author develops a model in which establishments grow by innovating new products. By introducing heterogeneity to a stylized industry evolution model, the analysis succeeds in explaining several features of the data, such as the thick right tail of the size distribution and the relations between age, size, and the hazard rate of exit, which had eluded existing models. In the model, heterogeneity in producer behavior arises through a combination of exogenous efficiency differences and accumulated innovations resulting from past endogenous research and development investments. Integrating these forces allows the model to perform well quantitatively in fitting data on Chilean manufacturers. The counterfactual experiments show how producers respond to research and development subsidies and more competitive market environments.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4947",
+    "url": "http://documents.worldbank.org/curated/en/116321468011734913/pdf/WPS4947.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.460054",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

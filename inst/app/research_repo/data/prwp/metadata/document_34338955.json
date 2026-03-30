@@ -1,0 +1,185 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How Much of Economic Growth Trickles Down to the Population in Resource-Rich Countries ? Evidence from Papua New Guinea",
+    "idno": "34338955",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34338955",
+      "title": "How Much of Economic Growth Trickles Down to the Population in Resource-Rich Countries ? Evidence from Papua New Guinea",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baxi,Paripoorna"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Naidoo,Darian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tandon,Sharad Alan"
+      }
+    ],
+    "date_created": "2024/06/11",
+    "date_available": "2024/06/11",
+    "date_published": "2024/06/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34338955"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-463c7dbf-947d-4e97-872d-997bee10cff5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-463c7dbf-947d-4e97-872d-997bee10cff5"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10798"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There was substantial growth in the resource sector in Papua New Guinea during the last resource boom, increased revenue collection by the government associated with that growth, and significant increases in international assistance, all which might have translated into improved well-being outcomes across the country. For a better understanding of whether these changes improved household-level outcomes, this paper updates estimates of key well-being outcomes in the country. The analysis imputes monetary poverty status using nonmonetary indicators in the 2016&#x200a;–18 Demographic and Health Survey and estimates the World Bank&#x2019;s Multidimensional Poverty Measure. Despite the country&#x2019;s significant growth since 2009, monetary poverty and access to several essential services hardly changed, which stands in stark contrast to the substantial improvement across the rest of the world and other comparison regions over the same period. Combined, the results illustrate that it is possible that very little of resource-led growth trickles down to the population and that the link between macroeconomic and microeconomic outcomes is more tenuous in Papua New Guinea than found in other resource-intensive settings.",
+    "ref_country": [
+      {
+        "name": "Papua New Guinea",
+        "code": "PNG"
+      },
+      {
+        "name": "Pacific Islands",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10798",
+    "url": "http://documents.worldbank.org/curated/en/099306306112431297/pdf/IDU1463c7dbf1947d14e971872d1997bee10cff5.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.233406",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

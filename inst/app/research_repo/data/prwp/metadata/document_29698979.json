@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Analysis of the mismatch between Tanzania household budget survey and national panel survey data in poverty and inequality levels and trends",
+    "idno": "29698979",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29698979",
+      "title": "Analysis of the mismatch between Tanzania household budget survey and national panel survey data in poverty and inequality levels and trends",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Belghith,Nadia Belhaj Hassine"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Adelaida Lopera,Maria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Etang Ndip,Alvin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karamba,Wendy"
+      }
+    ],
+    "date_created": "2018/03/07",
+    "date_available": "2018/03/07",
+    "date_published": "2018/03/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29698979"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08574a677"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08574a677"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study carries out a thorough investigation of the potential sources of mismatch in poverty and inequality levels and trends between the Tanzania National Panel Survey and Household Budget Survey. The main findings of the study include the following. First, the difference in poverty levels between the Household Budget Survey and the National Panel Survey is essentially explained by the differences in the methods of estimating the poverty line. Second, the discrepancy in poverty trends can be mainly attributed to the difference in inter-year temporal price deflators, and, to a lesser extent, spatial price deflators. The use of the consumer price index for adjusting consumption variation across years would show a decline in poverty during the past five years for the Household Budget Survey and the National Panel Survey. Third, despite noticeable differences in the methods of household consumption data collection, the Household Budget Survey and National Panel Survey show close mean household consumption levels in the last rounds, when using the consumer price index to adjust for inter-year price variations. Mean household consumption levels in the Household Budget Survey 2011/12 and National Panel Survey 2010/11 are comparable, and the mean consumption level in the National Panel Survey 2012/13 is around 10 percent higher. The difference is driven by higher levels of aggregate and food consumption by the better-off groups in the National Panel Survey. Fourth, the mismatch in inequality trends and pro-poor growth patterns between the two surveys could not be resolved and is a subject for further analysis.",
+    "ref_country": [
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8361",
+    "url": "http://documents.worldbank.org/curated/en/229791520429595583/pdf/WPS8361.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.729617",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Could the debate be over errors in farmer-reported production and their implications for the inverse scale-productivity relationship in Uganda",
+    "idno": "27973632",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27973632",
+      "title": "Could the debate be over errors in farmer-reported production and their implications for the inverse scale-productivity relationship in Uganda",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gourlay,Sydney"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lobell,David"
+      }
+    ],
+    "date_created": "2017/09/12",
+    "date_available": "2017/09/12",
+    "date_published": "2017/09/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27973632"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084f97709"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084f97709"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Based on a two-round household panel survey conducted in Eastern Uganda, this study shows that the analysis of the inverse scale-productivity relationship is highly sensitive to how plot-level maize production, hence yield (production divided by GPS-based plot area), is measured. Although farmer-reported production-based plot-level maize yield regressions consistently lend support to the inverse scale-productivity relationship, the comparable regressions estimated with maize yields based on sub-plot crop cutting, full-plot crop cutting, and remote sensing point toward constant returns to scale, at the mean as well as throughout the distributions of objective measures of maize yield. In deriving the much-debated coefficient for GPS-based plot area, the maize yield regressions control for objective measures of soil fertility, maize genetic heterogeneity, and edge effects at the plot level; a rich set of plot, household, and plot manager attributes; as well as time-invariant household- and parcel-level unobserved heterogeneity in select specifications that exploit the panel nature of the data. The core finding is driven by persistent overestimation of farmer-reported maize production and yield vis-à-vis their crop cutting–based counterparts, particularly in the lower half of the plot area distribution. Although the results contribute to a larger, and renewed, body of literature questioning the inverse scale-productivity relationship based on omitted explanatory variables or alternative formulations of the agricultural productivity measure, the paper is among the first documenting how the inverse relationship could be a statistical artifact, driven by errors in farmer-reported survey data on crop production.",
+    "ref_country": [
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8192",
+    "url": "http://documents.worldbank.org/curated/en/242721505231101959/pdf/Could-the-debate-be-over-errors-in-farmer-reported-production-and-their-implications-for-the-inverse-scale-productivity-relationship-in-Uganda.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.045444",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

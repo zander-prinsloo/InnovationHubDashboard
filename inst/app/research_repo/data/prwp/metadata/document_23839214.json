@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Moldova : a story of upward economic mobility",
+    "idno": "23839214",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "23839214",
+      "title": "Moldova : a story of upward economic mobility",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Davalos,Maria Eugenia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Meyer,Moritz"
+      }
+    ],
+    "date_created": "2015/01/01",
+    "date_available": "2015/01/01",
+    "date_published": "2015/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "23839214"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082c25603"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082c25603"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "During the early 2000s, Moldova experienced strong economic growth and poverty and inequality reductions. This paper aims at uncovering the patterns behind these poverty trends by looking at economic mobility and its associated factors in Moldova. The findings build on the synthetic panel approach and allow for a non-anonymous view of the process of poverty reduction. The data used for this country study on Moldova come from the Household Budget Survey, which is conducted on a yearly basis. The paper presents transition matrices to look at the patterns of economic mobility across selected consumption thresholds, as well as descriptive statistics and a linear probability model aimed at identifying correlates of economic mobility. The findings show that the observed poverty reductions happened with little churning, and highlight the importance of education and employment on upward economic mobility in Moldova in the 2000s, as well as the role of public and private transfers.",
+    "ref_country": [
+      {
+        "name": "Moldova",
+        "code": "MDA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7167",
+    "url": "http://documents.worldbank.org/curated/en/900511468122957974/pdf/WPS7167.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.038731",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

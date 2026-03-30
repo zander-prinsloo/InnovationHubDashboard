@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Labor Market Effects of Global Supply Chain Disruptions",
+    "idno": "34054471",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34054471",
+      "title": "Labor Market Effects of Global Supply Chain Disruptions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ulate,Mauricio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vasquez,Jose P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zarate Vasquez,Roman David"
+      }
+    ],
+    "date_created": "2023/05/02",
+    "date_available": "2023/05/02",
+    "date_published": "2023/05/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34054471"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-77610241-a010-4491-9174-5a6c7fe5fb87"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-77610241-a010-4491-9174-5a6c7fe5fb87"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10434"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the labor market consequences of recent global supply chain disruptions induced by COVID-19. Specifically, it considers a temporary increase in international trade costs similar to the one observed during the pandemic and analyzes its effects on labor market outcomes using a quantitative trade model with downward nominal wage rigidities. Even omitting any health-related impacts of the pandemic, the increase in trade costs leads to a temporary but prolonged decline in U.S. labor force participation. However, there is a temporary increase in manufacturing employment as the United States is a net importer of manufactured goods, which become costlier to obtain from abroad. By contrast, service and agricultural employment experience temporary declines. Nominal frictions lead to temporary unemployment when the shock dissipates, but this depends on the degree of monetary accommodation. Overall, the shock results in a 0.14 percent welfare loss for the United States. The impact on labor force participation and welfare across countries varies depending on the initial degree of openness and sectoral deficits.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10434",
+    "url": "http://documents.worldbank.org/curated/en/099742505022340571/pdf/IDU0776102410a010044910917405a6c7fe5fb87.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.400945",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

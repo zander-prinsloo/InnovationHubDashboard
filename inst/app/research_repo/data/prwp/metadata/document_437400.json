@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Leading indicator project - Lithuania",
+    "idno": "437400",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437400",
+      "title": "Leading indicator project - Lithuania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Everhart, Stephen S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Duval-Hernandez, Robert"
+      }
+    ],
+    "date_created": "2000/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437400"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05b32"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05b32"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors present a method for forecasting growth cycles in economic activity, measured as total industrial production. They construct a series which they aggregate into a composite leading indicator to predict the path of the economy in Lithuania. The cycle is the result of the economy's deviations from its long-term trend. A contractionary phase means a decline in the growth rate of the economy, not necessarily an absolute decline in economic activity. The indicator they select for economic activity is usually the Index of Industrial Production, plus a group of variables that, when filtered and adjusted, becomes the composite leading indicator that forecasts the reference series. Variables include economically, and statistically significant financial, monetary, real sector, and business survey data. They base selection of the components of the leading indicator on the forecast efficiency and economic significance of the series. Once selected, the relevant variables are aggregated into a single composite leading indicator, which forecasts the de-trended Index of Industrial Production. They apply the Hodrick-Prescott filter method for de-trending the series. This is a smoothing technique that decomposes seasonally adjusted series, into cyclical and trend components. One advantage of the Hodrick-Prescott filter is that it provides a reasonable estimate of a series' long-term trend. The OECD uses a system of leading indicators to predict growth cycles in the economies of its member countries. These exercises have been very effective in their forecasting ability and accuracy - but for the technique to work it is essential to have an adequate statistical system that provides many economic variables in a precise and timely manner, preferably monthly. The authors extend the OECD technique, and present an application to a country of the former Soviet Union.",
+    "ref_country": [
+      {
+        "name": "Lithuania",
+        "code": "LTU"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2365",
+    "url": "http://documents.worldbank.org/curated/en/652961468772455648/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.493306",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

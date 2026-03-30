@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Evaluation of development programs : randomized controlled trials or regressions",
+    "idno": "18192682",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18192682",
+      "title": "Evaluation of development programs : randomized controlled trials or regressions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbers, Chris"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gunning, Jan Willem"
+      }
+    ],
+    "date_created": "2013/09/01",
+    "date_available": "2013/09/01",
+    "date_published": "2013/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18192682"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b2040"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b2040"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Can project evaluation methods be used to evaluate programs: complex interventions involving multiple activities? A program evaluation cannot be based simply on separate evaluations of its components if interactions between the activities are important. In this paper a measure is proposed, the total program effect (TPE), which is an extension of the average treatment effect on the treated (ATET). It explicitly takes into account that in the real world (with heterogeneous treatment effects) individual treatment effects and program assignment are often correlated. The TPE can also deal with the common situation in which such a correlation is the result of decisions on (intended) program participation not being taken centrally. In this context RCTs are less suitable even for the simplest interventions. The TPE can be estimated by applying regression techniques to observational data from a representative sample from the targeted population. The approach is illustrated with an evaluation of a health insurance program in Vietnam.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6587",
+    "url": "http://documents.worldbank.org/curated/en/166601468139781960/pdf/WPS6587.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.218127",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

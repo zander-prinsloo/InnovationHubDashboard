@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A New Tail-Based Correlation Measure and Its Application in Global Equity Markets",
+    "idno": "30768067",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30768067",
+      "title": "A New Tail-Based Correlation Measure and Its Application in Global Equity Markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Liu,Jinjing"
+      }
+    ],
+    "date_created": "2019/01/17",
+    "date_available": "2019/01/17",
+    "date_published": "2019/01/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30768067"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08688eee3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08688eee3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The co-dependence between assets tends to increase when the market declines. This paper develops a correlation measure focusing on market declines using the expected shortfall (ES), referred to as the ES-implied correlation, to improve the existing value at risk (VaR)-implied correlation. Simulations which define period-by-period true correlations show that the ES-implied correlation is much closer to true correlations than is the VaR-implied correlation with respect to average bias and root-mean-square error. More importantly, this paper develops a series of test statistics to measure and test correlation asymmetries, as well as to evaluate the impact of weights on the VaR-implied correlation and the ES-implied correlation. The test statistics indicate that the linear correlation significantly underestimates correlations between the US and the other G7 countries during market downturns, and the choice of weights does not have significant impact on the VaR-implied correlation or the ES-implied correlation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8709",
+    "url": "http://documents.worldbank.org/curated/en/641081547753593928/pdf/WPS8709.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.882982",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

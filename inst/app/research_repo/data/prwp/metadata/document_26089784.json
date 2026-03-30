@@ -1,0 +1,152 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Robustness of shared prosperity estimates : how different methodological choices matter",
+    "idno": "26089784",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26089784",
+      "title": "Robustness of shared prosperity estimates : how different methodological choices matter",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Atamanov,Aziz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wieser,Christina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Uematsu,Hiroki"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoshida,Nobuo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Minh Cong"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azevedo,Joao Pedro Wagner De"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dewina,Reno"
+      }
+    ],
+    "date_created": "2016/03/18",
+    "date_available": "2016/03/18",
+    "date_published": "2016/03/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26089784"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0842126e2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0842126e2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper is the first to systematically test the robustness of shared prosperity estimates to different methodological choices using a sample of countries from all regions in the world. The tests that are conducted include grouped versus microdata, nominal welfare aggregate versus adjustment for spatial price variation, and different treatment of income with negative and zero values. The empirical results reveal an only minimal impact of the proposed tests on shared prosperity estimates. Nevertheless, there are important caveats. First, spatial adjustment can change the ranking of households, affecting the distribution of the population in the bottom 40 percent. Second, the negligible impact of spatial deflation holds only if price adjustments are carried out consistently over time. Finally, the treatment of negative and zero income numbers can potentially lead to substantial differences in shared prosperity, depending on the magnitude of negative income and the share of households with negative and zero numbers across years.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7611",
+    "url": "http://documents.worldbank.org/curated/en/115091467995076080/pdf/WPS7611.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.479117",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

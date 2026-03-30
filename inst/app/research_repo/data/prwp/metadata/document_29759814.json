@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Too small to be beautiful : the farm size and productivity relationship in Bangladesh",
+    "idno": "29759814",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29759814",
+      "title": "Too small to be beautiful : the farm size and productivity relationship in Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gautam,Madhur"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ahmed,Mansur"
+      }
+    ],
+    "date_created": "2018/03/28",
+    "date_available": "2018/03/28",
+    "date_published": "2018/03/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29759814"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08582bfea"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085827ce8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the agricultural productivity–farm size relationship in the context of Bangladesh. Features of Bangladesh's agriculture help overcome several limitations in testing the inverse farm size–productivity relationship in other developing country settings. A stochastic production frontier model is applied using data from three rounds of a household panel survey to estimate simultaneously the production frontier and the technical inefficiency functions. The “correlated random effects” approach is used to control for unobserved heterogeneous household effects. Methodologically, the results suggest that the stochastic production frontier models that ignore the inefficiency function are likely mis-specified, and may result in misleading conclusions on the farm size–productivity relationship. Empirically, the findings confirm that the farm size and productivity relationship is negative, but with the inverse relationship diminishing over time. Total factor productivity growth, driven by technical change, is found to have been robust across the sample. Across farm size groups, the relatively larger farmers experienced faster technical change, which helped them to catch up and narrow the productivity gap with the smaller farmers.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8387",
+    "url": "http://documents.worldbank.org/curated/en/925511522248076351/pdf/WPS8387.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.485873",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impacts of trade facilitation measures on international trade flows",
+    "idno": "24779062",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24779062",
+      "title": "The impacts of trade facilitation measures on international trade flows",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "de Sá Porto,Paulo C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Canuto,Otaviano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morini,Cristiano"
+      }
+    ],
+    "date_created": "2015/07/14",
+    "date_available": "2015/07/14",
+    "date_published": "2015/07/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24779062"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082ff4751"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082ff4751"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the impacts of selected trade facilitation measures on international trade flows. A gravity model is used to estimate four equations: a pooled cross-section model; a fixed-effects model; a random effects model; and a Poisson maximum likelihood estimator. The contribution of the paper is twofold. First, the analysis uses a recent data set, a panel that includes trade data from 2011 and 2012 for 72 countries. Second, to measure the impacts of trade facilitation measures, the analysis includes dummy variables for the presence of an authorized economic operator program, the existence of a single-window program in the countries in the sample, and the existence of a mutual recognition arrangement between pairs of countries in the sample. The results show that the presence of an authorized economic operator program and the existence of a single-window program will improve countries’ trade performance. By contrast, the existence of a mutual recognition arrangement will not necessarily improve countries’ trade performance. These results suggest that, in general, trade facilitation measures as a whole will help countries improve their trade performance.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7367",
+    "url": "http://documents.worldbank.org/curated/en/515651467997566625/pdf/WPS7367.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.495982",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How to Deal with Exchange Rate Risk in Infrastructure and Other Long-Lived Projects",
+    "idno": "34164630",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34164630",
+      "title": "How to Deal with Exchange Rate Risk in Infrastructure and Other Long-Lived Projects",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "de Castro,Luciano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Frischtak,Claudio R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rodrigues,Arthur"
+      }
+    ],
+    "date_created": "2023/09/19",
+    "date_available": "2023/09/19",
+    "date_published": "2023/09/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34164630"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-877f762b-163d-4f40-b283-2d18946b5eec"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-877f762b-163d-4f40-b283-2d18946b5eec"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10568"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Most developing economies rely on foreign capital to finance their infrastructure needs. These projects are usually structured as long-term (25&#x2013;35 years) franchises that pay in local currency. If investors evaluate their returns in terms of foreign currency, exchange rate volatility introduces risk that may reduce the level of investment below what would be socially optimal. This paper proposes a mechanism with very general features that hedges exchange rate fluctuation by adjusting the concession period. Such mechanism does not imply additional costs to the government and could be offered as a zero-cost option to lenders and investors exposed to currency fluctuations. This general mechanism is illustrated with three alternative specifications and data from a 25-year highway franchise is used to simulate how they would play out in eight different countries that exhibit diverse exchange rate trajectories.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10568",
+    "url": "http://documents.worldbank.org/curated/en/099212209192362605/pdf/IDU0877f762b0163d04f400b28302d18946b5eec.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.151090",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

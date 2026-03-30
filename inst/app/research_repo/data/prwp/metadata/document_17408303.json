@@ -1,0 +1,114 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "American politics, the presidency of the World Bank, and development policy",
+    "idno": "17408303",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17408303",
+      "title": "American politics, the presidency of the World Bank, and development policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lavelle,Kathryn C."
+      }
+    ],
+    "date_created": "2013/03/01",
+    "date_available": "2013/03/01",
+    "date_published": "2013/03/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17408303"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bbbea"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bbbea"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The World Bank's president has been an American by tradition. Yet little work has explored the consequences for this connection in influencing visions of development in the organization across time. This paper uses evidence from archives, congressional hearing records, and memoirs and histories of World Bank presidents to investigate United States-World Bank relations and development policy during four presidencies--Eugene Meyer, Eugene Black, Robert McNamara, and James Wolfensohn. The author argues that at times the political arrangements had the effect of pushing the Bank toward greater institutional independence from the United States, particularly when partisanship in American politics rose and new United States presidential administrations came into office with the World Bank president's term holding over from before. At other times, United States-World Bank connections pulled the Bank into foreign policy issues in the United States that the Bank might not otherwise have addressed when advocates pressed their case on Capitol Hill.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "Rest Of The World ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6377",
+    "url": "http://documents.worldbank.org/curated/en/658091468130800828/pdf/wps6377.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.903836",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Plant Closings and the Labor Market Outcomes of Displaced Workers : Evidence from Mexico",
+    "idno": "34129678",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34129678",
+      "title": "Plant Closings and the Labor Market Outcomes of Displaced Workers : Evidence from Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arias Vazquez,Francisco Javier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman,Daniel"
+      }
+    ],
+    "date_created": "2023/08/03",
+    "date_available": "2023/08/03",
+    "date_published": "2023/08/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34129678"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e06fdef3-c643-4e2d-a1f7-2d1d1df97c78"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e06fdef3-c643-4e2d-a1f7-2d1d1df97c78"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10536"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the impacts of job displacement on subsequent labor market outcomes, focusing on differentiated effects by educational groups and gender. The findings show that job separations caused by plant closings result in sizable and long-lasting wage reductions, with an average decline of &#x2212;7.5 percent over a nine-year period relative to workers who did not experience job losses. A stronger effect is estimated for highly educated workers than for low educated workers, with initial effects being 18.4 and 9 percent wage drops, respectively. For working hours, the effect on low educated workers is double the effect on highly educated workers, with 3.0 and 1.5 additional hours per week, respectively. Using the rotating panel of the survey, difference in differences coefficients are estimated, removing time-invariant individual heterogeneity. Compared to ordinary least squares, the difference in differences estimates reduce the magnitude of the average impacts of plant closing on wages, from &#x2212;7.5 to &#x2212;4.7 percent, and on working hours from 1.4 to 0.53 additional hours. These results suggest that the ordinary least squares estimates are upwardly biased due to omitted individual worker heterogeneity. The paper discusses another potential remaining source of endogeneity concerning the quality of the match between employers and workers.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America and Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10536",
+    "url": "http://documents.worldbank.org/curated/en/099226408032390595/pdf/IDU1e06fdef31c64314e2d1a1f712d1d1df97c78.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.538587",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

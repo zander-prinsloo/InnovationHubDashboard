@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Convergence of Sovereign Environmental, Social and Governance Ratings",
+    "idno": "32913521",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32913521",
+      "title": "The Convergence of Sovereign Environmental, Social and Governance Ratings",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bouye,Eric"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Menville,Diane Dorothy"
+      }
+    ],
+    "date_created": "2021/03/15",
+    "date_available": "2021/03/15",
+    "date_published": "2021/03/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32913521"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0883c3827"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0883c3827"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9583"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies sovereign environmental, social, and governance (ESG) ratings from the qualitative and quantitative angles. First, it introduces the landscape for sovereign ESG ratings. Second, it provides a comparison with the history of credit ratings, factoring in that ESG ratings are in an early development stage. Third, the paper reviews different actors, key issues, including taxonomy, models and data from different providers. The paper provides a qualitative assessment of the convergence of ratings among providers by introducing a factor attribution method, that maps all providers' ratings into a common taxonomy defined by the United Nations-supported Principles for Responsible Investment (UNPRI). Then, a quantitative analysis of the convergence is performed by regressing the scores on variables from the World Bank sovereign ESG database. A noticeable contribution to the literature is a high level of explanatory power of these variables across all rating methodologies, with a R2 ranging between 0.78 and 0.98. An analysis of the importance of variables using a lasso regression exhibits the preponderance of the governance factor and the limited role of demographic shifts for all providers.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9583",
+    "url": "http://documents.worldbank.org/curated/en/931921615831876764/pdf/The-Convergence-of-Sovereign-Environmental-Social-and-Governance-Ratings.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.751041",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

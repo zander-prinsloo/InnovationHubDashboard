@@ -1,0 +1,134 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The impact of banking crises on money demand and price stability",
+    "idno": "437908",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437908",
+      "title": "The impact of banking crises on money demand and price stability",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martinez Peria, Maria Soledad"
+      }
+    ],
+    "date_created": "2000/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437908"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b057a2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b057a2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author empirically investigates the monetary impact of banking crises in Colombia, Chile, Denmark, Japan, Kenya, Malaysia, and Uruguay. She uses co-integration analysis and error correction modeling to research: 1) Whether money demand stability is threatened by banking crises. 2) Whether crises bring about structural breaks in the relationship between monetary indicators and prices. Overall, she finds no systematic evidence that banking crises cause money demand instability. Nor do the results consistently support the notion that the relationship between monetary indicators and prices undergoes structural breaks during crises. However, although individual coefficients in price equations do not seem to be severely affected by crises, crises can sometimes give rise to variance instability in price or inflation equations.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      },
+      {
+        "name": "Denmark",
+        "code": "DNK"
+      },
+      {
+        "name": "Uruguay",
+        "code": "URY"
+      },
+      {
+        "name": "Japan",
+        "code": "JPN"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia ; Africa ; East Asia and Pacific ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2305",
+    "url": "http://documents.worldbank.org/curated/en/678591468771310157/The-impact-of-banking-crises-on-money-demand-and-price-stability",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:40.167942",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The growth aftermath of natural disasters",
+    "idno": "10832714",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10832714",
+      "title": "The growth aftermath of natural disasters",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fomby, Thomas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ikeda, Yuki"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza, Norman"
+      }
+    ],
+    "date_created": "2009/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10832714"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aaa73"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aaa73"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides a description of the macroeconomic aftermath of natural disasters. It traces the yearly response of gross domestic product growth - both aggregated and disaggregated into its agricultural and non-agricultural components - to four types of natural disasters - droughts, floods, earthquakes, and storms. The paper uses a methodological approach based on pooling the experiences of various countries over time. It consists of vector auto-regressions in the presence of endogenous variables and exogenous shocks (VARX), applied to a panel of cross-country and time-series data. The analysis finds heterogeneous effects on a variety of dimensions. First, the effects of natural disasters are stronger, for better or worse, on developing than on rich countries. Second, while the impact of some natural disasters can be beneficial when they are of moderate intensity, severe disasters never have positive effects. Third, not all natural disasters are alike in terms of the growth response they induce, and, perhaps surprisingly, some can entail benefits regarding economic growth. Thus, droughts have a negative effect on both agricultural and non-agricultural growth. In contrast, floods tend to have a positive effect on economic growth in both major sectors. Earthquakes have a negative effect on agricultural growth but a positive one on non-agricultural growth. Storms tend to have a negative effect on gross domestic product growth but the effect is short-lived and small. Future research should concentrate on exploring the mechanisms behind these heterogeneous impacts.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5002",
+    "url": "http://documents.worldbank.org/curated/en/341111468175766080/pdf/WPS5002.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.436375",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

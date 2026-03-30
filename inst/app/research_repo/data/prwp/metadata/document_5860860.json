@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Quantifying the rural-urban gradient in Latin America and the Caribbean",
+    "idno": "5860860",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5860860",
+      "title": "Quantifying the rural-urban gradient in Latin America and the Caribbean",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Buys,Piet"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chomitz,Kenneth M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chambers,Thomas Timothy"
+      }
+    ],
+    "date_created": "2005/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5860860"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a2d1b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a2d1b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper addresses the deceptively simple question: What is the rural population of Latin America and the Caribbean (LAC)? It argues that rurality is a gradient, not a dichotomy, and nominates two dimensions to that gradient: population density and remoteness from large metropolitan areas. It uses geographically referenced population data (from the Gridded Population of the World, version 3) to tabulate the distribution of populations in Latin America and in individual countries by population density and by remoteness. It finds that the popular perception of Latin America as a 75 percent urban continent is misleading. Official census criteria, though inconsistent between countries, tend to classify as \"urban\" small settlements of less than 2,000 people. Many of these settlements are however embedded in an agriculturally based countryside. The paper finds that about 13 percent of Latin America populations live at ultra-low densities of less than 20 per square kilometer. Essentially these people are more than an hour's distance from a large city, and more than half live more than four hours' distance. A quarter of the population of Latin America is estimated to live at densities below 50, again essentially all of them more than an hour's distance from a large city. Almost half (46 pecent) of Latin America live at population densities below 150 (a conventional threshold for urban areas), and more than 90 percent of this group is at least an hour's distance from a city; about one-third of them (18 percent of the total) are more than four hours distance from a large city.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      },
+      {
+        "name": "Caribbean",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3634",
+    "url": "http://documents.worldbank.org/curated/en/417881468226751166/pdf/wps3634.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.867076",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

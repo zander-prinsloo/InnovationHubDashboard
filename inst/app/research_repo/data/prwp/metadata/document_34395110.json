@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Disaggregated Impacts of Growth on Multidimensional Poverty: Does the Source of Growth Matter?",
+    "idno": "34395110",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34395110",
+      "title": "Disaggregated Impacts of Growth on Multidimensional Poverty: Does the Source of Growth Matter?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mulangu,Francis Muamba"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Benlamine,Mokhtar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Keller,Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nganou,Jean-Pascal"
+      }
+    ],
+    "date_created": "2024/09/25",
+    "date_available": "2024/09/25",
+    "date_published": "2024/09/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34395110"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8c8e4738-fcf4-434d-ab1b-7a6f9a040240"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8c8e4738-fcf4-434d-ab1b-7a6f9a040240"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10930"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents comprehensive findings on the relationship between economic growth and poverty. Using a first-difference model applied to data from more than 80 countries spanning over 20 years, the paper investigates how changes in gross domestic product affect the Multidimensional Poverty Index and its subcomponents, considering variations in income level, region, and resource dependency. The analysis confirms that economic growth generally reduces the Multidimensional Poverty Index, although the magnitude of the effect varies significantly. It is less pronounced in low-income countries, Sub-Saharan Africa, Latin America and the Caribbean, and resource-dependent countries. The paper disaggregates gross domestic product growth by its dimensions, revealing that growth driven by total factor productivity, consumption, and sustainable growth significantly decreases the Multidimensional Poverty Index. In contrast, factors such as human capital development, capital deepening, investment, government spending, exports, and imports show ambiguous effects on the Multidimensional Poverty Index. These findings suggest that the effectiveness of these factors depends on country-level conditions. Given the clearer positive impact of total factor productivity, consumption, and sustainable growth on reducing multidimensional poverty, policy makers should prioritize strategies that promote these types of growth to fight poverty, especially in contexts where the effects of other growth contributors are uncertain or not well understood.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Latin America & Caribbean",
+        "code": "-"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10930",
+    "url": "http://documents.worldbank.org/curated/en/099451309252436509/pdf/IDU18c8e47381fcf41434d1ab1b17a6f9a040240.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.096654",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Location, Location, Location Revisited : Evidence from Antananarivo, Madagascar",
+    "idno": "31315495",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31315495",
+      "title": "Location, Location, Location Revisited : Evidence from Antananarivo, Madagascar",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iimi,Atsushi"
+      }
+    ],
+    "date_created": "2019/08/06",
+    "date_available": "2019/08/06",
+    "date_published": "2019/08/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31315495"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086f8b4d8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086f8b4d8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Understanding how land prices are determined is of particular importance for policy makers; however, there is little evidence in African countries, which are currently experiencing rapid urbanization. The paper examines the relationship between land prices and locational characteristics using data from Antananarivo, the capital of Madagascar. It is found that the land value gradients are relatively steep, indicating that the land and housing prices tend to overshoot in the middle of the city, pushing the poor away from the city to suburban areas. It is also found that access to transport infrastructure and services, such as minibuses, is an important determinant of land value. Not only transport connectivity, but also other factors, such as proximity to amenities and administrative centers, are found to be important. Better land management and urban transport policies are called for to promote these aspects in the city.",
+    "ref_country": [
+      {
+        "name": "Madagascar",
+        "code": "MDG"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8958",
+    "url": "http://documents.worldbank.org/curated/en/325261565097420484/pdf/Location-Location-Location-Revisited-Evidence-from-Antananarivo-Madagascar.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.906799",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

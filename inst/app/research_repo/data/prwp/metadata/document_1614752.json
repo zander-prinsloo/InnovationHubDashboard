@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An alternative unifying measure of welfare gains from risk-sharing",
+    "idno": "1614752",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1614752",
+      "title": "An alternative unifying measure of welfare gains from risk-sharing",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Auffret,Philippe"
+      }
+    ],
+    "date_created": "2001/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1614752"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b059e8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b059e8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Following Lucas's (1987) standard approach, welfare gains from international risk-sharing have been measured as the percentage increase in consumption levels that leaves individuals indifferent between, autarky and risk-sharing. The author proposes to measure welfare gains as the increase in consumption growth, instead of consumption levels. When the consumption process is non-stationary, the author's proposed measure has several attractive features: it does not depend on the horizon, and it is robust to alternative specifications of the consumption stochastic processes (from geometric Brownian processes, to Orstein-Ulhenbeck mean-reverting processes), and preferences (from constant relative risk aversion preferences to Kreps-Porteus preferences). The author then uses this measure to estimate potential welfare gains from international risk-sharing for a representative U.S. consumer. The author finds that if international risk-sharing leads only to a complete elimination of aggregate consumption volatility (with no impact on consumption growth), it represents gains to a U.S. consumer of only $ 12 a year on average. But if international risk-sharing also permits an increase in consumption growth, it may have a sizable impact on welfare. Each 0.5 percentage point increase in consumption growth, represents gains to a U.S. consumer of about $ 160 a year on average.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2676",
+    "url": "http://documents.worldbank.org/curated/en/391611468739489645/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.117154",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Impact estimation of disasters : a global aggregate for 1960 to 2007",
+    "idno": "10690399",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10690399",
+      "title": "Impact estimation of disasters : a global aggregate for 1960 to 2007",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Okuyama, Yasuhide"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sahin,Sebnem"
+      }
+    ],
+    "date_created": "2009/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10690399"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b69bb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b69bb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper aims to estimate the global aggregate of disaster impacts during 1960 to 2007 using Social Accounting Matrix (SAM) methodology. The authors selected 184 major disasters in terms of the size of economic damages, based on the data available from the International Emergency Disasters and MunichRe (NatCat) databases for natural catastrophes. They estimate the losses and total impacts including the higher-order effects of these disasters using social accounting matrices constructed for this study. Although the aggregate damages based on the data amount to US$742 billion, the aggregate losses and total impacts are estimated at US$360 billion and US$678 billion, respectively. The results show a growing trend of economic impacts over time in absolute value. However, once the data and estimates are normalized using global gross domestic product, the historical trend of total impacts becomes statistically insignificant. The visual observation confirms the inverted U curve distribution between total impact and income level, while statistical analyses indicate negative linear relationships between them for climatological, geophysical, and especially hydrological events.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4963",
+    "url": "http://documents.worldbank.org/curated/en/787121468340170531/pdf/WPS4963.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.556984",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

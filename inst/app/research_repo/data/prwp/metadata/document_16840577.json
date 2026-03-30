@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Heterogeneity in subjective wellbeing : an application to occupational allocation in Africa",
+    "idno": "16840577",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16840577",
+      "title": "Heterogeneity in subjective wellbeing : an application to occupational allocation in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Falco, Paolo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney, William F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rijkers, Bob"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sarrias, Mauricio"
+      }
+    ],
+    "date_created": "2012/10/01",
+    "date_available": "2012/10/01",
+    "date_published": "2012/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16840577"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b5758"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b5758"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using an extraordinarily rich panel dataset from Ghana, this paper explores the nature of self-employment and informality in developing countries through the analysis of self-reported happiness with work and life. Subjective job satisfaction measures allow assessment of the relative desirability of different jobs in ways that, conditional wage comparisons cannot. By exploiting recent advances in mixed (random parameter) ordered probit models, the distribution of subjective well-being across sectors of employment is quantified. There is little evidence for the overall inferiority of the small firm informal sector: there is not a robust average satisfaction premium for formal work vs. self-employment or informal salaried work, and owners of informal firms that employ others are on average significantly happier than workers in the formal private sector. Moreover, the estimated distribution of parameters predicting satisfaction reveal substantial heterogeneity in subjective well-being within sectors that conventional fixed parameter models, such as standard ordered probit models, cannot detect: Whatever the average satisfaction premium in a sector, all job categories contain both relatively happy and disgruntled workers. Specifically, roughly 67, 50, 40 and 59 percent prefer being a small-firm employer, sole proprietor, informal salaried, civic worker respectively, than formal work. Hence, there is a high degree of overlap in the distribution of satisfaction across sectors. The results are robust to the inclusion of fixed effects and alternate measures of satisfaction. Job characteristics, self-perceived autonomy and experimentally elicited measures of attitudes toward risk do not appear to explain these distributional patterns.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6244",
+    "url": "http://documents.worldbank.org/curated/en/267131468203669527/pdf/wps6244.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.753988",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

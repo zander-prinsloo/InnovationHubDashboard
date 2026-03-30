@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty and Violence : The Immediate Impact of Terrorist Attacks against Civilians in Somalia",
+    "idno": "33895046",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33895046",
+      "title": "Poverty and Violence : The Immediate Impact of Terrorist Attacks against Civilians in Somalia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nunez,Gonzalo Ignacio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      }
+    ],
+    "date_created": "2022/09/08",
+    "date_available": "2022/09/08",
+    "date_published": "2022/09/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33895046"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-3861d1b0-02f3-4b09-b8c8-ea73003b5ba6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-3861d1b0-02f3-4b09-b8c8-ea73003b5ba6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10169"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Somalia, one of the poorest countries in Sub-Saharan Africa, still faces many challenges as it remains fragile. Terrorist groups and their attacks are threatening the government and limiting its capacity to implement effective development policies. Using difference-in-difference and instrumental variables approaches with micro-data from two waves of the Somali High Frequency Survey, this paper estimates the immediate (within a week) impact of terrorist attacks on households. The consumption of households exposed to terrorist incidents decreases by 33 percent, mainly on food items. As a result, poverty and the depth of poverty among the poor increases. The decline in consumption seems to be explained by a smaller share of household members working and earning income after an attack. In addition, the effect on consumption is restricted to a 4-kilometer radius from incidents and has a heterogeneous impact, not affecting households in the top 20 percent of the consumption distribution. The paper also finds a deterioration in people&#x2019;s perception of police competence. Achieving peace is a fundamental first step to increase welfare conditions that will also bring other wider long-term benefits in Somalia.",
+    "ref_country": [
+      {
+        "name": "Somalia",
+        "code": "SOM"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10169",
+    "url": "http://documents.worldbank.org/curated/en/099415109082281442/pdf/IDU03861d1b0002f304b090b8c80ea73003b5ba6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.257092",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

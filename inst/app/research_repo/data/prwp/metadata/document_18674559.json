@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Opportunity-sensitive poverty measurement",
+    "idno": "18674559",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18674559",
+      "title": "Opportunity-sensitive poverty measurement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brunori, Paolo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ferreira, Francisco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lugo,Maria Ana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peragine,Vito"
+      }
+    ],
+    "date_created": "2013/12/01",
+    "date_available": "2013/12/01",
+    "date_published": "2013/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18674559"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b7270"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b7270"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper offers an axiomatic characterization of two classes of poverty measures that are sensitive to inequality of opportunity, one a strict subset of the other. The proposed indices are sensitive not only to income shortfalls from the poverty line, but also to differences in the opportunities faced by people with different predetermined characteristics, such as race or family background. Dominance conditions are established for each class of measures and a sub-family of scalar indices, based on a rank-dependent aggregation of type-specific poverty levels, is also introduced. In empirical analysis using household survey data from eighteen European countries in 2005, substantial differences in country rankings based on standard Foster-Greer-Thorbecke indices and on the new opportunity-sensitive indices are found. Cross-country differences in opportunity-sensitive poverty are decomposed into a level effect, a distribution effect, and a population composition effect.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6728",
+    "url": "http://documents.worldbank.org/curated/en/406341468282310256/pdf/WPS6728.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.076891",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

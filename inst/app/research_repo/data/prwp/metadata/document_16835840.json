@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Introducing behavioral change in transportation into energy/economy/environment models",
+    "idno": "16835840",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16835840",
+      "title": "Introducing behavioral change in transportation into energy/economy/environment models",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schafer,Andreas Maximilian"
+      }
+    ],
+    "date_created": "2012/10/01",
+    "date_available": "2012/10/01",
+    "date_published": "2012/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16835840"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c9094"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c9094"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Transportation is vital to economic and social development, but at the same time generates undesired consequences on local, regional, and global scales. One of the largest challenges is the mitigation of energy-related carbon dioxide emissions, to which this sector already contributes one-quarter globally and one-third in the United States. Technology measures are the prerequisite for drastically mitigating energy use and all emission species, but they are not sufficient. The resulting need for complementing technology measures with behavioral change policies contrasts sharply with the analyses carried out by virtually all energy / economy / environment (E3) models, given their focus on pure technology-based solutions. This paper addresses the challenges for E3 models to simulate behavioral changes in transportation. A survey of 13 major models concludes that especially hybrid energy models would already be capable of simulating some behavioral change policies, most notably the imposition of the full marginal societal costs of transportation. Another survey of major macroscopic transportation models finds that key specifications required for simulating behavioral change have already been implemented and tested, albeit not necessarily on a global scale. When integrating these key features into E3 models, a wide range of technology and behavioral change policies could be analyzed.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6234",
+    "url": "http://documents.worldbank.org/curated/en/345521468323329438/pdf/wps6234.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.865758",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

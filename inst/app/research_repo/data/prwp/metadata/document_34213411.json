@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fertilizer Import Bans, Agricultural Exports, and Welfare : Evidence from Sri Lanka",
+    "idno": "34213411",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34213411",
+      "title": "Fertilizer Import Bans, Agricultural Exports, and Welfare : Evidence from Sri Lanka",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ghose,Devaki"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pinheiro Fraga,Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fernandes,Ana Margarida"
+      }
+    ],
+    "date_created": "2023/12/12",
+    "date_available": "2023/12/12",
+    "date_published": "2023/12/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34213411"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-04598f2e-bdd7-4d91-a778-a48abca1ac80"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-04598f2e-bdd7-4d91-a778-a48abca1ac80"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10642"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In May 2021, Sri Lanka&#x2019;s government imposed an abrupt ban on chemical fertilizer imports. This paper leverages this natural experiment to quantify the costs of a lack of access to fertilizer for agricultural production and trade in a developing economy heavily dependent on agriculture. Using high-frequency firm-level trade data, ground production records, newly developed remote sensing crop yield estimates, and event study designs, the analysis reveals significant declines in fertilizer imports, agricultural output, and exports of fertilizer-dependent crops. These findings underscore the importance of trade policy for chemical fertilizer, which is hard to substitute with organic or domestic alternatives in the short run. A quantitative spatial model of trade and agriculture shows the ban&#x2019;s average welfare effects were equivalent to a 4.35%income reduction, with disproportionate losses for farmers, estate workers, and the regions that cultivate fertilizer-intensive crops. The model also highlights the interaction of massive fertilizer subsidies, a domestic agricultural policy common in many countries, with trade policy: by nearly eliminating fertilizer use, an import ban scales down the subsidy program and its associated income transfers from non-farming to farming sectors, thus attenuating the welfare losses of mobile workers. The findings quantify the costs of lack of fertilizer access and the role of trade and industrial policy in determining such access.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10642",
+    "url": "http://documents.worldbank.org/curated/en/099557412122318720/pdf/IDU104598f2e1bdd714d911a7781a48abca1ac80.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.453131",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

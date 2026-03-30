@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Climate Policy and Inequality in Urban Areas : Beyond Incomes",
+    "idno": "33900734",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33900734",
+      "title": "Climate Policy and Inequality in Urban Areas : Beyond Incomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Liotta,Charlotte"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Avner,Paolo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Viguié,Vincent"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Selod,Harris"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      }
+    ],
+    "date_created": "2022/09/19",
+    "date_available": "2022/09/19",
+    "date_published": "2022/09/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33900734"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-64cb89c9-21ad-48e2-bd5a-c2f0100dbc7e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-64cb89c9-21ad-48e2-bd5a-c2f0100dbc7e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10185"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Opposition to climate policies seems to arise, at least partly, from their effects on inequality. However, so far, the impact of climate policies on inequality has mainly been studied through the lens of income inequality, and their spatial dimension is poorly understood. This paper, using Cape Town, South Africa, as a case study, investigates the impact of a fuel tax on both spatial and income inequalities. It uses a model derived from the standard urban economics land use model, accounting for four income classes and four housing types. This modeling framework allows decomposing the impacts of the tax by income class, housing type, and housing location. The analysis also decomposes the impacts of the tax over different timeframes, assuming that households and developers progressively adapt to the tax. The findings reveal strong evidence that in the short term, there are both income and spatial inequalities, with households being more negatively impacted by the fuel tax if they earn low incomes or live far from employment centers. In the medium and long term, these inequalities persist: the poorest households, living in informal settlements or subsidized housing, have few or no ways to adapt to changes in fuel prices by changing housing type, adjusting their dwelling sizes or locations, or shifting transportation modes. Low-income households living in formal housing also remain impacted by the tax over the long term due to complex effects driven by the competition with richer households on the housing market. Complementary policies promoting a functioning labor market that allows people to change jobs easily, affordable public transportation, or subsidies helping low-income households to rent houses closer to employment centers will be key to enable the social acceptability of climate policies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10185",
+    "url": "http://documents.worldbank.org/curated/en/099435009192218701/pdf/IDU064cb89c9021ad048e20bd5a0c2f0100dbc7e.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.004302",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

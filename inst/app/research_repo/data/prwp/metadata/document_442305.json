@@ -1,0 +1,130 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Ownership structure and enterprise restructuring in six newly independent states",
+    "idno": "442305",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442305",
+      "title": "Ownership structure and enterprise restructuring in six newly independent states",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Djankov,Simeon"
+      }
+    ],
+    "date_created": "1999/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442305"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05583"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05583"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author investigates the relationship between ownership structure and enterprise restructuring in six newly independent states: Georgia, Kazakstan, the Kyrgyz Republic, Moldova, Russia, and Ukraine. He documents the changing pattern of ownership in 960 privatized manufacturing companies from 1995-97. There are large differences in ownership structure across countries, differences that seem to be determined by the method of privatization pursued. Enterprises in countries where the privatization programs favored incumbent managers (Georgia and Ukraine) ended with heavy ownership by managers (an average 53.6 percent and 46.2 percent respectively). Countries that used mainly the mass privatization approach (Kazakstan and the Kyrgyz Republic had the highest proportion of ownership shares held be outside investors (37 percent and 21.2 percent respectively). Foreign ownership is positively associated with enterprise restructuring at high ownership levels (above 30 percent of shares). By contrast, the relationship between management ownership by outside local investors or the state is not significantly correlated with restructuring.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      },
+      {
+        "name": "Moldova",
+        "code": "MDA"
+      },
+      {
+        "name": "Kyrgyz Republic",
+        "code": "KGZ"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KAZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      },
+      {
+        "name": "Georgia",
+        "code": "GEO"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2047",
+    "url": "http://documents.worldbank.org/curated/en/548141468752142648/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.962728",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

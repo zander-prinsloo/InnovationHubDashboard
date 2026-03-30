@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Bank Ownership and Firm Innovation",
+    "idno": "34071803",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34071803",
+      "title": "Bank Ownership and Firm Innovation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Nicola,Francesca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Melecky,Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Iootty De Paiva Dias,Mariana"
+      }
+    ],
+    "date_created": "2023/05/30",
+    "date_available": "2023/05/30",
+    "date_published": "2023/05/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34071803"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c85603c0-c346-462a-b26c-56b6774ddfca"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c85603c0-c346-462a-b26c-56b6774ddfca"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10458"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the effect of bank ownership on product innovation by borrowing firms, highlighting the role of the state, foreign, and combined foreign-state bank ownership. It uses Enterprise Survey data for more than 22,000 firms in 49 countries from 2016 to 2020, linked to Fitchconnect data on banks: their ownership, soundness indicators, and legal origins. The paper confirms that a firm's access to bank credit is associated with a greater probability of product innovation, even when adjusting for possible reverse causality. If the credit is provided by a state-owned bank, the probability that the borrowing firm will innovate increases. The analysis does not find a similarly positive effect for foreign bank ownership. But when considering the combined effect of foreign state ownership, the results are most statistically and economically significant. Although the results may not be extendable to research and development spending (a key input to innovation), the findings show that foreign state banks can serve as an additional financing vehicle to stimulate radical innovation alongside equity financiers.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Central Asia",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10458",
+    "url": "http://documents.worldbank.org/curated/en/099515205302312976/pdf/IDU0c85603c00c3460462a0b26c056b6774ddfca.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.119467",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Deeper Dive into the Relationship between Economic Development and Migration",
+    "idno": "33996541",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33996541",
+      "title": "A Deeper Dive into the Relationship between Economic Development and Migration",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shrestha,Maheshwor"
+      }
+    ],
+    "date_created": "2023/02/06",
+    "date_available": "2023/02/06",
+    "date_published": "2023/02/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33996541"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-c80525c1-4575-4e47-95c3-4fd60e3bae30"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-c80525c1-4575-4e47-95c3-4fd60e3bae30"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10295"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This descriptive paper provides a nuanced perspective on the relationship between development and migration, extending the non-parametric analysis in Clemens (2020). A few stylized patterns of migration emerge as countries develop. First, the migration response to development differs by the types of origin and destination countries. As low-income countries develop, their migration to high-income destinations increases slowly but steadily, whereas migration to other low-income or neighboring countries decreases at early levels of development. As middle-income countries develop, their migration to high-income countries increases steadily and plateaus once they reach sufficiently high levels of income. Second, the composition of migrants changes as countries develop. In particular, migrants to high-income destination countries become more educated. Third, the emigration response from middle-income countries is muted for countries with larger populations, particularly toward high-income destinations. These patterns suggest a strong role multiple transformations&#x2014;such as increasing incomes, increased global integration, a demographic transition, increased human capital, and domestic structural change&#x2014;play in changing migration patterns as countries develop. The paper explores these migration patterns in light of these transformations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10295",
+    "url": "http://documents.worldbank.org/curated/en/099923302062340150/pdf/IDU0c80525c10457504e47095c304fd60e3bae30.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.094192",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

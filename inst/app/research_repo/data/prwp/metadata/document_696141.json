@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "High real interest rates, guarantor risk, and bank recapitalizations",
+    "idno": "696141",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696141",
+      "title": "High real interest rates, guarantor risk, and bank recapitalizations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brock, Philip L."
+      }
+    ],
+    "date_created": "1996/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696141"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05399"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05399"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author sets out a methodology for analyzing episodes of high real interest rates in emerging market economies. He reviews the literature on what determines spreads in deposit rates and loan rates. Then he links the causes of interest rate spreads by explicitly modeling the incentive effect of a government deposit guarantee on the behavior of depositories, banks, and firms. The premise: begin with accounting identities that decompose the deposit spread and loan spread into several components. The relative importance of the components can be measured to discover the sources of the high real rates. The results suggest that the expected exchange rate depreciation and credit quality of borrowers are among the most important determinants of high real rates. A government guarantee on deposits affects both the deposit and the loan spread by altering marginal incentives. Although high real rates may signal financial distress, standard recapitulation mechanisms may not improve the situation. The behavior of real interest rates depends on the account unit that has been chosen for financial transaction. High real interest rates often occur when an economy is close to widespread debtor default. If high real interest rates are a financial sector distress symptom, then high real rates will incorporate expectations of a breakdown in the government's enforcement of financial contracts, in addition to other factors the author addresses.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1683",
+    "url": "http://documents.worldbank.org/curated/en/866881468739144767/High-real-interest-rates-guarantor-risk-and-bank-recapitalizations",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:50.984568",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

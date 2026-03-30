@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Financial (Dis-)information : evidence from a multi-country audit study",
+    "idno": "26581590",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26581590",
+      "title": "Financial (Dis-)information : evidence from a multi-country audit study",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gine,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mazer,Rafael Keenan"
+      }
+    ],
+    "date_created": "2016/07/19",
+    "date_available": "2016/07/19",
+    "date_published": "2016/07/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26581590"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08446de59"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08446de59"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "An audit study was conducted in Ghana, Mexico and Peru to understand the quality of financial information and products offered to low-income customers. Trained auditors visited multiple financial institutions, seeking credit and savings products. Consistent with Gabaix and Laibson (2006), staff only provides information about the cost when asked, disclosing less than a third of the total cost voluntarily. In fact, the cost disclosed voluntarily is uncorrelated with the expensiveness of the product. In addition, clients are rarely offered the cheapest product, most likely because staff is incentivized to offer more expensive and thus more profitable products to the institution. This suggests that clients are not provided enough information to be able to compare among products, and that disclosure and transparency policies may be ineffective because they undermine the commercial interest of financial institutions.",
+    "ref_country": [
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Africa ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7750",
+    "url": "http://documents.worldbank.org/curated/en/869451468937960883/pdf/WPS7750.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.581486",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

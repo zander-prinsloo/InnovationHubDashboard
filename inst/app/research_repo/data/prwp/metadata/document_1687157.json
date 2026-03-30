@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What determines the quality of institutions",
+    "idno": "1687157",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1687157",
+      "title": "What determines the quality of institutions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Islam, Roumeen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Montenegro, Claudio E."
+      }
+    ],
+    "date_created": "2002/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1687157"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c97"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c97"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In trying to explain institutional quality, different authors have come to conflicting conclusions. In tackling the problem themselves, the authors show three things. First, openness is positively and pretty robustly associated with institutional quality. To minimize selection bias, the authors use data sets with the greatest cross-country coverage, though they also test the significance of the variables for smaller sample sizes. The results confirm that both natural and policy measures of openness are important. Concentration of trade in natural resource exports continues to be associated with poor institutional quality after openness in trade is accounted for. Second, \"social\" variables, such as income inequality or ethnic diversity, are not associated with institutional quality. The significance of the inequality variable disappears when continent dummy variables are included for Africa and Latin America. Third, features of specific institutions, such as freedom of the press and checks and balances in the political system, are positively associated with overall perceptions of institutional quality. These findings hold strongly across different data sets and samples even after the authors control for the variables commonly used in the literature.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2764",
+    "url": "http://documents.worldbank.org/curated/en/416091468766754963/What-determines-the-quality-of-institutions",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:35.408854",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

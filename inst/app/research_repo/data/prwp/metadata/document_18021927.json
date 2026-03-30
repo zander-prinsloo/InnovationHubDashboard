@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An expansion of a global data set on educational quality : a focus on achievement in developing countries",
+    "idno": "18021927",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18021927",
+      "title": "An expansion of a global data set on educational quality : a focus on achievement in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Angrist,Noam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Patrinos,Harry Anthony"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schlotter,Martin Franz Benedikt"
+      }
+    ],
+    "date_created": "2013/07/01",
+    "date_available": "2013/07/01",
+    "date_published": "2013/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18021927"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6802"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6802"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assembles a panel data set that measures cognitive achievement for 128 countries around the world from 1965 to 2010 in 5-year intervals. The data set is constructed from international achievement tests, such as the Programme for International Student Assessment and the Trends in International Mathematics and Science Study, which have become increasingly available since the late 1990s. These international assessments are linked to regional ones, such as the South and Eastern African Consortium for Monitoring of Educational Quality, the Programme d'Analyse des Systemes Educatifs de la Confemen, and the Laboratorio Latinoamericano de Evaluacion de la Calidad de la Educacion, in order to produce one of the first globally comparable data sets on student achievement. In particular, the data set is one of the first to include achievement in developing countries, including 29 African countries and 19 Latin American countries. The paper also provides a first attempt at using the data set to identify causal factors that boost achievement. The results show that key drivers of global achievement are civil rights and economic freedom across all countries, and democracy and economic freedom in a subset of African and Latin American countries.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Africa ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6536",
+    "url": "http://documents.worldbank.org/curated/en/814731468203692535/pdf/WPS6536.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.632692",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

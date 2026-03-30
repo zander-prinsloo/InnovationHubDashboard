@@ -1,0 +1,202 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating Extinction Threats with Species Occurrence Data from the Global Biodiversity Information Facility",
+    "idno": "34349032",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34349032",
+      "title": "Estimating Extinction Threats with Species Occurrence Data from the Global Biodiversity Information Facility",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Susmita"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blankespoor,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David"
+      }
+    ],
+    "date_created": "2024/06/25",
+    "date_available": "2024/06/25",
+    "date_published": "2024/06/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34349032"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e8ad3780-d769-402d-9dd4-cc391b8efd48"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e8ad3780-d769-402d-9dd4-cc391b8efd48"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10822"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The world is experiencing a severe loss of biodiversity, highlighting the need for a strong global conservation strategy. Effective conservation depends on accurate information about where endangered species live and the local threats they face. Using data from the Global Biodiversity Information Facility, this paper creates threat and protection indicators for more than 600,000 species, including animals, plants, and fungi. The indicators include habitat size, level of protection, nearby population density, and specific threats like population encroachment for land species and fishing activity for marine species. The paper then uses an ordered logit model to analyze the relationship between these indicators and the extinction risk categories assigned by the International Union for Conservation of Nature. The model is based on 87,731 species in the Global Biodiversity Information Facility database that have been assessed by the International Union for Conservation of Nature. The results are used to predict threat levels for 512,675 species without International Union for Conservation of Nature ratings, revealing many more potentially threatened species and changing the maps of &#x201c;conservation hotspots.&#x201d; The paper concludes by noting that its methods can support rapid updates of species maps and threat indicators as the Global Biodiversity Information Facility database continues to grow.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10822",
+    "url": "http://documents.worldbank.org/curated/en/099152306252433493/pdf/IDU1e8ad37801d7691402d19dd41cc391b8efd48.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "renewable natural resources asset management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "biodiversity",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "oceans",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.030304",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

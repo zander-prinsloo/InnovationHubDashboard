@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Malnutrition Gap as a New Measure of Child Malnutrition : A Global Application",
+    "idno": "30661998",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30661998",
+      "title": "Malnutrition Gap as a New Measure of Child Malnutrition : A Global Application",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feng,Juan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alam,Shamma Adeeb"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eozenou,Patrick Hoang-Vu"
+      }
+    ],
+    "date_created": "2018/12/04",
+    "date_available": "2018/12/04",
+    "date_published": "2018/12/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30661998"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0866c83af"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086683717"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "\"Leaving no one behind\" is an overarching principle of the Sustainable Development Goals. Many countries are prioritizing resources for those who are furthest behind. Existing malnutrition indicators—underweight, stunting, wasting, overweight, and severe wasting—are headcount ratios. They do not capture how far behind malnourished children are relative to the World Health Organization growth standards. To understand the severity of malnutrition, this study develops a new malnutrition measurement, using the method originally developed for estimating poverty. This study estimates the prevalence, gap, and gap squared for stunting, wasting, overweight, and underweight, using data from 94 developing countries over 20 years. The results show that although in most cases the headcount measures and gap measures are moving in the same direction, in many other cases, they are moving in opposite directions. Moreover, employing the new measures, the study can identify countries that have low levels of headcount for a malnutrition measure but comparatively high severity of malnutrition according to the gap measures, and vice versa. This suggests that these new malnutrition measures provide additional information on the severity of malnutrition that is not possible to be known from headcount measures. These new measures of the severity of malnutrition can therefore improve the monitoring of child malnutrition across countries, and consequently help countries to achieve their Sustainable Development Goals.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8664",
+    "url": "http://documents.worldbank.org/curated/en/396911543937034298/pdf/WPS8664.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.228592",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

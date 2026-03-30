@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Adding Space to the International Business Cycle",
+    "idno": "30920443",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30920443",
+      "title": "Adding Space to the International Business Cycle",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abate,Girum Dagnachew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven,Luis"
+      }
+    ],
+    "date_created": "2019/03/21",
+    "date_available": "2019/03/21",
+    "date_published": "2019/03/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30920443"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086abd366"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086abd366"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Growth fluctuations exhibit substantial synchronization across countries, which has been viewed as reflecting a global business cycle driven by shocks with worldwide reach, or spillovers resulting from local real and/or financial linkages between countries. This paper brings these two perspectives together by analyzing international growth fluctuations in a setting that allows for both global shocks and spatial dependence. Using annual data for 117 countries over 1970-2016, the paper finds that the cross-country dependence of aggregate growth is the combined result of global shocks summarized by a latent common factor and spatial effects accruing through the growth of nearby countries -- with proximity measured by bilateral trade linkages or geographic distance. The latent global factor shows a strong positive correlation with worldwide TFP growth. Countries' exposure to global shocks rises with their openness to trade and the degree of commodity specialization of their economies. Despite its simplicity, the empirical model fits the data well, especially for advanced countries. Ignoring the cross-country dependence of growth, by omitting spatial effects or common shocks (or both) from the analysis, leads to a marked deterioration of the empirical model's in-sample explanatory power and out-of-sample forecasting performance.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8786",
+    "url": "http://documents.worldbank.org/curated/en/756731553172566723/pdf/Adding-Space-to-the-International-Business-Cycle.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.189689",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

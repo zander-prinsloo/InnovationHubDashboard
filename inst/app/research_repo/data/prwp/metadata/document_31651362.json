@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inflation Dynamics and Global Value Chains",
+    "idno": "31651362",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31651362",
+      "title": "Inflation Dynamics and Global Value Chains",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Soyres,Francois Michel Marie Raphael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Franco Bedoya,Sebastian"
+      }
+    ],
+    "date_created": "2019/12/18",
+    "date_available": "2019/12/18",
+    "date_published": "2019/12/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31651362"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0874371ad"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0874371ad"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The global economy has witnessed a decline in inflation and an increase in inflation synchronization since the early 1980s. This paper investigates the relationship between inflation synchronization and trade integration, and documents the strong link between inflation co-movement and Global Value Chain (GVC) participation. Using 35 years and both gross and value-added trade flows, evidence shows that an increase in production linkages, as proxied by trade in intermediate inputs, is strongly associated with higher inflation correlation. Moreover, backward GVC participation is associated with an increase in bilateral inflation co-movement while forward participation is linked with a higher correlation between domestic and worldwide inflation. The paper also finds evidence of the effect of trade integration in decreasing inflation levels.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9090",
+    "url": "http://documents.worldbank.org/curated/en/770701576684627744/pdf/Inflation-Dynamics-and-Global-Value-Chains.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.903176",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

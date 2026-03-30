@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Insurance risk transfer and categorization of reinsurance contracts",
+    "idno": "17124490",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17124490",
+      "title": "Insurance risk transfer and categorization of reinsurance contracts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Itigin,Alexander"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gurenko,Eugene Nikolay"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wiechert, Renate"
+      }
+    ],
+    "date_created": "2012/12/01",
+    "date_available": "2012/12/01",
+    "date_published": "2012/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17124490"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d1814"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d1814"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite the existence of numerous quantitative approaches to the categorization of financial reinsurance contracts, often insurance regulators may find the practical implementation of the task to be technically challenging. This research paper develops a simple, affordable, and robust regulatory method that can help insurance regulators to categorize financial reinsurance contracts as reinsurance or financial instruments. By reviewing real examples of different categorization methods, this paper explains how the proposed method standardizes such categorization. It also summarizes the existing pertinent literature on the subject with the view to helping insurance regulators to first apply some simple indicators to flag the main issues with financial reinsurance contracts that may need further reviews. Having identified the suspicious reinsurance contracts, supervisors may consider several solutions provided by the authors and, in some cases, requiring further quantitative testing of risk transfer contracts for categorization purposes, supervisors may also consider adopting the Standardized Expected Reinsurer's Deficit approach to contract testing presented in this paper. The approach advocates the use of a simple standardized stochastic method that would allow market participants and regulators to perform robust quantitative tests quickly and at an affordable cost. Besides addressing the obvious drawbacks of the \"10-10\" test, the proposed alternative method allows a great reduction in the technical challenges posed to the users of the Expected Reinsurer's Deficit approach based on full stochastic models with only a minimum loss of predictive accuracy.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6299",
+    "url": "http://documents.worldbank.org/curated/en/685801468328580905/pdf/wps6299.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.430644",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

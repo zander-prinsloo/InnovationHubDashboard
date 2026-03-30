@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Fragility and Resilience of Nations",
+    "idno": "34020417",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34020417",
+      "title": "The Fragility and Resilience of Nations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karayalcin,Cem"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Onder,Harun"
+      }
+    ],
+    "date_created": "2023/03/13",
+    "date_available": "2023/03/13",
+    "date_published": "2023/03/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34020417"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-3f0080c4-ac2f-4963-8b2a-3d516ab9a9a6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-3f0080c4-ac2f-4963-8b2a-3d516ab9a9a6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10362"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Climate change will impose large and differentiated tolls across countries. This paper suggests that economic fragility and resilience against climate change-driven natural shocks are shaped by: (i) the elasticity of input substitution in resource-intensive sectors, (ii) the trade regime, and (iii) the property rights regime in nature-based assets. Using a structural transformation model, the paper shows, inter alia, that openness increases resilience against natural shocks, regardless of the property right regime. Additionally, openness reduces fragility when a social planner internalizes the social cost of natural resource degradation. However, it increases fragility in a decentralized economy with incomplete property rights in nature-based assets.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10362",
+    "url": "http://documents.worldbank.org/curated/en/099717103132331477/pdf/IDU03f0080c40ac2f0496308b2a03d516ab9a9a6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.785576",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,114 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An exploration of the link between development, economic growth, and natural risk",
+    "idno": "17452144",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17452144",
+      "title": "An exploration of the link between development, economic growth, and natural risk",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      }
+    ],
+    "date_created": "2012/10/01",
+    "date_available": "2012/10/01",
+    "date_published": "2012/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17452144"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c8d39"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c8d39"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the link between development, economic growth, and the economic losses from natural disasters in a general analytical framework, with an illustration on hurricane flood risks in New Orleans. It concludes that, where capital accumulates through increased density of capital at risk in a given area, (i) the probability of disaster occurrence decreases with income; (ii) capital at risk  and thus economic losses in case of disaster -- increases faster than economic growth; (iii) increasing risk-taking reinforces economic growth. Economic growth and improved protection transfer risks from frequent low-intensity events to rarer high-impact events. In this context, average annual losses from disasters grow with income, and they grow faster than income at low levels of development and slower than income at high levels of development. These findings are robust to a broad range of modeling choices and parameter values, to the inclusion of risk aversion, and to variations in the decision-making framework (including the introduction of prospect theory's decision weights, biases in risk perception and myopic expectations). They show that risk-taking is both a driver and a consequence of economic development, that risk taking should not be indiscriminately suppressed, and that the world is very likely to experience fewer but more costly disasters in the future.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "Rest Of The World ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6216",
+    "url": "http://documents.worldbank.org/curated/en/171031468183862550/pdf/wps6216.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.815345",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

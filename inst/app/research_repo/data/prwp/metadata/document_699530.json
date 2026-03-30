@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Benefit incidence analysis in developing countries",
+    "idno": "699530",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699530",
+      "title": "Benefit incidence analysis in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Selden, Thomas M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wasylenko, Michael J."
+      }
+    ],
+    "date_created": "1992/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699530"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ce43d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ce43d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As interesting and difficult as it is to allocate tax burdens to individuals, the profession knows even less about allocating benefits. The authors survey the literature on benefit incidence since DeWulf's (1975) review, focusing on the methodology and results of benefit incidence analysis in developing countries. Research in this area faces all the general-equilibrium difficulties faced by tax incidence analysis as well as the difficult task of measuring benefits from publicly provided goods and services. Despite the inherent pitfalls of this methodology, the authors believe that benefit incidence analysis can provide an important perspective on the budget by combining data on household use with data on project costs. In particular, benefit incidence analyses can help illuminate the distributional impacts of proposed reallocations of government resources among projects. The value of such research is especially high considering the scarcity of recent research in this area. The authors review the existing methodology, survey the available results, and point out areas in which further research might have large payoffs. They also make specific methodological suggestions that might help ensure that future research is as useful for policymakers as possible. For example: Aggregate results based on the zero-government counterfactual rely on strong assumptions about fixed relative prices and incomes, government efficiency, and the relationship between marginal and total benefits. And those studies are often not designed to identify which types of public services benefit the poor. Researchers should focus more on providing benefit incidence studies on specific government functions or programs that can help policymakers reach conclusions about proposed reallocations of resources among government programs. Benefit incidence should be assigned to households based on household survey information on usage rather than on ad hoc assumptions that assign benefits based on income or the number of members in the household. Improved annual cost measures for services need to be developed, particulary for capital inputs. Researchers should group households by deciles and whenever possible should consider other groupings based on household income adjusted for household composition, age, location, and other relevant socioeconomic variables. Careful attention to life-cycle benefits, benefit shifting, rent-seeking, out-of-pocket costs, displacement of private sector efforts, average versus marginal incidence, and several other issues can significantly increase the value of benefit incidence analysis to policymakers.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1015",
+    "url": "http://documents.worldbank.org/curated/en/761901468764721236/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.222503",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

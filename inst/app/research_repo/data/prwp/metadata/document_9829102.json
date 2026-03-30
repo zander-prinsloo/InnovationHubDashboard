@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Individual and country-level factors affecting support for foreign aid",
+    "idno": "9829102",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9829102",
+      "title": "Individual and country-level factors affecting support for foreign aid",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paxton, Pamela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack, Stephen"
+      }
+    ],
+    "date_created": "2008/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9829102"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b2f62"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b2f62"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In recent years donor countries have committed to dramatic increases in the supply of foreign aid to developing countries. Meeting and sustaining such commitments will require sufficient support among donor country voters and taxpayers. The determinants of public opinion in donor countries on foreign aid have received little attention. This paper examines attitudes to foreign aid with a large, multi-level, cross-national study. It outlines a theoretical rationale for support for foreign aid, discussing the importance of both individual factors and economic and social structures. The theory is tested with multi-level models, including both individual-level and country-level variables to predict positive attitudes. Two datasets are used to measure attitudes in donor countries: (1) the 1995 World Values Survey has information from approximately 6,000 individuals in nine countries and asks a rich battery of questions at the individual-level, and (2) the 2002 Gallup \"Voice of the People\" survey asks fewer questions of individuals but includes 17 donor countries. Using both surveys combines their distinct strengths and allows tests of individual and national-level theories across disparate samples. The results generally support the predictions that attitudes toward aid are influenced by religiosity, beliefs about the causes of poverty, awareness of international affairs, and trust in people and institutions.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4714",
+    "url": "http://documents.worldbank.org/curated/en/332001468157194054/pdf/WPS4714.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.666600",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

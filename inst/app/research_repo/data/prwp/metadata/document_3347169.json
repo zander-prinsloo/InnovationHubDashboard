@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How has environment mattered an analysis of World Bank resource allocation",
+    "idno": "3347169",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "3347169",
+      "title": "How has environment mattered an analysis of World Bank resource allocation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Acharya, Anjali; Ijjasz-Vasquez, Ede Jorge; Hami"
+      }
+    ],
+    "date_created": "2004/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "3347169"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05415"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05415"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "How has environment mattered for the World Bank? The aggregate figures suggest that it has mattered a great deal, since the Bank's total environmental lending has exceeded $US 9 billion over the past six years. In this paper the authors use newly available data to address a more precise version of the question: Across countries and themes, how well has the Bank's environmental lending and analytical and advisory activities (AAA) matched the incidence of environmental problems? For their assessment, the authors extend their previous work on local pollution and fragile lands (Buys and others 2003) to consideration of global emissions, biodiversity, water resources, and institutional development. They construct cross-country problem indicators for each environmental theme and combine them with country risk measures to estimate optimal thematic lending and AAA for each country. The authors then compare their estimates with actual lending and AAA to assess the match between environmental problems and the Bank's response. The authors begin by constructing an overall indicator of environmental problems from their thematic indicators. Using regression analysis, they find a strong relationship between countries' general indicator values and the scale of their environmental borrowing, but a relatively weak relationship for AAA. At the thematic level, the authors find that problem indicators have relatively weak relationships with both lending and AAA. Adding country risk to the analysis, they test an optimal allocation model and find that it is consistent with the Bank's actual lending and AAA since 1998. The authors conclude that their model's assignment of lending and AAA to countries reflects the Bank's actual experience with partner countries. The model's explanatory power is relatively low, however, and when they compare model assignments to actual allocations, the authors find many large discrepancies for countries and environmental themes. Some gaps may reflect activity by other donor institutions, but many others may represent problems with efficient implementation of the Bank's Environment Strategy. To promote further discussion of this issue, the authors use their optimal allocation model to develop measures of lending opportunity by environmental theme for the Bank's partner countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3269",
+    "url": "http://documents.worldbank.org/curated/en/576991468781803081/pdf/WPS3269.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:27.611754",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

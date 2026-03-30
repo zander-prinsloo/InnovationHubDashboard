@@ -1,0 +1,244 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Know Thy Foe : Information Provision and Air Pollution in Tbilisi",
+    "idno": "34365335",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34365335",
+      "title": "Know Thy Foe : Information Provision and Air Pollution in Tbilisi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baquie,Sandra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behrer,Arnold Patrick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Du,Xinming"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fuchs Tarlovsky,Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nozaki,Natsuko Kiso"
+      }
+    ],
+    "date_created": "2024/07/16",
+    "date_available": "2024/07/16",
+    "date_published": "2024/07/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34365335"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-35eca82b-9a89-41f7-8b23-22bedfeef378"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-35eca82b-9a89-41f7-8b23-22bedfeef378"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10852"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Middle-income countries host the majority of the world&#x2019;s population exposed to unhealthy levels of air pollution, and the majority of this population lives in urban environments. This study investigates the impact of information provision on household behavior in connection with indoor and outdoor air pollution in a middle-income country&#x2019;s major urban center &#x2014; Tbilisi, Georgia. The study implemented a randomized controlled trial to assess whether providing households with different levels of pollution information changes their knowledge of air pollution and avoidance behavior with respect to air pollution, and improves their health outcomes. The study evaluates three treatments: a pamphlet with general information on pollution, the pamphlet combined with daily text messages about local outdoor pollution, and the pamphlet with messages about both indoor and outdoor pollution levels, supplemented with an indoor air pollution monitor. The findings show that while the pamphlet alone did not lead to behavioral change, daily text messages significantly enhanced knowledge about pollution, led to increased avoidance behaviors, and improved health outcomes. The study also examined infiltration rates throughout the city and document three facts: indoor air pollution levels are generally higher than outdoor ones, infiltration rates are high on average, and their variation is driven primarily by behaviors.",
+    "ref_country": [
+      {
+        "name": "Georgia",
+        "code": "GEO"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10852",
+    "url": "http://documents.worldbank.org/curated/en/099412307162491936/pdf/IDU135eca82b19a89141f718b23122bedfeef378.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disease control",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "pandemic response",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "macroeconomic & structural policy modelling",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "structural transformation and economic diversification",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.780630",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

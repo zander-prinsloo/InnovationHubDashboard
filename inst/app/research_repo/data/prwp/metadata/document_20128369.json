@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The effect of climate and technological uncertainty in crop yields on the optimal path of global land use",
+    "idno": "20128369",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20128369",
+      "title": "The effect of climate and technological uncertainty in crop yields on the optimal path of global land use",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cai,Yongyang"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elliott, Joshua"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hertel,Thomas W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Steinbuks,Jevgenijs"
+      }
+    ],
+    "date_created": "2014/08/01",
+    "date_available": "2014/08/01",
+    "date_published": "2014/08/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20128369"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b641d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b641d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The pattern of global land use has important implications for the world's food and timber supplies, bioenergy, biodiversity and other eco-system services. However, the productivity of this resource is critically dependent on the world's climate, as well as investments in, and dissemination of improved technology. This creates massive uncertainty about future land use requirements which compound the challenge faced by individual investors and governments seeking to make long term, sometimes irreversible investments in land conversion and land use. This study assesses how uncertainties associated with underlying biophysical processes and technological change in agriculture affect the optimal profile of land use over the next century, taking into account the potential irreversibility in these decisions. A novel dynamic stochastic model of global land use is developed, in which the societal objective function being maximized places value on food production, liquid fuels (including bio-fuels), timber production, and biodiversity. While the uncertainty in food crop yields has anticipated impact, the resulting expansion of crop lands and decline in forest lands is relatively small.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7009",
+    "url": "http://documents.worldbank.org/curated/en/126731468340197171/pdf/WPS7009.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.406526",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

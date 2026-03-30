@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A measure of stock market integration for developed and emerging markets",
+    "idno": "697280",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697280",
+      "title": "A measure of stock market integration for developed and emerging markets",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Korajczyk, Robert A."
+      }
+    ],
+    "date_created": "1995/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697280"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a95"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a95"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "If equity markets are financially integrated, the price of risk should be the same across markets. If the markets are not financially integrated - possibly because of barriers to capital flows across markets - the price of risk may differ across markets. The author investigates one measure of financial integration between equity markets. He uses a multifactor equilibrium Arbitrage Pricing Theory to define risk and to measure deviations from the \"law of one price.\" He applies the integration measure to equities traded in 24 countries (four developed, and 20 emerging). The measure of market segmentation tends to be much larger for emerging markets than for developed markets, which is consistent with larger barriers to capital flows into or out of the emerging markets. The measure tends to decrease over time, which is consistent with growing levels of integration. Large values of adjusted mispricing occur around periods of economic turbulence and periods in which capital controls change significantly. So, the adjusted mispricing estimates measure not only the level of deviation from the law of one price, but also the revaluations inherent in moving from one regime to another.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1482",
+    "url": "http://documents.worldbank.org/curated/en/700171468766541009/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:52.808842",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

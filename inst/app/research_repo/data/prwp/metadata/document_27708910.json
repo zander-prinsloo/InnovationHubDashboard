@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Mission impossible exploring the promise of multiple imputation for predicting missing GPS-based land area measures in household surveys",
+    "idno": "27708910",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27708910",
+      "title": "Mission impossible exploring the promise of multiple imputation for predicting missing GPS-based land area measures in household surveys",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yacoubou Djima,Ismael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carletto,Calogero"
+      }
+    ],
+    "date_created": "2017/07/06",
+    "date_available": "2017/07/06",
+    "date_published": "2017/07/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27708910"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086a84493"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084d976a0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Methodological research has showcased GPS technology as the new gold-standard in land area measurement in large-scale household surveys. Nonetheless, facing budget constraints, survey agencies continue to measure with GPS only plots within sampled enumeration areas or a given radius of dwelling locations. It is, subsequently, common for significant shares of plots not to be measured, and research has demonstrated that the incomplete datasets are subject to selection bias. This study relies on nationally-representative survey data from Malawi and Ethiopia that exhibit near-negligible missingness in GPS-based plot areas and uses these datasets to gauge the limits to the accuracy of a Multiple Imputation (MI) application for predicting GPS-based areas for plots that would typically be considered out-of-scope. The analysis (i) artificially creates missingness in area measures, ranging from 1 to 100 percent, among the plots that are beyond two operationally-relevant distance thresholds with respect to the dwellings; (ii) multiply-imputes \"missing\" values in each dataset created by a distance threshold-missingness combination; and (iii) compares the distributions of the imputed plot-level outcomes with the distributions of their true, observed counterparts. In Malawi, the multiply-imputed distribution of plot-level land productivity is statistically indistinguishable from the true distribution in each imputed dataset with up to 82 percent missingness in GPS-based plot areas that are more than 1 kilometer away from the associated dwellings. The comparable figure in Ethiopia is 56 percent. The study highlights the promise of MI for simulating missing area measures and provides recommendations for optimizing fieldwork to capture the minimum required data.",
+    "ref_country": [
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8138",
+    "url": "http://documents.worldbank.org/curated/en/668211499349698549/pdf/Mission-impossible-exploring-the-promise-of-multiple-imputation-for-predicting-missing-GPS-based-land-area-measures-in-household-surveys.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.445494",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

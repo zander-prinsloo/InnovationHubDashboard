@@ -1,0 +1,129 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How will climate change shift agro-ecological zones and impact African agriculture",
+    "idno": "9841788",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9841788",
+      "title": "How will climate change shift agro-ecological zones and impact African agriculture",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kurukulasuriya, Pradeep"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mendelsohn, Robert"
+      }
+    ],
+    "date_created": "2008/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9841788"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b3711"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b3711"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The study develops a new method to measure the impacts of climate change on agriculture called the Agro-Ecological Zone (AEZ) Model. A multinomial logit is estimated to predict the probability of each AEZ in each district. The average percentage of cropland and average crop net revenue are calculated for each AEZ. Then an estimate of the amount of cropland in Africa and where it is located is provided. Using current conditions, the model calculates baseline values of cropland and crop net revenue, and estimates the future impact of climate change using two scenarios-harsh and mild. Total cropland does not change much across the two climate scenarios. However, the predicted change in African crop revenue ranges from a loss of 14 percent in the mild climate scenario to 30 percent in the harsher climate scenario. The analysis reveals that the greatest harm from climate change is that it will shift farms from high to low productive AEZs. The approach not only identifies the aggregate impacts, but also indicates where the impacts occur across Africa. The central region of Africa is hurt the most, especially in the harsher climate scenario. The Agro-Ecological Zone Model is a promising new method for valuing the long-term impacts of climate change on agriculture.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "The World Region ; Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4717",
+    "url": "http://documents.worldbank.org/curated/en/603161468194653382/pdf/WPS4717.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:12.690866",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

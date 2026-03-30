@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade facilitation and country size",
+    "idno": "18490788",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18490788",
+      "title": "Trade facilitation and country size",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amin,Mohammad"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haidar,Jamal Ibrahim"
+      }
+    ],
+    "date_created": "2013/11/01",
+    "date_available": "2013/11/01",
+    "date_published": "2013/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18490788"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf742"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf742"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "It is argued that compared with large countries, small countries rely more on trade and therefore they are more likely to adopt liberal trading policies. The present paper extends this idea beyond the conventional trade openness measures by analyzing the relationship between country size and the number of documents required to export and import, a measure of trade facilitation. Three important results follow. First, trade facilitation does improve as country size becomes smaller; that is, small countries perform better than large countries in terms of trade facilitation. Second, the relationship between country size and trade facilitation is nonlinear, much stronger for the relatively small than the large countries. Third, contrary to what existing studies might suggest, the relationship between country size and trade facilitation does not appear to be driven by the fact that small countries trade more as a proportion of their gross domestic product than the large countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6692",
+    "url": "http://documents.worldbank.org/curated/en/160461468325810494/pdf/WPS6692.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:53.220924",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,152 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How Well Did Real-Time Indicators Track Household Welfare Changes in Developing Countries during the COVID-19 Crisis?",
+    "idno": "34392677",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34392677",
+      "title": "How Well Did Real-Time Indicators Track Household Welfare Changes in Developing Countries during the COVID-19 Crisis?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Swindle,Rachel Elizabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Shun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Merfeld,Joshua David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hirfrfot,Kibrom Tafere"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Weber,Michael"
+      }
+    ],
+    "date_created": "2024/09/18",
+    "date_available": "2024/09/18",
+    "date_published": "2024/09/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34392677"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-091deb5e-77bb-45e0-a8ed-ed897e538f47"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-091deb5e-77bb-45e0-a8ed-ed897e538f47"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10916"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the extent to which real-time indicators derived from internet search, cell phones, and satellites predict changes in household socioeconomic indicators across approximately 300 administrative level-1 regions in 20 countries during the COVID-19 crisis. Measures of changes in socioeconomic status in each region are taken from high-frequency phone surveys. When using the first wave of data, fielded between April and August 2020, models selected using the least absolute shrinkage and selection operator explain 37 percent of the cross-regional variation in the share of households reporting declines in total income and 34 percent of the share of respondents reporting work stoppages since the onset of the crisis. Real-time indicators explain a lower amount of the within-region variation in income losses and current employment over time, with an R2 of 15 percent for current employment and 22 to 26 percent for the prevalence of income declines. When limiting the sample to urban regions, real-time indicators are far more effective at explaining within-region variation in income losses and current employment, with R2 values of approximately 0.54 and 0.38, respectively. Income gains, self-reported food insecurity, social distancing behavior, and child school engagement are more difficult to predict, with R2 values ranging from 0.06 to 0.17. Google search terms related to food, money, jobs, and religion were the most powerful predictors of work stoppage and income declines in the first survey wave, while those related to food, exercise, and religion better tracked changes in income declines and employment over time. Google mobility measures are also strong predictors of changes in employment and the prevalence of specific types of income declines. In general, satellite data on vegetation, pollution, and nighttime lights are far less predictive. Google mobility and search data, and to a lesser extent vegetation and pollution data, can provide a meaningful signal of regional economic distress and recovery, particularly during the early phases of a major crisis such as COVID-19.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10916",
+    "url": "http://documents.worldbank.org/curated/en/099505509182434892/pdf/IDU1091deb5e177bb145e01a8ed1ed897e538f47.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.174110",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

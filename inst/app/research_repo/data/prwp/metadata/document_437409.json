@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Environmental policy and time consistency - emissions taxes and emissions trading",
+    "idno": "437409",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437409",
+      "title": "Environmental policy and time consistency - emissions taxes and emissions trading",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kennedy, Peter W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Laplante, Benoit"
+      }
+    ],
+    "date_created": "2000/05/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437409"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05541"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05541"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors examine policy problems related to the use of emissions taxes, and emissions trading, two market-based instruments for controlling pollution by getting regulated firms to adopt cleaner technologies. By attaching an explicit price to emissions, these instruments give firms an incentive to continually reduce their volume of emissions. Command, and-control emissions standards create incentives to adopt cleaner technologies only up to the point where the standards are no longer binding (at which point the shadow price on emissions falls to zero). But the ongoing incentives created by the market-based instruments are not necessarily right, either. Time-consistency constraints on the setting of these instruments limit the regulator's ability to set policies that lead to efficiency in adopting technology options. After examining the time-consistency properties of a Pigouvian emissions tax, and of the emissions trading, the authors find that: 1) If damage is linear, efficiency in adopting technologies involves either universal adoption of the new technology, or universal retention of the old technology, depending on the cost of adoption. The first best tax policy, and the first-best permit-supply policy are both time-consistent under these conditions. 2) If damage is strictly convex, efficiency may require partial adoption of the new technology. In this case, the first-best tax policy is not time-consistent, and the tax rate must be adjusted after adoption has taken place (ratcheting). Ratcheting will induce an efficient equilibrium if there is a large number of firms. If there are relatively few firms, ratcheting creates too many incentives to adopt the new technology. 3) The first-best supply policy is time-consistent if there is a large number of firms. If there are relatively few firms, the first-best supply policy may not be time-consistent, and the regulator must ratchet the supply of permits. With this policy, there are not enough incentives for firms to adopt the new technology. The results do not strongly favor one policy instrument over the other, but if the point of an emissions trading program is to increase technological efficiency, it is necessary to continually adjust the supply of permits in response to technological change, even when the damage is linear. This continual adjustment is not needed for an emissions tax when damage is linear, which may give emissions taxes an advantage over emissions trading.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2351",
+    "url": "http://documents.worldbank.org/curated/en/664591468767106902/Environmental-policy-and-time-consistency-emissions-taxes-and-emissions-trading",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.756479",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

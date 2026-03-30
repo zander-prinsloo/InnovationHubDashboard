@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Export Diversification from an Activity Perspective : An Exploration Using Occupation Data",
+    "idno": "34072700",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34072700",
+      "title": "Export Diversification from an Activity Perspective : An Exploration Using Occupation Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kruse,Hagen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timmer,Marcel Peter"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Vries,Gaaitzen Johannes"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ye,Xianjia"
+      }
+    ],
+    "date_created": "2023/05/31",
+    "date_available": "2023/05/31",
+    "date_published": "2023/05/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34072700"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f9466bc0-e7d8-42f4-97c1-270d6465057b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f9466bc0-e7d8-42f4-97c1-270d6465057b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10463"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "With international production fragmentation, countries specialize in activities along the production chain rather than particular products. This paper therefore analyzes export diversification taking an activity perspective. It measures export activities combining new data on the export income of workers in industries cross classified by occupational classes. Based on the panel data, the paper documents that countries initially specialize along the extensive margin (shifting activities across industries) but later on along the intensive margin (shifting activities across occupational classes). New activity specialization is found to be strongly related to the proximity of this activity to the initial export basket. Yet, countries that defy proximity appear to grow faster. The results show that an activity perspective delivers novel insights into trade development and structural change.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10463",
+    "url": "http://documents.worldbank.org/curated/en/099833405312337544/pdf/IDU0f9466bc00e7d8042f4097c10270d6465057b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.095244",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

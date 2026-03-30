@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Addressing additionality in REDD contracts when formal enforcement is absent",
+    "idno": "17919070",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17919070",
+      "title": "Addressing additionality in REDD contracts when formal enforcement is absent",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cordero Salas, Paula"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Roe, Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sohngen, Brent"
+      }
+    ],
+    "date_created": "2013/06/01",
+    "date_available": "2013/06/01",
+    "date_published": "2013/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17919070"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d1752"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d1752"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The success of reducing carbon emissions from deforestation and forest degradation depends on the design of an effective financial mechanism that provides landholders sufficient incentives to participate and provide additional and permanent carbon offsets. This paper proposes self-enforcing contracts as a potential solution for the constraints in formal contract enforcement derived from the stylized facts of reducing emissions from deforestation and forest degradation implementation in developing countries. It characterizes the optimal self-enforcing contract and provides the parameters under which private enforcement is sustainable when the seller type that is, the opportunity cost of the land, is private information. The optimal contract suggests that the seller with low opportunity cost receives a positive enforceable payment equivalent to the information rents required for self-selection, in contrast to when the buyer knows the seller type in which case all payments should be made contingent on additional forest conservation. When the buyer does not know the seller type, a first-best self-enforcing contract can be implemented if forest conservation is sufficiently productive. If the gains from forest conservation are small, self-enforcing contracts may induce some carbon sequestration by some or all seller types, depending on the value of the shared gains of the relationship.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6502",
+    "url": "http://documents.worldbank.org/curated/en/415971468326187886/pdf/WPS6502.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.961952",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

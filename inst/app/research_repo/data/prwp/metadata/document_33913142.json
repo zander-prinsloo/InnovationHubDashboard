@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Structural Loopholes in Sustainability-Linked Bonds",
+    "idno": "33913142",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33913142",
+      "title": "Structural Loopholes in Sustainability-Linked Bonds",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ul Haq,Imtiaz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Doumbia,Djeneba"
+      }
+    ],
+    "date_created": "2022/10/06",
+    "date_available": "2022/10/06",
+    "date_published": "2022/10/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33913142"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e099a503-7f86-45a8-b332-1d0b7057cedf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e099a503-7f86-45a8-b332-1d0b7057cedf"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10200"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Sustainability-Linked Bonds&#x2014;an innovative debt product that incorporates incentivized sustainability targets&#x2014;are becoming increasingly popular to encourage issuers to improve their sustainability performance. However, existing Sustainability-Linked Bond structures allow issuers to weaken the link between sustainability and financial outcomes, rendering Sustainability-Linked Bonds less effective. This paper examines two potential structural loopholes on this front: late target dates and call options. The results show that Sustainability-Linked Bonds with coupon step-up penalties, which constitute the majority and benefit most from such features, are more likely to have later target dates and call options embedded. Larger penalties are associated with a greater likelihood of late target dates but not call options, which instead tend to be favored primarily by speculative grade issuers. The paper also provides evidence that issuers with high carbon dioxide emissions are more likely to resort to such structural loopholes. These findings suggest that Sustainability-Linked Bonds, despite incentivized targets, may be prone to greenwashing.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10200",
+    "url": "http://documents.worldbank.org/curated/en/099237410062223046/pdf/IDU0e099a50307f86045a80b33201d0b7057cedf.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.889608",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

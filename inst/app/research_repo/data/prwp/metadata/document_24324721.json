@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Weather insurance savings accounts",
+    "idno": "24324721",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24324721",
+      "title": "Weather insurance savings accounts",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stein,Daniel Kevin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tobacman,Jeremy"
+      }
+    ],
+    "date_created": "2015/04/08",
+    "date_available": "2015/04/08",
+    "date_published": "2015/04/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24324721"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082d6f3a7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082d6f3a7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Better insurance against rainfall risk could improve the security of hundreds of millions of agricultural households around the world. However, customers have shown little demand for stand-alone insurance products. This paper theoretically and experimentally analyzes an innovative financial product called a Weather Insurance Savings Account (WISA), which combines savings and rainfall insurance. The paper uses a standard model of intertemporal insurance demand to study how customers' demand for a WISA varies with the amount of insurance offered. A laboratory experiment is then used to elicit participants' valuations of pure insurance, pure savings, and intermediate WISA types. Contrary to the standard model, within-subjects comparisons show that many participants prefer both pure insurance and pure savings to any interior mixture of the two, suggesting that market demand for a WISA is likely to be low. Additional experimental and observational evidence distinguishes between several alternative explanations. One possibility that survives the additional tests is diminishing sensitivity to losses, as in prospect theory.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7235",
+    "url": "http://documents.worldbank.org/curated/en/961691467980553484/pdf/WPS7235.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.505776",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

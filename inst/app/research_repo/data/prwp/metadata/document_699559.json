@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Global estimates and projections of mortality by cause, 1970-2015",
+    "idno": "699559",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699559",
+      "title": "Global estimates and projections of mortality by cause, 1970-2015",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bulatao, Rodolfo A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stephens, Patience W."
+      }
+    ],
+    "date_created": "1992/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699559"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cdb2e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cdb2e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors report estimates and projections of deaths by cause for major world regions, based on data from country reports to the World Health Organization and regression models. They report mortality rates for seven major causes: infectious and parasitic diseases, neoplasms, circulatory system diseases, complications of pregnancy, certain perinatal conditions, injury and poisoning, and other causes. Some more specific causes are reported on. They give estimates for six age groups by sex for four years (1970, 1985, 2000, and 2015) and six country groups: industrial market economies, industrial nonmarket economies, Latin America and the Caribbean, sub-Saharan Africa, the Middle East and North Africa, and Asia and the Pacific. Among their findings: The population over 45 in developing countries is projected to more than double between 1985 and 2015, rising from 17 to 24 percent of the population. Causes of death, which are closely related to age at death, must change accordingly. Infant mortality in developing countries is projected to fall from 78 per thousand in 1985 to 43 per thousand in 2015 and life expectancy at birth in developing countries is projected to rise by five years. The leading causes of death for the world as a whole for both 1970 and 1985 were infectious and parasitic diseases and circulatory system diseases - with the first more important in developing countries, and the second more important in developed countries. Certain perinatal conditions were also more important for developing countries, but accounted for only a fourth or a fifth as many deaths in 1985. Neoplasms were more important in developed than in developing countries. Deaths from infectious diseases are expected to decline as a percentage of deaths; proportionate deaths from diseases of the circulatory system are expected to rise. The greatest number of deaths will continue to be in Asia, where almost half of all deaths in the world take place. This proportion is not projected to change. Better data on causes of death are essential. The World Health Organization is working with countries to strengthen their cause-of-death information systems as an essential support for health monitoring.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1007",
+    "url": "http://documents.worldbank.org/curated/en/946641468767387216/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:57.458141",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

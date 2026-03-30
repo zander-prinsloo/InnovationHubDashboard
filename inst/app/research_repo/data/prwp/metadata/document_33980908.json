@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Deep Trade Agreements and Heterogeneous Firms Exports",
+    "idno": "33980908",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33980908",
+      "title": "Deep Trade Agreements and Heterogeneous Firms Exports",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Neri--Lainé,Matteo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Orefice,Gianluca"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruta,Michele"
+      }
+    ],
+    "date_created": "2023/01/17",
+    "date_available": "2023/01/17",
+    "date_published": "2023/01/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33980908"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4fec2371-2067-4cba-ba59-e69fb87bda98"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4fec2371-2067-4cba-ba59-e69fb87bda98"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10277"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the effect of regional trade agreements on firms&#x2019; exports. Using detailed information on the content of trade agreements and firm-level exports for 31 developing countries between 2000 and 2020, the analysis shows that the depth of trade agreements matters for the export performance of firms. Moving from shallow to deep trade agreements boosts firms&#x2019; exports, on average, by 3.6 percent. In line with models of trade with heterogeneous firms, the trade impact of deep trade agreements depends on firm&#x2019;s characteristics. The impact is stronger for large firms and firms involved in global value chains and is negative for small firms. Robustness tests and an Instrumental Variable strategy confirm the causal interpretation of the results. These heterogeneous impacts on firms&#x2019; exports imply a selection effect of deep trade agreements with significant welfare consequences.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10277",
+    "url": "http://documents.worldbank.org/curated/en/099605501172327664/pdf/IDU04fec23710206704cba0ba590e69fb87bda98.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.174390",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

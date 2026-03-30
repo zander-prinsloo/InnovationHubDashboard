@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Use of modern medical care for pregnancy and childbirth care : does female schooling matter",
+    "idno": "9456664",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9456664",
+      "title": "Use of modern medical care for pregnancy and childbirth care : does female schooling matter",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Somanathan,Aparnaa"
+      }
+    ],
+    "date_created": "2008/05/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9456664"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a7c81"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a7c81"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Controversy exists over whether the estimated effects of schooling on health care use reflect the influence of unobserved factors. Existing estimates may overstate the schooling effect because of the failure to control for unobserved variables or may be downwardly biased due to measurement error. This paper contributes to the resolution of this debate by adopting an instrumental variable approach to estimate the impact of female schooling on maternal health care use. A school construction program in Indonesia in the 1970s is used to construct an instrumental variable for education. The choice between use and non-use of maternal health services is estimated as a function of schooling and other variables. Data from the Indonesia Family Life Survey are used for this paper. Standard regression models estimated in the paper indicate that each additional year of schooling does indeed have a significant, positive effect on maternal health care use. Instrumental variable estimates of the schooling effect are larger. The results suggest that schooling has a positive impact on maternal health care use even after eliminating the effect of unobserved variables and measurement error. This paper moves beyond previous work on the impact of education on health care use by adopting an IV approach to address the problem of endogeneity and measurement error. IV methods have been used widely in the labour economics literature to examine the impact of schooling on wages and other labour market outcomes but rarely to estimate the effect of schooling on health outcomes.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4625",
+    "url": "http://documents.worldbank.org/curated/en/499761468175153327/pdf/wps4625.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:13.303150",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

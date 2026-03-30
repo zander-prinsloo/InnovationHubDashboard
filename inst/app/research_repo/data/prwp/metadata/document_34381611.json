@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Development Acupuncture : The Network Structure of Multidimensional Poverty and Its Implications",
+    "idno": "34381611",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34381611",
+      "title": "Development Acupuncture : The Network Structure of Multidimensional Poverty and Its Implications",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stojkoski,Viktor"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Calva,Luis-Felipe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bolch,Kimberly Blair"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fernandez,Almudena"
+      }
+    ],
+    "date_created": "2024/08/26",
+    "date_available": "2024/08/26",
+    "date_published": "2024/08/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34381611"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e95eca6b-3b76-4632-9512-cca0629d0129"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e95eca6b-3b76-4632-9512-cca0629d0129"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10882"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "While development literature has come a long way in conceptualizing and measuring poverty multidimensionally, policy interventions to address it remain trapped in fragmented, sector-specific approaches. One of the main challenges in implementing integrated policy responses to multidimensional poverty reduction is understanding how the different dimensions are interlinked and how they jointly evolve over time. For example, this could require disentangling how a person&#x2019;s health, education, and standards of living all interact in a dynamic sense. Motivated by economic complexity methods and applications, this paper uses network science to propose two new measures to understand the interconnected structure of multidimensional poverty: the Poverty Space (a network that visualizes the interactions among different indicators of poverty) and Poverty Centrality (a measure of the relative importance of each indicator within this network). Applying these measures to 67 developing countries using data from the Oxford Poverty and Human Development Initiative&#x2013;United Nations Development Programme Global Multidimensional Poverty Index, the paper finds that the structure of multidimensional poverty networks is similar across countries and stable over time. The findings also show that indicators that are more central in the Poverty Space witness a more significant reduction in the censored headcount ratio over time, compared to peripheral indicators. These results are used to demonstrate how the Poverty Space can be applied in policy: using the forward-looking Policy Priority Inference framework to help guide policy choices. Overall, the paper points to the relevance of using network science methods to help to identify key &#x201c;nodes&#x201d; in the structure of multidimensional poverty where applied pressure (targeted interventions) could lead to a greater effect on the system as a whole.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10882",
+    "url": "http://documents.worldbank.org/curated/en/099820408262426664/pdf/IDU1e95eca6b13b7614632195121cca0629d0129.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.455692",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

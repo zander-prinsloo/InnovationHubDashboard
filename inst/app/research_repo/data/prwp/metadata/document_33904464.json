@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Distributional Impact of Taxes and Social Spending in Bhutan : An Application with Limited Income Data",
+    "idno": "33904464",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33904464",
+      "title": "The Distributional Impact of Taxes and Social Spending in Bhutan : An Application with Limited Income Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baquero,Juan Pablo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gao,Jia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kim,Yeon Soo"
+      }
+    ],
+    "date_created": "2022/09/22",
+    "date_available": "2022/09/22",
+    "date_published": "2022/09/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33904464"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ace845e6-9c92-4f33-b4b3-12caa30cafa3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ace845e6-9c92-4f33-b4b3-12caa30cafa3"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10190"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the distributional impact of the tax-benefit system in Bhutan. It makes two main contributions: first, this is the first substantive study of this kind in Bhutan, and second, due to limited information on incomes in the household survey, a consumption-based model is combined with Mincer-type earnings to derive estimates of incomes. The results show that the combined impact of government taxes and social spending is to reduce inequality and slightly increase poverty as of 2017. The increase in poverty is mainly due to the burden of indirect taxes and social contributions that are not offset by other transfers. Households in the bottom 80 percent are net receivers of fiscal interventions, with fiscal benefits primarily occurring through education and health benefits, which are both progressive. Most households did not pay much into the system as of 2017, as personal income taxes have a high exemption threshold and sales taxes only apply to a selected number of goods that are mainly consumed by richer households. Due to the lack of direct transfers, the net cash position is negative for poor households, although the magnitude is very small. Simulations suggest that the recent personal income tax reduction leads direct taxes to be slightly more progressive; however, the inequality-reducing impact is dampened. The goods and services tax is expected to increase indirect taxes for households across the distribution and is less progressive than the sales tax. This could lead to a temporary increase in poverty, which could be offset through direct transfers financed by the additional revenues.",
+    "ref_country": [
+      {
+        "name": "Bhutan",
+        "code": "BTN"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10190",
+    "url": "http://documents.worldbank.org/curated/en/099245309222299294/pdf/IDU0ace845e609c9204f330b4b3012caa30cafa3.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.992554",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

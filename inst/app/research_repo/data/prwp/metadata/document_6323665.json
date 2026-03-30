@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Can insurance increase financial risk The curious case of health insurance in China",
+    "idno": "6323665",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6323665",
+      "title": "Can insurance increase financial risk The curious case of health insurance in China",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff, Adam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lindelow, Magnus"
+      }
+    ],
+    "date_created": "2005/10/01",
+    "date_available": "2005/10/04",
+    "date_published": "2005/10/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6323665"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aa3d0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aa3d0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The most basic argument for insurance is that it reduces financial risk. But since insurance opens up new opportunities for consuming expensive high-technology care which permits health improvements that are valued by the insured, and because in many settings the provider is able and has an incentive to exploit the informational advantage he has over the patient, it is not immediately obvious that insurance will in practice reduce financial risk. The authors analyze the effect of insurance on the probability of an individual incurring \"high\" annual health expenses using data from three household surveys-one a cross-section survey, the other two panel surveys. All come from China, a country where providers have until recently largely been paid fee-for-service (often according to a schedule that encourages the overprovision of high-technology care and the underprovision of basic care) and who are only lightly regulated. The authors define annual spending as \"high\" if it exceeds 5 percent of average income in the sample and as \"catastrophic\" if it exceeds 10 percent of the household's own per capita income. The estimates of the effect of insurance on financial risk allow for the possible endogeneity of health insurance in the panel datasets by allowing for a time-invariant fixed effect capturing unobserved risk that may be correlated with insurance status, and in the cross-section dataset by using instrumental variables, where availability of and eligibility for health insurance are used as instruments. The results suggest that during the 1990s China's government and labor insurance schemes increased financial risk associated with household health care spending, but that the rural cooperative medical scheme significantly reduced financial risk in some areas but increased it in others (though not significantly). From the results, it appears that China's new health insurance schemes (private schemes, including coverage of schoolchildren) have also increased the risk of high levels of out-of-pocket spending on health. Where the authors find evidence of health insurance increasing the risk of \"high\" out-of-pocket expenses, the marginal effect is of the order of 15-20 percent; in the case of \"catastrophic\" expenses, it is even larger.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3741",
+    "url": "http://documents.worldbank.org/curated/en/366771468024655560/pdf/wps3741.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:23.715677",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

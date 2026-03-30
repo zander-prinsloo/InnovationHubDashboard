@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Too poor to grow",
+    "idno": "10913589",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10913589",
+      "title": "Too poor to grow",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez, Humberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      }
+    ],
+    "date_created": "2009/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10913589"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b9deb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b9deb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent theoretical literature has suggested a variety of mechanisms through which poverty may deter growth and become self-perpetuating. A few papers have searched for empirical regularities consistent with those mechanisms  such as aggregate non-convexities and convergence clubs. However, a seemingly basic implication of the theoretical models, namely that countries suffering from higher levels of poverty should grow less rapidly, has remained untested. This paper attempts to fill that gap and provide a direct empirical assessment of the impact of poverty on growth. The papers strategy involves including poverty indicators among the explanatory variables in an otherwise standard empirical growth equation. Using a large panel dataset, the authors find that poverty has a negative impact on growth that is significant both statistically and economically. This result is robust to a variety of specification changes, including (i) different poverty lines; (ii) different poverty measures; (iii) different sets of control variables; (iv) different estimation methods; (v) adding inequality as a control variable; and (vi) allowing for nonlinear effects of inequality on growth. The paper also finds evidence that the adverse effect of poverty on growth works through investment: high poverty deters investment, which in turn lowers growth. Further, the data suggest that this mechanism only operates at low levels of financial development, consistent with the predictions of theoretical models that underscore financial market imperfections as a key ingredient of poverty traps.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5012",
+    "url": "http://documents.worldbank.org/curated/en/334821468339053027/pdf/WPS5012.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "analysis of economic growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.236004",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

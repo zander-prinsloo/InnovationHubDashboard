@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Air pollution and health effects - a study of respiratory illness among children in Santiago, Chile",
+    "idno": "693490",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693490",
+      "title": "Air pollution and health effects - a study of respiratory illness among children in Santiago, Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ostro, Bart D."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eskeland, Gunnar S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feyzioglu, Tarhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sanchez, Jose Miguel"
+      }
+    ],
+    "date_created": "1998/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693490"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c32"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c32"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors estimate dose-response functions for respiratory disease among children based on data from public clinics in Santiago. They find that respiratory disease among Santiago s children is significantly affected by air pollution, measured as PM10 (small dust particles). The effect, for children under 15 (and subgroups), is robust to the inclusion of a wide range of covariates and alternative specifications. In some model specifications, ozone, another measure of pollution, is also found to affect respiratory illness. Internationally, effects on morbidity have typically been found in cross-section studies, or in prospective studies following a panel of predisposed children, such as asthmatics. This study is important in finding such an effect for a larger population of children with more general characteristics - hence more useful for cost-benefit analyses of air pollution control. The study, and a companion study of premature mortality, add to much-needed evidence on the benefits of pollution control in developing countries. The results fit well in a growing literature on dose-response functions for health effects, and so added support to a method of transferring dose-response functions when local research is not available. An earlier study using this method found that modestly estimated health benefits exceeded pollution control costs in Santiago by more than 50 percent.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1932",
+    "url": "http://documents.worldbank.org/curated/en/903641468769836418/Air-pollution-and-health-effects-a-study-of-respiratory-illness-among-children-in-Santiago-Chile",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:48.717318",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "New tools and new tests in comparative political economy - the database of political institutions",
+    "idno": "438377",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438377",
+      "title": "New tools and new tests in comparative political economy - the database of political institutions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beck, Thorsten"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Clarke, George"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Groff, Alberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kee"
+      }
+    ],
+    "date_created": "2000/02/29",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438377"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c3d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c3d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper introduces a large new cross-country database on political institutions: the Database on Political Institutions (DPI). The authors summarize key variables (many of them new), compare this data set with others, and explore the range of issues for which the data should prove invaluable. Among the novel variables they introduce: 1) Several measures of tenure, stability, and checks and balances. 2) Identification of parties with the government coalition or the opposition. 3) Fragmentation of opposition and government parties in legislatures. The authors illustrate the application of DPI variables to several problems in political economy. Stepan and Skach, for example, find that democracy is more likely to survive under parliamentary governments than presidential systems. But this result is not robust to the use of different variables from the DPI, which raises puzzles for future research. Similarly, Roubini and Sachs, find that divided governments in the OECD run higher budget deficits after fiscal shocks. Replication of their work using DPI indicators of divided government indicates otherwise, again suggesting issues for future research. Among questions in political science and economics, that this database may illuminate: the determinants of democratic consolidation, the political conditions for economic reform, the political and institutional roots of corruption, and the elements of appropriate and institutionally sensitive design of economic policy.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2283",
+    "url": "http://documents.worldbank.org/curated/en/870551468766532480/pdf/New-tools-and-new-tests-in-comparative-political-economy-the-database-of-political-institutions.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:40.470067",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

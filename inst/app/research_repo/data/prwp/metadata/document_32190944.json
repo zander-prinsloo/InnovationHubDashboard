@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "International Benchmarking for Country Economic Diagnostics : A Stochastic Frontier Approach",
+    "idno": "32190944",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32190944",
+      "title": "International Benchmarking for Country Economic Diagnostics : A Stochastic Frontier Approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kumbhakar,Subal C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza,Norman V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Norambuena,Vivian"
+      }
+    ],
+    "date_created": "2020/06/29",
+    "date_available": "2020/06/29",
+    "date_published": "2020/06/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32190944"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087b06dcc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087b06dcc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper discusses and illustrates the analytical foundations of international comparisons (or benchmarking) for assessing a country's potential for improvement along various dimensions of social and economic development. By providing a methodology for international benchmarking, discussing various alternatives and choices, and presenting a cross-country illustration, the paper can help practitioners be less arbitrary and more systematic in their approach to international comparisons, as well as more realistic in their expectations for a country's improvement. The paper presents the stochastic frontier approach and applies it to estimate feasible frontiers or benchmarks for each variable, country, and year. It then interprets a country's (one-sided) departure from the benchmark as inefficiency or potential for improvement. This contrasts with the literature that compares countries by looking at raw variables or indicators, without considering that countries differ in structural endowments that constrain the maximum performance that a country could achieve in a policy-relevant horizon. The Stochastic Frontier approach also improves upon the literature that uses regression residuals to measure performance. Regression residuals are hard to interpret as inefficiency, because they are mixed with noise and take positive and negative values. As an illustration, the paper uses a panel of 142 countries with yearly data for 2005-14 and considers a set of 10 development indicators. It finds that the potential for improvement does not follow a simple relationship with economic development, with some lower-income countries being closer to their own feasible frontier than more advanced countries are.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9304",
+    "url": "http://documents.worldbank.org/curated/en/369581593438524015/pdf/International-Benchmarking-for-Country-Economic-Diagnostics-A-Stochastic-Frontier-Approach.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.437322",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

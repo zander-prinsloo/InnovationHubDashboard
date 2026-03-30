@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Data Transparency in the Middle East and North Africa",
+    "idno": "34016771",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34016771",
+      "title": "Data Transparency in the Middle East and North Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Islam,Asif Mohammed"
+      }
+    ],
+    "date_created": "2023/03/07",
+    "date_available": "2023/03/07",
+    "date_published": "2023/03/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34016771"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b0991d73-3fce-46db-8a1f-bd14a3e00419"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b0991d73-3fce-46db-8a1f-bd14a3e00419"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10346"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Data transparency about critical economic issues may be key to driving growth and enhancing trust in government in the Middle East and North Africa. Several knowledge products and technical analyses on the region have been greatly constrained by the lack of availability of detailed data, and the relatively outdated nature of many available datasets. The goal of this study is to ascertain the state of data systems in the Middle East and North Africa region. Through analysis of several indicators, with their limitations in mind, the study uses descriptive analyses and uncovers six stylized facts of the region: (i) developing economies in the Middle East and North Africa have poor data ecosystems, largely due to the prevalence of conflict; (ii) developing economies in the Middle East and North Africa as a group have experienced the largest deterioration in data systems over time; (iii) data systems in richer economies in the Middle East and North Africa region underperform relative to their income peers; (iv) Gulf Cooperation Council economies underperform in data openness, especially online access, despite having the resources for online features; (v) the regulatory framework for data (data infrastructure) is poor throughout the region, especially in Gulf Cooperation Council economies; and (vi) the dispersion of source data scores &#x2013; a measure of availability and timeliness of micro data &#x2013; in the region suggests that national statistical offices in the region could learn from each other. Furthermore, the study summarizes data availability and timeliness for specific macro, micro, and public health indicators for countries across the region. The need for forging a social contract for data is discussed, as well as the role international institutions can play through a statistics compact for the region.",
+    "ref_country": [
+      {
+        "name": "Middle East and North Africa",
+        "code": "MNA"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10346",
+    "url": "http://documents.worldbank.org/curated/en/099414203072321426/pdf/IDU0b0991d7303fce046db08a1f0bd14a3e00419.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.832826",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Short- and long-term effects of a child-labor ban",
+    "idno": "26696289",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26696289",
+      "title": "Short- and long-term effects of a child-labor ban",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Piza,Caio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Portela Fernandes De Souza,Andre"
+      }
+    ],
+    "date_created": "2016/08/15",
+    "date_available": "2016/08/15",
+    "date_published": "2016/08/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26696289"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0844ed13e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0844ed13e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This is the first study to investigate the short- and long-term causal effects of a child-labor ban. The study explores the law that increased the minimum employment age from 14 to 16 in Brazil in 1998, and uncovers its impact on time allocated to schooling and work in the short term and on school attainment and labor market outcomes in the long term. The analysis uses cross-sectional data from 1998 to 2014, and applies a fuzzy regression discontinuity design to estimate the impact of the ban at different points of individuals’ lifecycles. The estimates show that the ban reduced the incidence of boys in paid work activities by 4 percentage points or 27 percent. The study finds that the fall in child labor is mostly explained by the change in the proportions of boys working for pay and studying, and observes an increase in the proportion of boys only studying as a consequence. The results suggest that the ban reduced boys’ participation in the labor force. The study follows the same cohort affected by the ban over the years, and finds that the short-term effects persisted until 2003 when the boys turned 18. The study pooled data from 2007 to 2014 to check whether the ban affected individuals’ stock of human capital and labor market outcomes. The estimates suggest that the ban did not have long-term effects for the whole cohort, but found some indication that it did negatively affect the log earnings of individuals at the lower tail of the earnings distribution.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7796",
+    "url": "http://documents.worldbank.org/curated/en/146211471281195366/pdf/WPS7796.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.251212",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inferring COVID-19 Vaccine Attitudes from Twitter Data : An Application to the Arabic Speaking World",
+    "idno": "33893768",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33893768",
+      "title": "Inferring COVID-19 Vaccine Attitudes from Twitter Data : An Application to the Arabic Speaking World",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Der Weide,Roy"
+      }
+    ],
+    "date_created": "2022/09/06",
+    "date_available": "2022/09/06",
+    "date_published": "2022/09/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33893768"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-9209a255-5751-4cbf-b5dc-990c0568bc5a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-9209a255-5751-4cbf-b5dc-990c0568bc5a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10165"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study investigates whether Twitter data can be used to infer attitudes towards COVID-19 vaccination with an application to the Arabic speaking world. At first glance, anti-vaccine sentiment estimated from Twitter data is surprisingly low in comparison to estimates obtained from survey data. Only about 3 percent of Twitter accounts in our database are identified as anti-COVID-vaccination (compared to 20 to 30 percent of survey respondents). This bias is resolved when: (1) filtering out accounts belonging to organizations that make up a significant share of the discourse on Twitter, and (2) adjusting for the fact that the population of Twitter users is biased towards more educated individuals. The most effective messages on the anti-vaccine side highlight claims that the vaccine causes serious life-threatening side effects. In the pro-vaccine camp, tweets containing content showing public figures receiving the vaccine are found to have the largest reach by far.",
+    "ref_country": [
+      {
+        "name": "Middle East and North Africa",
+        "code": "MNA"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10165",
+    "url": "http://documents.worldbank.org/curated/en/099545109062215988/pdf/IDU09209a2550575104cbf0b5dc0990c0568bc5a.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.257466",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of COVID-19 on Global Inequality and Poverty",
+    "idno": "33912600",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33912600",
+      "title": "The Impact of COVID-19 on Global Inequality and Poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mahler,Daniel Gerszon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yonzan,Nishant"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lakner,Christoph"
+      }
+    ],
+    "date_created": "2022/10/05",
+    "date_available": "2022/10/05",
+    "date_published": "2022/10/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33912600"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1d94e706-3dc8-4f99-b613-751d75dccb52"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1d94e706-3dc8-4f99-b613-751d75dccb52"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10198"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The COVID-19 pandemic has had catastrophic economic and human consequences worldwide. This paper tries to quantify the consequences of the pandemic on global inequality and poverty in 2020. Since face-to-face household survey data collection largely came to a halt during the pandemic, a combination of data sources is used to estimate the impacts on poverty and inequality. This includes actual household survey data, where available, high-frequency phone surveys, and country-level estimates from the literature on the impact of the pandemic on poverty and inequality. The results suggest that the world in 2020 witnessed the largest increase to global inequality and poverty since at least 1990. This paper estimates that COVID-19 increased the global Gini index by 0.7 point and global extreme poverty (using a poverty line of $2.15 per day) by 90 million people compared to counterfactual without the pandemic. These findings are primarily driven by country-level shocks to average incomes and an increase in inequality between countries. Changes to inequality within countries were mixed and relatively modest.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10198",
+    "url": "http://documents.worldbank.org/curated/en/099250510052241154/pdf/IDU01d94e70603dc804f990b6130751d75dccb52.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.889655",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

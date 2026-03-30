@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Counting People Exposed to, Vulnerable to, or at High Risk From Climate Shocks — A Methodology",
+    "idno": "34204435",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34204435",
+      "title": "Counting People Exposed to, Vulnerable to, or at High Risk From Climate Shocks — A Methodology",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Doan,Miki Khanh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hill,Ruth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Corral Rodas,Paul Andres"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brunckhorst,Ben James"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nguyen,Minh"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Freije-Rodriguez,Samuel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Naikal,Esther G."
+      }
+    ],
+    "date_created": "2023/11/29",
+    "date_available": "2023/11/29",
+    "date_published": "2023/11/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34204435"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-7639ca57-f3cb-48db-9bf6-fc2cc82df22d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-7639ca57-f3cb-48db-9bf6-fc2cc82df22d"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10619"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Based on global datasets, 4.5 billion people were exposed to extreme weather events (flood, drought, cyclone, or heatwave) in 2019, an increase from 4 billion in 2010. Among exposed people in 2019, 2.3 billion people lived with less than $6.85 per day and about 400 million lived in extreme poverty (on less than $2.15 per day). This paper presents a methodology to estimate the number of people who are at high risk from extreme weather events, defined as the people who are exposed to these events and highly vulnerable to them. Vulnerability is proxied by a set of indicators measuring (1) the physical propensity to experience severe losses (proxied by the lack of access to basic infrastructure services, here water and electricity) and (2) the inability to cope with and recover from losses (proxied by low income, not having education, not having access to financial services and not having access to social protection). Estimates from 75 countries for which data on all indicators are available suggest that, in 2019, 42 percent of the total population (and 70 percent of people exposed) are at high risk from extreme weather shocks, if one indicator is enough to be considered as highly vulnerable. If high vulnerability is defined based on being vulnerable on two dimensions or more, then 12 percent of the total population (and 20 percent of people exposed) are at high risk from extreme weather shocks. The trend between 2010 and 2019 can be explored in a subset of countries covering 60 percent of the world population. In these countries, even though the population exposed to extreme weather events has been increasing, the number of people at high risk has declined. The exception is Sub-Saharan Africa where the number of people at high risk has increased between 2010 and 2019.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10619",
+    "url": "http://documents.worldbank.org/curated/en/099602511292336760/pdf/IDU07639ca570f3cb048db09bf60fc2cc82df22d.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.555727",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

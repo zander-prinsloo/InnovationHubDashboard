@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How should tariffs be structured",
+    "idno": "700342",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700342",
+      "title": "How should tariffs be structured",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Panagariya, Arvind"
+      }
+    ],
+    "date_created": "1990/02/28",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700342"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6144"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6144"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In the course of trade-policy reforms, countries must confront at least two important questions with respect to tariffs. First, what is the optimal structure of tariffs? In particular, is it optimal to tax all imports at a uniform rate? Second, should intermediate inputs be subject to import duties and if so is there a role for duty drawbacks on exports? This paper seeks to answer these important questions based on intuitive arguments, supported by literature and simple diagrams. The author argues that the introduction of tariffs on intermediate inputs complemented by duty drawbacks is welfare-improving. He further argues that if the objective is to protect the import-competing sector, uniform tariffs will minimize the distortion in production but not in consumption. If the objective is revenue, uniform tariffs will in general fail to minimize distortion in either production or consumption. The existence of smuggling, imperfect competition, and economies of scale weaken the case for uniform tariffs. The principal justification for uniform tariffs is their transparency, administrative simplicity, and relatively low level of unproductive profit-seeking activities. The author concludes that considerations of efficiency conflict with considerations of political economy. Ultimately the issue calls for more systematic empirical study.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS353",
+    "url": "http://documents.worldbank.org/curated/en/619891468762330155/How-should-tariffs-be-structured",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:05.148455",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

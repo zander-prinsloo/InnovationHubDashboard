@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Structural breaks and long-run trends in commodity prices",
+    "idno": "697767",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697767",
+      "title": "Structural breaks and long-run trends in commodity prices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Leon, Javier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soto, Raimundo"
+      }
+    ],
+    "date_created": "1995/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697767"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c4b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c4b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The oil shocks of the 1970s, which quadrupled the price of petroleum, marked the end of an abnormal period of price stability and renewed interest in predicting the evolution of commodity prices. But most subsequent studies have focused on the short-run effects of price fluctuations, mainly because they greatly affect the foreign trade of developing countries. Sophisticated compensation mechanisms, such as commodity funds, have been introduced to counterbalance the transitory effects of price shocks. But the long-term evolution of prices also affects policy design and development strategies and may have a more important role in fostering long-run growth. The evidence presented by Prebisch (1950) and Singer (1950) of a secular negative trend in the price of commodities in 1870-1945 implies an increasingly weak position for developing countries relative to industrial economies. This hypothesis by Prebisch and Singer has been strongly debated, both theoretically and empirically, during the past four decades. Using recent advances in econometric theory, the authors analyze the long-run dynamics of the price of the 24 most-traded commodities in 1900-92. The method they use tests for nonstationarity (unit roots) in the series with a technique that allows structural breaks to be endogenously determined. The results show that 15 of the 24 commodity prices present negative trends, six are trendless, and three exhibit positive trends. Thus, the Prebisch-Singer hypothesis though not universal, holds for most commodities. This evidence rejects, to some extent, previous evidence by Cuddington (1992) and others. The authors extend the econometric analysis to determine the persistence of shocks to commodity prices. Knowledge of the persistence of shocks is important when designing counterbalancing policies such as commodity funds. The authors use a nonparametric estimator of persistence (the multiple variance ratio) and find that 19 of the 24 commodity prices present persistence levels substantially lower than previous estimates. This evidence suggests that there may be substantial room for stabilization and price support mechanisms for most commodities.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1406",
+    "url": "http://documents.worldbank.org/curated/en/518761468766533744/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.621520",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

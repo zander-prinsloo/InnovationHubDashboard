@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Mobility and Resilience : A Global Assessment of Flood Impacts on Road Transportation Networks",
+    "idno": "33820434",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33820434",
+      "title": "Mobility and Resilience : A Global Assessment of Flood Impacts on Road Transportation Networks",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "He,Yiyi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maruyama Rentschler,Jun Erik"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Avner,Paolo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gao,Jianxi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yue,Xiangyu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Radke,John"
+      }
+    ],
+    "date_created": "2022/05/17",
+    "date_available": "2022/05/17",
+    "date_published": "2022/05/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33820434"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e38cb88d-18d7-4a8e-8a22-c09ce9f1be91"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e38cb88d-18d7-4a8e-8a22-c09ce9f1be91"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10049"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study provides the first global evaluation of both direct and indirect flood hazard impacts on road transportation networks. It constructs topological road networks for 2,564 human settlements, representing over 14 million kilometers of urban roads. It assesses their exposure to pluvial and fluvial flood risks under 10 scenarios, corresponding to different flood intensities (1:5 year to 1:1,000 year return periods). Under each scenario, the study analyzes direct infrastructure exposure and assesses the indirect effects of flood-induced mobility disruptions: route failures, travel delays, and travel distance increases. The results document a positive relationship between flood return period and flood impact (both direct and indirect). Compared with direct flood hazard exposure, the indirect impact of floods on mobility is more prominent and heterogeneous. The average share of the road network that is flooded by at least 0.3 meters is 3.64 percent (or 24.84 percent) under the 5-year (or 1,000-year) return period, yet 11.58 percent (or 65.67 percent) of the simulated trips fail in the same scenario. The results enable comparisons of exposure and vulnerability of road networks to flood hazards across countries, allowing the identification and prioritization of urban transport resilience measures.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10049",
+    "url": "http://documents.worldbank.org/curated/en/099552305172228687/pdf/IDU0e38cb88d018d704a8e08a220c09ce9f1be91.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.178975",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

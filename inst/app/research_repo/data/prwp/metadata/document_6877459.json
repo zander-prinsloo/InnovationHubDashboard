@@ -1,0 +1,126 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Discordant couples : HIV infection among couples in Burkina Faso, Cameroon, Ghana, Kenya, and Tanzania",
+    "idno": "6877459",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6877459",
+      "title": "Discordant couples : HIV infection among couples in Burkina Faso, Cameroon, Ghana, Kenya, and Tanzania",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Walque,Damien B. C. M."
+      }
+    ],
+    "date_created": "2006/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6877459"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828af1e3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828af1e3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Most analyses of the determinants of HIV infection are performed at the individual level. The recent Demographic and Health Surveys which include results from HIV tests allow studying HIV infection at the level of the cohabiting couple. The paper exploits this feature of the data for Burkina Faso, Cameroon, Ghana, Kenya, and Tanzania. The analysis yields two surprising findings about the dynamics of the HIV/AIDS epidemic which have important implications for policy. First, at least two-thirds of the infected couples are discordant couples, that is, couples where only one of the two partners is infected. This implies that there is scope for prevention efforts among couples. Second, between 30 and 40 percent of the infected couples are couples where the female partner only is infected. This is at odds with levels of self-reported marital infidelity by females and with the common perception that unfaithful males are the main link between high risk groups and the general population. This study investigates and confirms the robustness of these findings. For example, even among couples where the woman has been in only one union for 10 years or more, the fraction of couples where only the female partner is infected remains high. These results suggest that extramarital sexual activity among cohabiting women, whatever its causes, is a substantial source of vulnerability to HIV that should be, as much as male infidelity, targeted by prevention efforts. Moreover, this paper uncovers several inconsistencies between the sexual behaviors reported by male and female partners, suggesting that as much as possible, prevention policies should rely on evidence including objectively measured HIV status.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CMR"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BFA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3956",
+    "url": "http://documents.worldbank.org/curated/en/159581468239364061/pdf/wps3956.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:18.843832",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

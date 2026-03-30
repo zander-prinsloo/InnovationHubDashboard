@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Product Market Monopolies and Labor Market Monopsonies",
+    "idno": "34030950",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34030950",
+      "title": "Product Market Monopolies and Labor Market Monopsonies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cali,Massimiliano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Presidente,Giorgio"
+      }
+    ],
+    "date_created": "2023/03/29",
+    "date_available": "2023/03/29",
+    "date_published": "2023/03/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34030950"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-48d194d8-f0ab-4aad-9136-f1cb9d6c3c03"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-48d194d8-f0ab-4aad-9136-f1cb9d6c3c03"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10388"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper unveils a novel externality of product market regulation in the labor market. It shows theoretically and empirically that higher barriers to entry in product markets translate into higher employers&#x2019; labor market power, measured by the wage markdown&#x2014;the ratio between the marginal product of labor and the wage. The literature suggests that this wedge can distort factor allocation, resulting in lower aggregate output and employment, but also in higher inequality through a reduction in the labor share of national output. Using variation in investment restrictions across 346 manufacturing product markets in Indonesia, the analysis finds that wage markdowns increase by 25 percent in product markets that become subject to investment restrictions. The result is rationalized using a simple oligopsony model in which higher entry costs reduce the equilibrium number of firms, thereby limiting employment options for workers and, hence, their labor market power. Instrumental variable estimates support the model&#x2019;s prediction that lower entry is the main driver of the positive relationship between investment restrictions and wage markdowns.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10388",
+    "url": "http://documents.worldbank.org/curated/en/099320303292392319/pdf/IDU048d194d80f0ab04aad091360f1cb9d6c3c03.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.595571",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

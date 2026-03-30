@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Technology Within and Across Firms",
+    "idno": "32584145",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32584145",
+      "title": "Technology Within and Across Firms",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cirera,Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Comin,Diego Adolfo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vargas Da Cruz,Marcio Jose"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lee,Kyungmin"
+      }
+    ],
+    "date_created": "2020/11/16",
+    "date_available": "2020/11/16",
+    "date_published": "2020/11/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32584145"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087fca0b6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087fca0b6"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study collects data on the sophistication of technologies used at the business function level for a representative sample of firms in Vietnam, Senegal, and the Brazilian state of Ceara. The analysis finds a large variance in technology sophistication across the business functions of a firm. The within-firm variance in technology sophistication is greater than the variance in sophistication across firms, which in turn is greater than the variance in sophistication across regions or countries. The paper documents a stable cross-firm relationship between technology at the business function and firm levels, which it calls the technology curve. Significant heterogeneity is uncovered in the slopes of the technology curves across business functions, a finding that is consistent with non-homotheticities in firm-level technology aggregators. Firm productivity is positively associated with the within-firm variance and the average level of technology sophistication. Development accounting exercises show that cross-firm variation in technology accounts for one-third of cross-firm differences in productivity and one-fifth of the agricultural versus non-agricultural gap in cross-country differences in firm productivity.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SEN"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; Africa West ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9476",
+    "url": "http://documents.worldbank.org/curated/en/783871605552592458/pdf/Technology-Within-and-Across-Firms.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.853476",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

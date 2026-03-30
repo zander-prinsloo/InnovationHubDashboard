@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How many more infants are likely to die in Africa as a result of the global financial crisis",
+    "idno": "10973301",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10973301",
+      "title": "How many more infants are likely to die in Africa as a result of the global financial crisis",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Friedman,Jed"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schady,Norbert R."
+      }
+    ],
+    "date_created": "2009/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10973301"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c0a0e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c0a0e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The human consequences of the current global financial crisis for the developing world are presumed to be severe yet few studies have quantified such impact. The authors estimate the additional number of infant deaths in sub-Saharan Africa likely due to the crisis and discuss possible mitigation strategies. They pool birth-level data as reported in female adult retrospective birth histories from all Demographic and Health Surveys collected in sub-Saharan Africa nations. This results in a data set of 639,000 births to 264,000 women in 30 countries. The authors use regression models with flexible controls for temporal trends to assess an infants likelihood of death as a function of fluctuations in national income. They then apply this estimated likelihood to expected growth shortfalls as a result of the crisis. At current growth projections, their estimates suggest there will be 30,000 - 50,000 excess infant deaths in sub-Saharan Africa. Most of these additional deaths are likely to be poorer children (born to women in rural areas and lower education levels) and are overwhelmingly female. If the crisis continues to worsen the number of deaths may grow much larger, especially those to girls. Policies that protect the income of poor households and that maintain critical health services during times of economic contraction should be considered. Interventions targeted at female infants and young girls may be particularly beneficial.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5023",
+    "url": "http://documents.worldbank.org/curated/en/644331467990345916/pdf/WPS5023.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.247198",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

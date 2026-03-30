@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Weighting Justice Reform Costs and Benefits Using Machine Learning and Modern Data Science",
+    "idno": "34064703",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34064703",
+      "title": "Weighting Justice Reform Costs and Benefits Using Machine Learning and Modern Data Science",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mahony,Christopher Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Manning,Matthew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wong,Gabriel"
+      }
+    ],
+    "date_created": "2023/05/18",
+    "date_available": "2023/05/18",
+    "date_published": "2023/05/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34064703"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-45e8fb0a-2d11-4367-892b-7982da772324"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-45e8fb0a-2d11-4367-892b-7982da772324"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10449"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Can the impact of justice processes be enhanced with the inclusion of a heterogeneous component into an existing cost-benefit analysis app that demonstrates how benefactors and beneficiaries are affected? Such a component requires (i) moving beyond the traditional cost-benefit conceptual framework of utilizing averages, (ii) identification of social group or population-specific variation, (iii) identification of how justice processes differ across groups/populations, (iv) distribution of costs and benefits according to the identified variations, and (v) utilization of empirically informed statistical techniques to gain new insights from data and maximize the impact for beneficiaries. This paper outlines a method for capturing heterogeneity. The paper tests the method and the cost-benefit analysis online app that was developed using primary data collected from a developmental crime prevention intervention in Australia. The paper identifies how subgroups in the intervention display different behavioral adjustments across the reference period, revealing the heterogeneous distribution of costs and benefits. Finally, the paper discusses the next version of the cost-benefit analysis app, which incorporates an artificial intelligence-driven component that reintegrates individual cost-benefit analysis projects using machine learning and other modern data science techniques. The paper argues that the app enhances cost-benefit analysis, development outcomes, and policy making efficiency for optimal prioritization of criminal justice resources. Further, the app advances the policy accessibility of enhanced, social group-specific data, illuminating optimal policy orientation for more inclusive, just, and resilient societal outcomes&#x2014;an approach with potential across broader public policy.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10449",
+    "url": "http://documents.worldbank.org/curated/en/099440005182319271/pdf/IDU045e8fb0a02d11043670892b07982da772324.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.244337",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

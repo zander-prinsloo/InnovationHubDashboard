@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An analysis of money's worth ratios in Chile",
+    "idno": "6802120",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6802120",
+      "title": "An analysis of money's worth ratios in Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morales,Marco"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rocha, Roberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thorburn,Craig W."
+      }
+    ],
+    "date_created": "2006/05/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6802120"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4111"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4111"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Empirical analyses of annuities markets have been limited to a few industrial countries and restricted by data limitations. Chile provides excellent conditions for research on annuities because of the depth of its market and the availability of data. The authors use an extensive dataset on individual annuities to examine econometrically a measure of market performance-money's worth ratios (MWRs)-or the ratio of the expected present value of annuity payments to the premium. The results show that annuitants in Chile have generally a good deal for their premiums, as indicated by MWRs higher than one, and also higher than those estimated for other countries. The difference between Chile and other countries is striking considering that annuities in Chile are indexed to prices. The wide range of indexed instruments in Chile, allowing providers to hedge their risks while extracting higher returns, helps explain the difference. The high degree of market competition has also contributed to this outcome. Efforts to improve market transparency through a new electronic quotation system have decreased the dispersion of MWRs. Finally, MWRs tend to decrease for contracts with longer durations, reflecting pricing for higher longevity and reinvestment risks. These results are consistent with separate research on the annuity rate, and indicate the need to ensure competition and market transparency, as well as to develop appropriate financial instruments for providers to ensure good outcomes for annuitants.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3926",
+    "url": "http://documents.worldbank.org/curated/en/497761468230102561/pdf/wps3926.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:22.126678",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

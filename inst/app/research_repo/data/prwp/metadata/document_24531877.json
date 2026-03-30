@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Doing the survey two-step : the effects of reticence on estimates of corruption in two-stage survey questions",
+    "idno": "24531877",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24531877",
+      "title": "Doing the survey two-step : the effects of reticence on estimates of corruption in two-stage survey questions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karalashvili,Nona"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay,Aart C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Murrell,Peter"
+      }
+    ],
+    "date_created": "2015/05/22",
+    "date_available": "2015/05/22",
+    "date_published": "2015/05/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24531877"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082eb9b02"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082eb9b02"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a structural approach for modeling how respondents answer survey questions and uses it to estimate the proportion of respondents who are reticent in answering corruption questions, as well as the extent to which reticent behavior biases down conventional estimates of corruption. The context is a common two-step survey question, first inquiring whether a government official visited a business, and then asking about bribery if a visit was acknowledged. Reticence is a concern for both steps, since denying a visit sidesteps the bribe question. This paper considers two alternative models of how reticence affects responses to two-step questions, with differing assumptions on how reticence affects the first question about visits. Maximum-likelihood estimates are obtained for seven countries using data on interactions with tax officials. Different models work best in different countries, but cross-country comparisons are still valid because both models use the same structural parameters. On average, 40 percent of corruption questions are answered reticently, with much variation across countries. A statistic reflecting how much standard measures underestimate the proportion of all respondents who had a bribe interaction is developed. The downward bias in standard measures is highly statistically significant in all countries, varying from 12 percent in Nigeria to 90 percent in Turkey. The source of bias varies widely across countries, between denying a visit and denying a bribe after admitting a visit.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7276",
+    "url": "http://documents.worldbank.org/curated/en/259391468182954937/pdf/WPS7276.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.240077",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

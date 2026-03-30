@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Relationship between Macroeconomic Indicators and Capital Markets Performance in Selected Southeastern European Countries",
+    "idno": "32252908",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32252908",
+      "title": "Relationship between Macroeconomic Indicators and Capital Markets Performance in Selected Southeastern European Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dodig,Ante"
+      }
+    ],
+    "date_created": "2020/07/17",
+    "date_available": "2020/07/17",
+    "date_published": "2020/07/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32252908"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087bbe494"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087bbaaaf"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study tests the weak form of the efficient capital markets theorem in five transition economies in Southeast Europe between 2005 and 2016. A panel pooled mean group estimator is used to examine the relationship between macroeconomic indicators and the performance of stock market indexes. This is a suitable estimator for these young frontier markets, given that they have yet to develop the breadth and depth of an advanced market—such as ample liquidity and traders—to aggregate cross-country data and use level series prime data instead of differentials of the same. These frontier capital markets are found to be weak form inefficient, meaning that stock prices do not reflect available current public information. In other words, when a market is transparent and investor behavior is rational, the macroeconomic data should be included in the value of the stock indexes. The five countries may benefit from bringing their capital markets legislation in line with those of developed countries and by improving corporate governance and transparency. This would boost investor trust and liquidity. The coverage of this research can be extended to find more standardized data values and develop additional factors not captured by this model.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9323",
+    "url": "http://documents.worldbank.org/curated/en/973421594990591465/pdf/Relationship-between-Macroeconomic-Indicators-and-Capital-Markets-Performance-in-Selected-Southeastern-European-Countries.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.256007",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

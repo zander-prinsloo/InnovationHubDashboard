@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The relative income and relative deprivation hypotheses : a review of the empirical literature",
+    "idno": "18263952",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18263952",
+      "title": "The relative income and relative deprivation hypotheses : a review of the empirical literature",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2013/09/01",
+    "date_available": "2013/09/01",
+    "date_published": "2013/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18263952"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828be542"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828be542"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper provides a review of the empirical literature in economics that has attempted to test the relative income hypothesis as put forward by Duesemberry (1949) and the relative deprivation hypothesis as formalized by Runciman (1966). It is argued that these two hypotheses and the empirical models used to test them are essentially similar and make use of the same relative income concept. The review covers the main intellectual contributions that led to the formulation and tests of these hypotheses, the main formulations of the utility and econometric equations used in empirical studies, the main econometric issues that complicate tests of the hypotheses, and the empirical results found in the literature. The majority of studies uses absolute and relative income together as explanatory factors in utility models and finds absolute income to have a positive and significant effect on utility (happiness). The majority of studies also finds relative income to be a significant factor in explaining utility but the sign of this relation varies across studies. The source of this variation is complex to detect given that few results are directly comparable across studies because of differences in model specifications.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6606",
+    "url": "http://documents.worldbank.org/curated/en/579851468171249190/pdf/WPS6606.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.134432",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

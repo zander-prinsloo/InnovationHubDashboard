@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Regional subsidies and industrial prospects of lagging regions",
+    "idno": "6567943",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6567943",
+      "title": "Regional subsidies and industrial prospects of lagging regions",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Carvalho, Alexandre"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timmins,Christopher"
+      }
+    ],
+    "date_created": "2006/02/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6567943"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828afda0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828afda0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Large and sustained differences in economic performance across regions of developing countries have long provided motivation for fiscal incentives designed to encourage firm entry in lagging areas. But empirical evidence in support of these policies has been weak at best. The authors undertake a direct evaluation of the most prominent fiscal incentive policy in Brazil, the Fundos Constitucionais de Financiamento (Constitutional Funds). In doing so, they exploit valuable features of the Brazilian Ministry of Labor's RAIS data set to address two important elements of firm location decisions that have the potential to bias an assessment of the funds: (1) firm \"family structure\" (in particular, proximity to headquarters for vertically integrated firms), and (2) unobserved spatial heterogeneity (with the potential to confound the effects of the funds). The authors find that the pull of firm headquarters is very strong relative to the constitutional funds for vertically integrated firms, but that, with nonparametric controls for time invariant spatial heterogeneity, the funds provide significant incentives for firms in many of the targeted industries.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3843",
+    "url": "http://documents.worldbank.org/curated/en/876621468016249117/pdf/wps3843.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:22.628429",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

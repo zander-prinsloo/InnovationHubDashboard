@@ -1,0 +1,188 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "VAT Rate Structures in Theory and Practice",
+    "idno": "34241308",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34241308",
+      "title": "VAT Rate Structures in Theory and Practice",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thomas,Alastair Geoffrey Arthur"
+      }
+    ],
+    "date_created": "2024/01/18",
+    "date_available": "2024/01/18",
+    "date_published": "2024/01/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34241308"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-2d02d19f-336a-4e0c-b537-4d134b306a9f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-2d02d19f-336a-4e0c-b537-4d134b306a9f"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10677"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Most countries&#x2019; value-added tax (VAT) systems apply reduced VAT rates to a selection of expenditure items in order to achieve distributional goals, and (to a lesser extent) social and cultural objectives. This paper assesses the case for applying reduced VAT rates, with a particular focus on OECD countries where reduced rates feature prominently. It examines both the theoretical and empirical evidence, as well as practical considerations, and concludes that the case for reduced VAT rates is weak. In particular, the optimal indirect tax literature finds no redistributive role for reduced VAT rates when other more direct instruments are available. These theoretical findings are supported by the empirical literature that shows reduced VAT rates to be a poorly targeted means of supporting lower income households, particularly when compared to targeted cash transfer programs. Similarly, reduced VAT rates are unlikely to be a well-targeted way to encourage consumption of merit goods, while they also create significant administrative complexity. These findings have significant implications for tax reform in both developed and developing economies. In particular, where countries have the administrative capacity to implement effectively targeted cash transfer programs, they should use these programs to support poorer households instead of reduced VAT rates.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10677",
+    "url": "http://documents.worldbank.org/curated/en/099920201182414099/pdf/IDU12d02d19f1336a14e0c1b53714d134b306a9f.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "energy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public finance management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "energy policies & reform",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "domestic revenue administration",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "tax policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.218678",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

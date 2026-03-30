@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Life satisfaction, social capital and the bonding-bridging nexus",
+    "idno": "15627449",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15627449",
+      "title": "Life satisfaction, social capital and the bonding-bridging nexus",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pugno, Maurizio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verme,Paolo"
+      }
+    ],
+    "date_created": "2012/01/01",
+    "date_available": "2012/01/01",
+    "date_published": "2012/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15627449"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6a3e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6a3e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The paper investigates the relation between social capital and life satisfaction focusing on the distinction between bonding and bridging. Using the latest version of the combined World and European Values Surveys, the authors first address the question of measurement of social capital by means of a multi-step factor analysis. Through this procedure, they nd that proxies typically used for social capital tend to polarize around two dimensions interpreted as bonding and bridging. These two dimensions are in fact associated with a single latent variable with opposite signs suggesting that they describe two sides of the same latent variable rather than two independent latent variables. The authors call this latent variable the locus of socializing and use it to explore the relation between social capital and life satisfaction across world citizens and across groups of similar countries. The results indicate that people with extreme bonding or bridging attitudes are less happy than people with more balanced attitudes. Unlike the literature on social capital and economic growth that finds bridging attitudes more desirable than bonding attitudes, they nd that bonding attitudes are at least as important as bridging attitudes for life satisfaction. This suggests that the social capital dimensions important for economic growth may not necessarily coincide with the social capital dimensions important for life satisfaction.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5945",
+    "url": "http://documents.worldbank.org/curated/en/617481468340173959/pdf/WPS5945.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.678803",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Location, concentration, and performance of economic activity in Brazil",
+    "idno": "3218008",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "3218008",
+      "title": "Location, concentration, and performance of economic activity in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall, Somik V.; Funderburg, Richard; Yepes, Tito"
+      }
+    ],
+    "date_created": "2003/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "3218008"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0598d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0598d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "What are the prospects for economic development in lagging sub-national regions? What are the roles of public infrastructure investments and fiscal incentives in influencing the location and performance of industrial activity? To examine these questions, the authors estimate a spatial profit function for industrial activity in Brazil that explicitly incorporates infrastructure improvements and fiscal incentives in the cost structure of individual firms. The authors use firm level data from the 2001 annual industrial survey along with spatially disaggregated regional data and find that there are considerable cost savings from being located in areas with relatively lower transport costs to reach large markets. In comparison, fiscal incentives, such as tax expenditures, have modest effects in terms of influencing firm level costs. Although the results suggest that firms benefit from being in locations with good access to markets, the authors do not suggest that improving interregional connectivity would necessarily assist lagging regions. In the short run, improving interregional connectivity implicitly reduces a natural tariff barrier so firms currently serving large markets and benefiting from economies of scale can more easily expand into new markets in competition with local producers. Therefore, producers in the leading regions can crowd out local producers, which would be detrimental for local production and employment in the lagging region.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3268",
+    "url": "http://documents.worldbank.org/curated/en/405931468768836616/Location-concentration-and-performance-of-economic-activity-in-Brazil",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:29.961687",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

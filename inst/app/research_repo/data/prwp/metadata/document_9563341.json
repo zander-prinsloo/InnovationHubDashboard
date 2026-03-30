@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Cyclical movements in unemployment and informality in developing countries",
+    "idno": "9563341",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "9563341",
+      "title": "Cyclical movements in unemployment and informality in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bosch Mossi,Mariano"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maloney,William F."
+      }
+    ],
+    "date_created": "2008/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "9563341"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ad9f9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ad9f9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper analyzes the cyclical properties of worker flows in Brazil and Mexico, two important developing countries with large unregulated or informal sectors. It generates three stylized facts that are critical to the accurate modeling of the sector and which suggest the need to rethink the approaches to date. First, the unemployment rate is countercyclical essentially because job separations of informal workers increase dramatically in recessions. Second, the share of formal employment is countercyclical because of the difficulty of finding formal jobs from inactivity, unemployment and other informal jobs during recessions rather than because of increased separation from formal jobs. Third, flows from formality into informality are not countercyclical, but, if anything, pro-cyclical. Together, these challenge the conventional wisdom that has guided the modeling the sector that informal workers are primarily those rationed out of the formal labor market. They also offer a new synthesis of the mechanics of the cyclical adjustment process. Finally, the paper offers estimates of the moments of worker flows series that are needed for calibration.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4648",
+    "url": "http://documents.worldbank.org/curated/en/911311468049138854/pdf/wps4648.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:13.045372",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

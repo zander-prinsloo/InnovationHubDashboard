@@ -1,0 +1,230 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the Effectiveness of Social Protection Measures in Mitigating COVID-19-Related Income Shocks in the European Union",
+    "idno": "34143178",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34143178",
+      "title": "Assessing the Effectiveness of Social Protection Measures in Mitigating COVID-19-Related Income Shocks in the European Union",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gasior,Katrin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jara,H. Xavier"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Makovec,Mattia"
+      }
+    ],
+    "date_created": "2023/08/14",
+    "date_available": "2023/08/14",
+    "date_published": "2023/08/14",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34143178"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-6c97ec3f-fa3a-4d29-9373-90283334d0e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-6c97ec3f-fa3a-4d29-9373-90283334d0e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10546"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "By means of counterfactual simulation methods, this paper quantifies the role of tax&#x2013;benefit policies in mitigating the shock of the COVID-19 pandemic to household income in the European Union. The tax-benefit microsimulation model for the European Union EUROMOD is used to decompose changes in the income distribution into the effects of: (i) earnings losses due to COVID-19, (ii) automatic stabilizers, (iii) monetary compensation schemes introduced during the pandemic; and (iv) COVID-19-specific reforms to taxes and benefits implemented by European Union governments. The results show a great deal of heterogeneity between countries in terms of earnings losses and the effect of tax-benefit policies during the COVID-19 pandemic. In most countries, the largest contribution to cushioning the economic shock of the pandemic comes from monetary compensation schemes. Automatic stabilizers also play a role, mainly through the effects of social insurance contributions, taxes, and unemployment insurance benefits. Tax-benefit systems cushioned incomes to a large extent even among those most severely affected by the shock to earnings, with an important role for monetary compensation schemes, but also a larger stabilizing effect of unemployment insurance. Among automatic stabilizers, social assistance benefits played an important role in cushioning the income shock for the poorest quintiles among the most severely affected, but only in selected countries.",
+    "ref_country": [
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10546",
+    "url": "http://documents.worldbank.org/curated/en/099340208142315131/pdf/IDU06c97ec3f0fa3a04d2909373090283334d0e4.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data development and capacity building",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "disease control",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "pandemic response",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public sector management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social insurance and pensions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "data production",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "accessibility and use",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection delivery systems",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.417851",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

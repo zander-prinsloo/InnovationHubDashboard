@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Droughts and Deficits: The Global Impact of Droughts on Economic Growth",
+    "idno": "34067050",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34067050",
+      "title": "Droughts and Deficits: The Global Impact of Droughts on Economic Growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zaveri,Esha Dilip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Damania,Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Engle,Nathan Lee"
+      }
+    ],
+    "date_created": "2023/05/23",
+    "date_available": "2023/05/23",
+    "date_published": "2023/05/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34067050"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-632cb144-0e73-47a8-85e0-ed605cb82b53"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-632cb144-0e73-47a8-85e0-ed605cb82b53"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10453"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "As climate change intensifies, dry rainfall shocks and droughts are a growing concern. At the same time, scientific evidence suggests that the world has surpassed the safe planetary boundary for green water, which is water stored in biomass and soil that is crucial for maintaining climate resilience. Yet, evidence at the global scale of these combined forces on economic growth is poorly understood. This paper attempts to fill this gap by using data on annual subnational gross domestic product for 82 countries from 1990&#x2013;2014. Using rainfall shocks as plausibly exogenous variations in a spatially specific panel at the grid level, the analysis finds that the global effects of droughts on economic activity are substantial. Moderate to extreme droughts reduce gross domestic product per capita growth between 0.39 and 0.85 percentage point, on average, depending on the level of development and baseline climatic conditions, with low- and middle-income countries in arid areas sustaining the highest relative losses. In high-income countries, moderate droughts have no impact, and only extreme droughts have adverse effects, reducing growth by about 0.3 percentage point, a little less than half the impact felt in the low- and middle-income country sample for the same intensity of drought. Crucially, the impact of a dry shock of a given magnitude also depends on antecedent green water availability. The results show that increases in soil moisture in previous years can neutralize the harmful impacts from a dry shock, with suggestive evidence that local and upstream forest cover are key channels through which these impacts manifest. These findings have important implications for measuring the economic impact of droughts and can inform adaptation investments.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10453",
+    "url": "http://documents.worldbank.org/curated/en/099520405232341146/pdf/IDU0632cb14400e73047a8085e00ed605cb82b53.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.194470",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

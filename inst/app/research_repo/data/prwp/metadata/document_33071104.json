@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade Impacts of Intellectual-Property-Related PTAs : Evidence from Using the World Bank Deep Trade Agreements Database",
+    "idno": "33071104",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33071104",
+      "title": "Trade Impacts of Intellectual-Property-Related PTAs : Evidence from Using the World Bank Deep Trade Agreements Database",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maskus,Keith E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ridley,William Clifton"
+      }
+    ],
+    "date_created": "2021/05/12",
+    "date_available": "2021/05/12",
+    "date_published": "2021/05/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33071104"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0885b20b6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0885b20b6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9659"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses the World Bank database on deep trade agreements to demonstrate the rapid increase in preferential trade agreements with standards of intellectual property protection that are enforceable and elevated beyond the minimums required in the World Trade Organization Trade-Related Aspects of Intellectual Property Rights Agreement. These accords are referred to as intellectual property–related preferential trade agreements. The paper sets out a treatment-control econometric approach, in which treated agreements are defined by various characteristics and the control group is other preferential trade agreements. This approach is used to study whether membership in intellectual property–related preferential trade agreements affects a country’s trade with nonmember countries. For this purpose, the paper defines a set of industries that intensively use intellectual property rights (the high-intellectual property group) and a set of industries that do not (the low-intellectual property group). There is evidence that countries in these agreements with the United States, the European Union, or the European Free Trade Association experience significant increases in third-country aggregated exports of biopharmaceuticals at all levels of income, while exports of low-intellectual property goods are relatively diminished, compared with the control preferential trade agreements. This result is reinforced using detailed bilateral sectoral trade and holds also for exports of medical devices from higher-income economies. Because these industries are the target of many elevated standards in intellectual property–related preferential trade agreements, the result suggests that these policies affect trade volumes. Further exploratory analysis suggests that these impacts are associated with higher local sales of affiliates of multinational firms, using US data. These are viewed as preliminary findings that point to the need for further analysis.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9659",
+    "url": "http://documents.worldbank.org/curated/en/275801620833587348/pdf/Trade-Impacts-of-Intellectual-Property-Related-PTAs-Evidence-from-Using-the-World-Bank-Deep-Trade-Agreements-Database.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.415523",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

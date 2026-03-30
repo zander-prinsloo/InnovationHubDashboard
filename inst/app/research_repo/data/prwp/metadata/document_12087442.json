@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Accounting for selectivity and duration-dependent heterogeneity when estimating the impact of emigration on incomes and poverty in sending areas",
+    "idno": "12087442",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "12087442",
+      "title": "Accounting for selectivity and duration-dependent heterogeneity when estimating the impact of emigration on incomes and poverty in sending areas",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gibson, John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McKenzie, David"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stillman, Steven"
+      }
+    ],
+    "date_created": "2010/04/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "12087442"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b8437"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b8437"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The impacts of international emigration and remittances on incomes and poverty in sending areas are increasingly studied with household survey data. But comparing households with and without emigrants is complicated by a triple-selectivity problem: first, households self-select into emigration; second, in some emigrant households everyone moves while others leave members behind; and third, some emigrants choose to return to the origin country. Allowing for duration-dependent heterogeneity introduces a fourth form of selectivity -- one must now worry not just about whether households migrate, but also when they do so. This paper clearly sets out these selectivity issues and their implications for existing migration studies, and then addresses them by using survey data designed specifically to take advantage of a randomized lottery that determines which applicants to the over-subscribed Samoan Quota may immigrate to New Zealand. The analysis compares incomes and poverty rates among left behind members in households in Samoa that sent Samoan Quota emigrants with those for members of similar households that were unsuccessful in the lottery. Policy rules control who can accompany the principal migrant, providing an instrument to address the second selectivity problem, while differences among migrants in which year their ballot was selected allow for estimation of duration effects. The authors find that migration reduced poverty among former household members, but they also find suggestive evidence that this effect may be short-lived as both remittances and agricultural income are negatively related to the duration that the migrant has been abroad.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5268",
+    "url": "http://documents.worldbank.org/curated/en/878931468162560924/pdf/WPS5268.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "other financial and private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.924935",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing firms' financing constraints in Brazil",
+    "idno": "18321821",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18321821",
+      "title": "Assessing firms' financing constraints in Brazil",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Claessens, Stijn"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sakho,Yaye Seynabou"
+      }
+    ],
+    "date_created": "2013/09/01",
+    "date_available": "2013/09/01",
+    "date_published": "2013/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18321821"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf612"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf612"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Firm surveys often indicate that firms complain a lot about lack of access to financial services, but financing constraints are difficult to identify, given demand and supply considerations and with only surveys based on firms' perceptions. Specifically, it is difficult to separate demand for access to finance of viable firms with good growth opportunities from that of firms that are not creditworthy and should not deserve financing. In Brazil, one of the main constraints to finance is related to the high level of interest rates, which affects both bank funding costs as well as bank intermediation spreads and, as such, the cost of finance and hence the demand and supply of bank financing. This paper analyzes a unique loan level data set that covers almost a decade of monthly firm bank information from credit registry information that is not publicly available as well as two cross-sections of Brazil's Investment Climate Assessment surveys in 2004 and 2008 that provide detailed information on firms' micro characteristics as well as perceptions of credit. The data allow identification of how firms' characteristics, banks' characteristics, and macro variables affect firms' demand for credit, banks' supply of credit, and access to credit. The paper finds first that access to finance for firms has improved over the decade for small firms, reflecting the deepening of the credit markets. However, access to credit depends strongly on information availability captured in the positive influence of collateral and credit history. Banks perceive that it is less risky to lend to firms that the banks know or that other banks know. Second, firms' loan demand is inelastic to the interest rate at the individual loan category level, possibly reflecting some screening and pricing; however, when the loans are aggregated, the effect of interest rates becomes significant and negative as expected. Third, firms loan demand and loan supply are affected by the availability of collateral and, in the case of loan demand, longer maturity. Policy implications point to the importance of reducing asymmetric information between lenders and borrowers and on collateral to alleviate financing constraints for small firms.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6624",
+    "url": "http://documents.worldbank.org/curated/en/213041468013153909/pdf/WPS6624.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.134252",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

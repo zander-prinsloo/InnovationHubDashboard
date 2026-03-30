@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the impact of the investment climate on productivity using firm-level data : methodology and the cases of Guatemala, Honduras, and Nicaragua",
+    "idno": "6030527",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6030527",
+      "title": "Assessing the impact of the investment climate on productivity using firm-level data : methodology and the cases of Guatemala, Honduras, and Nicaragua",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Escribano Saez,Alvaro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Guasch, J. Luis"
+      }
+    ],
+    "date_created": "2005/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6030527"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a71ed"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a71ed"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Developing countries are increasingly concerned about improving country competitiveness and productivity as they face the increasing pressures of globalization and attempt to improve economic growth and reduce poverty. Among such countries, investment climate assessments (ICA) have become a standard instrument for identifying key obstacles to country competitiveness and imputing their impact on productivity, in order to prioritize policy reforms for enhancing competitiveness. Given the survey objectives and the nature and limitations of the data collected, the authors discuss the advantages and disadvantages of using different productivity measures based on data at the firm level. Their main objective is to develop a methodology to appropriately estimate, in a robust manner, the productivity impact of the investment climate variables. To illustrate the use of this methodology, the authors apply it to the data collected for ICAs in three countries-Guatemala, Honduras, and Nicaragua. Observations in logarithms (logs) of the variables, and not in rates of growth, are pooled from all three countries. The econometric analysis is done with variables in logs to reduce the impact of measurement errors and allow inclusion of as many observations as possible since the \"panel\" data set is very unbalanced. The authors address the endogeneity of the production function inputs and of the investment climate variables by using a variant of the control function approach based on individual firm information, and by aggregating investment climate variables by industry and region. The authors show that it is possible to get robust results for 10 different productivity measures, if one follows a consistent econometric methodology of specification and estimation. For policy analysis, they recommend using those results of investment climate variables on productivity that are robust for most of the productivity measures. The also analyze efficiency aspects of firms in each country. Finally, they decompose the results to obtain country-specific impacts and establish corresponding priorities for policy reform. The actual estimates for the three countries show the level of significance of the impact of investment climate variables on productivity. Variables in several categories, red tape and infrastructure in particular, appear to account for over 30 percent of productivity. The policy implications are clear: investment climate matters enormously and the relative impact of the various investment climate variables indicates where reform efforts should be directed. Given the robustness of the results, the authors argue that the econometric methodology of productivity analysis developed here ought to be used as a benchmark to assess productivity effects for other ICAs or surveys with firm-level data of similar characteristics.",
+    "ref_country": [
+      {
+        "name": "Nicaragua",
+        "code": "NIC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GTM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HND"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3621",
+    "url": "http://documents.worldbank.org/curated/en/762631468250847851/pdf/wps3621.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.820223",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

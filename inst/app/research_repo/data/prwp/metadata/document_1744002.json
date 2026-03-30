@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The epidemiological impact of an HIV/AIDS vaccine in developing countries",
+    "idno": "1744002",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1744002",
+      "title": "The epidemiological impact of an HIV/AIDS vaccine in developing countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stover, John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garnett, Geoff P."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Seitz, Steve"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fors"
+      }
+    ],
+    "date_created": "2002/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1744002"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05a2b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05a2b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many people see an effective preventive AIDS vaccine as the best solution to the HIV/AIDS pandemic. Ten years ago many scientists had hoped that a vaccine would be available by now. Most scientists are still optimistic that vaccines will be developed and many candidates are being tested. Strategies to implement HIV/AIDS vaccination need to be developed to be ready when vaccines do become available. The nature of those programs will depend on the characteristics of each vaccine. How much does it cost? How effective is it? How long does protection last? The answers to these and other questions will help determine issues such as: What will be the impact of the vaccine on the epidemic? Who should be vaccinated? Will an AIDS vaccine be more cost-effective than other prevention measures? Will other measures still be necessary? What will happen to the epidemic if vaccination leads to riskier behavior? How much funding will be needed? The authors use two computer simulation models to investigate the effects of various vaccine characteristics and implementation strategies on the impact and cost-effectiveness of vaccines in different contexts. A simulation model is applied to data from rural Zimbabwe and the iwgAIDS model is applied to Kampala (Uganda) and Thailand. The models are used to investigate the effects of efficacy, duration, cost, and type of protection on impact and cost-effectiveness. The models also show the merits of targeting public subsidies to various population groups: all adults, teenagers, high-risk groups, and women of reproductive age. The impact of vaccines on the epidemic is compared with the impact of other prevention interventions such as condom use and behavior change. Finally, the models are used to explore the extent with which behavioral reversals may erode the positive benefits of the vaccine. A highly effective, long-lasting, inexpensive vaccine would be ideal and could make a major contribution in controlling the HIV/AIDS pandemic. But vaccines that do not attain this ideal can still be useful. A vaccine with 50 percent efficacy and 10 years duration supplied to 65 percent of all adults could reduce HIV incidence by 25 to 60 percent, depending on the context and stage of the epidemic. Better efficacy and longer duration would provide even more impact. Programs focused on teenagers or high-risk populations have less overall impact but would provide significant benefits at much less cost than those reaching all adults. Behavioral reversals could erode much of the benefits of vaccination programs so it will be important to combine vaccination with continued messages about the importance of safe behaviors. The cost of the vaccines is not known at this time. At a cost of $10 or $20 per person vaccinated, the cost per infection averted would be as low or lower than other prevention interventions. Higher costs for the vaccines and the need for many booster shots could reduce the cost-effectiveness significantly.",
+    "ref_country": [
+      {
+        "name": "Thailand",
+        "code": "THA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZWE"
+      }
+    ],
+    "spatial_coverage": "Africa ; East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2811",
+    "url": "http://documents.worldbank.org/curated/en/896881468760559617/The-epidemiological-impact-of-an-HIV-AIDS-vaccine-in-developing-countries",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:34.886142",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

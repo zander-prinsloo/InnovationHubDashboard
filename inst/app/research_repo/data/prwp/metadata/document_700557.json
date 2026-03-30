@@ -1,0 +1,105 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Current international gas trades and prices",
+    "idno": "700557",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700557",
+      "title": "Current international gas trades and prices",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "McKeough,Kay"
+      }
+    ],
+    "date_created": "1989/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700557"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d7f93"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d7f93"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Certain trends stand out in this survey of Western European and North American gas markets and Japanese-Asian, Middle Eastern-African, and Latin American gas trades. Prices for natural gas are usually locally based - depending on the costs of exploration, development and transmission, and prevailing gas prices locally. The price in most international contracts is changed periodically, however, based on an escalator or price adjustment clause linked to prices for crude oil or oil products in the consumer country. As for global trends in gas trades, new pricing terms and contractual arrangements that emerge in one country may soon be copied in others. With a take or pay provision, a purchaser must pay for a contracted volume of gas even if it cannot take the gas. Under a common carrier arrangement, a pipeline company provides transportation only, without buying and reselling the gas in its own name or discriminating among buyers and sellers. The common carrier concept has already taken hold in the United States. It is now becoming an issue in Europe, where the gas monopolies have always rebuffed it.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS159",
+    "url": "http://documents.worldbank.org/curated/en/292991468766791258/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:06.254467",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

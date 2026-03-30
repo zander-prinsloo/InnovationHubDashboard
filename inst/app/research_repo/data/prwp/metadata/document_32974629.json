@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Welfare Impact of Hosting Refugees in Ethiopia",
+    "idno": "32974629",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32974629",
+      "title": "Welfare Impact of Hosting Refugees in Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ayenew,Ashenafi Belayneh"
+      }
+    ],
+    "date_created": "2021/04/06",
+    "date_available": "2021/04/06",
+    "date_published": "2021/04/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32974629"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0884862f8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0884862f8"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9613"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines the welfare impact of hosting refugees in Ethiopia, one of the largest refugee-hosting countries worldwide. Identification comes from a large spatial difference in within-village temporal changes in refugee intensity, following a recent upsurge in the flow of refugees into the country. The findings reveal different implications depending on the type of household welfare metric. While reducing consumption expenditure per capita and increasing the probability of falling into consumption poverty, hosting refugees has no effect on wealth and the status of wealth poverty. Decomposing consumption expenditure per capita into food, education, and other nonfood components, the results further reveal that hosting refugees alters the composition of consumption, as it solely affects food consumption expenditure. The consumption effects prevail in rural areas with no effects in urban centers while no heterogeneity is found concerning wealth and wealth poverty results. Key mechanisms explaining the adverse consumption effects include displacement of hosts from salaried employment and a spike in prices of agricultural inputs but not changes in the extent of societal cooperation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9613",
+    "url": "http://documents.worldbank.org/curated/en/895691617713103514/pdf/Welfare-Impact-of-Hosting-Refugees-in-Ethiopia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.648447",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

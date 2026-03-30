@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The economic and law of rent control",
+    "idno": "693452",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693452",
+      "title": "The economic and law of rent control",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Basu, Kaushik"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Emerson, Patrick"
+      }
+    ],
+    "date_created": "1998/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693452"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b056c7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b056c7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors construct a model of second-generation rent control, describing a regime that does not permit rent increases for sitting tenants--or their eviction. When an apartment becomes vacant, however, the landlord is free to negotiate a new contract with a higher rent. They argue that this stylized system is a good (though polar) approximation of rent control regimes that exist in many cities in India, the United States, and elsewhere. Under such a regime, if inflation exists, landlords prefer to rent to tenants who plan to stay only a short time. The authors assume that there are different types of tenants (where \"type\" refers to the amount of time tenants stay in an apartment) and that landlords are unable to determine types before they rent to a tenant. Contracts contingent on departure date are forbidden, so a problem of adverse selection arises. Short stayers are harmed by rent control while long-term tenants benefit. In addition, the equilibrium is Pareto inefficient. The authors show that when tenant types are determined endogenously (when a tenant decides how long to stay in one place based on market signals) in the presence of rent control, there may be multiple equilibria, with one equilibrium Pareto-dominated by another. In other words, many lifestyle choices are made based on conditions in the rental housing market. One thing rent control may do is decrease the mobility of the labor force, because tenants may choose to remain in a city where they occupy rent-controlled apartments rather than accept a higher-paying job in another city. The authors show that abolishing the rent control regime can do two things: shift the equilibrium to a better outcome and result in lower rents, across the board.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "South Asia ; OTH",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1968",
+    "url": "http://documents.worldbank.org/curated/en/134461468750252421/The-economic-and-law-of-rent-control",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:44.793316",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,121 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Fish Cartel for Africa",
+    "idno": "34191204",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34191204",
+      "title": "A Fish Cartel for Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Englander,Aaron Gabriel Ratliffe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Costello,Christopher"
+      }
+    ],
+    "date_created": "2023/11/03",
+    "date_available": "2023/11/03",
+    "date_published": "2023/11/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34191204"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-44b73099-3a1b-401f-97e4-6532c42b6cc4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-44b73099-3a1b-401f-97e4-6532c42b6cc4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10594"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Many countries sell fishing rights to foreign nations and fishers. Although African coastal waters are among the world&#x2019;s most biologically rich, African countries earn much less than their peers from selling access to foreign fishers. African countries sell fishing access individually (in contrast to some Pacific countries that sell access as a bloc). This paper develops a bilateral oligopoly model to simulate the effects of an African fish cartel. The model shows that wielding market power entails both ecological and economic dimensions. Africa would substantially restrict access catch, which would increase biomass by 16 percent. This would confer economic benefits to all African nations, raising profits by an average of 23 percent. These benefits arise because market power shifts from foreign buyers to African sellers. Although impediments to sustainable development, like corruption, are hard to change in the medium term, deeper African integration is an already emerging solution to African countries&#x2019; economic and ecological challenges.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10594",
+    "url": "http://documents.worldbank.org/curated/en/099528011032341633/pdf/IDU044b7309903a1b0401f097e406532c42b6cc4.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.790193",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

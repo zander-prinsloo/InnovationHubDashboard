@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Urban infrastructure investment and rent-capture potentials",
+    "idno": "20300168",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20300168",
+      "title": "Urban infrastructure investment and rent-capture potentials",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Viguie,Vincent"
+      }
+    ],
+    "date_created": "2014/10/01",
+    "date_available": "2014/10/01",
+    "date_published": "2014/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20300168"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf0f2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf0f2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In a context of rapid urbanization and energy transition, massive investments will be required to develop efficient public transport networks. Capturing the increase in land value caused by transport infrastructure (for example, through a betterment tax) appears a promising way to finance public transport. However, it is no trivial task, as it is difficult to anticipate the rent creation. This paper uses a simple city model based on urban economic theory to compute the rent created by improvements in public transport infrastructure in Paris, France. To apply in places where models or data are not available, a reduced form of the model is shown to provide acceptable approximations of the rent creation. Simulations confirm that land value capture can finance a significant part of transport investments. The simulations also show that value capture potentials are influenced by what happens in the entire agglomeration. Simultaneous infrastructure investments in different parts of the city play a significant role, as they change overall accessibility patterns. Evolutions taking place in other cities also have a comparable influence. Non-local effects can change the total potential for land value capture and multiply this potential by as much as a factor of two.",
+    "ref_country": [
+      {
+        "name": "France",
+        "code": "FRA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7067",
+    "url": "http://documents.worldbank.org/curated/en/704781468253764342/pdf/WPS7067.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.947749",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

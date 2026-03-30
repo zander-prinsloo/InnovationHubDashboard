@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does democracy facilitate the economic transition : an empirical study of Central and Eastern Europe and the Former Soviet Union",
+    "idno": "440007",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440007",
+      "title": "Does democracy facilitate the economic transition : an empirical study of Central and Eastern Europe and the Former Soviet Union",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dethier, Jean-Jacques"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ghanem, Hafez"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zoli, Edda"
+      }
+    ],
+    "date_created": "1999/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440007"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05cf5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05cf5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors analyze whether political freedom and civil liberties help or hinder economic liberalization, using panel data from 25 post-communist countries of Central and Eastern Europe and the former Soviet Union between 1992 and 1997. Building on arguments and counter-arguments put forth in recent literature, they identify the channels through which political freedom affects economic liberalization during the transition. Then they test the arguments empirically with an econometric framework that takes into account possible problems with simultaneity between the economic and political transitions. Their empirical findings clearly reveal that democracy has facilitated economic liberalization in countries of Central and Eastern Europe and the former Soviet Union. This conclusion is confirmed under various model specifications, for both ordinary and two-stage least squares procedures and using two different measures of liberalization. The econometric results reveal that the existence of a vibrant civil society at the start of the transition has the most explanatory power in the author's regressions.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      },
+      {
+        "name": "Europe and Central Asia",
+        "code": "ECA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2194",
+    "url": "http://documents.worldbank.org/curated/en/918811468776043640/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.527911",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

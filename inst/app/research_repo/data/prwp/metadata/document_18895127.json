@@ -1,0 +1,139 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Making informed investment decisions in an uncertain world : a short demonstration",
+    "idno": "18895127",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "18895127",
+      "title": "Making informed investment decisions in an uncertain world : a short demonstration",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bonzanigo,Laura"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kalra,Nidhi Rajiv"
+      }
+    ],
+    "date_created": "2014/02/01",
+    "date_available": "2014/02/01",
+    "date_published": "2014/02/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "18895127"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b689f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b689f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Governments invest billions of dollars annually in long-term projects. Yet deep uncertainties pose formidable challenges to making near-term decisions that make long-term sense. Methods that identify robust decisions have been recommended for investment lending but are not widely used. This paper seeks to help bridge this gap and, with a demonstration, motivate and equip analysts better to manage uncertainty in investment decisions. The paper first reviews the economic analysis of ten World Bank projects. It finds that analysts seek to manage uncertainty but use traditional approaches that do not evaluate options over the full range of possible futures. Second, the paper applies a different approach, Robust Decision Making, to the economic analysis of a 2006 World Bank project, the Electricity Generation Rehabilitation and Restructuring Project, which sought to improve Turkey's energy security. The analysis shows that Robust Decision Making can help decision makers answer specific and useful questions: How do options perform across a wide range of potential future conditions? Under what specific conditions does the leading option fail to meet decision makers' goals? Are those conditions sufficiently likely that decision makers should choose a different option? Such knowledge informs rather than replaces decision makers' deliberations. It can help them systematically, rigorously, and transparently compare their options and select one that is robust. Moreover, the paper demonstrates that analysts can use the same data and models for Robust Decision Making as are typically used in economic analyses. Finally, the paper discusses the challenges in applying such methods and how they can be overcome.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6765",
+    "url": "http://documents.worldbank.org/curated/en/465701468330278549/pdf/WPS6765.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "economic statistics",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "modeling and forecasting",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.801075",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

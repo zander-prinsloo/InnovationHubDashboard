@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The industrial pollution projection system",
+    "idno": "697613",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697613",
+      "title": "The industrial pollution projection system",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hettige,Hemamala S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Martin,Paul Jonathan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Singh, Manjula"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David R."
+      }
+    ],
+    "date_created": "1995/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697613"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04e14"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04e14"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The World Bank's technical assistance work with new environmental protection institutions stresses cost-effective regulation, with market-based pollution control instruments implemented wherever feasible. But few environmental protection institutions can do the benefit-cost analysis needed because they lack data on industrial emissions and abatement costs. For the time being, they must use appropriate estimates. The industrial pollution projection system (IPPS) is being developed as a comprehensive response to this need for estimates. The estimation of IPPS parameters is providing a much clearer, more detailed view of the sources of industrial pollution. The IPPS has been developed to exploit the fact that industrial pollution is heavily affected by the scale of industrial activity, by its sectoral composition, and by the type of process technology used in production. Most developing countries have little or no data on industrial pollution, but many of them have relatively detailed industry-survey information on employment, value added, or output. The IPPS is designed to convert this information to a profile of associated pollutant output for countries, regions, urban areas, or proposed new projects. It operates through sectoral estimates of pollution intensity, or pollution per unit of activity. The IPPS is being developed in two phases. The first prototype has been estimated from a massive U.S. data base developed by the Bank's Policy Research Department, Environment, Infrastructure, and Agriculture Division, in collaboration with the Center for Economic Studies of the U.S. Census Bureau and the U.S. Environmental Protection Agency. This database was created by merging manufacturing census data with Environment Protection Agency data on air, water, and solid waste emissions. It draws on environmental, economic, and geographic information from about 200,000 U.S. factories. The IPPS covers about 1,500 product categories, all operating technologies, and hundreds of pollutants. It can project air, water, or solid waste emissions, and it incorporates a range of risk factors for human toxins and ecotoxic effects. The more ambitious second phase of IPPS development will take into account cross-country and cross-regional variations in relative prices, economic and sectoral policies, and strictness of regulation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1431",
+    "url": "http://documents.worldbank.org/curated/en/690881468761745598/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.401589",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

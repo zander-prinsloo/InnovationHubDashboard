@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "CGE modeling of market access in services",
+    "idno": "16428017",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16428017",
+      "title": "CGE modeling of market access in services",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Christen, Elisabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Francois,Joseph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoekman,Bernard M."
+      }
+    ],
+    "date_created": "2012/06/01",
+    "date_available": "2012/06/01",
+    "date_published": "2012/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16428017"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b48b1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b48b1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines how the applied multi-sector computable general equilibrium (CGE) literature has moved into quantication of the impacts of greater market access for services. This includes discussion of multi-sector linkages to the service sector, as well both measuring barriers to trade and investment (generally with a mix of firm surveys, price comparisons, and econometrics), and how changes in these barriers, however measured, have been implemented in the CGE literature. Three challenges are highlighted. The first is identification of how trade in services takes place and how market access is therefore affected by policy. The second is to find data sufficiently robust for modeling purposes. The third, linked to the data problem, is to quantify the barriers to be examined. Significant progress has been made in modeling foreign direct investment and linking this to productivity, which turns out to be important. The paper also provides an example of modeling productivity linkages to openness and domestic regulation, with an applied CGE model of Italy. This illustrates cross-sector linkages and the integration of economic data and policy measures to define service sector experiments. Priorities for future research include better modeling of market structure, the linkages between sectors and the complementarities between different modes of supplying services.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6106",
+    "url": "http://documents.worldbank.org/curated/en/918161468321321509/pdf/WPS6106.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.815877",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

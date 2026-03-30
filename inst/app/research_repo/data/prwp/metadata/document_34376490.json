@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Outward and Upward Construction : A 3D Analysis of the Global Building Stock",
+    "idno": "34376490",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34376490",
+      "title": "Outward and Upward Construction : A 3D Analysis of the Global Building Stock",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Esch,Thomas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deininger,Klaus W."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jedwab,Remi Camille"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Daniela"
+      }
+    ],
+    "date_created": "2024/08/12",
+    "date_available": "2024/08/12",
+    "date_published": "2024/08/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34376490"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-656c109c-9b45-4233-af89-6d39792d10d2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-656c109c-9b45-4233-af89-6d39792d10d2"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10866"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The developing world has built structures on an unprecedented scale to accommodate population growth and urbanization. The horizontal and vertical structuring of the building stock resulting from this &#x201c;megatrend construction&#x201d; strongly influences urban and rural poverty, sustainability, resilience, and quality of life. However, due to data constraints, little is known about how and why 3D building patterns vary globally and in the developing world in particular. This study uncovers novel facts on global 3D building patterns as a result of outward and upward preferences in construction and investigates their relationship to the development process. To this end, new high-resolution data on the area, height, and volume of the global building stock are combined with various analyses undertaken at different spatial domains. The results show that building stock per capita increases convexly with income, but income only explains two-thirds of the differences in international volume. Additionally, while building upward systematically drives international volume differences, low-rise buildings still dominate construction patterns. Urbanization tends to reduce space consumption per capita as urban residents consume less volume than rural residents. Finally, the analyses of construction preferences may help to assess construction needs by forecasting volume requirements in developing Africa, Asia and Latin America.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10866",
+    "url": "http://documents.worldbank.org/curated/en/099944508122438711/pdf/IDU1656c109c19b45142331af8916d39792d10d2.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.623089",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

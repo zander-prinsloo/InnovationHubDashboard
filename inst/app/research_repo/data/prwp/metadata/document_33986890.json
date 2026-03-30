@@ -1,0 +1,135 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does Market Integration Increase Rural Land Inequality ? Evidence from India",
+    "idno": "33986890",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33986890",
+      "title": "Does Market Integration Increase Rural Land Inequality ? Evidence from India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Berg,Claudia N."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blankespoor,Brian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Emran,M. Shahe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shilpi,Forhad J."
+      }
+    ],
+    "date_created": "2023/01/25",
+    "date_available": "2023/01/25",
+    "date_published": "2023/01/25",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33986890"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-e4969683-ba7a-4db5-98d6-100af0140b23"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-e4969683-ba7a-4db5-98d6-100af0140b23"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10268"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Investments in transport infrastructure lower trade costs and lead to integration of villages with urban markets. Does spatial market integration increase land inequality in rural areas? Theoretical analysis by Braverman and Stiglitz (1989) suggests that the interactions of lower trade costs with credit market imperfections can increase land inequality. The primary mechanism is the adoption of increasing returns technology by large landowners facing lower trade costs which makes it more profitable to expand their scale by buying land from small, credit-constrained farmers. Using high- quality household survey data (the India Human Development Survey) on land ownership in rural districts of India, this paper provides the first evidence on the effects of market integration on land ownership inequality. It develops an instrumental variables approach exploiting two sources of exogenous variation: the location of a rural district relative to the Golden Quadrilateral network (an inconsequential place design) and the length of colonial railroad in the 1880s in a district (a historical infrastructure design). This paper discusses and deals with potential objections to the exclusion restrictions. The evidence suggests that a 10 percent increase in a gravity measure of market access increases the land Gini coefficient by 2.5 percent and the share of landless households by 6.8 percent. This paper finds evidence consistent with the Braverman and Stiglitz (1989) hypothesis that the interaction of credit market imperfections with lower trade costs increases land inequality: a 10 percent increase in market access increases the adoption of increasing returns farming technology by 3.5 percent. There is a positive effect on land sales, but the instrumental variables estimates are imprecise. The robustness of the conclusions is checked by relaxing the exclusion restrictions using the Conley et al. (2012) approach, and the bias-adjusted ordinary least squares estimator of Oster (2019) that does not impose any exclusion restrictions. The estimated effects of market access cannot be accounted for by the colonial land revenue system, demographic pressure on land, and differences in inheritance law between the Hindu and Muslim population in a district.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10286",
+    "url": "http://documents.worldbank.org/curated/en/099953301252340340/pdf/IDU1e49696831ba7a14db5198d61100af0140b23.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.151159",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

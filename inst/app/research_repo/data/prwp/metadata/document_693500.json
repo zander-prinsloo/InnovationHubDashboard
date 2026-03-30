@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Combining census and survey data to study spatial dimensions of poverty",
+    "idno": "693500",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693500",
+      "title": "Combining census and survey data to study spatial dimensions of poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hentschel, Jesko"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw, Jean Olson"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw, Pe"
+      }
+    ],
+    "date_created": "1998/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693500"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c33"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c33"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Poverty maps, providing information on the spatial distribution of living standards, are an important tool for policy making and economic research. Policymakers can use such maps to allocate transfers and inform policy design. The maps can also be used to investigate the relationship between growth and distribution inside a country, thereby complementing research using cross-county regressions. The development of detailed poverty maps is difficult because of data constraints. Household surveys contain data on income or consumption but are typically small. Census data cover a large sample but do not generally contain the right information. Poverty maps based on census data but constructed in an ad-hoc manner can be unreliable. The authors demonstrate how sample survey data and census data can be combined to yield predicted poverty rates for all households covered by the census. This represents an improvement over ad hoc poverty maps. However, standard errors on the estimated poverty rates are not negligible, so additional efforts to cross-check results are warranted.",
+    "ref_country": [
+      {
+        "name": "Ecuador",
+        "code": "ECU"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1928",
+    "url": "http://documents.worldbank.org/curated/en/161281468770059228/Combining-census-and-survey-data-to-study-spatial-dimensions-of-poverty",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:45.385989",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

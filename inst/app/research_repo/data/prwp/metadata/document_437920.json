@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What drives private saving around the world",
+    "idno": "437920",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437920",
+      "title": "What drives private saving around the world",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loayza, Norman"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmidt-Hebbel, Klaus"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Lui"
+      }
+    ],
+    "date_created": "2000/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437920"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05690"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05690"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors investigate the policy and non-policy factors behind saving disparities, using a large panel data set and an encompassing approach including several relevant determinants of private saving. They extend the literature in several dimensions, by: 1) Using the largest data set on aggregate saving assembled to date. 2) Using panel instrumental variable techniques to correct for endogeneity and heterogeneity. 3) Performing robustness checks on changes in estimation procedures, data samples, and model specification. Their main empirical findings: a) Private saving rates show considerable inertia (are highly serially correlated even after controlling for other relevant factors). b) Private sector rates rise with the level and growth rate of real per capita income. So policies that spur development are in indirect but effective way to raise private saving rates. c) Predictions of the life-cycle hypothesis are supported in that dependency ratios generally have a negative effect on private saving rates. d) The precautionary motive for saving is supported by the finding that inflation - conventionally taken as a summary measure of macroeconomic volatility - has a positive impact on private saving, holding other facts constant. e) Fiscal policy is a moderately effective tool for raising national saving. F) the direct effect of financial liberalization are largely detrimental to private saving rates. Greater availability of credit reduces the private saving rate; financial depth and higher real interest rates do not increase saving.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2309",
+    "url": "http://documents.worldbank.org/curated/en/779361468766538876/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:40.080789",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "It's only words : validating the CPIA governance assessments",
+    "idno": "17942525",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17942525",
+      "title": "It's only words : validating the CPIA governance assessments",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack, Stephen"
+      }
+    ],
+    "date_created": "2013/06/01",
+    "date_available": "2013/06/01",
+    "date_published": "2013/06/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17942525"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c4884"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c4884"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study analyzes the validity of the World Bank's Country Policy and Institutional Assessments governance ratings, an important factor in allocating the Bank's concessionary International Development Association funds. It tests for certain biases in the ratings, and examines the quality of the written justifications that accompany the ratings. The study finds no evidence of bias in favor of International Development Association-eligible countries, despite a potential moral hazard problem inherent in the ratings process. However, there is some evidence of an upward bias in ratings for one region, relative to the other five regions. The study finds significant regional differences in the quality of the written justifications accompanying the six World Bank regions' proposed ratings. The length of these write-ups has exploded over time. Although higher-quality write-ups are also longer on average, there is wide dispersion in the word count at any given quality level, and some long write-ups provide little relevant information. Higher quality write-ups are associated with a lower likelihood that central unit reviewers will either disagree with proposed ratings, or request additional information to assess the proposed rating. Controlling for quality, longer write-ups are associated with a greater probability that central reviewers will disagree with a proposed rating. Although checks and balances built into the process appear to work reasonably well, the author concludes that a more proactive role for central unit reviewers and regional chief economists' offices could further enhance the quality of write-ups and reduce regional bias.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6526",
+    "url": "http://documents.worldbank.org/curated/en/860901468149102651/pdf/WPS6526.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:54.787570",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

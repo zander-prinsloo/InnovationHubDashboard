@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exciting, Boring, and Nonexistent Skylines : Vertical Building Gaps in Global Perspective",
+    "idno": "34022031",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34022031",
+      "title": "Exciting, Boring, and Nonexistent Skylines : Vertical Building Gaps in Global Perspective",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jedwab,Remi Camille"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barr,Jason"
+      }
+    ],
+    "date_created": "2023/03/15",
+    "date_available": "2023/03/15",
+    "date_published": "2023/03/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34022031"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-bedb1cec-e34c-495f-b7c4-e02a3428c91b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-bedb1cec-e34c-495f-b7c4-e02a3428c91b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10365"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite the widespread prevalence and economic importance of tall buildings, little is known about how their patterns vary across space and time. This paper focuses on vertical real estate, aiming to quantify differences across major world regions over time (1950&#x2013;2020). The paper exploits a novel database on the location, height (above 55 meters), and year of construction of nearly all the tall buildings in the world. It proposes a new methodology to estimate the extent to which some world regions build up more than others given similar economic and geographic conditions, city size distributions, and other features. The analyses reveal that many skylines may visually appear more prominent than they really are once all the tall buildings and core controls are included, which alters how regions are ranked in terms of tall building stocks. Using results by city size, centrality, height of buildings, and building function, the paper classifies world regions into different groups, finding that international tall building stocks are mostly driven by boring skylines of residential high-rises, and to a lesser extent exciting skylines of skyscrapers and supertall office towers. Finally, land use regulations and preferences, not historical preservation nor dispersed ownership, likely account for most of the observed differences.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10365",
+    "url": "http://documents.worldbank.org/curated/en/099420203152314749/pdf/IDU0bedb1cec0e34c0495f0b7c40e02a3428c91b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.785428",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

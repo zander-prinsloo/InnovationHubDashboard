@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Using Remittance Transaction Data for Timely Estimation of the Foreign Worker Population in Malaysia",
+    "idno": "32267937",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32267937",
+      "title": "Using Remittance Transaction Data for Timely Estimation of the Foreign Worker Population in Malaysia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Binti Ali Ahmad,Zainab"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Simler,Kenneth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yi,Soonhwa"
+      }
+    ],
+    "date_created": "2020/07/23",
+    "date_available": "2020/07/23",
+    "date_published": "2020/07/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32267937"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087bee970"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087bee970"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Malaysia has been grappling with understanding how many foreign workers reside in the country and thus faces challenges in formulating evidence-based foreign worker policies. This paper uses micro-level remittance transaction data collected from money transfer service providers to estimate the number of foreign workers. Most foreign workers remit a large portion of their earnings to support family members back home. They are low-income earners, sensitive to remittance costs, and opt for money transfer service providers to remit money rather than regular banks, where transfer services are more expensive. Therefore, the remittance data provide a useful source to conduct the investigation. Existing estimates range from two million to five million foreign workers; our results narrow that range to between 2.99 million and 3.16 million foreign workers in Malaysia as of 2017-18. The estimated state and nationality distributions of foreign workers are consistent with the Ministry of Home Affairs data, lending support to the validity of the estimates. Nevertheless, the Bank Negara Malaysia remittance data could potentially underestimate the number of workers in states with low access to money service providers and nationalities that have access to alternative money transfer mechanisms such as commercial banking and informal transfer channels.",
+    "ref_country": [
+      {
+        "name": "Malaysia",
+        "code": "MYS"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9331",
+    "url": "http://documents.worldbank.org/curated/en/788601595507343857/pdf/Using-Remittance-Transaction-Data-for-Timely-Estimation-of-the-Foreign-Worker-Population-in-Malaysia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.086243",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

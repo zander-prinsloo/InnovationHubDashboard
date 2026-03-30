@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Mongolia : Distributional Impact of Taxes and Transfers",
+    "idno": "30588772",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30588772",
+      "title": "Mongolia : Distributional Impact of Taxes and Transfers",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Freije-Rodriguez,Samuel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yang,Judy"
+      }
+    ],
+    "date_created": "2018/11/05",
+    "date_available": "2018/11/05",
+    "date_published": "2018/11/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30588772"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08656e0c8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08656e0c8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses Mongolia's Household Socio Economic Survey for 2016 to estimate the distributive impact of taxes and transfers. The findings show that the system is progressive and contributes to reductions in poverty and inequality. The Gini coefficient of the pre-tax-and-transfer income is 0.4183 and decreases to 0.3507 after-tax-and-transfer. This is a reduction of 6.76 Gini points (around 16 percent). Something similar happens with the poverty rate, which decreases from 47.31 to 31.96 percent. Despite the progressiveness of the whole system, there are some caveats and policy warnings. First, pensions are the most redistributive instrument in the system, but their actuarial and fiscal sustainability is weak. Second, two programs (the child money program and the mortgage subsidy) do little redistribution -- the latter is actually regressive -- but represent a large share of the budget (around 2.5 percent of gross domestic product). These two factors, and the fact that up to a 35 percent of total expenditures in monetary and in-kind transfers is funded by corporate taxes and royalties -- which are highly dependent on volatile commodity prices—make the redistributive impact of the tax-and-transfer system susceptible to fiscal unsustainability.",
+    "ref_country": [
+      {
+        "name": "Mongolia",
+        "code": "MNG"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8639",
+    "url": "http://documents.worldbank.org/curated/en/628471541441796614/pdf/Mongolia-Distributional-Impact-of-Taxes-and-Transfers.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.365030",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

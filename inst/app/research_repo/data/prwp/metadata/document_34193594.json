@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Endogenous Institutions and Economic Policy",
+    "idno": "34193594",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34193594",
+      "title": "Endogenous Institutions and Economic Policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robinson,James Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vostroknutov,Alexander"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vostroknutova,Ekaterina"
+      }
+    ],
+    "date_created": "2023/11/08",
+    "date_available": "2023/11/08",
+    "date_published": "2023/11/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34193594"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-6226078f-0571-4ad3-8acd-b14a01eeba69"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-6226078f-0571-4ad3-8acd-b14a01eeba69"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10600"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes a new framework to model institutions and institutional change. It shows how moral agents, who strive to cooperate with others, can form institutions that facilitate cooperation. The framework makes it possible to model informal as well as formal institutions as games played by moral agents: when the quality of the government is low and agents are not willing to use its services they will create informal institutions that allow them to cooperate outside the official channels. It is also possible to conceptualize institutions as inclusive or extractive and model institutional change as a consequence of the choice of moral agents among available institutions as time unfolds. With a series of examples of clientelistic networks, the paper shows that the framework can be useful for understanding how and why such networks form and persist. The framework can be used to model any interactions among moral agents, thus giving rise to a wide variety of possible institutional settings.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10600",
+    "url": "http://documents.worldbank.org/curated/en/099828511082336962/pdf/IDU06226078f0057104ad308acd0b14a01eeba69.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.714122",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the impact of infrastructure quality on firm productivity in Africa : cross-country comparisons based on investment climate surveys from 1999 to 2005",
+    "idno": "11699361",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11699361",
+      "title": "Assessing the impact of infrastructure quality on firm productivity in Africa : cross-country comparisons based on investment climate surveys from 1999 to 2005",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Escribano Saez,Alvaro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Guasch, J. Luis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pena Izquierdo,Jorge"
+      }
+    ],
+    "date_created": "2010/01/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11699361"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bf379"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bf379"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides a systematic, empirical assessment of the impact of infrastructure quality on the total factor productivity (TFP) of African manufacturing firms. This measure is understood to include quality in the provision of customs clearance, energy, water, sanitation, transportation, telecommunications, and information and communications technology (ICT). Microeconometric techniques to investment climate surveys (ICSs) of 26 African countries are carried out in different years during the period 20026, making country-specific evaluations of the impact of investment climate (IC) quality on aggregate TFP, average TFP, and allocative efficiency. For each country the impact is evaluated based on 10 different productivity measures. Results are robust once controlled for observable fixed effects (red tape, corruption and crime, finance, innovation and labor skills, etc.) obtained from the ICSs. African countries are ranked according to several indices: per capita income, ease of doing business, firm perceptions of growth bottlenecks, and the concept of demeaned productivity (Olley and Pakes 1996). The countries are divided into two blocks: high-income-growth and low-income-growth. Infrastructure quality has a low impact on TFP in countries of the first block and a high (negative) impact in countries of the second. There is significant heterogeneity in the individual infrastructure elements affecting countries from both blocks. Poor-quality electricity provision affects mainly poor countries, whereas problems dealing with customs while importing or exporting affects mainly faster-growing countries. Losses from transport interruptions affect mainly slower-growing countries. Water outages affect mainly slower-growing countries. There is also some heterogeneity among countries in the infrastructure determinants of the allocative efficiency of African firms.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5191",
+    "url": "http://documents.worldbank.org/curated/en/792371467990385370/pdf/WPS5191.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:06.312211",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

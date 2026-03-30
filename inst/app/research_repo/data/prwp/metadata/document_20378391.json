@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Urbanization and housing investment",
+    "idno": "20378391",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20378391",
+      "title": "Urbanization and housing investment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dasgupta,Basab"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lall,Somik V."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lozano Gracia,Nancy"
+      }
+    ],
+    "date_created": "2014/11/01",
+    "date_available": "2014/11/01",
+    "date_published": "2014/11/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20378391"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c1735"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c1735"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides the first systematic empirical assessment of the pace at which housing investment has responded to rising demand from urbanization. The assessment used National Accounts Statistics to build a data set of residential housing investment for more than 90 countries. The data set explicitly accounts for investment by households, the government, and the private sector. The analysis finds that housing investment follows an S-shaped trajectory taking off around per capita GDP of about $3,000 (US$2005) and tapering down at per capita GDP around $36,000 (US$2005). The analysis also finds that between 2001 and 2011, housing investment in low-income economies averaged 4.56 percent of gross domestic product and 9.12 percent in upper-middle-income economies. An important finding is that countries in Sub-Saharan Africa have housing elasticities similar to comparable low-income and lower-middle-income economies. In financing housing investment, the paper finds that developing countries tend to rely much more on domestic savings and government debt, whereas high-income Organisation for Economic Co-operation and Development countries lever capital markets by tapping foreign savings. Not only does excessive reliance on domestic savings and government debt increase the sensitivity of housing investment to the cyclicality of growth of gross domestic product, it also can potentially crowd out investments in health and education.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa ; The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7110",
+    "url": "http://documents.worldbank.org/curated/en/739511468150573975/pdf/WPS7110.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:47.911843",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

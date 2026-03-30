@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Value of Information in a Congested Fishery",
+    "idno": "34133646",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34133646",
+      "title": "The Value of Information in a Congested Fishery",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Englander,Aaron Gabriel Ratliffe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Karp,Larry"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Simon,Leo"
+      }
+    ],
+    "date_created": "2023/08/10",
+    "date_available": "2023/08/10",
+    "date_published": "2023/08/10",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34133646"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-fa7aeaa2-2f26-47da-a918-a5b921e47a97"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-fa7aeaa2-2f26-47da-a918-a5b921e47a97"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10543"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Congestion can reduce the value of a fishery, resulting in a lower total catch for the same amount of labor, fuel, and equipment expended in fishing activities. Absent the congestion externality, better information about the location and size of fish stocks enables fishers to make more efficient decisions. However, more precise information can cause fishers to converge on the same location or increase fishing at the same time. The cost of the resulting increased congestion can outweigh the direct benefit of better information. This paper identifies the circumstances where an increase in the precision of public and/or private information (about stock size or location) lowers industry profits. Using high-resolution data from Peru&#x2019;s anchoveta fishery, the world&#x2019;s largest by catch volume, the research reveals that despite considerable congestion, more precise private information would increase expected profits. On the other hand, the profit impact of more precise public information is positive but significantly smaller. This difference reflects the fact that public information increases congestion to a much greater extent, compared to private information. The policy implications are that improving private information about fish stocks&#x2014;for example through firms investing in forecasting and decision-making technology&#x2014;could increase industry profits. But anchoveta fishers would not necessarily benefit from more precise public information. As fishery managers control the accessibility and disclosure of information, decisions to make private information public, such as publishing near real-time catch data, could potentially lower fisher profits.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10543",
+    "url": "http://documents.worldbank.org/curated/en/099328108102340668/pdf/IDU0fa7aeaa202f26047da0a9180a5b921e47a97.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.417908",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

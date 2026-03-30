@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inflation and Exchange Rate Pass-Through",
+    "idno": "30899897",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30899897",
+      "title": "Inflation and Exchange Rate Pass-Through",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ha,Jongrim"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stocker,Marc"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yilmazkuday,Hakan"
+      }
+    ],
+    "date_created": "2019/03/13",
+    "date_available": "2019/03/13",
+    "date_published": "2019/03/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30899897"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086a6d9c3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086a6a5e8"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The degree to which domestic prices adjust to exchange rate movements is key to understanding inflation dynamics, and hence to guiding monetary policy. However, the exchange rate pass-through to inflation varies considerably across countries and over time. By estimating structural factor-augmented vector-autoregressive models for 47 countries, this paper brings to light two fundamental factors accounting for these variations: the nature of the shock triggering currency movements and country-specific characteristics. The empirical results in this paper are three-fold. First, an empirical investigation demonstrates that different domestic and global shocks can be associated with widely different pass-through ratios. Second, country characteristics matter, including policy frameworks that govern monetary policy responses, as well as other structural features that affect an economy's sensitivity to currency fluctuations. Pass-through ratios tend to be lower in countries that combine flexible exchange rate regimes and credible inflation targets. Finally, the empirical results suggest that central bank independence can greatly facilitate the task of stabilizing inflation following large currency movements and allows fuller use of the exchange rate as a buffer against external shocks.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8780",
+    "url": "http://documents.worldbank.org/curated/en/880231552490402888/pdf/WPS8780.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.287713",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

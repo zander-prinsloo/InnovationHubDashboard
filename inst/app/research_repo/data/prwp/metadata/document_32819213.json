@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Development Research at High Geographic Resolution : An Analysis of Night Lights, Firms, and Poverty in India Using the SHRUG Open Data Platform",
+    "idno": "32819213",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32819213",
+      "title": "Development Research at High Geographic Resolution : An Analysis of Night Lights, Firms, and Poverty in India Using the SHRUG Open Data Platform",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Asher,Sam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lunt,Tobias"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matsuura,Ryu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Novosad,Paul Michael"
+      }
+    ],
+    "date_created": "2021/02/09",
+    "date_available": "2021/02/09",
+    "date_published": "2021/02/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32819213"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0882944f5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0882944f5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The SHRUG is an open data platform describing multidimensional socioeconomic development across 600,000 villages and towns in India. This paper presents three illustrative analyses only possible with high-resolution data. First, it confirms that nighttime lights are highly significant proxies for population, employment, per-capita consumption, and electrification at very local levels. However, elasticities between night lights and these variables are far lower in time series than in cross section, and vary widely across context and level of aggregation. Next, this study shows that the distribution of manufacturing employment across villages follows a power law: the majority of rural Indians have considerably less access to manufacturing employment than is suggested by aggregate data. Third, a poverty mapping exercise explores local heterogeneity in living standards and estimates the potential targeting improvement from allocating programs at the village- rather than at the district-level. The SHRUG can serve as a model for open high-resolution data in developing countries.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9540",
+    "url": "http://documents.worldbank.org/curated/en/596871612888394869/pdf/Development-Research-at-High-Geographic-Resolution-An-Analysis-of-Night-Lights-Firms-and-Poverty-in-India-Using-the-SHRUG-Open-Data-Platform.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.294101",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

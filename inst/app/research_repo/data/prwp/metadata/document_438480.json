@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The savings and loan problem in the United States",
+    "idno": "438480",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438480",
+      "title": "The savings and loan problem in the United States",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Silverberg, Stanley C."
+      }
+    ],
+    "date_created": "1990/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438480"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c4793"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c4793"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Before the late 1970s, U.S. savings and loan institutions (S&Ls) were primarily mutually-owned institutions with limited management capabilities, limited investment options, and virtually unlimited interest rate exposure. The industry was closely tied to real estate so conflicts of interest and concentrations of credit were accepted. The regulatory-supervisory system was also closely tied to the industry so it had trouble identifying problems and imposing appropriate discipline. When interest rates escalated beyond imagined levels, this borrow short, lend long industry suffered great operating losses, which depleted modest capital levels in many S&Ls. Interest rates and asset prices varied greatly, and S&Ls were constrained in their ability to diversify and hedge against risk. Prudential supervision and regulation were inadequate and were subject to pressures to liberalize the activities of institutions inexperienced in the new activities. Losses borne by the economy will be paid for by the general public. Although the U.S. has a highly sophisticated and innovative mortagage market that is not found in developing countries, the lessons of its failures in regulating and supervising the savings and loan industry are highly relevant for the many developing countries that suffer from widespread distress in their financial systems.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "OTH",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS351",
+    "url": "http://documents.worldbank.org/curated/en/383921468779131607/The-savings-and-loan-problem-in-the-United-States",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:05.055177",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Household production, time allocation, and welfare in Peru",
+    "idno": "700172",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700172",
+      "title": "Household production, time allocation, and welfare in Peru",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dagsvik, John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aaberge, Rolf"
+      }
+    ],
+    "date_created": "1990/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700172"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d20b9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d20b9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper uses the Peruvian Living Standard Survey (PLSS) data to analyze: (a) inequality in the distribution of income; (b) labor market participation of men and women and the variations in hours of work; and (c) the relationship between variations in labor supply and income inequality. It uses a decomposing method to analyze income inequality and utilizes a structural neo-classical model to analyze household production, consumption, time allocation and welfare. The purpose is to study the effect on production, consumption, and time allocation of changes in education and wage rates. Most of the available information on economic inequality in developing countries refers to the distribution of income among earners. Although this information constitutes an important element for understanding the labor market and the related distribution of income, it is less helpful in the analysis of inequality as a welfare issue. A more relevant indicator of welfare is per capita household income or consumption. This paper uses this indicator in an analysis of economic inequality. The methodological approach is based on a summary measure of inequality which is closely related to the Gini coefficient. The essential difference is that the proposed measure of inequality gives more weight than the Gini coefficient to transfers related to the very poor.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS503",
+    "url": "http://documents.worldbank.org/curated/en/612381468759544163/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:04.222615",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

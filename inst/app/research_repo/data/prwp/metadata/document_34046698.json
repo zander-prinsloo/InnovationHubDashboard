@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Public Primary School Expansion, Gender-Based Crowding Out, and Intergenerational Educational Mobility",
+    "idno": "34046698",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34046698",
+      "title": "Public Primary School Expansion, Gender-Based Crowding Out, and Intergenerational Educational Mobility",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ahsan,Md. Nazmul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Emran,M. Shahe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shilpi,Forhad J."
+      }
+    ],
+    "date_created": "2023/04/21",
+    "date_available": "2023/04/21",
+    "date_published": "2023/04/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34046698"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-5a23d97d-564f-4388-8491-32606700e1f3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-5a23d97d-564f-4388-8491-32606700e1f3"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10418"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "From 1965 to 1985, the number of schools doubled in developing countries, but little is known about their impacts on intergenerational educational mobility. This paper studies the effects of 61,000 public primary schools constructed in the 1970s in Indonesia on intergenerational educational mobility, using full-count census data and a difference-in-differences design. The educational mobility curve is concave in most cases, and school expansion reduced the degree of concavity. Evidence on primary completion suggests contrasting effects across the distribution: relative mobility improved irrespective of gender in the uneducated households, but it worsened in the highly educated households. For completed years of schooling, there are striking gender differences, with strong effects on sons, but no significant effects on girls. This surprising finding reflects an unintended bottleneck at the secondary schooling level which created fierce competition among the Inpres primary graduates. The girls suffered an 8.5 percentage points decline in the probability of completing senior secondary schooling, while the boys reaped a 7.7 percentage points gain. The gender-based crowding out occurred across the board, suggesting mechanisms unrelated to family background such as low labor market returns for girls and gender norms in a patrilineal society. Available evidence on returns to education of girls rejects a labor market-based explanation. The authors test and find evidence consistent with gender norms as a mechanism by exploiting data from the &#x201c;Matrilineal island&#x201d; West Sumatra. In West Sumatra, girls are not crowded out at the secondary level; instead, boys face significant crowding out.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10418",
+    "url": "http://documents.worldbank.org/curated/en/099700204212316510/pdf/IDU05a23d97d0564f0438808491032606700e1f3.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.478954",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

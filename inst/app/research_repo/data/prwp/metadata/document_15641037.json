@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identification of sources of variation in poverty outcomes",
+    "idno": "15641037",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15641037",
+      "title": "Identification of sources of variation in poverty outcomes",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Essama-Nssah, B."
+      }
+    ],
+    "date_created": "2012/01/01",
+    "date_available": "2012/01/01",
+    "date_published": "2012/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15641037"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b6e41"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b6e41"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The international community has declared poverty reduction one of the fundamental objectives of development, and therefore a metric for assessing the effectiveness of development interventions. This creates the need for a sound understanding of the fundamental factors that account for observed variations in poverty outcomes either over time or across space. Consistent with the view that such an understanding entails deeper micro empirical work on growth and distributional change, this paper reviews existing decomposition methods that can be used to identify sources of variation in poverty. The maintained hypothesis is that the living standard of an individual is a pay-off from her participation in the life of society. In that sense, individual outcomes depend on endowments, behavior and the circumstances that determine the returns to those endowments in any social transaction. To identify the contribution of each of these factors to changes in poverty, the statistical and structural methods reviewed in this paper all rely on the notion of ceteris paribus variation. This entails the comparison of an observed outcome distribution to a counterfactual obtained by changing one factor at a time while holding all the other factors constant.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5954",
+    "url": "http://documents.worldbank.org/curated/en/298831468336681299/pdf/WPS5954.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:58.630501",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

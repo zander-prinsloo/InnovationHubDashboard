@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The economic consequences of health shocks",
+    "idno": "5866253",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5866253",
+      "title": "The economic consequences of health shocks",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wagstaff, Adam"
+      }
+    ],
+    "date_created": "2005/06/01",
+    "date_available": "2005/06/16",
+    "date_published": "2005/06/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5866253"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a48a0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a48a0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "While there is a great deal of anecdotal evidence on the economic effects of adverse health shocks, there is relatively little hard empirical evidence. The author builds on recent empirical work to explore in the context of postreform Vietnam two related issues: (1) how far household income and medical care spending responds to health shocks, and (2) how far household consumption is protected against health shocks. The results suggest that adverse health shocks - captured by negative changes in body mass index (BMI) - are associated with reductions in earned income. This appears to be only partly - if at all - due to a reverse feedback from income changes to BMI changes. By contrast, there is a hint - the relevant coefficient is not significant - that adverse BMI shocks may result in increases in unearned income. This may reflect additional gifts, remittances, and so on, from family and friends following the health shock. Medical spending is found to increase following an adverse health shock, but not among those with health insurance. The impact for the uninsured is large, equal in absolute size to the income loss associated with a BMI shock. The lack of impact for the insured points to complete insurance against the medical care costs associated with health shocks, and is consistent with the very generous coverage of Vietnam's health insurance program in this period. The question arises: have Vietnamese households been able to hold their food and nonfood consumption constant in the face of these income reductions and extra medical care outlays? The results suggest not. For the sample as a whole, both food and nonfood consumption are found to be responsive to health shocks, indicating an inability to smooth nonmedical consumption in the face of health shocks. Further analysis reveals some interesting differences across different groups within the sample. Households with insurance come no closer to smoothing nonmedical consumption than uninsured households. Furthermore, and somewhat counterintuitively, better-off households - including insured households - fare worse than poorer households in smoothing their nonmedical consumption in the face of health shocks, despite the fact that in the case of insured households there are no medical bills associated with an adverse health event. Why the poor rely on dissaving and borrowing to such an extent, and do not apparently reduce their food and nonfood consumption following an adverse health shock while the better-off do, may be because the levels of food and nonfood consumption of the poor are simply too low relative to basic needs to enable them to cut back in the face of an adverse BMI shock.",
+    "ref_country": [
+      {
+        "name": "Vietnam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3644",
+    "url": "http://documents.worldbank.org/curated/en/544971468133781081/pdf/wps3644.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.903651",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

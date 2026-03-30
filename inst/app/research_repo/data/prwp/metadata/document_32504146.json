@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating the Magnitude of Water Supply and Sanitation Subsidies",
+    "idno": "32504146",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32504146",
+      "title": "Estimating the Magnitude of Water Supply and Sanitation Subsidies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andres,Luis Alberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Espineira,Gonzalo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Joseph,George"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sember,German Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Thibert,Michael David"
+      }
+    ],
+    "date_created": "2020/10/21",
+    "date_available": "2020/10/21",
+    "date_published": "2020/10/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32504146"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087eebee1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087eebee1"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The water supply and sanitation sector remains heavily subsidized around the world. Yet, the accounting of water supply and sanitation subsidies globally has proved challenging due to utility-level data limitations and their often implicit nature. This paper develops a methodology to estimate water supply and sanitation subsidies that is adaptable to data scarce environments, while accounting for differences among service providers such as population served (to account for economies of scale), coverage of water and sanitation services individually, and their level of operational efficiency in terms of water losses and staffing. This methodology is based on Chile’s empresa modelo (model firm) approach to cost-reflective tariff estimation and uses utility-level data from the World Bank's International Benchmarking Network for Water and Sanitation Utilities database. The results suggest that the cost of subsidies associated with the operations, maintenance, and major repair and replacement of existing water supply and sanitation infrastructure in much of the world (excluding, notably, China and India) is an estimated $289 billion to $353 billion per year, or 0.46 to 0.56 percent of the countries' combined gross domestic product. This figure rises, shockingly, to 1.59 to 1.95 percent if only low- and middle-income economies are considered, an amount largely due to the capital subsidies captured in the estimation. Subsidies of operating costs account for approximately 22 percent of the total subsidy amount in the full sample and for low-income economies separately. Annual subsidy amounts by region range from 0.05 to 2.40 percent of gross domestic product, and low-income economies are generally at the high end of this range. The estimations do not include capital expenditure for infrastructure expansion -- which tends to be fully subsidized -- or environmental costs. Therefore, the actual global magnitude of networked water supply and sanitation subsidies is much greater than the estimation.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9448",
+    "url": "http://documents.worldbank.org/curated/en/879091603290352424/pdf/Estimating-the-Magnitude-of-Water-Supply-and-Sanitation-Subsidies.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.146866",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

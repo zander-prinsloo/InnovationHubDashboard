@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What Determines the Size of Public Employment An Empirical Investigation",
+    "idno": "31315688",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31315688",
+      "title": "What Determines the Size of Public Employment An Empirical Investigation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Herrera Aguilera,Santiago"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Munoz,Ercio"
+      }
+    ],
+    "date_created": "2019/08/06",
+    "date_available": "2019/08/06",
+    "date_published": "2019/08/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31315688"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086f8b7e5"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086f8b7e5"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores the determinants of public employment across the world and finds that it is negatively associated with country size (by population) and positively associated with the income level. The findings show that a country's openness to trade is positively associated with public employment in low- and middle-income countries, but inversely related in high-income countries. The estimated models are used to predict the expected public employment for a country given its income, population, and openness to trade, and to compare the actual levels with the predicted ones. In general, public employment in Latin American countries is below the predicted levels, except for Argentina, Brazil, Ecuador, Mexico, Suriname, Trinidad and Tobago, and the República Bolivariana de Venezuela. Public employment in the Middle East and North Africa is above the predicted levels, particularly in the Arab Republic of Egypt and the Islamic Republic of Iran. East Asian and Pacific countries' public employment is significantly below the predicted levels, particularly in Hong Kong SAR, China; Japan; the Republic of Korea; and Mongolia. Countries in Europe and Central Asia show higher than predicted public employment, mostly in Romania, Denmark, Sweden, Armenia, and Belorussia. Public employment in Sub-Saharan Africa appears to be below the predicted levels, with the notable exceptions of Botswana and South Africa. The deviations from predicted levels are positively correlated with the union density rate, which is negatively associated with private employment rates. Finally, the study finds no statistical association between public and private employment, suggesting the absence of crowding-out in the employment levels.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8961",
+    "url": "http://documents.worldbank.org/curated/en/167301565099492715/pdf/What-Determines-the-Size-of-Public-Employment-An-Empirical-Investigation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.906888",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

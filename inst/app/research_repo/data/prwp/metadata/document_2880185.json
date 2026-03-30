@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Quantifying the impact of services liberalization in a developing country",
+    "idno": "2880185",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "2880185",
+      "title": "Quantifying the impact of services liberalization in a developing country",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Konan, Denise Eby; Maskus, Keith E.;"
+      }
+    ],
+    "date_created": "2003/01/15",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "2880185"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04df4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04df4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors consider how service liberalization differs from goods liberalization in terms of welfare, the level and composition of output, and factor prices within a developing economy, in this case Tunisia. Despite recent movements toward liberalization, Tunisian service sectors remain largely closed to foreign participation and are provided at high cost relative to many developing nations. The authors develop a computable general equilibrium (CGE) model of the Tunisian economy with multiple products and services and three trading partners. They model goods liberalization as the unilateral removal of product tariffs. Restraints on services trade involve both restrictions on cross-border supply (mode 1 in the GATS) and on foreign ownership through foreign direct investment (mode 3 in the GATS). The former are modeled as tariff-equivalent price wedges while the latter are comprised of both monopoly-rent distortions (arising from imperfect competition among domestic producers) and inefficiency costs (arising from a failure of domestic service providers to adopt least-cost practices). They find that goods-trade liberalization yields a gain in aggregate welfare and reorients production toward sectors of benchmark comparative advantage. However, a reduction of services barriers in a way that permits greater competition through foreign direct investment generates larger welfare gains. Service liberalization also requires lower adjustment costs, measured in terms of sectoral movement of workers, than does goods-trade liberalization. And it tends to increase economic activity in all sectors and raise the real returns to both capital and labor. The overall welfare gains of comprehensive service liberalization amount to more than 5 percent of initial consumption. The bulk of these gains come from opening markets for finance, business services, and telecommunications. Because these are key inputs into all sectors of the economy, their liberalization cuts costs and drives larger efficiency gains overall. The results point to the potential importance of deregulating services provision for economic development.",
+    "ref_country": [
+      {
+        "name": "Tunisia",
+        "code": "TUN"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3193",
+    "url": "http://documents.worldbank.org/curated/en/345961468760554735/pdf/WPS3193.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:30.765405",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

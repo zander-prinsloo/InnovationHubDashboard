@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Patterns of behavior in biodiversity preservation",
+    "idno": "698009",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698009",
+      "title": "Patterns of behavior in biodiversity preservation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Metrick, Andrew"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Weitzman, Martin L."
+      }
+    ],
+    "date_created": "1994/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698009"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c5e00"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c5e00"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Conservation budgets are limited, so it is right to ask of biodiversity programs, What should be preserved? How much should be preserved? Where? Recent papers on optimal preservation policy have tried to integrate three considerations: the relative uniqueness of different species or habitats, the degree of risk to their continued survival, and the opportunity cost of the resources needed to enhance their prospects for survival. It is natural to ask, How are we doing? Have biodiversity conservation resources been optimally allocated? What determines government decisions about the preservation of endangered species? The authors submit the first report card, an empirical analysis of U.S. species preservation policy, the best-documented country experience currently available. The authors discuss the most common normative justifications for biodiversity preservation and identify measurable proxies for a subset of those justifications. Proxies include \"scientific\" species characteristics, such as \"degree of endangerment\" and \"taxonomic uniqueness,\" as well as \"visceral\" characteristics, such as physical size and to what extent a species is considered a \"higher form of life.\" They find that both kinds of characteristics, but especially \"visceral\" characteristics, influence government decisions on whether to protect a species under the Endangered Species Act. The authors find that \"visceral\" characteristics- especially physical size and taxonomic class - are also important in explaining how much is spent on endangered species. Perhaps more surprising is their finding that more is spent on animals with lower risk of extinction than on animals with a higher risk of extinction. The author's results are sobering. Many millions have been spent on species preservation, but neither uniqueness nor risk has weighed heavily in resource allocation. Instead there has been a heavy bias toward \"charismatic megafauna\" - large, well-known birds and mammals (\"higher forms of life,\" in the human value system). Other classes of fauna - including, say, eels or wild toads - and all flora, have gotten extremely short shrift. Prominent examples of species with high charisma, high attention, and relatively low endangerment are the bald eagle, the Florida scrub jay, and the grizzly bear. Other species may have less charisma but could have more scientific value or species risk.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1358",
+    "url": "http://documents.worldbank.org/curated/en/769531468781789717/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.735462",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Infrastructure in Latin America (Vol. 2) : Infrastructure in Latin America - Dataset",
+    "idno": "15595704",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15595704",
+      "title": "Infrastructure in Latin America (Vol. 2) : Infrastructure in Latin America - Dataset",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calderon, Cesar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serven, Luis"
+      }
+    ],
+    "date_created": "2010/05/01",
+    "date_available": "2010/05/01",
+    "date_published": "2010/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15595704"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c8796"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c8796"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "An adequate supply of infrastructure services has long been viewed by both academics and policy makers as a key ingredient for economic development. Over the past quarter-century, the retrenchment of Latin America's public sector from its dominant position in the provision of infrastructure, and the opening up of these industries to private participation, have renewed the debate on the role of infrastructure in the region's development. The focus of this paper is three-fold. First, it documents, in a comparative cross-regional perspective, the trends in Latin America's infrastructure development, as reflected in the quantity and quality of infrastructure services and the universality of their access. Overall, this suggests the emergence of an infrastructure gap vis-a-vis other industrial and developing regions. Second, it provides an empirical assessment of the contribution of infrastructure development to growth across Latin America. Third, it examines the trends in the financing of infrastructure investment -- documenting the changing roles of the public and private sectors -- and analyzes how they have been shaped by macroeconomic policy constraints.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "2",
+    "number": "WPS5317",
+    "url": "http://documents.worldbank.org/curated/en/773331468088459908/pdf/WPS53170dataset.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:05.654576",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

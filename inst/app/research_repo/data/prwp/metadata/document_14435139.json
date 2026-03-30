@@ -1,0 +1,132 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Export quality dynamics",
+    "idno": "14435139",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14435139",
+      "title": "Export quality dynamics",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Krishna, Pravin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "F. Maloney, William"
+      }
+    ],
+    "date_created": "2011/06/01",
+    "date_available": "2011/06/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14435139"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b784c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b784c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Country export quality (measured by unit values) is correlated with income level suggesting that studying quality dynamics potentially offers insights into the development process. This paper uses highly disaggregated trade data to explore the export quality (unit value) dynamics of goods exported to the United States over the 1990-2000 period. In addition to finding considerable heterogeneity in the relative quality of exports across countries and across goods within countries, the authors find that the rate of quality growth varies substantially across countries, as well. Specifically, the fastest growth is seen in exports from the richer (OECD) countries, implying an evolving divergence in product quality across regions. This divergence obtains despite evidence of conditional convergence in quality over time- goods with lower initial relative quality levels experience faster growth in quality. The data suggest that part of this divergence is driven by the product mix itself -- OECD exported products experience intrinsically higher growth rates. This is consistent with the argument of Hausmann, Hwang and Rodrik (2007) that what countries export does matter for growth. However, it is partly driven by a higher growth rate of quality in the richer countries independent of convergence effects, suggesting that other country-specific factors impeding overall convergence are at work. Finally, there is very limited technological \"leap-frogging\" by countries across product lines as the relative quality of new exports, on average, is roughly the same as incumbent exports, both in richer countries and elsewhere.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5701",
+    "url": "http://documents.worldbank.org/curated/en/514341468299111389/pdf/WPS5701.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "macroeconomic management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade facilitation and market access",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.473591",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Exploring the Sources of the Agricultural Productivity Gender Gap : Evidence from Sri Lanka",
+    "idno": "33804135",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33804135",
+      "title": "Exploring the Sources of the Agricultural Productivity Gender Gap : Evidence from Sri Lanka",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fukase,Emiko"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kim,Yeon Soo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Chiarella,Cristina Andrea"
+      }
+    ],
+    "date_created": "2022/04/27",
+    "date_available": "2022/04/27",
+    "date_published": "2022/04/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33804135"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1a2daff1-ec0c-4bc3-9bbe-aff53a71e3c1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1a2daff1-ec0c-4bc3-9bbe-aff53a71e3c1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10025"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Previous literature found overwhelming evidence of an agricultural gender gap in favor of male farmers. The case of Sri Lanka is unique as agricultural productivity, measured by yield per unit of land, is 25.4 percent higher among female farmers than male farmers. Using the nationally representative 2016 Sri Lanka Household Income and Expenditure Survey and the Oaxaca-Blinder decomposition technique, the paper explores the sources of this unconditional female productivity advantage. The analysis finds that the smaller plot size cultivated by women is the leading source of female productivity advantage, reflecting the inverse relationship between cultivated area and productivity. However, this productivity advantage does not translate into women’s higher crop earnings. Another important source is the gendered pattern of crop mix as women tend to cultivate more high-value, export-oriented crops, while men are more likely to grow paddy with low productivity. Once controlling for plot size and crop mix, a conditional male productivity advantage emerges, reflecting men’s greater access to agricultural resources and potentially an unequal pattern of division of labor associated with social and gender norms. Policies to promote equitable access to resources and address other constraints to women’s productivity in agriculture continue to be important in promoting gender equality.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10025",
+    "url": "http://documents.worldbank.org/curated/en/099410104272220398/pdf/IDU01a2daff10ec0c04bc309bbe0aff53a71e3c1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.358436",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

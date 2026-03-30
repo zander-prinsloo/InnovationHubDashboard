@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Substitution and technological change under carbon cap and trade : lessons from Europe",
+    "idno": "10644229",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10644229",
+      "title": "Substitution and technological change under carbon cap and trade : lessons from Europe",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Considine , Timothy J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Larson, Donald F."
+      }
+    ],
+    "date_created": "2009/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10644229"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b9e4c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b9e4c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The use of carbon-intense fuels by the power sector contributes significantly to the greenhouse gas emissions of most countries. For this reason, the sector is often key to initial efforts to regulate emissions. But how long does it take before new regulatory incentives result in a switch to less carbon intense fuels? This study examines fuel switching in electricity production following the introduction of the European Unions Emissions Trading System, a cap-and-trade regulatory framework for greenhouse gas emissions. The empirical analysis examines the demand for carbon permits, carbon based fuels, and carbon-free energy for 12 European countries using monthly data on fuel use, prices, and electricity generation. A short-run restricted cost function is estimated in which carbon permits, high-carbon fuels, and low-carbon fuels are variable inputs, conditional on quasi-fixed carbon-free energy production from nuclear, hydro, and renewable energy capacity. The results indicate that prices for permits and fuels affect the composition of inputs in a statistically significant way. Even so, the analysis suggests that the industrys fuel-switching capabilities are limited in the short run as is the scope for introducing new technologies. This is because of the dominant role that past irreversible investments play in determining power-generating capacity. Moreover, the results suggest that, because the capacity for fuel substitution is limited, the impact of carbon emission limits on electricity prices can be significant if fuel prices increase together with carbon permit prices. The estimates suggest that for every 10 percent rise in carbon and fuel prices, the marginal cost of electric power generation increases by 8 percent in the short run. The European experience points to the importance of starting early down a low-carbon path and of policies that introduce flexibility in how emission reductions are achieved.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4957",
+    "url": "http://documents.worldbank.org/curated/en/749891468282311832/pdf/WPS4957.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.516983",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

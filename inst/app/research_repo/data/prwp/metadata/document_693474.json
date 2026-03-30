@@ -1,0 +1,137 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty correlates and indicator-based targeting in Eastern Europe and the Former Soviet Union",
+    "idno": "693474",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "693474",
+      "title": "Poverty correlates and indicator-based targeting in Eastern Europe and the Former Soviet Union",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grootaert, Christiaan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Braithwaite, Jeanine"
+      }
+    ],
+    "date_created": "1998/07/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "693474"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0585e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0585e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors compare poverty in three Eastern European countries (Bulgaria, Hungary, and Poland) with poverty in three countries of the former Soviet Union (Estonia, Kyrgyz Republic, and Russia). They find striking differences between the post-Soviet and Eastern European experiences with poverty and targeting. Among patterns detected: a) Poverty in Eastern Europe is significantly lower than in former Soviet Union countries. b) Rural poverty is greater than urban poverty. c) In Eastern Europe there is a strong correlation between poverty incidence and the number of children in a household; in the former Soviet Union countries this is less pronounced, except in Russia. d) There is a gender and age dimension to poverty in some countries. In single-person households, especially of elder women, the poverty rate is very high (except in Poland) and poverty is more severe. The same is true in pensioner households (except in Poland). In Poland the pension system has adequate reach. e) Poverty rates are highest among people who have lost their connection with the labor market and live on social transfers (other than pensions) or other nonearned income. But through sheer mass, the largest group of poor people is the working poor -- especially workers with little education (primary education or less) or outdated vocational or technical education. Only those with special skills or university education escape poverty in great numbers, thanks to the demand for their skills from the newly emerging private sector. f) The poverty gap is remarkably uniform in Eastern European countries, especially Hungary and Poland, suggesting that social safety nets have prevented the emergence of deep pockets of poverty. This is much less true in the former Soviet Union, where those with the highest poverty rate also have the largest poverty gap. In the short to medium term, creating employment in the informal sector will generate a larger payoff than creating jobs in the formal (still to be privatized) sectors, so programs to help (prospective) entrepreneurs should take center stage in poverty alleviation programs.",
+    "ref_country": [
+      {
+        "name": "Poland",
+        "code": "POL"
+      },
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      },
+      {
+        "name": "Kyrgyz Republic",
+        "code": "KGZ"
+      },
+      {
+        "name": "Hungary",
+        "code": "HUN"
+      },
+      {
+        "name": "Estonia",
+        "code": "EST"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BGR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1942",
+    "url": "http://documents.worldbank.org/curated/en/705631468758682526/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:45.149443",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

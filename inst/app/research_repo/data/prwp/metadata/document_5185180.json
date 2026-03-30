@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Export variety and country productivity",
+    "idno": "5185180",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5185180",
+      "title": "Export variety and country productivity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Feenstra,Robert C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kee,Hiau Looi"
+      }
+    ],
+    "date_created": "2004/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5185180"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0541f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0541f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors study the link between export product variety and country productivity based on data from 34 industrial and developing countries, from 1982 to 1997. They measure export product variety by the share of U.S. imports on the set of goods exported by each sampled country relative to the world. It is a theoretically sound index which is consistent with within-country GDP maximization, as well as cross-country comparison. They construct country productivity based on relative endowments and product variety. Increases in output product variety improve country productivity as the new mix of output may better use resources of the economy, and improve allocation efficiency. Such effects depend on the elasticity of substitution in production between the different varieties. The more different the varieties are in terms of production, the more efficient it is to use the endowments of the economy when a new variety is available, which leads to productivity gains. In addition, as suggested in the literature, export product variety depends on trade costs, such as tariffs, distance, and transport costs. Such trade cost variables are used as instruments to help the authors identify the effects of export variety on country productivity. Empirical evidence supports their hypothesis. Overall, while export variety accounts for only 2 percent of cross-country productivity differences, it explains 13 percent of within-country productivity growth. A 10 percent increase in the export variety of all industries leads to a 1.3 percent increase in country productivity, while a 10 percentage point increase in tariffs facing an exporting country leads to a 2 percent fall in country productivity.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3412",
+    "url": "http://documents.worldbank.org/curated/en/998451468779177765/pdf/WPS3412.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:26.719876",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

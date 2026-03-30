@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Statistical Performance Indicators and Index : A New Tool to Measure Country Statistical Capacity",
+    "idno": "32928705",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32928705",
+      "title": "Statistical Performance Indicators and Index : A New Tool to Measure Country Statistical Capacity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dang,Hai-Anh H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pullinger,John James"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Serajuddin,Umar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stacy,Brian William"
+      }
+    ],
+    "date_created": "2021/03/19",
+    "date_available": "2021/03/24",
+    "date_published": "2021/03/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32928705"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0883f563b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0883f2173"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9570"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The World Bank’s Statistical Capacity Index has been widely employed to measure country statistical capacity since its inception two decades ago. This paper builds on the existing advantages of the Statistical Capacity Index, conceptually and empirically, to offer new statistical performance indicators and the Statistical Performance Index, which can better measure a country’s statistical performance. The new index has clearer conceptual motivations, employs a stronger mathematical foundation, and significantly expands the number of indicators and countries covered. The paper further provides empirical evidence that illustrates the strong correlation of the new index with other commonly used development indicators of human capital, governance, poverty, and inequality. The framework can accommodate future directions to improve the index as the global data landscape evolves",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9570",
+    "url": "http://documents.worldbank.org/curated/en/440191616164007723/pdf/Statistical-Performance-Indicators-and-Index-A-New-Tool-to-Measure-Country-Statistical-Capacity.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.725049",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Aid, shocks, and growth",
+    "idno": "1614893",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1614893",
+      "title": "Aid, shocks, and growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Collier, Paul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dehn, Jan"
+      }
+    ],
+    "date_created": "2001/10/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1614893"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04dce"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04dce"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Analysis of the relationship between aid and growth by Burnside and Dollar found that the better a country's policies, the more effective aid is in raising growth in that country. But this result has been criticized for being sensitive to choice of sample and for neglecting shocks. The authors incorporate export price shocks into the analysis of aid's effect on growth. They construct export price indices using the approach pioneered by Deaton and Miller. They locate shocks by differencing the indices, removing predictable elements from the stationary process, and normalizing the residuals. Extreme negative shocks are the bottom 2.5 percent tail of this distribution. Introducing these extreme shocks into the Burnside-Dollar regression, the authors find that they are highly significant: unsurprisingly, extreme negative shocks reduce growth. Once these shocks are included, the Burnside-Dollar results become robust to choice of sample. Moreover, the adverse effects of negative shocks on growth can be mitigated through offsetting increases in aid. Indeed, targeting aid to countries experiencing negative shocks appears to be even more important for aid effectiveness than targeting aid to countries with good policies. But the authors show that, overall, donors have not used aid for this purpose.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2688",
+    "url": "http://documents.worldbank.org/curated/en/756671468739500003/Aid-shocks-and-growth",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:35.991777",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

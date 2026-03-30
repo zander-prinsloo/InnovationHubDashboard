@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Assessing the adjustment implications of trade policy changes using TRIST (tariff reform impact simulation tool)",
+    "idno": "11225119",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "11225119",
+      "title": "Assessing the adjustment implications of trade policy changes using TRIST (tariff reform impact simulation tool)",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brenton,Paul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Saborowski,Christian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Staritz,Cornelia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Von Uexkull,Jan Erik"
+      }
+    ],
+    "date_created": "2009/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "11225119"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b708f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b708f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "TRIST is a simple, easy to use tool to assess the adjustment implications of trade reform. It improves on existing tools. First, it is an improvement in terms of accuracy because projections are based on revenues actually collected at the tariff line level rather than simply applying statutory rates. Second, it is transparent and open; runs in Excel, with formulas and calculation steps visible to the user; and is open-source and users are free to change, extend, or improve according to their needs. Third, TRIST has greater policy relevance because it projects the impact of tariff reform on total fiscal revenue (including VAT and excise) and results are broken down to the product level so that sensitive products or sectors can be identified. And fourth, the tool is flexible and can incorporate tariff liberalization scenarios involving any group of trading partners and any schedules of products. This paper describes the TRIST tool and provides a range of examples that demonstrate the insights that the tool can provide to policy makers on the adjustment impacts of reducing tariffs.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5045",
+    "url": "http://documents.worldbank.org/curated/en/804891468339572958/pdf/WPS5045.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.162123",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

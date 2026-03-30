@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Linking risk models to microeconomic indicators",
+    "idno": "24744806",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24744806",
+      "title": "Linking risk models to microeconomic indicators",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sharma,Mohan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anttila-Hughes,Jesse Keith"
+      }
+    ],
+    "date_created": "2015/07/02",
+    "date_available": "2015/07/02",
+    "date_published": "2015/07/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24744806"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082fcbcba"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082fcbcba"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Catastrophe risk models are quantitative models used to estimate probabilistic loss distributions for a specified range of assets subject to a baseline level of disaster risk. While cat risk models are used extensively by the insurance and reinsurance industry to estimate expected losses to insured assets, their ability to estimate damages outside of a narrow range of physical assets such as buildings or infrastructure is still limited. This paper first provides a brief outline of cat risk models as they currently exist, and then outlines the major econometric issues involved in incorporating research from the growing literature on the microeconomic impacts of disasters into a cat model framework. Attention is specifically drawn to issues arising from the generally low recurrence frequencies of disasters, the likely role of difficult-to-document indirect damages in influencing total disaster costs, and issues related to generalizing disaster response functions across different domains. The paper ends by noting the large discrepancy between the current state of the literature on disaster impacts on microeconomic indicators and the level needed for adequate cat risk model performance, and suggests means of closing that gap as well as potential areas for future research.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7359",
+    "url": "http://documents.worldbank.org/curated/en/876681468189550993/pdf/WPS7359.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:45.556685",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

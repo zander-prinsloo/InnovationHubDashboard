@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Capital Market Financing and Firm Growth",
+    "idno": "32277571",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32277571",
+      "title": "Capital Market Financing and Firm Growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Didier Brandao,Tatiana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Levine,Ross Eric"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Llovet Montanes,Ruth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Schmukler,Sergio L."
+      }
+    ],
+    "date_created": "2020/07/27",
+    "date_available": "2020/07/27",
+    "date_published": "2020/07/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32277571"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087c0a8fd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087c0a7ed"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies whether there is a connection between finance and growth at the firm level. It employs a new dataset of 150,165 equity and bond issuances around the world, matched with income and balance sheet data for 62,653 listed firms in 65 countries over 1990-2016. Three main patterns emerge from the analyses. First, firms that choose to issue in capital markets use the funds raised to grow by enhancing their productive capabilities, increasing their tangible and intangible capital and the number of employees. Growth accelerates as firms raise funds. Second, the faster growth is more pronounced among firms that are more likely to face tighter financing constraints, namely, small, young, and high-R&D firms. Third, capital market issuances are associated with faster growth among firms located in countries with more developed capital markets relative to banks. Capital markets are also comparatively effective at allowing financially constrained firms to raise capital.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9337",
+    "url": "http://documents.worldbank.org/curated/en/879651595862883790/pdf/Capital-Market-Financing-and-Firm-Growth.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.030255",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

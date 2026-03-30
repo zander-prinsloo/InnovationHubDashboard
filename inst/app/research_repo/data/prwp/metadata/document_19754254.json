@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How survey-to-survey imputation can fail",
+    "idno": "19754254",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19754254",
+      "title": "How survey-to-survey imputation can fail",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse, D."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shivakumaran,Shivapragasam"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Takamatsu,Shinya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yoshida,Nobuo"
+      }
+    ],
+    "date_created": "2014/07/01",
+    "date_available": "2014/07/01",
+    "date_published": "2014/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19754254"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828d01ec"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828d01ec"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes diagnostics to assess the accuracy of survey-to-survey imputation methods and applies them to examine why imputing from the Household Income and Expenditure Survey into the Labor Force Survey fails to accurately project poverty trends in Sri Lanka between 2006 and 2009. Survey-to-survey imputation methods rely on two key assumptions: (i) that the questions in the two surveys are asked in a consistent way and (ii) that common variables of the two surveys explain a large share of the intertemporal change in household expenditure and poverty. In addition, differences in sampling design can lead validation tests to underestimate the accuracy of survey-to-survey predictions. In Sri Lanka, the causes of failure differ across sectors. In the urban sector, the primary culprit is differences between the two surveys in the design of the questionnaire. In the rural and estate sectors, the set of common variables in the prediction model does not adequately capture changes in poverty. The paper concludes that in Sri Lanka, survey-to-survey imputation between the Household Income and Expenditure Survey and the Labor Force Survey cannot produce accurate poverty estimates unless the Labor Force Survey adds additional questions on assets and is redesigned to use a questionnaire that is compatible with the Household Income and Expenditure Survey. Alternatively, a new welfare-tracking survey that satisfies these conditions could be established.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6961",
+    "url": "http://documents.worldbank.org/curated/en/763111468164962978/pdf/WPS6961.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.522521",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

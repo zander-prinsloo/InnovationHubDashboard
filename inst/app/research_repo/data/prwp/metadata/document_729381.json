@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are corruption and taxation really harmful to growth - firm-level evidence",
+    "idno": "729381",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "729381",
+      "title": "Are corruption and taxation really harmful to growth - firm-level evidence",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fisman, Raymond"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Svensson, Jakob"
+      }
+    ],
+    "date_created": "2000/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "729381"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b053f9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b053f9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Exploiting a unique data set containing information about the estimated bribe payments of Ugandan firms, the authors study the relationship between bribe payments, taxes, and firm growth in Uganda for the period 1995-97. Using industry-location averages to circumvent the potential problem of endogeneity, and to deal with issues of measurement error, they find that both the rate of taxation, and the rate of bribery are negatively correlated with firm growth. For the full data set, a one percentage point increase in the bribery rate is associated with three percentage point reduction in firm growth - an effect about three times that of taxation. Moreover, after excluding outliers, the authors find that bribery has a much greater negative impact on growth, and taxation a considerably smaller one. This provides some validation of firm-level theories of corruption, which posit that corruption retards development, even more than taxation does.",
+    "ref_country": [
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2485",
+    "url": "http://documents.worldbank.org/curated/en/205081468759613677/Are-corruption-and-taxation-really-harmful-to-growth-firm-level-evidence",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:38.155630",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

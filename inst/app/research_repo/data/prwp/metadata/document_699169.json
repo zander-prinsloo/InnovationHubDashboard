@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How useful are integrated household survey data for policy-oriented analysis of poverty Lessons from the Cote d'Ivoire living standards survey",
+    "idno": "699169",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699169",
+      "title": "How useful are integrated household survey data for policy-oriented analysis of poverty Lessons from the Cote d'Ivoire living standards survey",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grootaert,Christiaan N."
+      }
+    ],
+    "date_created": "1993/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699169"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c7540"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c7540"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author reflects on the pros and cons of using integrated household survey data in empirical analysis aimed at providing a quantitative basis for policy decisions affecting welfare, poverty, and the fulfillment of basic needs. The experience examined is that of using four years of data from the Cote d'Ivoire Living Standards Survey (1985-88) to link changes in poverty and welfare to macroeconomic trends. The author groups the lessons learned from this work around four themes. Survey content: when survey data are rich, transparency of methodology is important. It is essential that analysts provide explicit information about how their income and spending aggregates were constructed. These aggregates must be deflated with a regional price index, but prices should be collected separately from household survey data. Data on household spending and basic needs fulfillment are the key information for poverty analysis. Sample size and design: bigger and simpler is better. The author recommends increasing (at least double) sample size in future living standards surveys; this could be done without increasing the cost of the survey by reducing or eliminating the income modules of the questionnaire. It is important to involve analysts and policymakers in survey design. They need to identify up front, using current knowledge, the important socioeconomic and target groups on which the survey must be able to report. The sample designer can then compose the sample in such a way that certain groups will be undersampled and others oversampled, to make the analysis of the resulting sample as useful as possible. Frequency of data collection: the author recommends that an integrated survey of the CILSS type be undertaken every four or five years, to provide benchmark data and to permit in-depth analysis of household behavior and response to policy, if the country has the capability to fully analyze the data. In the intervening years, a much simpler collection of household spending and basic needs data can be used to monitor changes in welfare and poverty. The role of panel data: to be really useful, panel data collection should be extended over longer periods than two years, although this increases the costs and difficulties of finding the same households. If a country undertakes an integrated survey every four to five years and a lighter monitoring survey in between, a small, parallel, panel survey could be conducted. The monitoring sample and the panel sample should be drawn from the same master sample.",
+    "ref_country": [
+      {
+        "name": "Cote d'Ivoire",
+        "code": "CIV"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1079",
+    "url": "http://documents.worldbank.org/curated/en/732661468771883640/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:56.403665",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

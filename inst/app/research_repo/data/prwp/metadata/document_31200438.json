@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Informality, Harassment, and Corruption : Evidence from Informal Enterprise Data from Harare, Zimbabwe",
+    "idno": "31200438",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31200438",
+      "title": "Informality, Harassment, and Corruption : Evidence from Informal Enterprise Data from Harare, Zimbabwe",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Francis,David C."
+      }
+    ],
+    "date_created": "2019/06/26",
+    "date_available": "2019/06/26",
+    "date_published": "2019/06/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31200438"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086e275dc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086e275dc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "New representative survey data for Harare, Zimbabwe are used to analyze the conditions under which informal businesses encounter requests for bribes. A simple model develops basic expectations of bribe exposure: those with higher opportunity costs of formalizing and with a higher ability to pay (resources) are expected to face a higher bribe risk. Empirical results find that informal businesses operating out of necessity are likelier to have a bribe demanded of them. Robustness checks are performed to account for the endogeneity of the main regressors, through a bivariate probit specification, using an instrumental variable of whether an informal business owner started in the area of activity before the country's 2009 dollarization. Limited significant results are found for the effect of revenues (ability to pay).",
+    "ref_country": [
+      {
+        "name": "Zimbabwe",
+        "code": "ZWE"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8918",
+    "url": "http://documents.worldbank.org/curated/en/410811561563187656/pdf/Informality-Harassment-and-Corruption-Evidence-from-Informal-Enterprise-Data-from-Harare-Zimbabwe.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.277084",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

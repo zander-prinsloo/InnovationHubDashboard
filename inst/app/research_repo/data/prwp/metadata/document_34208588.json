@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Malnourished but Not Destitute : The Spatial Interplay between Nutrition and Poverty in Madagascar",
+    "idno": "34208588",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34208588",
+      "title": "Malnourished but Not Destitute : The Spatial Interplay between Nutrition and Poverty in Madagascar",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matekenya,Dunstan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mulangu,Francis Muamba"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      }
+    ],
+    "date_created": "2023/12/05",
+    "date_available": "2023/12/05",
+    "date_published": "2023/12/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34208588"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b5db13f7-9205-47ad-84e0-af5c9c27ff24"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b5db13f7-9205-47ad-84e0-af5c9c27ff24"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10627"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Hidden hunger, or micronutrient deficiencies, is a serious public health issue affecting approximately 2 billion people worldwide. Identifying areas with high prevalence of hidden hunger is crucial for targeted interventions and effective resource allocation. However, conventional methods such as nutritional assessments and dietary surveys are expensive and time-consuming, rendering them unsustainable for developing countries. This study proposes an alternative approach to estimating the prevalence of hidden hunger at the commune level in Madagascar by combining data from the household budget survey and the Demographic and Health Survey. The study employs small area estimation techniques to borrow strength from the recent census and produce precise and accurate estimates at the lowest administrative level. The findings reveal that 17.9 percent of stunted children reside in non-poor households, highlighting the ineffectiveness of using poverty levels as a targeting tool for identifying stunted children. The findings also show that 21.3 percent of non-stunted children live in impoverished households, reinforcing Sen's argument that malnutrition is not solely a product of destitution. These findings emphasize the need for tailored food security interventions designed for specific geographical areas with clustered needs rather than employing uniform nutrition policies. The study concludes by outlining policies that are appropriate for addressing various categories of hidden hunger.",
+    "ref_country": [
+      {
+        "name": "Madagascar",
+        "code": "MDG"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10627",
+    "url": "http://documents.worldbank.org/curated/en/099418112052343853/pdf/IDU0b5db13f709205047ad084e00af5c9c27ff24.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.543433",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

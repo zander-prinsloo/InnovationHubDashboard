@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Access to employment and property values in Mexico",
+    "idno": "29755414",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29755414",
+      "title": "Access to employment and property values in Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Atuesta,Laura H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ibarra-Olivo,J. Eduardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lozano Gracia,Nancy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Deichmann,Uwe Klaus"
+      }
+    ],
+    "date_created": "2018/03/27",
+    "date_available": "2018/03/27",
+    "date_published": "2018/03/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29755414"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085818367"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085818367"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Location is one of the main characteristics households consider when buying a property or deciding where to live, since it determines accessibility to employment subcenters and public transport stations. Using a geographically-referenced data set on new housing developments, this paper estimates how households value accessibility in Mexico City. The results are shown considering road accessibility to formal employment subcenters (private accessibility) and distance to the main public transport stations in the city (public accessibility). The results suggest that accessibility to employment subcenters is considered an amenity for households, while being closer to a Metro station is perceived as a dis-amenity. Moreover, households located in neighborhoods with a greater proportion of informal workers and lower education levels give a lower value to private accessibility than households located in neighborhoods with a lower proportion of informal workers or in high-educated neighborhoods. These results are evidence of the existence of spatial segregation in the city, where disadvantaged households are segregated not only because of their economic conditions, but also because they are located farther away from employment opportunities.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8383",
+    "url": "http://documents.worldbank.org/curated/en/322201522158237240/pdf/WPS8383.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:34.507471",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Setting reasonable performance targets for public service delivery",
+    "idno": "17453225",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17453225",
+      "title": "Setting reasonable performance targets for public service delivery",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azevedo,Joao Pedro Wagner De"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newman,John Lincoln"
+      }
+    ],
+    "date_created": "2013/03/01",
+    "date_available": "2013/01/01",
+    "date_published": "2013/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17453225"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c28d7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c28d7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Reaching agreement on a reasonable performance target is a challenge, with costs associated with getting it wrong. Attention in the literature has focused on the potential negative effects of gaming or of creaming. However, even if there is no gaming or creaming taking place, there can still be costs associated with setting a level of the performance target that is either too low or too high. On the one hand, if the negotiated performance target is too low, there is a strong risk that the target would be met without any change in behavior or performance from what would have been realized without a performance management system. In that case, there would be no benefit -- only the cost of covering the administrative costs associated with developing the monitoring and management systems. On the other hand, if the negotiated performance target is too high, there could also be significant costs. The exact nature of the costs depends on which one of two unattractive options the principal chooses to follow once it becomes apparent that the performance targets were set unrealistically high. If the principal chooses simply to waive any possible repercussions for the agents for not meeting the performance targets, this can undermine the credibility of the system. If the principal insists on holding agents to meeting the performance targets -- no matter how unrealistic they were -- this can breed resentment and adversely affect future productivity. This paper considers some approaches to target setting that have been used in the literature and proposes an approach based on the use of quantile regressions to construct a Characteristic Adjusted Performance distribution of performance to guide the selection of targets. The paper then presents two concrete examples of applications of this approach related to the setting of targets on School Test Scores and Improvement in Homicide rates in Police Districts in the State of Minas Gerais, Brazil.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6385",
+    "url": "http://documents.worldbank.org/curated/en/718691468020374303/pdf/wps6385.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.915497",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

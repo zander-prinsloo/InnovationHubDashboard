@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The trade restrictiveness index : an application to Mexican agriculture",
+    "idno": "699731",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "699731",
+      "title": "The trade restrictiveness index : an application to Mexican agriculture",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Anderson, James E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bannister, Geoffrey"
+      }
+    ],
+    "date_created": "1992/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "699731"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6198"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6198"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Agricultural markets in Mexico, as elsewhere, are distorted by domestic subsidies as well as international trade policies. To measure domestic distortions in agriculture and compare them internationally, analysts have used \"producer subsidy equivalent\" (a production-share weighted average of producer subsidies) and \"consumer subsidy equivalent\" indices, as well as the familiar trade-weighted averages of tariffs and tariff equivalents of quotas. All these indices lack a theoretical foundation, as is well-known. Moreover, in the absence of a connection between the three partial indices of consumption, production, and trade distortion, inferences about the trade restrictiveness of all three policies are illegitimate. This paper allies a new concept, the trade restrictiveness index (TRI), to the evaluation of Mexican agricultural reform from 1985 to 1989. It demonstrates the feasibility of the new method and its theoretical and practical advantages over standard techniques, while at the same time providing an assessment of a particularly significant reform episode.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS874",
+    "url": "http://documents.worldbank.org/curated/en/856271468757227669/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:01.632269",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

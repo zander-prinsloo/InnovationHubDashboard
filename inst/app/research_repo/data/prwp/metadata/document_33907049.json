@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "From Financial Development to Informality : A Causal Link",
+    "idno": "33907049",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33907049",
+      "title": "From Financial Development to Informality : A Causal Link",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Capasso,Salvatore"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ohnsorge,Franziska Lieselotte"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shu Yu"
+      }
+    ],
+    "date_created": "2022/09/27",
+    "date_available": "2022/09/27",
+    "date_published": "2022/09/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33907049"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-f00cd16b-24ed-4426-ade2-1183af9a2753"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-f00cd16b-24ed-4426-ade2-1183af9a2753"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10192"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Financial development reduces the cost of accessing external financing and thus incentivizes investment in higher-productivity projects that allow firms to expand to the scale needed to operate in the formal economy. It also encourages participants of the informal sector to join the formal sector to gain access to credit and financial services. This paper documents two findings. First, countries with less pervasive informality are associated with greater financial development. Second, the impact of financial development, and especially banking sector development, on informality is causal. This causal link is established using a novel instrumental variable for domestic financial development: financial development in other (neighboring) countries. The causal link between informality and financial development is stronger in countries with greater trade openness and capital account openness. The findings are robust to alternative specifications.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10192",
+    "url": "http://documents.worldbank.org/curated/en/099307409272216995/pdf/IDU0f00cd16b024ed044260ade201183af9a2753.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.979389",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

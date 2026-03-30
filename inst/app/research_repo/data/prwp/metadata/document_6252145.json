@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating household responses to trade reforms : net consumers and net producers in rural Mexico",
+    "idno": "6252145",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6252145",
+      "title": "Estimating household responses to trade reforms : net consumers and net producers in rural Mexico",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Porto,Guido"
+      }
+    ],
+    "date_created": "2005/09/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6252145"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ab79d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ab79d"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper explores an empirical methodology to assess the impacts of trade reforms on household behavior in developing countries. It focuses on consumption and income responses: when price reforms take place, households modify consumption and production decisions and local labor markets adjust. The paper proposes a joint estimator of demand and wage price elasticities from survey data. The method uses an empirical model of demand to extract price information from unit values, and uses this information to estimate the response of households to price reforms. By correcting unit values for quality effects and measurement error, the method overcomes the problem of the endogeneity of unit values. By endogeneizing household income, the model corrects potential biases in the estimation of own- and cross-price elasticities in consumption. The paper applies the method to an expenditure and income survey for rural Mexico. It shows that the corrections suggested in this paper are empirically important. In particular, it shows that allowing for consumption and income responses is a key element of an accurate empirical assessment of trade policy.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3695",
+    "url": "http://documents.worldbank.org/curated/en/754161468046175542/pdf/wps3695.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.305077",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

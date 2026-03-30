@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Measuring economic downside risk and severity - Growth at Risk",
+    "idno": "1614735",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "1614735",
+      "title": "Measuring economic downside risk and severity - Growth at Risk",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yan Wang"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yudong Yao"
+      }
+    ],
+    "date_created": "2001/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "1614735"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b054a9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b054a9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Output collapses, and crises are a fact of life. Severe economic downturns occur periodically, and have grave consequences on the poor. The authors propose a new measurement for economic downside risk, and severity: Growth at risk. Similar to the concept of Value at Risk in finance, Growth at Risk summarizes the expected maximum economic downturn over a target horizon at a given confidence level. After providing a taxonomy of growth risks, the authors construct a panel data, set on Growth at Risk for 84 countries, over the period 1980-98. On average, different regional groups experience very distinct Growth at Risk patterns over time. 1) Non-OECD countries experience a higher downturn risk, while OECD countries' downturn risks for both big, and small recessions are the lowest among all groups. 2) East Asia countries, which had been growing faster, had a high Growth at Risk for big downturns, at around six percent, and it rose dramatically at the end of the 1990s. 3) Latin America, and Sub-Saharan Africa also maintained high Growth at Risk for both big, and small recessions through 1980-98. But for Latin America, Growth at Risk for big recessions declined in the 1990s. The authors then investigate the relationship between downside risks, and long-term average growth in a cross-country analysis. They find that higher perceived levels of downside growth risk, seem to be negatively associated with long-term growth. When a country's perceived level of downside growth risk is relatively high, both domestic, and foreign investors might be deterred from making long-term investments in the country, and instead invest elsewhere. The results suggest that prudent, and consistent pursuit of socioeconomic, and political stability, contributes to long-term growth, and that risk management in a broader sense, should be a vital part of the pro-growth, and poverty reduction strategy.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2674",
+    "url": "http://documents.worldbank.org/curated/en/553431468741369627/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:36.104440",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

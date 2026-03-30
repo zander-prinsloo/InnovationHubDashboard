@@ -1,0 +1,174 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Comparing Internally Displaced Persons with Those Left Behind : Evidence from the Central African Republic",
+    "idno": "34283949",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34283949",
+      "title": "Comparing Internally Displaced Persons with Those Left Behind : Evidence from the Central African Republic",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lain,Jonathan William"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Yama,Gervais Chamberlin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoogeveen,Johannes G."
+      }
+    ],
+    "date_created": "2024/03/19",
+    "date_available": "2024/03/19",
+    "date_published": "2024/03/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34283949"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-27a68af6-372d-4c47-a184-e1555d6c7542"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-27a68af6-372d-4c47-a184-e1555d6c7542"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10725"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Global poverty is increasingly becoming concentrated in conflict-affected settings. Therefore, assessing the welfare of those people displaced by conflict is of growing policy importance. Collecting and analyzing data on displaced people is challenging because sampling them is difficult, standard welfare metrics may not reflect their experiences, and they are highly heterogeneous. Assessing the welfare effects of displacement also hinges on constructing counterfactuals that show how internally displaced persons would have fared had they stayed in place. Displaced people typically come from a nonrandom subset of communities affected by conflict or other shocks, so comparing them with the rest of the population may be misleading. This paper addresses this issue using data from the Central African Republic, which recorded detailed information on displacement histories to isolate the communities from which those living in internally displaced person camps originated. Using these &#x201c;catchment areas&#x201d; for internally displaced person camps as a counterfactual suggests that although displaced households have lower monetary consumption and higher monetary poverty than the overall population, they may be no worse off on many key metrics than those left behind in the communities originally affected by conflict. Moreover, those left behind enjoy none of the benefits of being in camps, such as additional access to water and sanitation services. These results underline the importance of tailoring policies and data collection to consider those in communities originally affected by conflict, just as practitioners are doing for displaced populations.",
+    "ref_country": [
+      {
+        "name": "Central African Republic",
+        "code": "CAF"
+      }
+    ],
+    "spatial_coverage": "WESTERN AND CENTRAL AFRICA",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10725",
+    "url": "http://documents.worldbank.org/curated/en/099745503192422251/pdf/IDU127a68af61372d14c471a1841e1555d6c7542.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "active labor market programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.864317",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

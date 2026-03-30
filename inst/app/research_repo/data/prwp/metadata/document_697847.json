@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The cost of air pollution abatement",
+    "idno": "697847",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697847",
+      "title": "The cost of air pollution abatement",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hartman, Raymond"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wheeler,David R."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Singh, Manjula"
+      }
+    ],
+    "date_created": "1994/12/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697847"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828cd2e9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828cd2e9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using data from the U.S. Census Bureau, the authors have developed comprehensive estimates of pollution abatement costs by industry sector for several major air pollutants. Their results provide conservative benchmarks for benefit-cost analysis of pollution control strategies in developing countries. They also provide striking evidence of inefficiency in U.S. command-and-control regulation. The cost estimates reflect the experience of about 100,000 U.S. manufacturing facilities under actual operating conditions. They are based on a complete accounting of costs - including capital, labor energy, materials, and services. So, they should be more useful for benefit-cost analysis than idealized engineering estimates. But they also reflect strict pollution control regulation and input prices which are probably somewhat higher, on average, than those in developing countries. They should be interpreted as conservative estimates for environmental planning in developing countries. Regulatory options that are judged to have high net benefits using these numbers would probably look even better if local abatement cost data were available. The estimates in this paper can provide useful information for pollution charges. They can also help make targeted regulation more cost-effective. With scarce resources for monitoring and enforcement, new regulatory institutions in developing countries will want to focus initially on industry sectors that are the main sources of locally-dangerous pollutants. After those sectors are identified, targeted regulation should be informed by sectoral differences in abatement cost. The estimates suggest, for example, that cost-effective control of suspended particulate emissions will focus on wood pulping rather than steelmaking when both are major sources of suspended particulates. The reason: average particulate abatement costs are four times higher in steelmaking.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "OTH",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1398",
+    "url": "http://documents.worldbank.org/curated/en/290351468779363846/The-cost-of-air-pollution-abatement",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:54.239372",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

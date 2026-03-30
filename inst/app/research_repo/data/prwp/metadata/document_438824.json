@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Aid, policies, and growth",
+    "idno": "438824",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438824",
+      "title": "Aid, policies, and growth",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Burnside, Craig"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dollar, David"
+      }
+    ],
+    "date_created": "1997/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438824"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058ed"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058ed"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors of this paper use a new database on foreign aid to examine the relationships among foreign aid, economic policies, and growth of per capita GDP. In panel growth regressions for 56 developing countries and 6 four-year periods (1970-93), they find that the policies that have a great effect on growth are those related to fiscal surplus, inflation, and trade openness. They construct an index for those three policies and have that index interact with foreign aid. They have instruments for both aid and aid interacting with policies. They find that aid has a positive impact on growth in developing countries with good fiscal, monetary and trade policies. In the presence of poor policies, aid has no positive effect on growth. This result is robust in a variety of specifications, which include or exclude middle-income countries, include or exclude outliers, and treat policies as exogenous or endogenous. They examine the determinants of policy and find no evidence that aid has systematically affected policies, either for good or for ill. They estimate an aid allocation equation and show that any tendency for aid to reward good policies has been overwhelmed by donors' pursuit of their own strategic interests. In a counterfactual, they reallocate aid, reduce the role of donor interests and increasing the importance of policy. Such a reallocation would have a large positive effect on developing countries' growth rates.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1777",
+    "url": "http://documents.worldbank.org/curated/en/698901468739531893/Aid-policies-and-growth",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:50.103983",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

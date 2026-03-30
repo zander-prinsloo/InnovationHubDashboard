@@ -1,0 +1,160 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Maternal and child health inequalities in Ethiopia",
+    "idno": "25658145",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25658145",
+      "title": "Maternal and child health inequalities in Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ambel,Alemayehu A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Andrews,Colin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bakilana,Anne Margreth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,Elizabeth Mary"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khan,Qaiser M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wang,Huihui"
+      }
+    ],
+    "date_created": "2015/12/09",
+    "date_available": "2015/12/09",
+    "date_published": "2016/06/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25658145"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083c3f47a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b083c3f39c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent surveys show considerable progress in maternal and child health in Ethiopia. The improvement has been in health outcomes and health services coverage. The study examines how different groups have fared in this progress. It tracked 11 health outcome indicators and health interventions related to Millennium Development Goals 1, 4, and 5. These are stunting, underweight, wasting, neonatal mortality, infant mortality, under-five mortality, measles vaccination, full immunization, modern contraceptive use by currently married women, antenatal care visits, and skilled birth attendance. The study explores trends in inequalities by household wealth status, mothers’ education, and place of residence. It is based on four Demographic and Health Surveys implemented in 2000, 2005, 2011, and 2014. Trends in rate differences and rate ratios are analyzed. The study also investigates the dynamics of inequalities, using concentration curves for different years. In addition, a decomposition analysis is conducted to identify the role of proximate determinants. The study finds substantial improvements in health outcomes and health services. Although there still exists a considerable gap between the rich and the poor, the study finds some reductions in inequalities of health services. However, some of the improvements in selected health outcomes appear to be pro-rich.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7508",
+    "url": "http://documents.worldbank.org/curated/en/998701467996729450/pdf/WPS7508.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "nutrition and food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "child health",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.300881",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

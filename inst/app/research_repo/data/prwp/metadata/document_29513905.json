@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Simulating pension income scenarios with penCalc : an illustration for India's national pension system",
+    "idno": "29513905",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "29513905",
+      "title": "Simulating pension income scenarios with penCalc : an illustration for India's national pension system",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Price,William Joseph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sane,Renuka Vidyadhar"
+      }
+    ],
+    "date_created": "2018/01/17",
+    "date_available": "2018/01/17",
+    "date_published": "2018/01/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "29513905"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085560c52"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085560c52"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper sets out initial results from a new modeling exercise for Defined Contribution (DC) pensions. It develops a package called penCalc based on the open source software language R, which is popular in the academic and modeling communities. All the coding is made freely available. The tool is illustrated for India's DC National Pension System. The aim is not to present the perfect model for India, but to show how the tool works so that policy makers and regulators can see its potential advantages and develop it for their own uses. It generates scenarios for future assets and income dependent on user-defined and changeable assumptions for asset returns, contributions, wages, years in the labor force, and annuity prices, among other parameters. Assumptions can be tailored to different countries and user determined scenarios. Many extensions could be developed, which will be the subject of future work. The international context is highlighted through similar modeling by regulators and pension funds in other jurisdictions. Some of these are more complex or complete than the results in this paper, but by explaining the initial model and making the coding freely available, the authors provide a powerful yet simple and low-cost tool to be adopted and adapted.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8304",
+    "url": "http://documents.worldbank.org/curated/en/198991516201363951/pdf/WPS8304.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:35.313328",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

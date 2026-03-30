@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Effective Tax Rates and Firm Size",
+    "idno": "34006492",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34006492",
+      "title": "Effective Tax Rates and Firm Size",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bachas,Pierre Jean"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Brockmeyer,Anne"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dom,Roel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Semelet,Camille Marine"
+      }
+    ],
+    "date_created": "2023/02/23",
+    "date_available": "2023/02/22",
+    "date_published": "2023/02/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34006492"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-8faf90b4-05d7-4ec6-b399-298765abeaa1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-8faf90b4-05d7-4ec6-b399-298765abeaa1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10312"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides novel evidence on the relationship between firm size and effective corporate tax rates, using full-population administrative tax data from 13 countries. In all countries, small firms face lower effective corporate tax rates than mid-sized firms due to reduced statutory tax rates and a higher propensity to register losses. In most countries, effective corporate tax rates fall for the largest firms due to the take-up of tax incentives. As a result, a third of the top 1 percent of firms face effective corporate tax rates below the global minimum tax of 15 percent. The minimum tax could raise corporate tax revenue by 27 percent in the median sample country.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10312",
+    "url": "http://documents.worldbank.org/curated/en/099539402212317506/pdf/IDU08faf90b4005d704ec60b3990298765abeaa1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.023137",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

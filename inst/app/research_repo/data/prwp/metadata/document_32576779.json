@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "COVID-19 and Food Security in Ethiopia : Do Social Protection Programs Protect",
+    "idno": "32576779",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32576779",
+      "title": "COVID-19 and Food Security in Ethiopia : Do Social Protection Programs Protect",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abay,Kibrom A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Berhane,Guush"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hoddinott,John"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hirfrfot,Kibrom Tafere"
+      }
+    ],
+    "date_created": "2020/11/12",
+    "date_available": "2020/11/12",
+    "date_published": "2020/11/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32576779"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087fb1da0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087fb1da0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assesses the impact of Ethiopia's flagship social protection program, the Productive Safety Net Program on the adverse impacts of the COVID-19 pandemic on the food and nutrition security of households, mothers, and children. The analysis uses pre-pandemic, in-person household survey data and a post-pandemic phone survey. Two-thirds of the respondents reported that their incomes had fallen after the pandemic began, and almost half reported that their ability to satisfy their food needs had worsened. Employing a household fixed effects difference-in-difference approach, the study finds that household food insecurity increased by 11.7 percentage points and the size of the food gap by 0.47 months in the aftermath of the onset of the pandemic. Participation in the Productive Safety Net Program offsets virtually all of this adverse change -- the likelihood of becoming food insecure increased by only 2.4 percentage points for Productive Safety Net Program households and the duration of the food gap increased by only 0.13 month. The protective role of the program is greater for poorer households and those living in remote areas. The results are robust to various definitions of program participation, different estimators, and different ways of accounting for the non-randomness of mobile phone ownership. Productive Safety Net Program participants were less likely to reduce expenditures on health and education by 7.7 percentage points and less likely to reduce expenditures on agricultural inputs by 13 percentage points. By contrast, mothers' and children's diets changed little, despite some changes in the composition of diets, with consumption of animal source foods declining significantly.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa East",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9475",
+    "url": "http://documents.worldbank.org/curated/en/917941605204533596/pdf/COVID-19-and-Food-Security-in-Ethiopia-Do-Social-Protection-Programs-Protect.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.864376",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Conflict and the Composition of Economic Activity in Afghanistan",
+    "idno": "31874466",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31874466",
+      "title": "Conflict and the Composition of Economic Activity in Afghanistan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galdo,Virgilio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Acevedo,Gladys C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rama,Martin G."
+      }
+    ],
+    "date_created": "2020/03/17",
+    "date_available": "2020/03/17",
+    "date_published": "2020/03/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31874466"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087715eb0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087715eb0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite informality being the norm in conflict-affected countries, most estimates of the impact of conflict on economic activity rely on formal sector data. Using high-frequency data from Afghanistan, this paper assesses how surges in conflict intensity affect not only the formal sector, but also informal and illicit activities. Nighttime light provides a proxy for aggregate economic activity, mobile phone traffic by registered firms captures fluctuations in formal sector output, and the land surface devoted to poppy cultivation gives a measure of illicit production. The unit of observation is the district and the period of reference is 2012-16. The same dynamic specification and controls are used for the estimation in the three cases, making the results comparable across sectors. Controls include the presence of combat troops and the level of foreign aid at the local level, which both influence local living standards in Afghanistan. The results show that an increase in conflict-related casualties has a strong negative impact on formal economic activity in the following quarter and a positive effect on illicit activity after two quarters. The impact on aggregate economic activity is negative, but more muted.",
+    "ref_country": [
+      {
+        "name": "Afghanistan",
+        "code": "AFG"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9188",
+    "url": "http://documents.worldbank.org/curated/en/407711584460216528/pdf/Conflict-and-the-Composition-of-Economic-Activity-in-Afghanistan.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.234084",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

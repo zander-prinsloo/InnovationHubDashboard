@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Business Size, Development, and Inequality in Latin America : A Tale of One Tail",
+    "idno": "34175989",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34175989",
+      "title": "Business Size, Development, and Inequality in Latin America : A Tale of One Tail",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eslava,Marcela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Melendez Arjona,Marcela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tenjo Galvis,Laura Daniela"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Urdaneta,Nicolás"
+      }
+    ],
+    "date_created": "2023/10/06",
+    "date_available": "2023/10/06",
+    "date_published": "2023/10/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34175989"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b81563c9-346f-4e98-ae25-7c324b92013d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b81563c9-346f-4e98-ae25-7c324b92013d"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10584"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using official employment surveys for 45 advanced economies and Latin American countries, this paper shows that the positive cross-country correlation between business size and GDP per capita is tighter than previously found using firm-level datasets and finds a close negative business size-Gini relationship. The paper also finds a closer connection between individual income and business size for workers in less developed countries compared with those in advanced economies. Because employment data address the bias against the smallest productive units that characterize firm-level datasets, our approach uniquely assesses and highlights the dominance of the left tail of the business size distribution in less developed countries.",
+    "ref_country": [
+      {
+        "name": "Latin America",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10584",
+    "url": "http://documents.worldbank.org/curated/en/099316010062340644/pdf/IDU0b81563c90346f04e980ae2507c324b92013d.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.920222",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

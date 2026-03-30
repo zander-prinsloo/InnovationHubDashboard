@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Governance matters IV : governance indicators for 1996-2004",
+    "idno": "5864078",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5864078",
+      "title": "Governance matters IV : governance indicators for 1996-2004",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaufmann,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay,Aart C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mastruzzi,Massimo"
+      }
+    ],
+    "date_created": "2005/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5864078"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828afb31"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828afb31"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors present the latest update of their aggregate governance indicators, together with new analysis of several issues related to the use of these measures. The governance indicators measure the following six dimensions of governance: (1) voice and accountability; (2) political instability and violence; (3) government effectiveness; (4) regulatory quality; (5) rule of law, and (6) control of corruption. They cover 209 countries and territories for 1996, 1998, 2000, 2002, and 2004. They are based on several hundred individual variables measuring perceptions of governance, drawn from 37 separate data sources constructed by 31 organizations. The authors present estimates of the six dimensions of governance for each period, as well as margins of error capturing the range of likely values for each country. These margins of error are not unique to perceptions-based measures of governance, but are an important feature of all efforts to measure governance, including objective indicators. In fact, the authors give examples of how individual objective measures provide an incomplete picture of even the quite particular dimensions of governance that they are intended to measure. The authors also analyze in detail changes over time in their estimates of governance; provide a framework for assessing the statistical significance of changes in governance; and suggest a simple rule of thumb for identifying statistically significant changes in country governance over time. The ability to identify significant changes in governance over time is much higher for aggregate indicators than for any individual indicator. While the authors find that the quality of governance in a number of countries has changed significantly (in both directions), they also provide evidence suggesting that there are no trends, for better or worse, in global averages of governance. Finally, they interpret the strong observed correlation between income and governance, and argue against recent efforts to apply a discount to governance performance in low-income countries.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3630",
+    "url": "http://documents.worldbank.org/curated/en/602061468313750126/pdf/wps3630.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.925632",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

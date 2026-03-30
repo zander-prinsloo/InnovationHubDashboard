@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Increasing selectivity of foreign aid, 1984-2002",
+    "idno": "4268831",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "4268831",
+      "title": "Increasing selectivity of foreign aid, 1984-2002",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dollar, David; Levin, Victoria"
+      }
+    ],
+    "date_created": "2004/05/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "4268831"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0559e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0559e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors examine the allocation of foreign aid by 41 donor agencies, bilateral and multilateral. Their policy selectivity index measures the extent to which a donor's assistance is targeted to countries with sound institutions and policies, controlling for per capita income and population. The poverty selectivity index analogously looks at how well a donor's assistance is targeted to poor countries, controlling for institutional and policy environment as measured by a World Bank index. The authors' main finding is that the same group of multilateral and bilateral aid agencies that are very policy focused are also very poverty focused. The donors that appear high up in both rankings are the World Bank's International Development Association, the International Monetary Fund's Enhanced Structural Adjustment Facility, Denmark, the United Kingdom, Norway, Ireland, and the Netherlands. As a robustness check the authors alternatively use institutional quality measures independent of the World Bank and find the same pattern of selectivity. They also find that policy selectivity is a new phenomenon: in the 1984-89 period, aid overall was allocated indiscriminately without any consideration to the quality of governance, whereas in the 1990s there was a clear relationship between aid and governance (institutions and policies). This increasing selectivity of aid is good news for aid effectiveness. The bad news is that the aid agencies that the authors survey vary greatly in size. Some donors that are largest in absolute size, such as France and the United States, are not particularly selective. Japan comes in high on the policy selectivity index but far down on the poverty selectivity index, reflecting its pattern of giving large amounts of aid in Asia to countries that are well governed but in many cases not poor.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3299",
+    "url": "http://documents.worldbank.org/curated/en/308201468761703661/Increasing-selectivity-of-foreign-aid-1984-2002",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:27.351874",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

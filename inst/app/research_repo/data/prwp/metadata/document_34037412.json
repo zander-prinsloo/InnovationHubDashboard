@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fossil Fuel Prices and Air Pollution : Evidence from a Panel of 133 Countries",
+    "idno": "34037412",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34037412",
+      "title": "Fossil Fuel Prices and Air Pollution : Evidence from a Panel of 133 Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mayr,Kentaro Florian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Maruyama Rentschler,Jun Erik"
+      }
+    ],
+    "date_created": "2023/04/07",
+    "date_available": "2023/04/07",
+    "date_published": "2023/04/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34037412"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-1315f090-6dcb-446f-a43f-e575d7e57437"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-1315f090-6dcb-446f-a43f-e575d7e57437"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10397"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Fossil fuel combustion is a major contributor to urban air pollution, which in turn can lead to negative health outcomes. While the relationship between fuel prices and consumption has been extensively documented, the knock-on impact on air quality is less studied. Detailed knowledge on the price-pollution channel is valuable in designing effective pollution reduction measures. This paper analyzes the impact of gasoline, diesel, and coal prices on air pollution in 133 countries over a 19-year period. The dataset combines prices, consumption, country-specific variables, and annual average fine particulate matter concentrations in each country&#x2019;s capital city. Using the common correlated effects estimator, the analysis finds a robust negative relationship between gasoline and diesel prices and particle concentrations. A US$1 increase in the average annual retail price of these common transport fuels is associated with at least a 22.2 microgram per cubic meter decrease in annual average fine particulate matter concentrations. In contrast, there is no significant effect for coal, which is often used in power generation and industrial applications, making it less responsive to short-term price variations. Overall, the results are in line with earlier studies, as price increases are correlated with improved urban air quality for transport fuels.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10397",
+    "url": "http://documents.worldbank.org/curated/en/099413104072329965/pdf/IDU01315f09006dcb0446f0a43f0e575d7e57437.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:11.548889",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

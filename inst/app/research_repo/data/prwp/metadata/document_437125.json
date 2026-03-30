@@ -1,0 +1,118 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fiscal constraints, collection costs, and trade policies",
+    "idno": "437125",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437125",
+      "title": "Fiscal constraints, collection costs, and trade policies",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kubota, Keiko"
+      }
+    ],
+    "date_created": "2000/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437125"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b057cd"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b057cd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "That free trade allows economies in an ideal world to achieve the greatest possible welfare is one of the few undisputed propositions in economics. In reality, however, free trade is rare. The author argues that many developing countries intervene in trade at least partly to raise revenues, and that episodes of trade liberalization are often linked to tax reform. The author proposes a formal model to explain why developing countries rely disproportionately on tariffs for government revenues, when tax reforms are expected, and under what conditions trade liberalization will take place. The model uses the simple concept of the fixed costs involved in tax collection. When fiscal needs are limited, and the infrastructure to monitor, administer, and collect taxes is not well-developed, it is optimal for governments to rely on a handful of easy-to-collect taxes, which generally includes trade taxes. When fiscal needs expand, the excess burden on the tax base grows rapidly, and tax reform becomes necessary. Tax reforms reduce reliance on the existing tax base, often allowing the statutory tax rate to be lowered. This is a form of trade liberalization when it involves the trade sector. The author defines trade liberalization in a somewhat unconventional way: only reductions in the rates at which the trade sector is taxed, are considered trade liberalization. Tariffication of quotas, normally considered a form of trade liberalization, is treated as tax reform (expanding the tax base). The author tests this hypothesis empirically, first through three historic case studies (Bolivia, Jamaica, and Morocco) and then through systematic econometric analysis. She constructs a set of panel data for 38 developing countries for 1980-92, using the statutory tariff rates published by UNCTAD. She uses empirical tests to isolate the cause of trade liberalization. The results support her hypothesis: tariff rates are positively related to fiscal shocks, and negatively associated with episodes of tax reform.",
+    "ref_country": [
+      {
+        "name": "Morocco",
+        "code": "MAR"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JAM"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BOL"
+      }
+    ],
+    "spatial_coverage": "Middle East and North Africa ; Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2366",
+    "url": "http://documents.worldbank.org/curated/en/455371468756929475/Fiscal-constraints-collection-costs-and-trade-policies",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:39.479663",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

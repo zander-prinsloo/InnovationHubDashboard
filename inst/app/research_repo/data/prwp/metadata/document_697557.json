@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Poverty and social transfers in Poland",
+    "idno": "697557",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "697557",
+      "title": "Poverty and social transfers in Poland",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Grootaert,Christiaan N."
+      }
+    ],
+    "date_created": "1995/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "697557"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05c45"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05c45"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Since January 1990, Poland's social safety net has changed greatly. Unemployment benefits were introduced, for example, because of escalating unemployment (about 15 percent of the labor force at the end of 1993). The cost of the social safety net has risen sharply since the transition began, both absolutely and as a fraction of GDP. In 1993, social transfers accounted for 18.7 percent of GDP, as follows: 1) pensions=14.9 percent; 2) unemployment benefits=1.9 percent; 3) family allowance and other social insurance=1.4 percent; and 4) social assistance=0.5 percent. To investigate the present system's impact on income distribution, the author uses the household budget survey data for January-June 1993, the first complete survey of the Polish population. The conventional benchmark for measuring poverty in Poland, the social minimum, has become largely irrelevant, as 55 percent of the people fall below that spending level. Using two other measures, the author finds that in 1993 26.3 percent of the population had an expenditure level (per adult equivalent) below the minimum wage, and 14.4 percent were spending at a level below the minimum pension. He discusses four proposals for improving the ability of social transfers (other than pensions) to reduce poverty. These proposals are either budget-neutral or imply only modest increases in the total amount of transfers. One, income-testing the family allowance and doubling that amount for large households. This would reduce poverty from 14.4 to 13.2 percent - and, among large households, from 43 to 28 percent. Two, reducing eligibility for the family allowance from 20 to 18 years and taxing the allowance; providing income-tested daycare vouchers for young children. This would make the family allowancee more progressive. Reducing eligibility and taxing the allowance would raise poverty about one percent point, which would be largely offset by the daycare vouchers. Three, improving income testing for social assistance. More than half or current beneficiaries are not poor. A 20 percent improvement in targeting would reduce poverty by about 0.3 percentage points. Four, extending eligibility for unemployment benefits for low-skilled unemployed members of the labor force in large households. This would increase benefits by about 7 percent, but reduce poverty about 0.4 percent points - benefiting especially the poorest part of the population.",
+    "ref_country": [
+      {
+        "name": "Poland",
+        "code": "POL"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1440",
+    "url": "http://documents.worldbank.org/curated/en/441031468776105183/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:53.378511",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

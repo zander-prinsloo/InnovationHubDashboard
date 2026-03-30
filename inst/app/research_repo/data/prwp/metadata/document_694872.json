@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "World crude oil resources : evidence from estimating supply functions for 41 countries",
+    "idno": "694872",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "694872",
+      "title": "World crude oil resources : evidence from estimating supply functions for 41 countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Watkins, G. C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Streifel, Shane"
+      }
+    ],
+    "date_created": "1997/04/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "694872"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b056eb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b056eb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Evidence to support or deny expectations of future scarcity or abundance of crude oil must show whether crude oil supply functions are shifting and, if so, in what direction. The authors estimate oil supply functions for 41 countries for which suitable data are available. Because of the poor quality of data, especially for reserves, the model specification is simple. Their model relates reserve additions to the imputed \"in situ\" price of discovered but undeveloped reserves and to the passage of time. The passage of time is a surrogate for measuring the net impact on supply conditions of the chance of finding oil, resource depletion, cost efficiency, and technology. Time's impact could be expansionary or contractionary. They test two main versions of the model, one a straightforward linear function, the other nonlinear, assuming decreasing returns. Both models yield similar results. In most cases the models fit the data reasonably closely, after adjustment for outliers. The complete model results show 26 countries with statistically significant shifts in supply functions -in almost equal parts expansionary and contractionary. The shift is often contractionary in countries with a long production history (including Burma, Trinidad and Tobago, and the United States). Some are OPEC countries, to which a model specification involving market price response does not properly apply. Tests on a small sample of countries for differences between earlier and later periods reveal limited evidence of an expansionary shift from 1980 onward. There is partial evidence that lower oil prices stimulate productivity. The authors suggest that a gloomy outlook for non-OPEC supply is unwarranted. Several countries are still in an expansionary phase. Others show no evidence of entering a period of decline. And countries in a contractionary phase will continue to add to reserves. Further research requires improving the database rather than employing more elaborate models.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1756",
+    "url": "http://documents.worldbank.org/curated/en/393081468739458134/World-crude-oil-resources-evidence-from-estimating-supply-functions-for-41-countries",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:50.339555",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Multidimensional and Specific Inequalities",
+    "idno": "34295886",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34295886",
+      "title": "Multidimensional and Specific Inequalities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Foster,James E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lokshin,Michael M."
+      }
+    ],
+    "date_created": "2024/04/04",
+    "date_available": "2024/04/04",
+    "date_published": "2024/04/04",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34295886"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4cdd2e0f-8cc2-4469-8e28-afbf0c2931e6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4cdd2e0f-8cc2-4469-8e28-afbf0c2931e6"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10748"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite the multitude of measures of multidimensional inequality, none is regularly used in policymaking. This paper proposes multidimensional inequality measures that are easily implementable and transparent and overcome many deficiencies of existing measures. The measures follow a traditional two-stage format, which aggregates dimensions first and then applies a unidimensional measure like the Gini coefficient to the distribution of aggregates. A novel characterization result identifies the precise form of aggregation needed to obtain axiomatically sound measures. The paper derives an additive decomposition formula &#x2014; breaking down multidimensional inequality into terms reflecting the average specific inequalities (within dimensions) and the joint distribution (across dimensions) &#x2014; for any measure created using a standard unidimensional measure or the Lorenz curve. The paper also provides an approach to calibrating the measure for use with data over time, replacing the usual ad hoc normalization of variables with one that accounts for a policymaker&#x2019;s normative weights. The technology is illustrated first using synthetic data to understand how the measure varies as the components are changed and then using data from Azerbaijan.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10748",
+    "url": "http://documents.worldbank.org/curated/en/099824304042436172/pdf/IDU14cdd2e0f18cc21446918e281afbf0c2931e6.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.704283",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

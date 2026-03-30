@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does regulatory supervision curtail microfinance profitability and outreach",
+    "idno": "10618928",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "10618928",
+      "title": "Does regulatory supervision curtail microfinance profitability and outreach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cull , Robert"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt , Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morduch, Jonathan"
+      }
+    ],
+    "date_created": "2009/06/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "10618928"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828adee9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828adee9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Regulation allows microfinance institutions to evolve more fully into banks, particularly for institutions aiming to take deposits. But there are potential trade-offs. Complying with regulation and supervision can be costly. The authors examine the implications for the institutions profitability and their outreach to small-scale borrowers and women. The tests draw on a new database that combines high-quality financial data on 245 of the worlds largest microfinance institutions with newly-constructed data on their prudential supervision. Ordinary least squares regressions show that supervision is negatively associated with profitability. Controlling for the non-random assignment of supervision via treatment effects and instrumental variables regressions, the analysis finds that supervision is associated with substantially larger average loan sizes and less lending to women than in ordinary least squares regressions, although it is not significantly associated with profitability. The pattern is consistent with the notion that profit-oriented microfinance institutions absorb the cost of supervision by curtailing outreach to market segments that tend to be more costly per dollar lent. By contrast, microfinance institutions that rely on non-commercial sources of funding (for example, donations), and thus are less profit-oriented, do not adjust loan sizes or lend less to women when supervised, but their profitability is significantly reduced.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4948",
+    "url": "http://documents.worldbank.org/curated/en/487411468320662382/pdf/WPS4948.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:07.583560",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

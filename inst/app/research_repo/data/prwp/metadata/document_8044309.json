@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Crop selection : adapting to climage change in Africa",
+    "idno": "8044309",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "8044309",
+      "title": "Crop selection : adapting to climage change in Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kurukulasuriya, Pradeep"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mendelsohn, Robert"
+      }
+    ],
+    "date_created": "2007/08/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "8044309"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828abce0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828abce0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper examines whether the choice of crops is affected by climate in Africa. Using a multinomial logit model, the paper regresses crop choice on climate, soils, and other factors. The model is estimated using a sample of more than 7,000 farmers across 11 countries in Africa. The study finds that crop choice is very climate sensitive. For example, farmers select sorghum and maize-millet in the cooler regions of Africa; maize-beans, maize-groundnut, and maize in moderately warm regions' and cowpea, cowpea-sorghum, and millet-groundnut in hot regions. Further, farmers choose sorghum, and millet-groundnut when conditions are dry; cowpea, cowpea-sorghum, maize-millet, and maize when medium wet; and maize-beans and maize-groundnut when wet. As temperatures warm, farmers will shift toward more heat tolerant crops. Depending on whether precipitation increases or decreases, farmers will also shift toward drought tolerant or water loving crops, respectively. There are several policy relevant conclusions to draw from this study. First, farmers will adapt to climate change by switching crops. Second, global warming impact studies cannot assume crop choice is exogenous. Third, this study only examines choices across current crops. Future farmers may well have more choices. There is an important role for agronomic research in developing new varieties more suited for higher temperatures. Future farmers may have even better adaptation alternatives with an expanded set of crop choices specifically targeted at higher temperatures.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4307",
+    "url": "http://documents.worldbank.org/curated/en/378181468211778531/pdf/wps4307.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.061078",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does Central Bank Independence Increase Inequality",
+    "idno": "32767726",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32767726",
+      "title": "Does Central Bank Independence Increase Inequality",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aklin,Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kern,Andreas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Negre,Mario"
+      }
+    ],
+    "date_created": "2021/01/21",
+    "date_available": "2021/01/21",
+    "date_published": "2021/01/21",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32767726"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0881f3684"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0881f3684"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Since the 1980s, income inequality has increased substantially in several countries. Yet the political logic that triggered rising inequality in some places but not in others remains poorly understood. This paper builds a theory that links central bank independence to these dynamics. It posits the existence of three mechanisms that tie central bank independence to inequality. First, central bank independence indirectly constrains fiscal policy and weakens a government's ability to engage in redistribution. Second, central bank independence incentivizes governments to deregulate financial markets, which generates a boom in asset values. These assets are predominantly in the hands of wealthier segments of the population. Third, to contain inflationary pressures, governments actively promote policies that weaken the bargaining power of workers. Together, these policies strengthen secular trends towards higher inequality according to standard indicators. Empirically, the analysis finds a strong relation between central bank independence and inequality, as well as support for each of the mechanisms. From a policy perspective, our findings contribute to knowledge on the undesirable side effects of central bank independence.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9522",
+    "url": "http://documents.worldbank.org/curated/en/422091611242015974/pdf/Does-Central-Bank-Independence-Increase-Inequality.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:21.393750",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

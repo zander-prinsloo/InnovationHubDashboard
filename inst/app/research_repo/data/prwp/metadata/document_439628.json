@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "User's guide to an early warning system for macroeconomic vulnerability in Latin American countries",
+    "idno": "439628",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "439628",
+      "title": "User's guide to an early warning system for macroeconomic vulnerability in Latin American countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Herrara, Santiago"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garcia, Conrado"
+      }
+    ],
+    "date_created": "1999/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "439628"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05782"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05782"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors develop an early warning system for macroeconomic vulnerability for several Latin American countries, drawing on the work of Kaminsky, Lizondo, and Reinhart (1997) and Kaminsky (1988). They build a composite leading indicator that signals macroeconomic vulnerability, showing that, historically, crises tend to happen in certain \"vulnerable \" situations. Interested mainly in providing an operational tool, the authors use a different approach to the problem than Kaminsky did. First, they use fewer variables to generate the signals. Then, after the variables are aggregated, a signal is issued, depending on the behavior of the composite index. (Kaminsky's procedure was to generate signals with each variable and then aggregate them.) Their results are satisfactory both statistically and operationally. Statistically, Type I and II errors are smaller than those reported in previous papers. Operationally, this system of leading indicators is less costly to maintain, given fewer variables-which are widely available and reported with timeliness. The authors tested the models' out-of-sample predictive ability on crises that occurred after the first stage of their project was finished: Colombia (September 1998), Brazil (January 1999), and Ecuador (February 1999). In all cases the models correctly anticipated the speculative attacks. Moreover, Mexico's models, estimated with information available two years before the 1994 crisis, show that these signaling devices would have been useful for signaling the macroeconomic vulnerability before December 1994.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "Venezuela, Republica Bolivariana de",
+        "code": "VEN"
+      },
+      {
+        "name": "Ecuador",
+        "code": "ECU"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      },
+      {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "Argentina",
+        "code": "ARG"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2233",
+    "url": "http://documents.worldbank.org/curated/en/483481468778772067/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.110845",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

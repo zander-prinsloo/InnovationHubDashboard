@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "On the ground or in the air a methodological experiment on crop residue cover measurement in Ethiopia",
+    "idno": "26765552",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26765552",
+      "title": "On the ground or in the air a methodological experiment on crop residue cover measurement in Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kosmowski,Frederic"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Stevenson,James"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Campbell,Jeff"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ambel,Alemayehu A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tsegay,Asmelash Haile"
+      }
+    ],
+    "date_created": "2016/09/06",
+    "date_available": "2016/09/06",
+    "date_published": "2016/09/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26765552"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08456036c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08454c772"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Maintaining permanent coverage of the soil using crop residues is an important and commonly recommended practice in conservation agriculture. Measuring this practice is an essential step in improving knowledge about the adoption and impact of conservation agriculture. Different data collection methods can be implemented to capture the field level crop residue coverage for a given plot, each with its own implications for the survey budget, implementation speed, and respondent and interviewer burden. This study tests six alternative methods of crop residue coverage measurement among the same sample of rural households in Ethiopia. The relative accuracy of these methods is compared against a benchmark, the line-transect method. The alternative methods compared against the benchmark include: (i) interviewee (respondent) estimation; (ii) enumerator estimation visiting the field; (iii) interviewee with visual-aid without visiting the field; (iv) enumerator with visual-aid visiting the field; (v) field picture collected with a drone and analyzed with image-processing methods; and (vi) satellite picture of the field analyzed with remote sensing methods. Results of the methodological experiment show that survey-based methods tend to underestimate field residue cover. When quantitative data on cover are needed, the best estimates are provided by visual-aid protocols. For categorical analysis (such as greater than 30 percent cover or not), visual-aid protocols and remote sensing methods perform equally well. Among survey-based methods, the strongest correlates of measurement errors are total farm size, field size, distance, and slope. The results deliver a ranking of measurement options that can inform survey practitioners and researchers.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7813",
+    "url": "http://documents.worldbank.org/curated/en/148031473171743660/pdf/WPS7813.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:42.089057",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

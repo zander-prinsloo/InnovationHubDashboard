@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Valuing mortality reductions in India : a study of compensating wage differentials",
+    "idno": "437183",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "437183",
+      "title": "Valuing mortality reductions in India : a study of compensating wage differentials",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Simon, Nathalie B."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cropper, Maureen L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Alberini, Anna"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Arora, Seema"
+      }
+    ],
+    "date_created": "1999/01/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "437183"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05694"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05694"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Conducting cost-benefit analyses of health and safety regulations requires placing a dollar value on reductions in health risks, including the risk of death. In the United States, mortality risks are often valued using compensating-wage differentials. These differentials measure what a worker would have to be paid to accept a small increase in his risk of death-which is assumed to equal what the worker would pay to achieve a small reduction in his risk of death. The authors estimate compensating-wage differentials for risk of fatal and nonfatal injuries in India's manufacturing industry. They estimate a hedonic wage equation using the most recent Occupational Wage Survey, supplemented by data on occupational injuries from the Indian Labour Yearbook. Their estimates of compensating-wage differentials imply a value of statistical life (VSL) in India of 6.4 million to 15 million 1990 rupees (roughly $150,000 to $360,000 at current exchange rates). This number is between 20 and 48 times forgone earnings-the human capital measure of the value of reducing the risk of death. The ratio of the VSL to forgone earnings implied by the study is larger than in comparable U.S. studies but smaller than the ratio implied by the only other compensating-wage study for India (Shanmugam 1997). The latter implies a ratio of VSL to forgone earnings of 73! The authors caution that in India, as in the United States, compensating-wage differentials in the labor market may overstate what individuals would themselves pay to reduce the risk of death. They suggest using their estimates as an upper bound on willingness to pay to reduce risk of death, and forgone earnings as a lower bound.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2078",
+    "url": "http://documents.worldbank.org/curated/en/582261468751139383/Valuing-mortality-reductions-in-India-a-study-of-compensating-wage-differentials",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:43.262610",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

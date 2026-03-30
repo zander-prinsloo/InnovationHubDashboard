@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Districts, spillovers, and government overspending",
+    "idno": "440009",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "440009",
+      "title": "Districts, spillovers, and government overspending",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Baqir, Reza"
+      }
+    ],
+    "date_created": "1999/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "440009"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c544a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c544a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The author considers the overspending bias in legislatures when the benefits of public policies are concentrated in particular districts but the costs of financing them are spread over the entire political jurisdiction. He formalizes this idea in a simple theoretic framework, in the context of externalities between districts. His main prediction is that greater districting leads to bigger government, but the effects are mitigated if there are positive spillovers of government spending between districts. Institutional forms of government that concentrate decision-making power can curtail the overspending bias. He presents evidence on these predictions from a cross section of U.S. city governments. His main findings are that: 1) If we take an average city, keep its population and other characteristics constant, but divide it into a greater number of political districts, we get substantially greater government spending per capita. 2) Greater jurisdictional heterogeneity and income equality are associated with bigger government. 3) At-large electoral systems are not less sensitive to overspending than district electoral systems are. 4) Strong-mayor forms of city government, especially those in which mayors have veto power, can curtail the overspending bias. These findings are robust to controlling for socioeconomic characteristics of cities and to alternative measures of government size.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "OTH",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2192",
+    "url": "http://documents.worldbank.org/curated/en/969221468781782275/Districts-spillovers-and-government-overspending",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.670847",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

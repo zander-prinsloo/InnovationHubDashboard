@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Urban Agglomerations and Employment Transitions in Ethiopia",
+    "idno": "31865419",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31865419",
+      "title": "Urban Agglomerations and Employment Transitions in Ethiopia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kamei,Akito"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nakamura,Shohei"
+      }
+    ],
+    "date_created": "2020/03/13",
+    "date_available": "2020/03/13",
+    "date_published": "2020/03/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31865419"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0876fa8aa"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0876fa8aa"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Agglomeration boosts economic growth. A vast literature has empirically assessed the effects of agglomeration by estimating the city population elasticity on wages. This conventional approach is not necessarily suitable for analyzing urbanization at the early stage in developing countries, where a majority of urban workers engage in self-employment and/or informal jobs. Focusing on one of the poorest and largest among those countries, this paper sheds light on an aspect of urbanization and agglomeration: the transition in the mode of labor from self-employment/informal jobs to wage employment/formal jobs. Applying the instrumental variable approach to national labor force survey data sets, the analysis underscores several labor market transitions across space in urban Ethiopia. First, the town population size and the share of workers with wage employment are strongly correlated. The probability of engaging in wage work increases by 4.5 percentage points with a log increase in population size. Second, this relationship is particularly strong among disadvantaged workers, such as the female, young, and/or less educated population. Finally, the study documents higher labor force participation and lower underemployment in larger towns.",
+    "ref_country": [
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9184",
+    "url": "http://documents.worldbank.org/curated/en/800691584111128907/pdf/Urban-Agglomerations-and-Employment-Transitions-in-Ethiopia.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.277981",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A proximity-based approach to labor mobility in CGE models with an application to Sub-Saharan Africa",
+    "idno": "27814289",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27814289",
+      "title": "A proximity-based approach to labor mobility in CGE models with an application to Sub-Saharan Africa",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lofgren,Hans"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cicowiez,Martin"
+      }
+    ],
+    "date_created": "2017/07/20",
+    "date_available": "2017/07/20",
+    "date_published": "2017/07/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27814289"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084dfe435"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084dfe435"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The ease with which workers can move between sectors has a strong impact on the effects on labor markets of shocks such as changes in world prices or migration flows. This paper introduces an approach to labor mobility with frictions under which worker capabilities (their efficiencies in different sectors) depend on their sector affiliation. If workers in sector a move to sector a', their efficiency shortfall due to a capability misfit compared to what is needed in a' (and possessed by workers already in a') is measured by a proximity parameter, 0 ≤ proxa,a' ≤ 1. If proxa,a' < 1, the efficient quantity reaching a' is below the physical quantity. In this setting, profit-maximizing producers are willing to pay the same wage per efficiency unit irrespective of worker origin and thus pay less efficient workers a lower wage per physical unit. This approach to labor mobility is tested in a static CGE model that is applied to an illustrative sub-Saharan African dataset with sector proximities defined using the approach of the product-space literature. Simulations of positive export price shocks show that, the higher the proximities, the stronger the labor reallocation and the welfare gains.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8151",
+    "url": "http://documents.worldbank.org/curated/en/212941500556224046/pdf/WPS8151.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.353111",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

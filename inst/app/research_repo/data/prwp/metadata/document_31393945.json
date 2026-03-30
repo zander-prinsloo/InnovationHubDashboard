@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Long-Term Effects of PROSPERA on Welfare",
+    "idno": "31393945",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31393945",
+      "title": "Long-Term Effects of PROSPERA on Welfare",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aguilar,Arturo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Barnard,Cristina"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Giorgi,Giacomo"
+      }
+    ],
+    "date_created": "2019/09/09",
+    "date_available": "2019/09/09",
+    "date_published": "2019/09/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31393945"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0870a84e9"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0870a84e9"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The long-term effects of Mexico's conditional cash transfer program, PROSPERA, on poor households are of great interest to policy makers and academics alike. This paper analyzes the long-term effects on the welfare of the original participant households and their offspring, about 20 years after the inception of the program. To complement other studies that look into the effects on schooling and health, the analysis focuses on a utilitarian definition of welfare and employs two empirical strategies. The first uses the 1997-2000 experiment as the cleanest, albeit limited, source of variation. The analysis finds that by 2017–18, the offspring of original beneficiary households are more likely to have formed their own households, to have migrated to different localities, and to have more durable assets and larger consumption expenditures than their control counterpart. The second strategy confirms and expands those findings using a difference-in-difference methodology based on the localities' rollout of the program and the age of the individuals, as a proxy of exposure. This second approach covers a much larger and representative sample, while also directly observing self-reported vulnerability in food consumption. The findings confirm the generally positive outlook in terms of durable assets and lower food vulnerability. Perhaps more interestingly and relevant for evaluating the success of the program is that it improved intergenerational mobility. Using the 1997-2000 experiment, the analysis finds that the young adults who benefited from the program improved with respect to their parents in education, assets holding, and income. They appear to be climbing the ladder of assets and income.",
+    "ref_country": [
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "spanish",
+        "code": "es"
+      },
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9002",
+    "url": "http://documents.worldbank.org/curated/en/423621568052375850/pdf/Long-Term-Effects-of-PROSPERA-on-Welfare.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:29.625711",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are the Poorest Catching Up ?",
+    "idno": "34205862",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34205862",
+      "title": "Are the Poorest Catching Up ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cust,James Frederick"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Collier,Paul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rivera-Ballesteros, lexis"
+      }
+    ],
+    "date_created": "2023/12/01",
+    "date_available": "2023/12/01",
+    "date_published": "2023/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34205862"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-4b6e9b6e-a875-4b5d-9a0b-012bb203154e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-4b6e9b6e-a875-4b5d-9a0b-012bb203154e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10622"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Are global incomes converging or diverging? Despite recent empirical evidence supporting the hypothesis of unconditional beta convergence, this paper argues that such findings overlook the stark reality facing the world&#x2019;s poorest people. Many lower income countries, including those among the so-called &#x201c;Bottom Billion,&#x201d; continue to slip further behind the rest of the world, while the numbers of those living in extreme poverty are beginning to rise again after decades of decline. The paper explores how these contradictions can coexist and discusses the policy importance of looking beyond global average trends. The paper identifies three confusions that can arise when analyzing trends in income convergence. First, a focus on unconditional convergence can overlook important policy questions, such as whether countries are likely to eradicate extreme poverty or to catch up with the rest of the world. Tests for convergence may yield only partial answers, especially in light of recent findings that show that unconditional beta convergence can coexist with a significant group of countries slipping ever further behind the rest of the world. Meanwhile extreme poverty numbers are increasing rather than decreasing. Second, average trends can both obscure and be distorted by underlying differences in country composition. In the extreme case, while fast-growing China was below global mean incomes between 2000 and 2020, it significantly boosted empirical support for global convergence. Now that China has passed this threshold, the finding will likely reverse in the coming years as more data is available. Third, different levels of availability of time periods and country coverage can distort and even bias empirical findings, especially where limitations to data availability is correlated with lower income or diverging economies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10622",
+    "url": "http://documents.worldbank.org/curated/en/099257212012320427/pdf/IDU14b6e9b6e1a87514b5d19a0b1012bb203154e.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.555662",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

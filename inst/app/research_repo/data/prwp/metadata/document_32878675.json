@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Inventories, Input Costs, and Productivity Gains from Trade Liberalizations",
+    "idno": "32878675",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32878675",
+      "title": "Inventories, Input Costs, and Productivity Gains from Trade Liberalizations",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khan,Shafaat Yar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Khederlarian, Armen"
+      }
+    ],
+    "date_created": "2021/03/03",
+    "date_available": "2021/03/03",
+    "date_published": "2021/03/03",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32878675"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0883565cb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0883565cb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-95"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Sourcing internationally entails additional costs due to larger per inventory holdings. When firms switch toward foreign sources, these unobserved costs increase. This paper revisits the effect of trade liberalization on firms’ productivity taking into account the inventory premium of importing and input cost heterogeneity. Through model simulations, the paper shows that in the presence of inventory holding costs, their omission in revenue-based productivity measures leads to a systematic overestimation of the elasticity of productivity to input tariffs. Controlling for the firm’s import intensity and inventory usage in the estimation of productivity corrects for the bias. The paper studies the relevance of this potential bias during India’s trade liberalization in the early 1990s. First, it documents that inventory holdings of intermediate goods increased significantly with import intensity and input tariffs. Second, it extends a standard productivity estimation procedure with a control function of the various firm-level input costs. The mismeasurement channel accounts for around 35 percent of the estimated productivity gains. Consistent with the gradual adjustment to the tariff reductions, the bias in the response of firm-level productivity is backloaded.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9564",
+    "url": "http://documents.worldbank.org/curated/en/157191614780662715/pdf/Inventories-Input-Costs-and-Productivity-Gains-from-Trade-Liberalizations.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.961318",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

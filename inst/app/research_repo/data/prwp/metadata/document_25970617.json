@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The political economy of bank lending : evidence from an emerging market",
+    "idno": "25970617",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25970617",
+      "title": "The political economy of bank lending : evidence from an emerging market",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Agarwal,Sumit"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morais,Bernardo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ruiz Ortega,Claudia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhang,Jian"
+      }
+    ],
+    "date_created": "2016/02/24",
+    "date_available": "2016/02/24",
+    "date_published": "2016/02/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25970617"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0841ac53a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0841ac53a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study investigates the existence of political rents in bank lending, using a comprehensive loan-level data set of the universe of commercial loans in Mexico from 2003 to 2012. Identification relies on changes in the state of origin of a senate committee chairman as a source of exogenous variation in firms' political relationship. The study finds that banks offer favorable loan terms to politically connected firms with larger loan quantities, lower loan spreads, longer maturities, and lower collateral requirements. Furthermore, political loans exhibit higher default rates. To isolate the bank supply channel, a rich set of fixed-effects is included with various specifications. The favorable lending increases with the strength of a firm's political connection, varies gradually along the political cycle, and is mainly offered by large and domestic banks. Consistent with the quid pro quo hypothesis, the study finds that banks that extend political loans receive significantly more government borrowings with better credit quality. The study also shows that the greater credit supply due to political connection leads to a large and significant increase in firm-level employment and assets. The study provides estimates of the total social cost of political lending and net revenue for banks that are engaged in rent provision activity. Finally, a series of robustness tests are performed to rule out alternative mechanisms and explanations.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7577",
+    "url": "http://documents.worldbank.org/curated/en/744191468196753266/pdf/WPS7577.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.647554",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

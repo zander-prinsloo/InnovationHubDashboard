@@ -1,0 +1,167 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What matters to African firms the relevance of perceptions data",
+    "idno": "8884382",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "8884382",
+      "title": "What matters to African firms the relevance of perceptions data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gelb, Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ramachandran, Vijaya"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shah, Manju Kedia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Turner, Ginger"
+      }
+    ],
+    "date_created": "2007/12/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "8884382"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828aea61"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828aea61"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Can perceptions data help us understand investment climate constraints facing the private sector? Or do firms simply complain about everything? In this paper, the authors provide a picture of how firms' views on constraints differ across countries in Sub-Saharan Africa. Using the World Bank's Enterprise Surveys database, they find that reported constraints reflect country characteristics and vary systematically by level of income-the most elemental constraints to doing business (power, access to finance, ability to plan ahead) appear to be most binding at low levels of income. As countries develop and these elemental constraints are relaxed, governance-related constraints become more problematic. As countries move further up the income scale and the state becomes more capable, labor regulation is perceived to be more of a problem-business is just one among several important constituencies. The authors also consider whether firm-level characteristics-such as size, ownership, exporter status, and firms' own experience-affect firms' views on the severity of constraints. They find that, net of country and sector fixed effects and firm characteristics, firms' views do reflect their experience as evidenced by responses to other questions in surveys. The results suggest that there are both country-level and firm-level variations in the investment climate. Turning to the concept of \"binding constraints,\" the Enterprise Surveys do not generally suggest one single binding constraint facing firms in difficult business climates. However, there do appear to be groups of constraints that matter more at different income levels, with a few elemental constraints being especially important at low levels and a few regulatory constraints at high levels, but a difficult range of governance-related constraints at intermediate levels. Adjusting to a constraint does not mean that firms then do not recognize it-for example, generator-owning firms are not distinguishable from other firms when ranking electricity as a constraint. Overall, firms do appear to discriminate between constraints in a reasonable way. Their views can provide a useful first step in the business-government consultative process and help in prioritizing more specific behavioral analysis and policy reforms.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4446",
+    "url": "http://documents.worldbank.org/curated/en/980061468010497193/pdf/wps4446.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "corporate governance",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "regulation and competition policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "other accountability/anti-corruption",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "macroeconomic management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "legal institutions for a market economy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:14.915659",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

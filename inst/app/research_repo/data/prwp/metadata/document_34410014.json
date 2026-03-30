@@ -1,0 +1,141 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade Restructuring : Assessing Labor Market and Welfare Effects",
+    "idno": "34410014",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34410014",
+      "title": "Trade Restructuring : Assessing Labor Market and Welfare Effects",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Abreha,Kaleb Girma"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lopez-Acevedo,Gladys C."
+      }
+    ],
+    "date_created": "2024/10/23",
+    "date_available": "2024/10/23",
+    "date_published": "2024/10/23",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34410014"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-37e9d456-c086-40ba-86ec-8035f01b136d"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-37e9d456-c086-40ba-86ec-8035f01b136d"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10955"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper assesses patterns and drivers of current trade restructuring and its welfare implications. The main trade restructuring drivers include lower cost advanced technologies, rising offshore labor costs, and recent shocks like COVID-19, trade disputes, and geopolitical tensions. Data on bilateral trade flows show that the United States and the European Union have reoriented their trade relationships. Between 2017 and 2023, for example, U.S. imports from countries like Mexico and Viet Nam grew significantly, whereas imports from China and Japan declined significantly. Market reallocation stems from tariffs, trade restrictions, and large-scale industrial policies. Countries with greater competitiveness, high logistics capabilities, and technological readiness are emerging as new production hubs. Additionally, restructuring is having significant welfare effects. Automation has increased reshoring and increased wage inequality between high- and low-skilled workers in offshoring countries, reduced export demand, and led to job and income losses in offshore countries. Furthermore, protectionist measures have, predictably, decreased welfare. U.S.-China trade tensions, for example, raised U.S. consumer costs, reduced product variety, generated small tariff revenue, and forced exporters to absorb most of the retaliatory tariffs. Looking ahead, more evidence is needed on the long-run effects from restructuring and its effects on welfare. Meanwhile, policy dialogue should focus on preventing trade fragmentation and mitigating adverse welfare effects.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "United States",
+        "code": "USA"
+      },
+      {
+        "name": "China",
+        "code": "CHN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      {
+        "name": "European Union",
+        "code": "-"
+      },
+      {
+        "name": "Japan",
+        "code": "JPN"
+      },
+      {
+        "name": "Viet Nam",
+        "code": "VNM"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific ; Latin America and Caribbean ; North America",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10955",
+    "url": "http://documents.worldbank.org/curated/en/099149110232472062/pdf/IDU137e9d4561c086140ba186ec18035f01b136d.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.916314",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

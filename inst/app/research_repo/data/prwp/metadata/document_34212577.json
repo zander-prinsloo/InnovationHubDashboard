@@ -1,0 +1,125 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Quantifying Economic Impacts of Trade Agreements with Heterogeneous Trade Elasticities",
+    "idno": "34212577",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34212577",
+      "title": "Quantifying Economic Impacts of Trade Agreements with Heterogeneous Trade Elasticities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kee,Hiau Looi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nicita,Alessandro"
+      }
+    ],
+    "date_created": "2023/12/11",
+    "date_available": "2023/12/11",
+    "date_published": "2023/12/11",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34212577"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-332bdf3d-f531-4383-b9a2-e812ebd9cdd1"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-332bdf3d-f531-4383-b9a2-e812ebd9cdd1"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10634"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Bilateral trade relationships between countries vary across products. Such heterogeneity poses challenges when assessing the economic impacts of trade agreements. This paper estimates bilateral trade elasticities at the product level and explores these impacts using a hypothetical no-deal Brexit as an example. The findings indicate that the European Union&#x2019;s demand for the United Kingdom&#x2019;s products is often less elastic compared to products from other trading partners. The findings also show substantial heterogeneity in the elasticities across products and a negative correlation between these elasticities and tariffs. These factors mitigate the extent of trade welfare losses compared to a scenario using homogeneous elasticities.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      },
+      {
+        "name": "European Union",
+        "code": "-"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GBR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10634",
+    "url": "http://documents.worldbank.org/curated/en/099658012112333292/pdf/IDU0332bdf3d0f531043830b9a20e812ebd9cdd1.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.476164",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Environmental determinants of child mortality in rural china : A competing risks approach : Environmental determinants of child mortality in rural china: A competing risks approach",
+    "idno": "3162244",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "3162244",
+      "title": "Environmental determinants of child mortality in rural china : A competing risks approach : Environmental determinants of child mortality in rural china: A competing risks approach",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jacoby, Hanan; Wang, Limin"
+      }
+    ],
+    "date_created": "2004/03/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "3162244"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05927"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05927"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "We use a competing risk model to analyze environmental determinants of child mortality using the 1992 China National Health Survey, which collects information on cause of death. Our primary question is whether taking into account of cause of death using a competing risk model, compared with a simple model of all-cause mortality, affects conclusions about the effectiveness of policy interventions. There are two potential analytical advantages in using cause of death information: (1) obtaining more accurate estimates and (2) validating causal relationships. Although, we do not find significant differences between estimates obtained from the competing risk model and those from simpler hazard models, we do find evidence supporting the causal interpretations of the effect of access to safe water on child mortality. Our analysis also suggests that a respondent-based health survey can be used to collect relatively reliable information on cause of death. Modifying future demographic and health survey (DHS) instruments to collect cause of death information inexpensively may be worthwhile for enhancing the analytical strength of the DHS.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3241",
+    "url": "http://documents.worldbank.org/curated/en/672461468748479656/pdf/wps32410China.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:28.063975",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

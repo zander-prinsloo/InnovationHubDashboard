@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Benchmarking costs of financial intermediation around the world",
+    "idno": "30147606",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30147606",
+      "title": "Benchmarking costs of financial intermediation around the world",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Calice,Pietro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zhou,Nan"
+      }
+    ],
+    "date_created": "2018/06/19",
+    "date_available": "2018/06/19",
+    "date_published": "2018/06/19",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30147606"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085c309dc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085c309dc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The costs of financial intermediation have important consequences for financial development. Using bank-level data for 160 countries during 2005-14, this paper analyzes the composition and sources of bank net interest margins. First, it uses an accounting decomposition framework to provide summary statistics on the size of net interest margins and highlight the cost and profit components in countries, regions, and income groups. Second, it uses regression analysis to examine the underlying bank-level, structural, macroeconomic, and institutional determinants of net interest margins. Finally, the paper uses the results of the econometric analysis to construct country-level bar charts of relative contributing factors to financial intermediation costs. The results provide evidence-based guidance on key areas of structural reforms to reduce the costs of financial intermediation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8478",
+    "url": "http://documents.worldbank.org/curated/en/675611529434481262/pdf/WPS8478.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.861075",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

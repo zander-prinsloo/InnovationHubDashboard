@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Sustainable development goals diagnostics : an application of network theory and complexity measures to set country priorities",
+    "idno": "30159595",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30159595",
+      "title": "Sustainable development goals diagnostics : an application of network theory and complexity measures to set country priorities",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "El-Maghrabi,M. H."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gable,Susanna Elisabeth"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Osorio-Rodarte,Israel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verbeek,Jos"
+      }
+    ],
+    "date_created": "2018/06/20",
+    "date_available": "2018/06/20",
+    "date_published": "2018/06/20",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30159595"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b085c3e6e0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b085c3e6e0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The United Nations 2030 Agenda and the Sustainable Development Goals are comprehensive and holistic in nature, as they includes 17 goals and 169 targets covering economic, social, and environmental dimensions of development. In this context, policy makers face the challenge of translating the global agenda into feasible yet ambitious development plans and policies. This paper presents a methodology that can assist policy makers in prioritizing the targets of the Sustainable Development Goals within their development plans, given elements of path dependency among the goals. The method used is based on the notion that existing patterns of development outcomes can reveal information about the commonalities in countries' unobservable Sustainable Development Goal delivery mechanisms. The ease with which capacities can be used between Sustainable Development Goals depends on their degree of commonality, conceptualized in the proximity between them. Related to this, the paper introduces Sustainable Development Goal centrality as a measure of connectedness. In addition, it defines a country's Sustainable Development Goals density to indicate how close an \"unsuccessful\" Sustainable Development Goals is to those Sustainable Development Goals in which a country is performing well. The paper concludes that countries should prioritize the Sustainable Development Goals that are within reach (high density) and/or offer higher scope for success through redeployment of existing capacities (high centrality). It applies the method to show how this can help countries prioritize implementation of the Sustainable Development Goals.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8481",
+    "url": "http://documents.worldbank.org/curated/en/270771529500170694/pdf/WPS8481.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:33.849156",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade liberalization and endogenous growth in a small open economy : a quantitative assessment",
+    "idno": "442781",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442781",
+      "title": "Trade liberalization and endogenous growth in a small open economy : a quantitative assessment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rutherford, Thomas F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Tarr,David"
+      }
+    ],
+    "date_created": "1998/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442781"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b04e0e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b04e0e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors develop a numerical endogenous growth model approximating an infinite horizon, which allows them to investigate the relationship between trade liberalization and economic growth. Economic theory generally implies that trade liberalization will improve economic growth, and the two phenomena are positively correlated in empirical tests, but the connection is not well-substantiated in numerical general equilibrium models. In the authors' model, an intermediate input affects aggregate output through a Dixit-Stiglitz function. Additional varieties provide the engine of growth in this framework and the existence of this mechanism magnifies the welfare costs. In this model with lump sum revenue replacement, reducing a tariff from 20 percent to 10 percent produces a welfare increase (in terms of Hicksian equivalent variation over the infinite horizon) of 10.7 percent of the present value of consumption in their central model, where the economy is assumed to be unable to borrow on international financial markets. If macroeconomic and financial reforms are in place that would allow international borrowing, however, the same tariff cut is estimated to result in a 37 percent increase in Hicksian equivalent variation. On the other hand, if inefficient replacement taxes must be used in an economy without the capacity to borrow internationally, the gains would be reduced to 4.7 percent. Larger tariff cuts--typical of those in many developing countries over the past 30 years--produce larger estimated welfare gains at least proportionate to the size of the cut. The authors apply the model to five developing countries and estimate the impact of the tariff changes those countries plan to undertake as part of Uruguay Round commitments. Because of the dynamic effects, estimated gains are considerably larger than those found in the literature on the impact of the Uruguay Round.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1970",
+    "url": "http://documents.worldbank.org/curated/en/943571468739141914/Trade-liberalization-and-endogenous-growth-in-a-small-open-economy-a-quantitative-assessment",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:44.506006",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

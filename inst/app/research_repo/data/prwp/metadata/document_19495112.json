@@ -1,0 +1,146 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The effect of aid on growth : evidence from a quasi-experiment",
+    "idno": "19495112",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "19495112",
+      "title": "The effect of aid on growth : evidence from a quasi-experiment",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galiani, Sebastian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack, Stephen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Xu, Lixin Colin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zou, Ben"
+      }
+    ],
+    "date_created": "2014/05/01",
+    "date_available": "2014/05/01",
+    "date_published": "2014/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "19495112"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b96f2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b96f2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The literature on aid and growth has not found a convincing instrumental variable to identify the causal effects of aid. This paper exploits an instrumental variable based on the fact that since 1987, eligibility for aid from the International Development Association (IDA) has been based partly on whether or not a country is below a certain threshold of per capita income. The paper finds evidence that other donors tend to reinforce rather than compensate for reductions in IDA aid following threshold crossings. Overall, aid as a share of gross national income (GNI) drops about 59 percent on average after countries cross the threshold. Focusing on the 35 countries that have crossed the income threshold from below between 1987 and 2010, a positive, statistically significant, and economically sizable effect of aid on growth is found. A one percentage point increase in the aid to GNI ratio from the sample mean raises annual real per capita growth in gross domestic product by approximately 0.35 percentage points. The analysis shows that the main channel through which aid promotes growth is by increasing physical investment.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6865",
+    "url": "http://documents.worldbank.org/curated/en/730581468159302660/pdf/WPS6865.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "poverty strategy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "analysis and monitoring",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:52.306469",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

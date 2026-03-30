@@ -1,0 +1,159 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fooled by the Cycle : Permanent versus Cyclical Improvements in Social Indicators",
+    "idno": "33858241",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33858241",
+      "title": "Fooled by the Cycle : Permanent versus Cyclical Improvements in Social Indicators",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Camarena Fonseca,Jose Andree"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Galeano,Luciana Maria"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Morano,Luis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Puig,Jorge Pablo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Riera-Crichton,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vegh,Carlos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Venturi,Lucila"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vuletin,Guillermo Javier"
+      }
+    ],
+    "date_created": "2022/06/30",
+    "date_available": "2022/06/30",
+    "date_published": "2022/06/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33858241"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-36f9c1f8-5bad-49de-832f-97bc16467c57"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-36f9c1f8-5bad-49de-832f-97bc16467c57"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10115"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the time series behavior of a set of widely-used social indicators and uncovers two important stylized facts. First, not all social indicators are created equal in terms of the importance of cyclical fluctuations. While some social indicators such as the unemployment rate and monetary poverty show large cyclical fluctuations, other social measures such as the Human Development Index are, by construction, dominated by long-run trends. Second, interestingly, yet not surprisingly, a large part of the cyclical fluctuations in social indicators can be explained by cyclical changes in income (proxied by real GDP per capita). For this reason, countries with large cyclical income volatility exhibit, in turn, large cyclical changes in some of these social indicators (particularly in those indicators that are more prone to cyclical fluctuations). Since cyclical income volatility is much larger in the developing world, these two critical stylized facts raise fundamental issues regarding the duration of improvements in social indicators (like the ones observed in many developing countries during the last commodity super-cycle). After a detailed conceptual and methodological discussion of these issues, and relying on a global sample of industrial and developing countries, this paper digs deeper into the importance of cyclical versus permanent components by extending the seminal contribution of Datt and Ravallion (1992). In particular, it shows that more than 40 percent of the fall in monetary poverty observed in Latin America and the Caribbean during the so-called Golden Decade can be attributed to cyclical changes in income. While in principle universal, these concerns are particularly relevant in the developing world where, compared to developed countries, output volatility is larger and driven, to a large extent, by external factors (such as commodity prices).",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10115",
+    "url": "http://documents.worldbank.org/curated/en/099501006302232080/pdf/IDU036f9c1f805bad049de0832f097bc16467c57.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.682938",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

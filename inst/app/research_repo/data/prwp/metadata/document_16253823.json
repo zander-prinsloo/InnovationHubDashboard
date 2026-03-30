@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "What has driven the decline of infant mortality in Kenya",
+    "idno": "16253823",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "16253823",
+      "title": "What has driven the decline of infant mortality in Kenya",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demombynes,Gabriel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Trommlerova,Sofia Karina"
+      }
+    ],
+    "date_created": "2012/05/01",
+    "date_available": "2012/05/01",
+    "date_published": "2012/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "16253823"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bb343"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bb343"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Substantial declines in infant and under-5 mortality have taken place in recent years in many countries in Sub-Saharan Africa. Kenya's infant mortality rate has fallen by 7.6 percent per year, the fastest rate of decline among the 20 countries in the region for which recent Demographic and Health Survey data is available. Kenya's rate of postneonatal deaths per 1,000 live births fell by more than half over a five-year period, dropping from 47 to 22, as measured using data from the 2003 and 2008-09 Demographic and Health Surveys. Among the possible causes of the decline are various targeted new public health initiatives and improved access to water and sanitation. A Oaxaca-Blinder decomposition using Demographic and Health Survey data shows that the increased ownership of insecticide-treated bednets in endemic malaria zones explains 39 percent of the decline in postneonatal mortality and 58 percent of the decline in infant mortality. Changes in other observable candidate factors do not explain substantial portions of the decline. The portion of the decline not explained may be associated with generalized trends such as the overall improvement in living standards that has taken place with economic growth. The widespread ownership of insecticide-treated bednets in areas of Kenya where malaria is rare suggests that better targeting of insecticide-treated bednet provision programs could improve the cost-effectiveness of such programs.",
+    "ref_country": [
+      {
+        "name": "Kenya",
+        "code": "KEN"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6057",
+    "url": "http://documents.worldbank.org/curated/en/718831468048273762/pdf/WPS6057.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:57.994445",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

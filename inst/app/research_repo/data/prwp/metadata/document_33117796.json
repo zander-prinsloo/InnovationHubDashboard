@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Robots and Export Quality",
+    "idno": "33117796",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33117796",
+      "title": "Robots and Export Quality",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "DeStefano,Timothy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Timmis,Jonathan David"
+      }
+    ],
+    "date_created": "2021/05/27",
+    "date_available": "2021/05/27",
+    "date_published": "2021/05/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33117796"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08863591c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088635612"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9678"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Robots are rapidly becoming a key part of manufacturing in developed and emerging economies. This paper examines a new channel for how automation can affect international trade: quality upgrading. Automation can reduce production errors, particularly of repetitive processes, leading to higher quality products. The effects of robot use on export quality are estimated, by combining cross-country and cross-industry data on industrial robots with detailed Harmonized System 10-digit trade data. Robot diffusion in (preexisting) foreign customers is used as an instrumental variable to predict robot adoption in the home country-industry. The findings show that robot diffusion leads to increases in the quality of exported products. Quality improvements are predominantly driven by the upgrading of developing country exports; and within countries, quality improvements are driven by upgrading of (initially) lower-quality exports of developed and developing countries. The paper also finds some differences in the type of robots—sophisticated or more basic—associated with quality gains in developing and developed economies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9678",
+    "url": "http://documents.worldbank.org/curated/en/915351622137193881/pdf/Robots-and-Export-Quality.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:20.185582",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

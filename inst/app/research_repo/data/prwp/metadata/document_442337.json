@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Microdeterminants of consumption, poverty, growth, and inequality in Bangladesh",
+    "idno": "442337",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442337",
+      "title": "Microdeterminants of consumption, poverty, growth, and inequality in Bangladesh",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Wodon,Quentin T."
+      }
+    ],
+    "date_created": "1999/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442337"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05ac7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05ac7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using household data from five successive national surveys, the author analyzes the microdeterminants of (and changes in) consumption, poverty, growth, and inequality in Bangladesh from 1983 to 1996. Education, demographics, land ownership, occupation, and geographic location all affect consumption and poverty. The gains in per capita consumption associated with many of these household characteristics tend to be stable over time. Returns to demographics (variables in household size) have the greatest impact on growth, perhaps because of improving employment opportunities for women. Education (in urban areas) and land (in rural areas) contribute most to measures of between-group inequality. Location takes second place, in both urban and rural areas. The author introduces the concept of conditional between-group inequality. Existing group decompositions of the Gini index along one variable do not control for other characteristics correlated with that variable. Conditional between-group Ginis avoid this pitfall. He also shows how to use unconditional and conditional between-group Ginis for simulating policies.",
+    "ref_country": [
+      {
+        "name": "Bangladesh",
+        "code": "BGD"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2076",
+    "url": "http://documents.worldbank.org/curated/en/511651468768560822/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:42.649762",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

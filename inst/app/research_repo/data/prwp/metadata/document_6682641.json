@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Diversification, innovation, and imitation inside the Global Technological Frontier",
+    "idno": "6682641",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "6682641",
+      "title": "Diversification, innovation, and imitation inside the Global Technological Frontier",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Klinger,Bailey"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lederman,Daniel"
+      }
+    ],
+    "date_created": "2006/04/01",
+    "date_available": "2006/03/24",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "6682641"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b2d5c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b2d5c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Recent research highlights the relationship between economic development and productive diversification, which may be hindered by market failures. After identifying stages of diversification in disaggregated export data, the authors develop a metric for the flows of export \"discoveries,\" or inside-the-frontier innovations in developing countries. They then explore the empirical relationship between economic development and (1) inside-the-frontier-innovation as reflected by the introduction of new export products, (2) export diversification measured by an index of export-revenue concentration, and (3) on-the-frontier innovation as reflected in patents. The data suggest, unsurprisingly, that inside-the-frontier innovation is more common among poor countries than among industrial economies. Overall export diversification increases at low levels of development but declines with development after a high-income point, whereas patenting activity rises exponentially with development. The data also suggest that the relationship between the frequency of export discoveries and economic development is not due to changes in the industrial composition of exports. The authors use a simple model of innovation and imitation to test the hypothesis that the threat of imitation inhibits the discovery of new exports. Econometric evidence suggests that the frequency of export discoveries across countries rises with the returns of export activities (proxied by exogenous export growth during the sample period), but the magnitude of this effect increases with barriers to entry. The count-data estimations deal with unobserved international heterogeneity, and the results are robust to various changes in the specification of the empirical model. This finding supports the hypothesis that market failures inhibit inside-the-frontier innovation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3872",
+    "url": "http://documents.worldbank.org/curated/en/708091468161636329/pdf/wps3872.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:22.382046",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Household welfare measurement and the pricing of basic services",
+    "idno": "438644",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "438644",
+      "title": "Household welfare measurement and the pricing of basic services",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hentschel, Jesko"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw, Peter"
+      }
+    ],
+    "date_created": "1998/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "438644"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b058e4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b058e4"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The authors discuss when and how to adjust expenditures derived from household surveys to reflect the consumption of basic services. They discuss simple adjustment methods for markets that are subsidized, rationed, or subject to increasing marginal tariff pricing. Using Ecuador as an example, they show how incorporating adjustments in markets for water, electricity, and cooking gas can significantly alter estimates of poverty and are therefore important to comprehensive measure of welfare. For Ecuador, adjustments must be made for water, for example, because the nonpoor urban population often has access to subsidized public water and the poor depend on the private market; adjustments must be made for electricity because increasing marginal tariff rates lead to different prices per kilowatt-hour (kwh). Adjustments need not be made for cooking gas, which is highly subsidized in Ecuador, because the amount consumers use is not rationed. The authors compare the sensitivity of poverty indicators and the poverty profile in Ecuador to adjustments in nominal expenditures for basic services in Ecuador. The poverty indicators (headcount and the poverty gap for extreme poverty) showed changes that were statistically significant. The results dramatize how important it is to carefully analyze markets for basic services when deriving welfare measures from household surveys. Such adjustments, by improving the measure of welfare, can also encourage wider acceptance and use of consumption as welfare indicator and a guide for developing public policy.",
+    "ref_country": [
+      {
+        "name": "Ecuador",
+        "code": "ECU"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2006",
+    "url": "http://documents.worldbank.org/curated/en/940751468751760044/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:44.092870",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

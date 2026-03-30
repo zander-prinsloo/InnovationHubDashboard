@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Trade, Global Value Chains and GDP Comovemement : An Empirical Investigation",
+    "idno": "31651603",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31651603",
+      "title": "Trade, Global Value Chains and GDP Comovemement : An Empirical Investigation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Soyres,Francois Michel Marie Raphael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gaillard,Alexandre Gwen Simon"
+      }
+    ],
+    "date_created": "2019/12/18",
+    "date_available": "2019/12/18",
+    "date_published": "2019/12/18",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31651603"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08743729f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08743729f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides up-to-date characterization of the association between trade and GDP comovement -- also called the trade comovement slope -- for 150 countries from 1962 to 2011. The paper shows that trade is significantly linked to more GDP correlation, either directly through bilateral trade, or indirectly when two countries trade with similar partners. This trade network effect is strong for countries in all income groups and provides an additional channel through which GDP fluctuations propagate through trade linkages. It also shows that countries of all income groups become more synchronized with high income countries when the content of their trade is more tilted towards inputs as opposed to final goods. Related to this point, the paper also uncovers a strong link between the stickiness of trade relationships and the extent to which countries experience synchronized GDP comovement. The results are robust to a wide range of different measures, to the inclusion of many fixed effects, changes in the sectoral composition of GDP, financial controls capturing crosscountry investments as well as bilateral financial claims.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9091",
+    "url": "http://documents.worldbank.org/curated/en/291361576685759900/pdf/Trade-Global-Value-Chains-and-GDP-Comovemement-An-Empirical-Investigation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:24.903266",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

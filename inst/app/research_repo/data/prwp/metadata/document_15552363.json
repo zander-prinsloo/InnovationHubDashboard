@@ -1,0 +1,153 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Intra-generational mobility and repeated cross-sections : a three-country validation exercise",
+    "idno": "15552363",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15552363",
+      "title": "Intra-generational mobility and repeated cross-sections : a three-country validation exercise",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cruces,Guillermo A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lanjouw,Peter F."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lucchetti,Leonardo Ramiro"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Perova,Elizaveta"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Vakis,Renos"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Viollaz,Mariana"
+      }
+    ],
+    "date_created": "2011/12/01",
+    "date_available": "2011/12/01",
+    "date_published": "2011/12/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15552363"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bc61f"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bc61f"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper validates a recently proposed method to estimate intra-generational mobility through repeated cross-sectional surveys. The technique allows the creation of a \"synthetic panel\" -- done by predicting future or past household income using a set of simple modeling and error structure assumptions -- and thus permits the estimation of lower and upper bounds on directional mobility measures. The authors validate the approach in three different settings where good panel data also exist (Chile, Nicaragua, and Peru). In doing so, they also carry out a number of refinements to the validation procedure. The results are broadly encouraging: the methodology performs well in all three settings, especially in cases where richer model specifications can be estimated. The technique does equally well in predicting short and long-term mobility patterns and is robust to a broad set of additional \"stress\" and sensitivity tests. Overall, the paper lends support to the application of this approach to settings where panel data are absent.",
+    "ref_country": [
+      {
+        "name": "Peru",
+        "code": "PER"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NIC"
+      },
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5916",
+    "url": "http://documents.worldbank.org/curated/en/109661468076434298/pdf/WPS5916.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:01.997028",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

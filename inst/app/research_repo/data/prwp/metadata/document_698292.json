@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Capital flows and long-term equilibrium real exchange rates in Chile",
+    "idno": "698292",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698292",
+      "title": "Capital flows and long-term equilibrium real exchange rates in Chile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Elbadawi, Ibrahim A."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soto, Raimundo"
+      }
+    ],
+    "date_created": "1994/06/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698292"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5989"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5989"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "In the context of an empirical model, the authors examine the impact of capital flows, among other fundamentals, on long-term exchange rates in Chile. The real exchange rate and its fundamentals were found to be cointegrated during 1960-92. This cointegration allows a reinterpretation of uni-equatorial estimates of the equilibrium real exchange rate (ERER) to be consistent with long-run forward-looking behavioral models. It also permits the estimation of an error-correction model capable of disentangling short-run from long-run shocks in observed movements of the ERER. The nonstationary nature of the fundamentals allows one to decompose innovations into permanent and transitory components - to get an empirical measure of the sustainability of the fundamental with which the ERER is determined. In general, the estimate of the cointegration of the ERER and its corresponding dynamic error-correction specification corroborates the theoretical model and produces fairly consistent results. The derived ERER index and the corresponding real exchange rate misalignment (for given sustainable values of the fundamentals) successfully reproduce the salient episodes in Chile's recent macroeconomic history. Capital flows are disaggregated into four components: 1) short-term capital flows; 2) long-term capital flows; 3) portfolio investment; and 4) foreign direct investment. As expected from economic theory, short-term capital flows and portfolio investment were found to have no effect on the ERER (although they can affect the real exchange rate in the short run). But long-term capital inflows and foreign direct investment have a significant appreciating effect on the ERER. To the extent that the recent inflow of capital to Chile is dominated by long-term capital flows that are judged to be sustainable, an important part of the ensuing appreciation of the real exchange rate is consistent with equilibrium behavior - reducing the need for counterbalancing exchange rate on macroeconomic policies.",
+    "ref_country": [
+      {
+        "name": "Chile",
+        "code": "CHL"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1306",
+    "url": "http://documents.worldbank.org/curated/en/777071468743133170/Capital-flows-and-long-term-equilibrium-real-exchange-rates-in-Chile",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.023093",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

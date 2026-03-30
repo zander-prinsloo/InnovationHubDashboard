@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Profitability of Fertilizer Use in Sub-Saharan Africa : Evidence from Malawi",
+    "idno": "34368381",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34368381",
+      "title": "Profitability of Fertilizer Use in Sub-Saharan Africa : Evidence from Malawi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Darko,Francis Addeah"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ricker-Gilbert,Jacob Edward"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      }
+    ],
+    "date_created": "2024/07/24",
+    "date_available": "2024/07/24",
+    "date_published": "2024/07/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34368381"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-3eceb7b0-86d9-4393-a526-b92d033f2fcf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-3eceb7b0-86d9-4393-a526-b92d033f2fcf"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10859"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper estimates the profitability of inorganic fertilizer use in maize production in Malawi. It employs a two-wave, nationally representative panel of data on smallholder households and plots to estimate household fixed effects, plot fixed effects, and multilevel regressions. The results suggest that inorganic fertilizer use is generally unprofitable at prevailing market prices when, assuming that farmers incur positive transaction costs in the use of fertilizer. The low fertilizer profitability is driven by low nitrogen use efficiency, the kilograms of maize produced per kilogram of nitrogen, which is estimated to range from 9.2 to 12.1. For fertilizer use to be profitable, the nitrogen use efficiency would have to increase by at least 137 percent (from 11.89) if maize output is valued at the farmgate price and by 50 percent (from 11.89) if maize is valued at the lean season market price. For farmers who receive the fertilizer subsidy, it improves the profitability of fertilizer use by increasing the maize-nitrogen price ratio at all rates of subsidy (0 to 100 percent). However, unless farmers can store their produce and sell during the lean season when the output price is relatively higher, they would be better off by at least MKW 66.16 (US$0.18) per kilogram of subsidized nitrogen with the cash equivalent of the subsidy than with subsidized fertilizer. The analysis also finds that, compared to the current rate of nitrogen application, the government recommended rate of application is between 116 and 119 percent more profitable on smallholder fields.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10859",
+    "url": "http://documents.worldbank.org/curated/en/099431307242421929/pdf/IDU13eceb7b0186d9143931a5261b92d033f2fcf.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.679083",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

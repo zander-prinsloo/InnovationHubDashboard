@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Revisiting the impact of the Brazilian SIMPLES program on firms' formalization rates",
+    "idno": "26078745",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26078745",
+      "title": "Revisiting the impact of the Brazilian SIMPLES program on firms' formalization rates",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Piza,Caio"
+      }
+    ],
+    "date_created": "2016/03/16",
+    "date_available": "2016/03/16",
+    "date_published": "2016/03/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26078745"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08421233b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0842072dd"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "A recent survey of rigorous impact evaluations of programs to help small and medium-size firms to formalize indicates that the programs do not seem to work for most informal firms. One of the few exceptions finds large effects of a tax simplification program in Brazil called SIMPLES on firms' formalization rates and performance indicators. Using the same data set but a different identification strategy, another study concludes that the program had limited effect on formalization rates. The aim of this paper is twofold. First, it revisits the two studies to reconcile their conflicting conclusions. Second, it investigates the validity of the identification strategy of both studies. The findings suggest that the conflicting results between the two studies are caused by the dates each used to identify when the program was put into effect. A robustness check indicates that data heaping and seasonality around November cast doubts on the identification strategy used in both studies to estimate the effect of this particular program.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7605",
+    "url": "http://documents.worldbank.org/curated/en/901421467995383598/pdf/WPS7605.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.502331",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

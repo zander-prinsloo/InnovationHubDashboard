@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Are the children of uneducated farmers doubly disadvantaged farm, nonfarm and intergenerational educational mobility in rural China",
+    "idno": "25206357",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "25206357",
+      "title": "Are the children of uneducated farmers doubly disadvantaged farm, nonfarm and intergenerational educational mobility in rural China",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Emran,M. Shahe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Sun,Yan - GSP05"
+      }
+    ],
+    "date_created": "2015/10/26",
+    "date_available": "2015/10/26",
+    "date_published": "2015/10/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "25206357"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b083172675"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08316e9d3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper relaxes the single-factor model of intergenerational educational mobility and analyzes heterogeneous effects of family background on children’s education in villages, with a focus on the role of nonfarm occupations. The analysis uses data from rural China that cover three generations, and are not subject to coresident sample selection. Evidence from a battery of econometric approaches shows that the mean effects of parents’ education miss substantial heterogeneity across farm-nonfarm occupations. Having nonfarm parents, in general, has positive effects, but children of low educated non-farmer parents (with higher income) do not enjoy any advantages over the children of more educated farmer parents. Estimates of cross-partial effects without imposing functional form show little evidence of complementarity between parental education and nonfarm occupation. The role of family background remains relatively stable across generations for girls, but for boys, family background has become more important after the market reform. The paper explores causality using three approaches: Rosenbaum sensitivity analysis, minimum biased inverse propensity weighted estimator, and heteroscedasticity-based identification. The analysis results suggest that the advantages of having more educated parents, especially with nonfarm occupations, are unlikely to be due solely to selection on genetic transmissions. However, the estimated positive effects of nonfarm over farmer parents among the low educated households may be driven entirely by moderate selection on genetic endowment.",
+    "ref_country": [
+      {
+        "name": "China",
+        "code": "CHN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7459",
+    "url": "http://documents.worldbank.org/curated/en/795151468186250534/pdf/WPS7459.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:44.703713",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

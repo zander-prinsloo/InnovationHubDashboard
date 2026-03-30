@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Experimental Evaluation of a Financial Education Program in Elementary and Middle School Grades",
+    "idno": "34103868",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34103868",
+      "title": "Experimental Evaluation of a Financial Education Program in Elementary and Middle School Grades",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Piza,Caio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Furtado,Isabela Brandao"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Amorim,Vivian De Fatima"
+      }
+    ],
+    "date_created": "2023/06/28",
+    "date_available": "2023/06/28",
+    "date_published": "2023/06/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34103868"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-a9d85419-3c9c-418a-a7dc-83fcdc9c6149"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-a9d85419-3c9c-418a-a7dc-83fcdc9c6149"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10511"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates whether providing financial education in elementary and middle school grades improves students' financial proficiency and actual behavior. It uses a cluster randomized control trial to evaluate a pilot program implemented in 101 Brazilian municipal schools in 2015. The findings show positive impacts on financial proficiency, mainly among middle school students, and suggestive evidence of improvements in short-term behavioral outcomes. However, the analysis indicates that the program did not impact students' school achievements in both the short and longer terms, which suggests that the program's effects were not strong enough to shift students' behavior decisions.",
+    "ref_country": [
+      {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Latin America & Caribbean",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10511",
+    "url": "http://documents.worldbank.org/curated/en/099243006282324734/pdf/IDU0a9d8541903c9c0418a0a7dc083fcdc9c6149.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.720101",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

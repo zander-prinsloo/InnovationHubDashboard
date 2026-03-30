@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Schooling, violent conflict, and gender in Burundi",
+    "idno": "17615182",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17615182",
+      "title": "Schooling, violent conflict, and gender in Burundi",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Verwimp, Philip"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Bavel, Jan"
+      }
+    ],
+    "date_created": "2013/04/01",
+    "date_available": "2013/04/01",
+    "date_published": "2013/04/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17615182"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b5a70"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b5a70"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper investigates the effect of exposure to violent conflict on human capital accumulation in Burundi. It combines a nationwide household survey with secondary sources on the location and timing of the conflict. Only 20 percent of the birth cohorts studied (1971-1986) completed primary education. Depending on the specification, the probability of completing primary schooling for a boy exposed to violent conflict declines by 7 to 17 percentage points compared to a nonexposed boy, with a decline of 11 percentage points in the preferred specification. In addition, exposure to violent conflict reduces the gender gap in schooling, but only for girls from nonpoor households. Forced displacement is one of the channels through which conflict affects schooling. The results are robust to various specifications and estimation methods.",
+    "ref_country": [
+      {
+        "name": "Burundi",
+        "code": "BDI"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6418",
+    "url": "http://documents.worldbank.org/curated/en/861501468015611707/pdf/wps6418.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.790270",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

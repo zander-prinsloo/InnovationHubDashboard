@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does Rainfall Matter for Economic Growth Evidence from Global Sub-National Data (1990-2014",
+    "idno": "31165590",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "31165590",
+      "title": "Does Rainfall Matter for Economic Growth Evidence from Global Sub-National Data (1990-2014",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Damania,Richard"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Desbureaux,Sebastien Gael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Zaveri,Esha Dilip"
+      }
+    ],
+    "date_created": "2019/06/17",
+    "date_available": "2019/06/17",
+    "date_published": "2019/06/17",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "31165590"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086dc1b30"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086dc1b30"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Much micro-econometric evidence suggests that precipitation has wide ranging impacts on vital economic indicators such as agricultural yields, human capital, and even conflict. And yet paradoxically most macro-econometric evidence (especially in the climate economy literature) finds that precipitation has no robust and significant impact on various measures of aggregate economic output. This paper argues that spatial aggregation of weather at the country level explains this result. The paper uses annual subnational gross domestic product data to show a concave relationship between precipitation and local gross domestic product growth between 1990 and 2014. It then demonstrates that when the data are aggregated at larger spatial scales, the impact decreases and eventually vanishes. The impact of precipitation on aggregate economic activity is predominantly felt in developing countries; it is insignificant in developed countries. Agriculture is found to be the dominant pathway. The results have significant consequences for measuring the economic impacts of climate change.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8888",
+    "url": "http://documents.worldbank.org/curated/en/368581560778208239/pdf/Does-Rainfall-Matter-for-Economic-Growth-Evidence-from-Global-Sub-National-Data-1990-2014.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:30.404421",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

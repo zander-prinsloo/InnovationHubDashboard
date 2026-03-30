@@ -1,0 +1,118 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Perils of simulation : parallel streams and the case of stata's rnormal command",
+    "idno": "17010048",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17010048",
+      "title": "Perils of simulation : parallel streams and the case of stata's rnormal command",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozier,Owen"
+      }
+    ],
+    "date_created": "2012/11/01",
+    "date_available": "2012/11/28",
+    "date_published": "2012/11/28",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17010048"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828b695a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828b695a"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Large-scale simulation-based studies rely on at least three properties of pseudorandom number sequences: they behave in many ways like truly random numbers; they can be replicated; and they can be generated in parallel. There has been some divergence, however, between empirical techniques employing random numbers, and the standard battery of tests used to validate them. A random number generator that passes tests for any single stream of random numbers may fail the same tests when it is used to generate multiple streams in parallel. The lack of systematic testing of parallel streams leaves statistical software with important potential vulnerabilities. This paper shows one such vulnerability in Stata's rnormal function that went unnoticed for almost four years, and how to detect it. It then shows practical implications for the use of parallel streams in existing software.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6278",
+    "url": "http://documents.worldbank.org/curated/en/369471468333566549/pdf/wps6278.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "education for all",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:56.536017",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

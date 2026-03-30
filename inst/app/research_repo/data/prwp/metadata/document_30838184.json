@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of the Minimum Wage on Firm Destruction, Employment and Informality",
+    "idno": "30838184",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30838184",
+      "title": "The Impact of the Minimum Wage on Firm Destruction, Employment and Informality",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bossavie,Laurent Loic Yves"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Acar,Aysenur"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Makovec,Mattia"
+      }
+    ],
+    "date_created": "2019/02/15",
+    "date_available": "2019/02/16",
+    "date_published": "2019/02/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30838184"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d742d6"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08698aa32"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-8749"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper studies the effects of a large increase in the minimum wage on the destruction of formal firms, and the associated impacts on employment, wages, and informality in a developing economy. It examines the ramifications of a 33 percent nominal increase in the minimum wage that took effect in Turkey in 2016. It utilizes an exceptionally rich, employer-employee-linked dataset that shows the wage distribution within firms, which enables to measure the degree of firms’ minimum-wage exposure, and to estimate causal effects using a difference-in-differences approach. The paper shows that raising the minimum wage substantially increased the destruction of formal firms, leading to a fall in the number of formal firms in the economy. Effects are concentrated among small firms with low levels of productivity; highly productive firms are unaffected. The minimum-wage increase had negative effects on formal employment that largely originated through firm destruction, rather than through cuts in formal employment within surviving firms. Among workers who lost jobs in firms that ultimately exited, only a minority had obtained new employment a year later. The minimum-wage increase was accompanied by a rise in inactivity and unemployment, rather than growth of informal employment, suggesting that workers who lost formal employment mostly failed to find new jobs one year after the minimum wage hike, even informally. While the higher minimum wage had large, positive effects on the wages of formally employed workers, limited effects on the wages of informal workers are reported.",
+    "ref_country": [
+      {
+        "name": "Türkiye",
+        "code": "TUR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8749",
+    "url": "http://documents.worldbank.org/curated/en/922261550256034160/pdf/Do-Firms-Exit-the-Formal-Economy-after-a-Minimum-Wage-Hike.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.452592",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

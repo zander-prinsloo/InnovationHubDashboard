@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Fiscal Risks from Early Termination of Public-Private Partnerships in Infrastructure",
+    "idno": "33759021",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33759021",
+      "title": "Fiscal Risks from Early Termination of Public-Private Partnerships in Infrastructure",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Herrera Dappe,Matias"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Melecky,Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Turkgulu,Burak"
+      }
+    ],
+    "date_created": "2022/03/15",
+    "date_available": "2022/03/15",
+    "date_published": "2022/03/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33759021"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088d2cead"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088d2cead"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9972"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Public-private partnerships (PPPs) in infrastructure provision have expanded around the world since the early 1990s. Well-structured PPPs can unleash efficiency gains, but PPPs create liabilities for governments, including contingent ones. This paper assesses the fiscal risks from contingent liabilities from early termination of PPPs in a sample of developing countries. It analyzes the drivers of early termination and identifies systematic contractual, institutional, and macroeconomic factors that can help predict the probability that a PPP project will be terminated early, using a flexible parametric hazard regression. Using the probability distributions from the regression analysis, it simulates scenarios of fiscal risks for governments from early termination of PPPs in the electricity and transport sectors, adopting a value-at-risk approach. The findings indicate that the rate of early terminations decreases with direct government support, greater constraints on executive power, and the award of the PPP by subnational governments; it increases with project size and macro-financial shocks. The simulations show that fiscal risks from infrastructure PPP portfolios are not negligible in some countries, reaching as high as 2.8 percent of GDP. A severe macro-financial shock substantially increases the estimates, with the value at risk the year after the shock 11–20 times larger.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9972",
+    "url": "http://documents.worldbank.org/curated/en/750981647367854667/pdf/Fiscal-Risks-from-Early-Termination-of-Public-Private-Partnerships-in-Infrastructure.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:17.776713",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

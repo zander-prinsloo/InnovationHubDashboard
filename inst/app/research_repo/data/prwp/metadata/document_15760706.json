@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Simulating the impact of the 2009 financial crisis on welfare in Latvia",
+    "idno": "15760706",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15760706",
+      "title": "Simulating the impact of the 2009 financial crisis on welfare in Latvia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ajwad,Mohamed Ihsan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Azam,Mehtabul"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Haimovich Paz,Francisco"
+      }
+    ],
+    "date_created": "2012/01/01",
+    "date_available": "2012/01/01",
+    "date_published": "2012/01/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15760706"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c12a7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c12a7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This note details simulations of the distributional impacts of the 2009 financial crisis on households in Latvia. It uses household survey data collected prior to the crisis and simulates the impact of the growth slowdown. The simulations show that Latvia experienced a sharp rise in poverty, widening of the poverty gap, and a rise in income inequality due to the economic contraction in 2009. The 18 percent contraction in gross domestic product (affecting mainly trade hotels and restaurants, construction, and manufacturing) likely led the poverty head count to increase from 14.4 percent in 2008 to 20.2 percent in 2009. The poverty gap, which measures the national poverty deficit, was simulated to increase from 5.9 percent in 2008 to 8.3 percent in 2009. The analysis finds that the results are robust to most assumptions except post-layoff incomes, which substantially mitigated household welfare. The authors also simulate the impact of Latvia's Emergency Social Safety Net components and find that the Safety Net likely mitigated crisis impacts for many beneficiaries. The simulations measure only direct short-run impacts; hence, they do not take into account general equilibrium effects. Post-crisis income data from a different data source suggest that poverty rates increased by 8.0 percentage points between 2008 and 2009. As a result, the authors suggest that their ex-ante simulation performs reasonably well and is a useful tool to identify vulnerable groups during the early stages of a crisis.",
+    "ref_country": [
+      {
+        "name": "Latvia",
+        "code": "LVA"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5960",
+    "url": "http://documents.worldbank.org/curated/en/704511468276353061/pdf/WPS5960.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:01.741786",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Reconceptualizing Global Multidimensional Poverty Measurement, with Illustration on Nigerian Data",
+    "idno": "34173629",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34173629",
+      "title": "Reconceptualizing Global Multidimensional Poverty Measurement, with Illustration on Nigerian Data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Decerf,Benoit Marie A"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fonton,Kike Yra"
+      }
+    ],
+    "date_created": "2023/10/02",
+    "date_available": "2023/10/02",
+    "date_published": "2023/10/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34173629"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-894308b5-6a17-4cd6-91f1-302ac764ccdb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-894308b5-6a17-4cd6-91f1-302ac764ccdb"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10577"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Multidimensional poverty measures can in theory make well-being comparisons that are less biased than those solely based on monetary poverty. However, multidimensional poverty measures suffer in practice from limitations that have led to criticisms. This paper presents the case for multidimensional poverty measures, two criticisms against their current implementations, as well as recently proposed solutions to improve on these criticisms. The paper develops a method for implementing these solutions in practice. The resulting well-being indicator is used to compare well-being across Nigerian states in 2019. This empirical illustration suggests that these solutions may substantially affect well-being comparisons. The paper also quantifies the potential bias inherent to comparing well-being solely based on monetary poverty. The results find substantially different well-being comparisons between the proposed well-being indicator and monetary poverty even though monetary poverty was (i) high in Nigeria in 2019 and (ii) very heterogeneously distributed across Nigerian states; and (iii) is integrated as one component of the proposed well-being indicator.",
+    "ref_country": [
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10577",
+    "url": "http://documents.worldbank.org/curated/en/099345010022340305/pdf/IDU1894308b516a1714cd6191f11302ac764ccdb.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:10.011672",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

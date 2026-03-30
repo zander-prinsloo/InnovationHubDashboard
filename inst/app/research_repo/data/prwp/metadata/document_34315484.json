@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "FTT-FLEX : Flexible Technology Diffusion Analysis Tool for Data Poor Countries",
+    "idno": "34315484",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34315484",
+      "title": "FTT-FLEX : Flexible Technology Diffusion Analysis Tool for Data Poor Countries",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Unnada Chewpreecha"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Dennig,Francis"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hansen,Ib"
+      }
+    ],
+    "date_created": "2024/05/08",
+    "date_available": "2024/05/08",
+    "date_published": "2024/05/08",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34315484"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-17d8923a-2266-4d42-96d1-5fb48f7c219b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-17d8923a-2266-4d42-96d1-5fb48f7c219b"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10767"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "AbstractTo achieve substantial emission reductions, widespread low-carbon technology adoption is vital. The process by which new technologies are developed and adopted and how their costs evolve is critical to understanding decarbonization. Modeling of this process requires a tool that realistically describes several phenomena related to technology adoption in different sectors, including technology diffusion, investment decisions, evolution of technology costs, and technology lock-in, among others. This paper introduces FTT-FLEX, a simplification of the Future Technology Transformation model. FTT-FLEX is suitable for application as a single-country, standalone tool or in connection with a macroeconomic model. FTT-FLEX captures the core country-level of features of Future Technology Transformation (knowledge spillovers as the driver of technology cost and inertia in the adoption of new technologies) as they pertain to an individual country and greatly reduces the data required as compared with the global Future Technology Transformation model. As presented, FTT-FLEX is a natural complement to country-specific macroeconomic models that analyze the decarbonization of key emitting sectors in small developing countries. The utility of FTT-FLEX is demonstrated by a decarbonization analysis for the power sector in Guinea-Bissau.",
+    "ref_country": [
+      {
+        "name": "Guinea-Bissau",
+        "code": "GNB"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10767",
+    "url": "http://documents.worldbank.org/curated/en/099735005082423970/pdf/IDU117d8923a1226614d42196d115fb48f7c219b.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.485838",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

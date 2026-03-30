@@ -1,0 +1,153 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Radio frequency (un)identification : results from a proof-of-concept trial of the use of RFID technology to measure microenterprise turnover in Sri Lanka",
+    "idno": "20299285",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "20299285",
+      "title": "Radio frequency (un)identification : results from a proof-of-concept trial of the use of RFID technology to measure microenterprise turnover in Sri Lanka",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Herath, Dammika"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mckenzie,David J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pathak,Yuvraj"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "De Mel,Suresh"
+      }
+    ],
+    "date_created": "2014/10/01",
+    "date_available": "2014/10/01",
+    "date_published": "2014/10/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "20299285"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828c4cb0"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828c4cb0"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Accurate measurement of stock levels, turnover, and profitability in microenterprises in developing countries is difficult because the majority of these firms do not keep detailed records. This paper tests the use of radio frequency identification tags as a means of objectively measuring stock levels and stock flow in small retail firms in Sri Lanka. In principle, the tags offer the potential to track stock movements accurately. The paper compares the stock counts obtained from RFID reads to physical stock counts and to survey responses. There are three main findings. First, current RFID-technology is more difficult to use, and more time-consuming to employ, than had been envisaged. Second, the technology works reasonably well for paper products, but very poorly for most products sold by microenterprises: on average only about one-quarter of the products tagged could be read and there was considerable day-to-day variation in read-efficiency. Third, a comparison of survey responses and physical stock-takes shows much higher accuracy for survey measures. As a result, the study concludes that this technology is currently unsuitable for improving stock measurement in microenterprises, except perhaps for a few products.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7064",
+    "url": "http://documents.worldbank.org/curated/en/746811468114242721/pdf/WPS7064.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "micro",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "small and medium enterprise support",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "financial consumer protection and financial literacy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:48.133410",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

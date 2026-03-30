@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Who on Earth Can Work from Home",
+    "idno": "32291465",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32291465",
+      "title": "Who on Earth Can Work from Home",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Garrote Sanchez,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gomez Parra,Nicolas"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozden,Caglar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rijkers,Bob"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Viollaz,Mariana"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Winkler,Hernan Jorge"
+      }
+    ],
+    "date_created": "2020/07/31",
+    "date_available": "2020/07/31",
+    "date_published": "2020/07/31",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32291465"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087c32d34"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087c32d34"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents new estimates of the share of jobs that can be performed from home. The analysis is based on the task content of occupations, their information and communications technology requirements, and the availability of internet access by country and income groupings. Globally, one of every five jobs can be performed from home. The ability to telework is correlated with income. In low-income countries, only one of every 26 jobs can be done from home. Failing to account for internet access yields upward biased estimates of the resilience of poor countries, lagging regions, and poor workers. Since better paid workers are more likely to be able to work from home, COVID-19 is likely to exacerbate inequality, especially in richer countries where better paid and educated workers are insulated from the shock. The overall labor market burden of COVID-19 is bound to be larger in poor countries, where only a small share of workers can work from home and social protection systems are weaker. Across the globe, young, poorly educated workers and those on temporary contracts are least likely to be able to work from home and more vulnerable to the labor market shocks from COVID-19.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9347",
+    "url": "http://documents.worldbank.org/curated/en/225881596202941026/pdf/Who-on-Earth-Can-Work-from-Home.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:22.995279",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Program Targeting with Machine Learning and Mobile Phone Data : Evidence from an Anti-Poverty Intervention in Afghanistan",
+    "idno": "33950893",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33950893",
+      "title": "Program Targeting with Machine Learning and Mobile Phone Data : Evidence from an Anti-Poverty Intervention in Afghanistan",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aiken,Emily L."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bedoya Arguelles,Guadalupe"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Blumenstock,Joshua Evan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Coville,Aidan"
+      }
+    ],
+    "date_created": "2022/12/06",
+    "date_available": "2022/12/06",
+    "date_published": "2022/12/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33950893"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b56d8502-9a2e-4061-a5d8-19aa2250f2d4"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b56d8502-9a2e-4061-a5d8-19aa2250f2d4"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10252"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Can mobile phone data improve program targeting? By combining rich survey data from the baseline of a &#x201c;big push&#x201d; anti-poverty program in Afghanistan implemented in 2016 with detailed mobile phone logs from program beneficiaries, this paper studies the extent to which machine learning methods can accurately differentiate ultra-poor households eligible for program benefits from ineligible households. The paper shows that machine learning methods leveraging mobile phone data can identify ultra-poor households nearly as accurately as survey-based measures of consumption and wealth; and that combining survey-based measures with mobile phone data produces classifications more accurate than those based on a single data source.",
+    "ref_country": [
+      {
+        "name": "Afghanistan",
+        "code": "AFG"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10252",
+    "url": "http://documents.worldbank.org/curated/en/099329412062214006/pdf/IDU0b56d850209a2e040610a5d8019aa2250f2d4.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:12.384278",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

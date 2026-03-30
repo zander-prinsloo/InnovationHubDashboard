@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "World Bank policy lending and the quality of public sector governance",
+    "idno": "24491011",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24491011",
+      "title": "World Bank policy lending and the quality of public sector governance",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Smets,Lodewijk"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Knack,Stephen"
+      }
+    ],
+    "date_created": "2015/05/15",
+    "date_available": "2015/05/15",
+    "date_published": "2015/05/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24491011"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082e8a940"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082e8a940"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study investigates the impact of World Bank development policy lending for public sector governance on the quality of public sector management and institutions. The World Bank’s Country Policy and Institutional Assessments (CPIA) are used to measure the latter, the study considers only policy conditions targeted at improvements in those areas. The analysis uses a comprehensive country-year panel data set of aid receiving-countries and finds a significant and inverse U-shaped effect of public sector conditions on the quality of public sector governance. For most observed values in the data, the impact is positive, but it turns negative beyond a value of 80 conditions. At that point, the predicted CPIA score is about 0.25 point (0.3 standard deviation) higher than with zero conditions. For most observations, the number of cumulative conditions is below 80, so the estimated effect of more conditions is generally positive. The analysis corrects for potential endogeneity and shows that the results are robust to sample restrictions, the use of an alternative governance measure, and the inclusion of an extended set of control variables. Falsification tests are also consistent with a causal interpretation from conditions to quality of public sector governance. The paper shows that conditions related to public financial management and tax reforms are more effective than those related to anti-corruption or civil service and administrative reform, where progress requires changing the behavior of a larger set of “deconcentrated” actors. The paper concludes by describing some innovative ideas in the Bank’s ambitious new public sector management strategy that could improve the effectiveness of its support for public sector governance reform.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7267",
+    "url": "http://documents.worldbank.org/curated/en/358581467986279357/pdf/WPS7267.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.285028",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

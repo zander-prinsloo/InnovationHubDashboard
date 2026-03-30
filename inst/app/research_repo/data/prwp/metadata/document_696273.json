@@ -1,0 +1,112 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Uncertainty and the price for crude oil reserves",
+    "idno": "696273",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "696273",
+      "title": "Uncertainty and the price for crude oil reserves",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Considine, Timothy J."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Larson, Donald F."
+      }
+    ],
+    "date_created": "1996/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "696273"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05e38"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05e38"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Innovations in futures, options, and derivative instruments permit active trading, speculating and hedging - linking markets for physical petroleum products with financial markets. These derivative markets continuously value petroleum delivered today and for future dates, providing a market price for inventories. Underground petroleum reserves are also an inventory defined by exploration surveys and development drilling. Thus, observable market information can be used to value these reserves. Option - valuation models can be used to price reserves using observable markets, but are dependent on unexplained convenience yields revealed by the term structure of futures prices. The authors apply a general inventory pricing model to petroleum inventories and generate an empirical model of the returns to storage for petroleum markets. They examine the determinants of the crude oil convenience yield using a stochastic control model. They specify optimal production and inventory conditions using a third-order cost function and estimate them using monthly observations. Their inventory arbitrage condition embodies the Hotelling principle and Kaldor's convenience yield, and includes a premium on the dispersion in crude oil prices. The empirical results suggest that returns to storage contain both a cost-reducing component and often sizable premiums associated with the dispersion of petroleum prices. Their findings suggest that crude oil markets differentiated by quality and location provide similar premiums. The premiums associated with the dispersion of petroleum prices may account for persistent backwardation in crude oil prices. This finding may also explain the wide discrepancies between Hotelling values and transaction prices found in previous studies.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1655",
+    "url": "http://documents.worldbank.org/curated/en/452061468739564323/Uncertainty-and-the-price-for-crude-oil-reserves",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:51.232708",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

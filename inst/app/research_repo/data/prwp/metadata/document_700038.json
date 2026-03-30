@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Optimal non-linear income taxation for the alleviation of income poverty",
+    "idno": "700038",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700038",
+      "title": "Optimal non-linear income taxation for the alleviation of income poverty",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kanbur, Ravi"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Keen, Michael"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Toumala, Matti"
+      }
+    ],
+    "date_created": "1991/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700038"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a5d5c"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a5d5c"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "There has been much discussion recently of structuring tax and transfer programs to ensure that resources go to the poor, with minimal leaks to the nonpoor. The poor have no incentive to earn income with 100 percent marginal tax rates, but how high or low the marginal rate of taxation should be, and how they should vary with income, is a complex issue - and opinions vary. Social security schemes that withdraw benefits represent an extremely high effective marginal tax rate; other schemes call for relatively low marginal tax rates at the bottom of the income distribution. Which tax-transfer schedule does most to reduce poverty? The issue is one of optimal nonlinear income taxation. The authors show that one of the key theoretical results of the welfarist literature is overturned: if it is desirable for everybody to work, the optimal marginal tax rate on the very poorest individuals is strictly negative. They argue that the nonwelfarist perspective points toward lower marginal tax rates in the lower part of the income distribution than does the welfarist perspective. But numerical simulations suggest that the effect is of limited quantitative significance. Using conventional functional forms and parameter values, optimal marginal tax rates on the poor are in the 60-70 percent range.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS616",
+    "url": "http://documents.worldbank.org/curated/en/309701468764983231/Optimal-non-linear-income-taxation-for-the-alleviation-of-income-poverty",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:03.202297",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

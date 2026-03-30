@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Modeling the Macroeconomic Consequences of Natural Disasters : Capital Stock, Recovery Dynamics, and Monetary Policy",
+    "idno": "33739699",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33739699",
+      "title": "Modeling the Macroeconomic Consequences of Natural Disasters : Capital Stock, Recovery Dynamics, and Monetary Policy",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jooste,Charl"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcisaac,Florent John"
+      }
+    ],
+    "date_created": "2022/02/22",
+    "date_available": "2022/02/22",
+    "date_published": "2022/02/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33739699"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08a469056"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088cf7b67"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9943"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Natural disasters can generate substantial damages to public and private sector infrastructure capital, generating macroeconomic losses through complex channels. To minimize the welfare impact of these disasters, these shocks need to be managed and accounted for in macro-fiscal and monetary policy. To support this process, we adapt the World Bank Macrostructural Model to capture key transmission channels of natural (geophysical or climate-related) disasters and their immediate aftermath. The macroeconomic model is extended on several fronts: (1) a distinction is made between infrastructure and non-infrastructure capital; (2) the production function is adjusted to account for short-term complementarity across capital assets; (3) the reconstruction process is modeled in a way that accounts for post-disaster constraints, with distinct processes for the reconstruction of public and private assets. Destroyed infrastructure capital makes the remaining non-infrastructure capital less productive, which means that disasters reduce the total stock of capital, but also its productivity. Applying the model to T&#xfc;rkiye data, the welfare impact of a disaster &#x2014; proxied by the discounted consumption loss &#x2014; is found to increase non-linearly with direct asset losses. Macroeconomic responses reduce the welfare impact of minor disasters but magnify it when direct asset losses exceed the economy&#x2019;s absorption capacity. The welfare impact also depends on the pre-existing economic situation, the ability of the economy to reallocate resources toward reconstruction, and the response of monetary policy. Appropriate macro-fiscal and monetary policies offer cost-effective opportunities to mitigate the welfare impact of major disasters.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9943",
+    "url": "http://documents.worldbank.org/curated/en/479471645554771991/pdf/Modeling-the-Macroeconomic-Consequences-of-Natural-Disasters-Capital-Stock-Recovery-Dynamics-and-Monetary-Policy.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.029749",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

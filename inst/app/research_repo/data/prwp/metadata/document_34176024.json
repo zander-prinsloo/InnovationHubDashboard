@@ -1,0 +1,181 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Informality in Indonesia: Levels, Trends, and Features",
+    "idno": "34176024",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34176024",
+      "title": "Informality in Indonesia: Levels, Trends, and Features",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hapsari,Indira Maulani"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Shu Yu"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pape,Utz Johann"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mansour,Wael"
+      }
+    ],
+    "date_created": "2023/10/06",
+    "date_available": "2023/10/06",
+    "date_published": "2023/10/06",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34176024"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-ce985e5e-12dd-4669-856a-e803b1c7fe43"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-ce985e5e-12dd-4669-856a-e803b1c7fe43"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10586"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Informality is a multidimensional development challenge with features that potentially differ across workers, firms, and countries. This paper first briefly summarizes the literature, discusses the multiple existing definitions of informality, and adapts the cross-country analytical framework on informality to the context of Indonesia. It then uses several novel datasets and a range of modeling approaches to capture the levels and trends of both output and employment informality in Indonesia. It further contributes to the existing literature by estimating informality in Indonesia at the regional, provincial, and sectoral levels. Those estimates were then benchmarked to the levels, trends, and features of the informal sector in emerging markets and developing economies to examine whether the major features of the informal sector in Indonesia deviate from those observed in other emerging markets and developing economies. The paper finds that despite the declining trend, both output and employment informality remain elevated and broadly above the comparator countries in the region. Informality in Indonesia is mostly concentrated in agriculture and low-skilled services and is associated with higher poverty at the provincial level. There also appear to be productivity, education, and salary gaps between formal and informal workers. Moreover, markets are not segregated as informal firms compete strongly with formal ones. Finally, informality seems to pose macroeconomic challenges as tax efforts and financial sector depth remain below the averages for emerging markets and developing economies.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10586",
+    "url": "http://documents.worldbank.org/curated/en/099418010062356392/pdf/IDU0ce985e5e012dd046690856a0e803b1c7fe43.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "job creation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "private sector development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "jobs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "macroeconomic & structural policy modelling",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.930869",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

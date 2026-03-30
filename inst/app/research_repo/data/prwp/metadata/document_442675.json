@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Putting auction theory to work : the simultaneous ascending auction",
+    "idno": "442675",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "442675",
+      "title": "Putting auction theory to work : the simultaneous ascending auction",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Milgrom, Paul"
+      }
+    ],
+    "date_created": "1998/09/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "442675"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b05587"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b05587"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The \"simultaneous ascending auction\" was first introduced in 1994 to sell licenses to use bands of radio spectrum in the United States. Much of the attention devoted to the auction came from its role in reducing federal regulation of the radio spectrum and allowing market values, rather than administrative fiat, to determine who would use the spectrum resource. Several parts of economic theory proved helpful in designing the rules for simultaneous ascending auction and in thinking about how the design might be improved and adapted for new applications. After briefly reviewing the major rules of the auction in section 2, the author turns in section 3 to an analysis based on tatonnement theory, which regards the auction as a mechanism for discovering an efficient allocation and its supporting prices. The analysis reveals a fundamental difference between situations in which the licenses are mutual substitutes and others in which the same licenses are sometimes substitutes and sometimes complements. Section 4 is a selective account of some applications of game theory to evaluating the simultaneous ascending auction design for spectrum sales. Results like those reported in section 3 have led to renewed interest in auctions in which bids for license packages are permitted. In section 5, the author uses game theory to analyze the biases in a leading proposal for dynamic combinatorial bidding. Section 6 briefly answers two additional questions that economists often ask about auction design: If trading of licenses after the auction is allowed, why does the auction form matter at all for promoting efficient license assignments? Holding fixed the quantity of licenses to be sold, how sharp is the conflict between the objectives of assigning licenses efficiently and obtaining maximum revenue? Section 7 concludes.",
+    "ref_country": [
+      {
+        "name": "United States",
+        "code": "USA"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1986",
+    "url": "http://documents.worldbank.org/curated/en/907601468761716209/pdf/multi-page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:44.542885",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

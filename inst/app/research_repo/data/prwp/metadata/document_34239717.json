@@ -1,0 +1,251 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating Economic Costs of Unhealthy Diets : A Proposed Methodology",
+    "idno": "34239717",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34239717",
+      "title": "Estimating Economic Costs of Unhealthy Diets : A Proposed Methodology",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Horton,Susan E."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fracassi,Patrizia"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Siekmans,Kendra"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kato,Tomoko"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hanley-Cook,Giles"
+      }
+    ],
+    "date_created": "2024/01/16",
+    "date_available": "2024/01/16",
+    "date_published": "2024/01/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34239717"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-52ca6b54-0853-4ca4-a22a-bf67750bec89"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-52ca6b54-0853-4ca4-a22a-bf67750bec89"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10671"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Healthy diets have been characterized as responding to four universal principles&#x2014;nutrient adequacy, dietary diversity, macronutrient balance, and moderation. With rising incomes, diet concerns globally have shifted from inadequacy of nutrients and lack of diversity, to lack of balance and moderation. This has occurred alongside declining rates of stunting and wasting in children under five and increasing rates of overweight and obesity across a broad age span. Calculations undertaken for low- and middle-income countries for policy and advocacy purposes of the economic cost of unhealthy diets have used nutritional status as a proxy or have made estimates of the impact of noncommunicable diseases by simply adding up known risks of individual diet factors. Both these methods have problems. This paper proposes a new methodology, taking advantage of recent, more holistic, measures of diet quality. Preliminary regression results are presented using cross-country data and the Global Dietary Recommendations Score and Minimum Dietary Diversity for women. The results suggest that diet quality variables generally have the expected signs, but there are also clear limitations of using cross-country data. The methodology could be applied in future to a limited number of broadly representative low- and middle-income countries data sets containing both diet recall data as well as measures of noncommunicable disease risk status. The analysis suggests that this work could inform policies such as the repurposing of existing agrifood policies to complement existing public health policies, to reduce the economic and health burdens imposed by unhealthy diets.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "Other",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10671",
+    "url": "http://documents.worldbank.org/curated/en/099839401162431298/pdf/IDU152ca6b541085314ca41a22a1bf67750bec89.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "urban infrastructure and service delivery",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "nutrition",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "fiscal policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban and rural development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "trade",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "public expenditure policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "nutrition and food security",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "urban development",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:09.252909",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

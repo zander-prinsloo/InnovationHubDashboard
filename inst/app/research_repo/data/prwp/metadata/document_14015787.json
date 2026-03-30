@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Does it matter who you sign with comparing the impacts of north-south and south-south trade agreements on bilateral trade",
+    "idno": "14015787",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "14015787",
+      "title": "Does it matter who you sign with comparing the impacts of north-south and south-south trade agreements on bilateral trade",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Behar, Alberto"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Criville, Laia Cirera i"
+      }
+    ],
+    "date_created": "2011/04/01",
+    "date_available": "2011/04/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "14015787"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bad60"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bad60"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Free trade agreements lead to a rise in bilateral trade regardless of whether the signatories are developed or developing countries. Furthermore, the percentage increase in bilateral trade is higher for South-South agreements than for North-South agreements. In this paper, the results are robust across a number of gravity model specifications in which the analysis controls for the endogeneity of free trade agreements (with bilateral fixed effects) and also takes account of multilateral resistance in both estimation (with country-time fixed effects) and comparative statics (analytically). The analytical model shows that multilateral resistance dampens the impact of free trade agreements on trade by less in South-South agreements than in North-South agreements, which accentuates the difference implied by the gravity model coefficients, and that this difference gets larger as the number of signatories rises. For example, allowing for lags and multilateral resistance, a four-country North-South agreement raises bilateral trade by 53 percent while the analogous South-South impact is 107 percent.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5626",
+    "url": "http://documents.worldbank.org/curated/en/106041468326219917/pdf/WPS5626.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:03.933843",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

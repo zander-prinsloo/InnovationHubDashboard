@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "An empirical economic assessment of impacts of climate change on agriculture in Zambia",
+    "idno": "8003696",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "8003696",
+      "title": "An empirical economic assessment of impacts of climate change on agriculture in Zambia",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jain, Suman"
+      }
+    ],
+    "date_created": "2007/07/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "8003696"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a4b08"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a4b08"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This report assesses the economic impacts of climate change on agriculture in Zambia, using the Ricardian method. A multiple linear regression model with net revenue per hectare as response variable has been fitted with climate, hydrological, soil, and socioeconomic variables as explanatory variables. There is one main cropping season in Zambia, lasting from November to April. Crop production in this period depends solely on rains. Considering crop progression in three stages-germination, growing, and maturing, which require different amounts of water and temperature-the climate variables included in the model are long-term averages of the temperature and wetness index for the periods November to December, January to February, and March to April. Assuming a nonlinear relationship of farm revenue with the climate variables, quadratic terms for climate variables were also included in the model. The results indicate that most socioeconomic variables are not significant, whereas some climate variables and the corresponding quadratic variables are significant in the model. Further findings are that an increase in the November-December mean temperature and a decrease in the January-February mean rainfall have negative impacts on net farm revenue, whereas an increase in the January-February mean temperature and mean annual runoff has a positive impact.",
+    "ref_country": [
+      {
+        "name": "Zambia",
+        "code": "ZMB"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS4291",
+    "url": "http://documents.worldbank.org/curated/en/768021468336547326/pdf/wps4291.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:16.073208",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

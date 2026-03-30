@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Second-stage sampling for conflict areas : methods and implications",
+    "idno": "26144105",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "26144105",
+      "title": "Second-stage sampling for conflict areas : methods and implications",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Himelein,Kristen"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Eckman,Stephanie"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Murray,Siobhan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bauer,Johannes"
+      }
+    ],
+    "date_created": "2016/03/29",
+    "date_available": "2016/03/29",
+    "date_published": "2016/03/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "26144105"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08424316b"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08424316b"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The collection of survey data from war zones or other unstable security situations is vulnerable to error because conflict often limits the implementation options. Although there are elevated risks throughout the process, this paper focuses specifically on challenges to frame construction and sample selection. The paper uses simulations based on data from the Mogadishu High Frequency Survey Pilot to examine the implications of the choice of second-stage selection methodology on bias and variance. Among the other findings, the simulations show the bias introduced by a random walk design leads to the underestimation of the poverty headcount by more than 10 percent. The paper also discusses the experience of the authors in the time required and technical complexity of the associated back-office preparation work and weight calculations for each method. Finally, as the simulations assume perfect implementation of the design, the paper also discusses practicality, including the ease of implementation and options for remote verification, and outlines areas for future research and pilot testing.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7617",
+    "url": "http://documents.worldbank.org/curated/en/434031467995412713/pdf/WPS7617.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:43.439176",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

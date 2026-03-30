@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Impact of Submarine Cables on Internet Access Price, and the Role of Competition and Regulation",
+    "idno": "34362367",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34362367",
+      "title": "The Impact of Submarine Cables on Internet Access Price, and the Role of Competition and Regulation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cariolle,Joël"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Houngbonon,Georges Vivien"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Silue,Tarna Abdoul Hamid"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strusani,Davide"
+      }
+    ],
+    "date_created": "2024/07/09",
+    "date_available": "2024/07/09",
+    "date_published": "2024/07/09",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34362367"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-cabee90a-0d73-4768-a342-d7461517cbab"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-cabee90a-0d73-4768-a342-d7461517cbab"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10840"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Submarine cables enable international connectivity and are essential for high-speed internet access. This paper tests their potential to improve the affordability of internet access by supporting a price drop through cost savings or increased competition intensity. The empirical framework relies on a dataset that combines the capacity of submarine cables with price data on fixed and mobile internet across 150 countries over a decade. Using a two-way fixed effects estimator, the analysis finds that the expansion of submarine cables is associated with a statistically significant drop in the price of internet access, up to 14&#x2013;21 percent, depending on the technology, for every doubling of the capacity of submarine cables, and with large regional disparities. These effects stem from cost savings in the short run and tend to decline over time, concomitant with a rise in domestic telecom market concentration. The analysis also finds that these effects can be enhanced by telecom regulations, especially de-jure independence of the regulator, and the regulation of network interconnection and access, shared telecom infrastructure, and competition from international players across the broadband value chain. The main findings are robust to alternative estimation strategies, including an instrumental variable and a staggered difference in differences.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10840",
+    "url": "http://documents.worldbank.org/curated/en/099223207092441042/pdf/IDU1cabee90a10d73147681a3421d7461517cbab.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.874919",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

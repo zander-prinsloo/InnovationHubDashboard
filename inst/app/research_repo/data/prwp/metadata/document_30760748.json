@@ -1,0 +1,140 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Long-Term Evolution of Inequality of Opportunity",
+    "idno": "30760748",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30760748",
+      "title": "Long-Term Evolution of Inequality of Opportunity",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bussolo,Maurizio"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Checchi,Daniele"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Peragine,Vito"
+      }
+    ],
+    "date_created": "2019/01/15",
+    "date_available": "2019/01/15",
+    "date_published": "2019/01/15",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30760748"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086876505"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086876505"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The main goal of this paper is to document and analyze the long-term evolution of inequality of opportunity and thus extend the recent empirical literature, which is mainly concerned with its measurement at a specific point in time. Using repeated cross-section surveys for five European countries (France, Germany, Great Britain, Italy, and Switzerland), the evolution of inequality of opportunity is measured for a period of about two decades for the whole populations, as well as for different birth cohorts. Relative inequality of opportunity represents an important portion of total income inequality, with values ranging from 30 to 50 percent according to the standard deviation of logs (and reaching a lower share in case of mean log deviation) and, for all the countries, it shows a stable or declining time trend. When the birth cohorts are followed across time, inequality of opportunity decreases with age: the effect of circumstances seems to weaken over the life cycle. This is a quite different age profile from that of inequality of outcomes (income or consumption), which generally increases with age. A decomposition of the relative inequality of opportunity allows highlighting some key drivers of its time evolution. In all the countries, there has been a clear enhancement of equality of educational opportunity (as captured by a downward trending intergenerational education persistence) and a reduction of the returns to education. However, for some countries, notably Italy, these trends have failed to translate into decreasing inequality of opportunity in the income distribution because of the increasing role of parental networking (an additional channel through which parental background affects the incomes of offspring).",
+    "ref_country": [
+      {
+        "name": "France",
+        "code": "FRA"
+      },
+      {
+        "name": "Germany",
+        "code": "DEU"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GBR"
+      },
+      {
+        "name": "Italy",
+        "code": "ITA"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CHE"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8700",
+    "url": "http://documents.worldbank.org/curated/en/966611547560055477/pdf/WPS8700.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.937865",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

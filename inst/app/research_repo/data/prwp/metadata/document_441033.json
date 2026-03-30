@@ -1,0 +1,119 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Quantifying the fiscal effects of trade reform",
+    "idno": "441033",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "441033",
+      "title": "Quantifying the fiscal effects of trade reform",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Devarajan, Shantayanan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Go, Delfin S."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hongyi Li"
+      }
+    ],
+    "date_created": "1999/08/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "441033"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082b0563e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082b0563e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using a tax model of an open economy, the authors provide a simple but rigorous method for estimating the fiscal impact of trade reform. Both the direction and the magnitude of the fiscal consequences of trade reform depend on the elasticities of substitution and transformation between foreign and domestic goods, so they provide empirical estimates of those elasticities. They also discuss the implications of their analysis for public revenue. In general, they find that it matters what the values of the two elasticities are relative to each other. If only one of the elasticities is low (close to zero), revenue will drop unequivocally as a result of tariff reform, reaching close to the maximum drop whether or not the other elasticity is high. For imports to grow and tariff collection to compensate for the tax cut, the import elasticity has to be high. Because of the balance of trade constraint, however, imports cannot substitute for domestic goods unless supply is able to switch toward exports. Hence, the export transformation elasticity has to be high as well. As substitution possibilities between foreign and domestic goods increase, a tariff reform can theoretically be self-financing. But if the elasticities are less than \"large\", tax revenue will fall with tariff reduction and further fiscal adjustments will be necessary. The authors provide empirical estimates of the possible range of values for the elasticities of about 60 countries, using various approaches. The elasticties range from 0 to only 3 in most cases - nowhere near the point at which tariff reform can be self-financing.",
+    "ref_country": [],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS2162",
+    "url": "http://documents.worldbank.org/curated/en/772381468739567513/Quantifying-the-fiscal-effects-of-trade-reform",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:41.868934",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

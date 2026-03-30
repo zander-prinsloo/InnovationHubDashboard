@@ -1,0 +1,110 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Information Content of Capital Controls",
+    "idno": "32287319",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32287319",
+      "title": "The Information Content of Capital Controls",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nie,Ou"
+      }
+    ],
+    "date_created": "2020/07/30",
+    "date_available": "2020/07/30",
+    "date_published": "2020/07/30",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32287319"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087c2c150"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087c29225"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Capital controls, policy measures used by governments to regulate cross-country financial flows, have become standard policy options in many emerging market economies. This paper will focus on what capital controls reveal about the state of the economy and the implications of such revelation for policy efficacy. Using a small open economy model with a collateral constraint and overborrowing relative to the social optimum, this paper incorporates a representative agent's Bayesian updating of information in response to change in policy and show that the efficacy of capital controls to contain financial crises and improve welfare could be undermined if the agent rationally learns from policy. Empirically, this paper finds that capital controls convey important information market participants use to improve their understanding of fundamentals. This paper highlights the need for policymakers to consider the unintended consequences of information revelation in the design of capital flow management policies.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9343",
+    "url": "http://documents.worldbank.org/curated/en/864531596112858742/pdf/The-Information-Content-of-Capital-Controls.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.006075",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

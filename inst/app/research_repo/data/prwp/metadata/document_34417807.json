@@ -1,0 +1,150 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Can Facebook Ads Prevent Malaria ? Two Field Experiments in India",
+    "idno": "34417807",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34417807",
+      "title": "Can Facebook Ads Prevent Malaria ? Two Field Experiments in India",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Donati,Dante"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Rao,Nandan Mark"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Orozco Olvera,Victor Hugo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Munoz Boudet,Ana Maria"
+      }
+    ],
+    "date_created": "2024/11/05",
+    "date_available": "2024/11/05",
+    "date_published": "2024/11/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34417807"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-35b5005d-3a43-48e9-ad3c-6d50d6ae54f8"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-35b5005d-3a43-48e9-ad3c-6d50d6ae54f8"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10967"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study uses a cluster randomized controlled trial to evaluate the impact of a nationwide malaria prevention advertising campaign delivered through social media in India. Ads were randomly assigned at the district level, and the study relies on data from two independently recruited samples (8,257 individuals) and administrative records. Among users residing in solid (concrete) dwellings, where malaria risk is lower, the campaign led to an 11 percent increase in mosquito net usage and a 13 percent increase in timely treatment seeking. Self-reported malaria incidence decreased by 44 percent. Consistently, recorded health facility data indicate a reduction in urban monthly incidence of 6.2 cases per million people, corresponding to 30 percent of the overall monthly incidence rate of malaria. Conversely, the study finds no impact on households living in non-solid dwellings, which face higher malaria risk, nor among rural settlements where such dwellings are more prevalent. To disentangle if this lack of impact stems from ineffective content or insufficient reach, an individual-level trial was conducted (1,542 individuals), ensuring campaign exposure for both household types. The findings indicate an increase in bed net usage and timely treatment seeking for both groups, underscoring the need for improved targeting in social media campaigns to fulfill public health goals.",
+    "ref_country": [
+      {
+        "name": "India",
+        "code": "IND"
+      },
+      {
+        "name": "South Asia",
+        "code": "SAR"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10967",
+    "url": "http://documents.worldbank.org/curated/en/099503111052435137/pdf/IDU135b5005d13a43148e91ad3c16d50d6ae54f8.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.788674",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

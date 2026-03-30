@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Calculating the carbon footprint from different classes of air travel",
+    "idno": "17784322",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "17784322",
+      "title": "Calculating the carbon footprint from different classes of air travel",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bofinger,Heinrich"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Strand,Jon"
+      }
+    ],
+    "date_created": "2013/05/01",
+    "date_available": "2013/05/01",
+    "date_published": "2013/05/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "17784322"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828bef42"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828bef42"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a new methodology for calculating the \"carbon footprint\" of air travel whereby emissions from travel in premium (business and first) classes depend heavily on the average class-specific occupied floor space. Unlike methods currently used for the purpose, the approach properly accounts for the fact that the relative number of passenger seats in economy and premium classes is endogenous in the longer term, so adding one additional premium trip crowds out more than one economy trip on any particular flight. It also shows how these differences in carbon attributable to different classes of travel in a carbon footprint calculation correspond to how carbon surcharges on different classes of travel would differ if carbon emissions from international aviation were taxed given a competitive aviation sector globally. The paper shows how this approach affects carbon footprint calculations by applying it to World Bank staff travel for calendar year 2009.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS6471",
+    "url": "http://documents.worldbank.org/curated/en/141851468168853188/pdf/WPS6471.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:55.308675",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

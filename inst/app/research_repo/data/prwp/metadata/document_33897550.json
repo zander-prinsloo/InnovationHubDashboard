@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Is Social Protection a Luxury Good ?",
+    "idno": "33897550",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33897550",
+      "title": "Is Social Protection a Luxury Good ?",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lokshin,Michael M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion,Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Torre,Ivan"
+      }
+    ],
+    "date_created": "2022/09/13",
+    "date_available": "2022/09/13",
+    "date_published": "2022/09/13",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33897550"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-b41d2c00-53a1-4e48-a7fc-687ec7afed54"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-b41d2c00-53a1-4e48-a7fc-687ec7afed54"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10174"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The claim that social protection is a luxury good&#x2014;with a national income elasticity exceeding unity&#x2014;has been influential. The paper tests the &#x201c;luxury good hypothesis&#x201d; using newly-assembled data on social protection spending across countries since 1995, treating the pandemic period separately, as it entailed a large expansion in social protection efforts. While the mean income share devoted to social protection rises with income, this is attributable to multiple confounders, including relative prices, weak governance in low-income countries and access to information-communication technologies. Controlling for these, social protection is not a luxury good. This was also true during the pandemic.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10174",
+    "url": "http://documents.worldbank.org/curated/en/099742509132261027/pdf/IDU0b41d2c00053a104e480a7fc0687ec7afed54.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:13.221472",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

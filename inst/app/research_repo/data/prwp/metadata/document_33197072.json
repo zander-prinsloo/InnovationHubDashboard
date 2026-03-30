@@ -1,0 +1,138 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Intergenerational Mobility around the World",
+    "idno": "33197072",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33197072",
+      "title": "Intergenerational Mobility around the World",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Der Weide,Roy"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lakner,Christoph"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mahler,Daniel Gerszon"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Narayan,Ambar"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nichanametla Ramasubbaiah,Rakesh Gupta"
+      }
+    ],
+    "date_created": "2021/06/22",
+    "date_available": "2021/06/22",
+    "date_published": "2021/06/22",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33197072"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088936b69"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088728045"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9707"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Using individual data from over 400 surveys, this paper compiles a global database of intergenerational mobility in education for 153 countries covering 97 percent of the world’s population. For 87 percent of the world’s population, it provides trends in intergenerational mobility for individuals born between 1950 to 1989. The findings show that absolute mobility in education—the share of respondents that obtains higher levels of education than their parents—is higher in the developed world despite the higher levels of parental educational attainment. Relative mobility—measuring the degree of independence between parent and child years of schooling—is also found to be greater in the developed world. Together, these findings point to severe challenges in intergenerational mobility in the poorest parts of the world. Beyond national income levels, the paper explores the correlation between intergenerational mobility and a variety of country characteristics. Countries with higher rates of mobility have (i) higher tax revenues and rates of government expenditures, especially on education; (ii) better child health indicators (less stunting and lower infant mortality); (iii) higher school quality (more teachers per pupil and fewer school dropouts); and (iv) less residential segregation.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9707",
+    "url": "http://documents.worldbank.org/curated/en/817351624329601595/pdf/Intergenerational-Mobility-around-the-World.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:19.959450",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A dynamic model of extreme risk coverage : resilience and efficiency in the global reinsurance market",
+    "idno": "15112575",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "15112575",
+      "title": "A dynamic model of extreme risk coverage : resilience and efficiency in the global reinsurance market",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bibas, Ruben"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Hallegatte,Stephane"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lemoyne de Forges, Sabine"
+      }
+    ],
+    "date_created": "2011/09/01",
+    "date_available": "2011/09/01",
+    "date_published": "2011/09/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "15112575"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828ca4ac"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828ca4ac"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper presents a dynamic model of the reinsurance market for catastrophe risks. The model is based on the classical capacity-constraint assumption. Reinsurers choose every year the quantity of risk they cover and the level of external capital they raise to cover these risks. The model exhibits time dependency and reproduces a market dynamics that shares many features with the real market. In particular, market price increases and reinsurance coverage decreases after large shocks, and a series of smaller losses may have a deeper impact than one larger loss. There is a significant oligopoly effect reducing reinsurance supply, and the market is segregated into strategic large actors that influence market prices and price-taker smaller firms. A regulation trade-off between market efficiency and resilience is identified and quantified: improving the ability of the market to cope with exceptional events increases the cost of reinsurance. This model provides an interesting basis to analyze further capacity needs for the insurance industry in view of growing worldwide exposure to catastrophic risks and climate change.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS5807",
+    "url": "http://documents.worldbank.org/curated/en/613951468167981624/pdf/WPS5807.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:02.614540",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

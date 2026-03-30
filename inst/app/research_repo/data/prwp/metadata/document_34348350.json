@@ -1,0 +1,230 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Simulating Welfare Impacts of Changes in the Monthly Social Allowance Scheme and Heating Allowances in Bulgaria",
+    "idno": "34348350",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34348350",
+      "title": "Simulating Welfare Impacts of Changes in the Monthly Social Allowance Scheme and Heating Allowances in Bulgaria",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Robayo,Monica"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Cabrera,Maynor Vinicio"
+      }
+    ],
+    "date_created": "2024/06/24",
+    "date_available": "2024/06/24",
+    "date_published": "2024/06/24",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34348350"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-30619a29-05a8-4356-8e2f-9c5d7a9ab052"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-30619a29-05a8-4356-8e2f-9c5d7a9ab052"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10817"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Bulgaria still ranks among the EU countries with the highest levels of poverty and inequality. Before 2023, Bulgaria's Social Assistance / Monthly Social Allowance scheme had limited coverage, strict eligibility criteria, and limited impact on poverty reduction. Additionally, it was not adjusted or linked to inflation. The Bulgarian government introduced a reform in 2022 aimed to increase the scope and access of individuals to social support by increasing the basis for determining the differentiated minimum income threshold (now 30 percent of the relative poverty line) and the parameters linked with age, health condition, and social status, affecting the social programs anchored to it, such as the Monthly Social Allowance and the heating allowance. This paper assesses this reform's potential ex-ante poverty and distributional impacts, relying on a comprehensive tax/benefit system assessment called the Commitment to Equity and microsimulation techniques. The changes in the legal basis for determining access to social assistance introduced with the reform are expected to create some relief from the indexation of the benefits over time. They will now be tied to the evolution of the relative poverty line and, therefore, linked to the evolution of median income. The results of the policy simulations show that the combined effect of the changes in the Monthly Social Allowance and the heating allowance contributes to a slight reduction in the poverty gap but not enough to move a sizable share of people out of poverty, as shown by the negligible impact on the at-risk-of-poverty rate. Inequality is barely affected. Compared with a Bulgarian food basket, the results show that eligibility thresholds are still restrictive. These results suggest further scope for improvement in the design of these programs, including anchoring them to an absolute poverty line or basic consumption basket.",
+    "ref_country": [
+      {
+        "name": "EU Accession Countries",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10817",
+    "url": "http://documents.worldbank.org/curated/en/099842206242412660/pdf/IDU130619a29105a81435618e2f19c5d7a9ab052.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [
+      {
+        "id": "",
+        "name": "inclusive growth",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "mitigation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "participation and civic engagement",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "human development and gender",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic policy",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social development and protection",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "economic growth and planning",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "environment and natural resource management",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market policy and programs",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "climate change",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "adaptation",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social inclusion",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "social safety nets",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      },
+      {
+        "id": "",
+        "name": "labor market institutions",
+        "parent_id": "",
+        "vocabulary": "World Bank",
+        "uri": ""
+      }
+    ],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:08.079692",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Tobacco Taxation Incidence : Evidence from the Russian Federation",
+    "idno": "30556290",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30556290",
+      "title": "Tobacco Taxation Incidence : Evidence from the Russian Federation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Fuchs Tarlovsky,Alan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Matytsin,Mikhail"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Obukhova,Olga"
+      }
+    ],
+    "date_created": "2018/10/29",
+    "date_available": "2018/10/29",
+    "date_published": "2018/10/29",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30556290"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08651dbdf"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08651dbdf"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Despite the well-known positive effects of tobacco taxes on health outcomes, policy makers avoid relying on such taxes because of their possible regressive impact. Using an extended cost-benefit analysis to estimate the distributional effect of cigarettes in the Russian Federation, this paper finds that the long-run impact may in fact be progressive. The methodology applied incorporates the negative price effect caused by an increase in tobacco taxes, combined with a presumed future reduction in medical expenditures and a rise in working years caused by a reduction in the rate of smoking among the population. The analysis includes estimates of the distributional impacts of price rises on cigarettes under various scenarios, based on information taken from the Russia Longitudinal Monitoring Survey -- Higher School of Economics for 2010–16. One contribution is the quantification of impacts by allowing price elasticities to vary across consumption deciles. Overall, cigarette taxes exert a positive long-term effect on household incomes, although the magnitude depends on the structure of the conditional price elasticity. If the population is more responsive to tobacco price changes, then it would experience greater gains from the health and extended work-life benefits.",
+    "ref_country": [
+      {
+        "name": "Russian Federation",
+        "code": "RUS"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8626",
+    "url": "http://documents.worldbank.org/curated/en/508191540824515851/pdf/WPS8626.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:32.575713",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

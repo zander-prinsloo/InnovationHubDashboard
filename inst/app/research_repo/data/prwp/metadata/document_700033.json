@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How factors in creditor countries affect secondary market prices for developing country debt",
+    "idno": "700033",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "700033",
+      "title": "How factors in creditor countries affect secondary market prices for developing country debt",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ozler, Sule"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Huizinga, Harry"
+      }
+    ],
+    "date_created": "1991/03/31",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "700033"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a800e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a800e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Bank loans to many developing countries trade at a discount on the secondary market. These discounts are typically assumed to reflect only the repayment prospects of the borrower country. But the authors demonstrate that factors in the creditor countries have a major impact on secondary market prices. Their empirical investigation suggests a systematic relationship between secondary market prices and the size distribution of banks' portfolios. There is a strong negative correlation between discounts in the secondary market and U.S. banks' heavy exposure to developing country debt. It is estimated that every US$4 billion increase in a large bank's exposure to a country reduces the discount 10 to 15 cents on the dollar. The authors find that discounts and total bank capital are positively correlated over time : a US$8 billion increase in the capital of the largest U.S. banks increases discounts by nearly 25 cents on the dollar. They explain their results with a simulation model of a representative bank with minimum capital requirements, flat-rate deposit insurance, and limited liability. The bank's portfolio adjustment decision involves trading risky foreign loans in the secondary market or making short-term domestic loans. The model yields a negative relationship between the banks' exposure to developing countries and discounts in the secondary market.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS622",
+    "url": "http://documents.worldbank.org/curated/en/858121468739804509/pdf/multi0page.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:47:03.272236",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How robust is a poverty profile",
+    "idno": "698763",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "698763",
+      "title": "How robust is a poverty profile",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Ravallion, Martin"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Bidani, Benu"
+      }
+    ],
+    "date_created": "1993/11/30",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "698763"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a8cb2"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a8cb2"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Comparisons of poverty - indicating where or when poverty is greatest, for example - typically matter far more to policy choices than aggregate poverty measures, such as how many people are deemed \"poor.\" So the author's examine how measurement practices affect empirical poverty profiles. They discuss the pros and cons of alternative approaches to developing a poverty profile and use those approaches on the same data set. In Indonesia, as in many countries, past methods of building poverty profiles have used the food-energy-intake method, defining the poverty line as the normal consumption spending at which a person typically attains a predetermined food-energy-intake in each subgroup. The author's argue that his method can yield differences in poverty lines (between urban and rural areas, for example) that exceed the cost-of-living differences the poor face. So, that method can mislead policy choices aimed at reducing absolute poverty. For comparison, they explore a cost-of-basic-needs methods, whereby an explicit bundle of foods typically consumed by the poor is valued at local prices, with a minimal allowance for non-food goods consistent with spending by the poor. This approach, though not ideal, is a conceptually transparent operational alternative that can be implemented with available data. They argue that this approach is more likely to generate a consistent poverty profile in that two people with the same measured standard of living - purchasing power of basic consumption needs - will be treated the same way. This refinement of past approaches retains some seemingly desirable features (such as concern for the tastes of the poor) and avoids others (such as the implicit use of a higher real poverty line in richer regions of the same country). For Indonesia, the cost-of-basic-needs methods finds more incidence, depth, and severity of poverty in rural areas, whereas the food-energy-intake method finds all measures of poverty worse in urban areas. The ranking of regions (provinces divided into rural and urban) by two methods has virtually zero correlation. The poverty profile by principal sector of employment is less sensitive to the choice of method, particularly in urban areas. This case study supports the conclusion that policymakers should be wary of underlying differences between methods of estimating poverty measures. The cost-of-basic-needs approach is fairly robust to severaly other methodological choices, notably changes in the composition of the basic need bundle (which determines the overall level of the poverty line), differences in the functional form of the poverty measure, and adjustment for spatial differences in prices, issues that have dominated debates on how to measure poverty. Ironically, the results of this study suggest that these issues matter less to poverty rankings (and hence to policy conclusions) than do the choices made in mapping a given specification of basic needs into monetary poverty lines.",
+    "ref_country": [
+      {
+        "name": "Indonesia",
+        "code": "IDN"
+      }
+    ],
+    "spatial_coverage": "East Asia and Pacific",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS1223",
+    "url": "http://documents.worldbank.org/curated/en/289921468752431305/How-robust-is-a-poverty-profile",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:55.572879",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

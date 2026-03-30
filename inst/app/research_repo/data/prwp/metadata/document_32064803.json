@@ -1,0 +1,128 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Sooner, the Better : The Early Economic Impact of Non-Pharmaceutical Interventions during the COVID-19 Pandemic",
+    "idno": "32064803",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "32064803",
+      "title": "The Sooner, the Better : The Early Economic Impact of Non-Pharmaceutical Interventions during the COVID-19 Pandemic",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Demirguc-Kunt,Asli"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Lokshin,Michael M."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Torre,Ivan"
+      }
+    ],
+    "date_created": "2020/05/26",
+    "date_available": "2020/05/26",
+    "date_published": "2020/05/26",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "32064803"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b087982c8e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b087982c8e"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The size of the economic shocks triggered by the COVID-19 pandemic and the effects of the associated non-pharmaceutical interventions have not been fully assessed, because the official economic indicators have not been published. This paper provides estimates of the economic impacts of the non-pharmaceutical interventions implemented by countries in Europe and Central Asia over the initial stages of the COVID-19 pandemic. The analysis relies on high-frequency proxies, such as daily electricity consumption, nitrogen dioxide emission, and mobility records, to trace the economic disruptions caused by the pandemic, and calibrates these measures to estimate magnitude of the economic impact. The results suggest that the non-pharmaceutical interventions led to about a decline of about 10 percent in economic activity across the region. On average, countries that implemented non-pharmaceutical interventions in the early stages of the pandemic appear to have better short-term economic outcomes and lower cumulative mortality, compared with countries that imposed non-pharmaceutical interventions during the later stages of the pandemic. In part, this is because the interventions have been less stringent. Moreover, there is evidence that COVID-19 mortality at the peak of the local outbreak has been lower in countries that acted earlier. In this sense, the results suggest that the sooner non-pharmaceutical interventions are implemented, the better are the economic and health outcomes.",
+    "ref_country": [
+      {
+        "name": "Europe",
+        "code": "-"
+      },
+      {
+        "name": "Central Asia",
+        "code": "-"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9257",
+    "url": "http://documents.worldbank.org/curated/en/636851590495700748/pdf/The-Sooner-the-Better-The-Early-Economic-Impact-of-Non-Pharmaceutical-Interventions-during-the-COVID-19-Pandemic.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:23.741200",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

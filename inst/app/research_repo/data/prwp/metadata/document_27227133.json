@@ -1,0 +1,131 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The direct and indirect costs of tax treaty policy : evidence from Ukraine",
+    "idno": "27227133",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27227133",
+      "title": "The direct and indirect costs of tax treaty policy : evidence from Ukraine",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Balabushko,Oleksii"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Beer,Sebastian"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Loeprick,Jan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pinto Vallada,Felipe"
+      }
+    ],
+    "date_created": "2017/02/27",
+    "date_available": "2017/02/27",
+    "date_published": "2017/02/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27227133"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b08498dafb"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b08498dafb"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study combines macro and micro data to quantify the revenue effects of double tax treaties. First, drawing on administrative information, the study estimates the tax sensitivity of income flows (dividend, interest, and royalty payments) at an aggregate level. The analysis finds important direct revenue costs linked to treaty restrictions on taxing rights, especially for flows into a few major investment hubs. However, high elasticities of income flows also suggest that increases in withholding rates at the individual treaty partner level would not necessarily result in more revenue collection. Second, the study uses firm-level information to estimate the sensitivity of reported profitability to changes in the relevant treaty network. The analysis of the reported earnings of multinational enterprise affiliates in Ukraine suggests that the ownership structure and operations with affiliates in certain jurisdictions explain reported profitability, and should thus receive increased attention in risk assessment and transfer pricing audit activities.",
+    "ref_country": [
+      {
+        "name": "Ukraine",
+        "code": "UKR"
+      }
+    ],
+    "spatial_coverage": "Europe and Central Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7982",
+    "url": "http://documents.worldbank.org/curated/en/534391488205311904/pdf/WPS7982.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:40.633239",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

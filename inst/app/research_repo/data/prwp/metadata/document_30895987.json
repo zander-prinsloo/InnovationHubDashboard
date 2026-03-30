@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Estimating Small Area Population Density Using Survey Data and Satellite Imagery : An Application to Sri Lanka",
+    "idno": "30895987",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "30895987",
+      "title": "Estimating Small Area Population Density Using Survey Data and Satellite Imagery : An Application to Sri Lanka",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Engstrom,Ryan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Newhouse,David Locke"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Soundararajan,Vidhya"
+      }
+    ],
+    "date_created": "2019/03/12",
+    "date_available": "2019/03/12",
+    "date_published": "2019/03/12",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "30895987"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b086a5c785"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b086a5c785"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "Country-level census data are typically collected once every 10 years. However, conflict, migration, urbanization, and natural disasters can cause rapid shifts in local population patterns. This study uses Sri Lankan data to demonstrate the feasibility of a bottom-up method that combines household survey data with contemporaneous satellite imagery to track frequent changes in local population density. A Poisson regression model based on indicators derived from satellite data, selected using the least absolute shrinkage and selection operator, accurately predicts village-level population density. The model is estimated in villages sampled in the 2012/13 Household Income and Expenditure Survey to obtain out-of-sample density predictions in the nonsurveyed villages. The predictions approximate the 2012 census density well and are more accurate than other bottom-up studies based on lower-resolution satellite data. The predictions are also more accurate than most publicly available population products, which rely on areal interpolation of census data to redistribute population at the local level. The accuracies are similar when estimated using a random forest model, and when density estimates are expressed in terms of population counts. The collective evidence suggests that combining surveys with satellite data is a cost-effective method to track local population changes at more frequent intervals.",
+    "ref_country": [
+      {
+        "name": "Sri Lanka",
+        "code": "LKA"
+      }
+    ],
+    "spatial_coverage": "South Asia",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8776",
+    "url": "http://documents.worldbank.org/curated/en/920771552394454183/pdf/WPS8776.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:31.300105",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

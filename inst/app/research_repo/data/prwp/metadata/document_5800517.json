@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Capital markets and e-fraud: policy note and concept paper for future study",
+    "idno": "5800517",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "5800517",
+      "title": "Capital markets and e-fraud: policy note and concept paper for future study",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kellermann, Tom"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Mcnevin,Valerie J."
+      }
+    ],
+    "date_created": "2005/05/01",
+    "date_available": "2010/07/01",
+    "date_published": "2010/07/01",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "5800517"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b0828a6ddc"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b0828a6ddc"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The technological dependency of securities exchanges on internet-based (IP) platforms has dramatically increased the industry's exposure to reputation, market, and operational risks. In addition, the convergence of several innovations in the market are adding stress to these systems. These innovations affect everything from software to system design and architecture. These include the use of XML (extensible markup language) as the industry IP language, STP or straight through processing of data, pervasive or diffuse computing and grid computing, as well as the increased use of Internet and wireless. The fraud is not new, rather, the magnitude and speed by which fraud can be committed has grown exponentially due to the convergence of once private networks on-line. It is imperative that senior management of securities markets and brokerage houses be properly informed of the negative externalities associated with e-brokerage and the possible critical points of failure that exist in today's digitized financial sector as they grow into tomorrow's exchanges. The overwhelming issue regarding e-finance is to determine the true level of understanding that senior management has about on-line platforms, including the inherent risks and the depth of the need to use it wisely. Kellermann and McNevin attempt to highlight the various risks that have been magnified by the increasing digitalization of processes within the brokerage arena and explain the need for concerted research and analysis of these as well as the profound consequences that may entail without proper planning. An effective legal, regulatory, and enforcement framework is essential for creating the right incentive structure for market participants. The legal and regulatory framework should focus on the improvement of internal monitoring of risks and vulnerabilities, greater information sharing about these risks and vulnerabilities, education and training on the care and use of these technologies, and better reporting of risks and responses. Public/private partnerships and collaborations also are needed to create an electronic commerce (e-commerce) environment that is safe and sound.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS3586",
+    "url": "http://documents.worldbank.org/curated/en/664531468320358452/pdf/wps3586.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:46:24.972302",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

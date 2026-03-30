@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Approximating income distribution dynamics using aggregate data",
+    "idno": "27678229",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "27678229",
+      "title": "Approximating income distribution dynamics using aggregate data",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay,Aart C."
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Van Der Weide,Roy"
+      }
+    ],
+    "date_created": "2017/06/27",
+    "date_available": "2017/06/27",
+    "date_published": "2017/06/27",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "27678229"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b084d377d3"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b084d377d3"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper proposes a methodology to approximate individual income distribution dynamics using only time series data on aggregate moments of the income distribution. Under the assumption that individual incomes follow a lognormal autoregressive process, this paper shows that the evolution over time of the mean and standard deviation of log income across individuals provides sufficient information to place upper and lower bounds on the degree of mobility in the income distribution. The paper demonstrates that these bounds are reasonably informative, using the U.S. Panel Study of Income Dynamics where the panel structure of the data allows us to compare measures of mobility directly estimated from the micro data with approximations based only on aggregate data. Bounds on mobility are estimated for a large cross-section of countries, using data on aggregate moments of the income distribution available in the World Wealth and Income Database and the World Bank's PovcalNet database. The estimated bounds on mobility imply that conventional anonymous growth rates of the bottom 40 percent (top 10 percent) that do not account for mobility substantially understate (overstate) the expected growth performance of those initially in the bottom 40 percent (top 10 percent).",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS8123",
+    "url": "http://documents.worldbank.org/curated/en/807641498574886507/pdf/WPS8123.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:36.545950",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

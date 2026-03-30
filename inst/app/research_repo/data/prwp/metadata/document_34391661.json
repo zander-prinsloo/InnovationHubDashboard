@@ -1,0 +1,145 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "Identification of an Expanded Inventory of Green Job Titles through AI-Driven Text Mining",
+    "idno": "34391661",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34391661",
+      "title": "Identification of an Expanded Inventory of Green Job Titles through AI-Driven Text Mining",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Paliński,Michał"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Aşık,Güneş"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Gajderowicz,Tomasz Janusz"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Jakubowski,Maciej Jan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Nas Ozen,Selin Efsan"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Raju,Dhushyanth"
+      }
+    ],
+    "date_created": "2024/09/16",
+    "date_available": "2024/09/16",
+    "date_published": "2024/09/16",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34391661"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-87c8b83e-2ddf-4903-b9ce-e2ecdf2d773a"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-87c8b83e-2ddf-4903-b9ce-e2ecdf2d773a"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10908"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This study expands the inventory of green job titles by incorporating a global perspective and using contemporary sources. It leverages natural language processing, specifically a retrieval-augmented generation model, to identify green job titles. The process began with a search of academic literature published after 2008 using the official APIs of Scopus and Web of Science. The search yielded 1,067 articles, from which 695 unique potential green job titles were identified. The retrieval-augmented generation model used the advanced text analysis capabilities of Generative Pre-trained Transformer 4, providing a reproducible method to categorize jobs within various green economy sectors. The research clustered these job titles into 25 distinct sectors. This categorization aligns closely with established frameworks, such as the U.S. Department of Labor&#x2019;s Occupational Information Network, and suggests potential new categories like green human resources. The findings demonstrate the efficacy of advanced natural language processing models in identifying emerging green job roles, contributing significantly to the ongoing discourse on the green economy transition.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10908",
+    "url": "http://documents.worldbank.org/curated/en/099457309162416941/pdf/IDU187c8b83e12ddf149031b9ce1e2ecdf2d773a.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:07.211081",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

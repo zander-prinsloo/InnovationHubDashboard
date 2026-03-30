@@ -1,0 +1,117 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "The Worldwide Governance Indicators : Methodology and 2024 Update",
+    "idno": "34417721",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "34417721",
+      "title": "The Worldwide Governance Indicators : Methodology and 2024 Update",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kaufmann,Daniel"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kraay,Aart C."
+      }
+    ],
+    "date_created": "2024/10/16",
+    "date_available": "2024/11/05",
+    "date_published": "2024/11/05",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "34417721"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "IDU-7c6f0b9e-f0c2-4b1d-b30d-76c4644af69e"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "IDU-7c6f0b9e-f0c2-4b1d-b30d-76c4644af69e"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-10952"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper provides an overview of the data sources and aggregation methodology for the Worldwide Governance Indicators (WGI). The WGI report six aggregate governance indicators measuring Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption in a sample of 214 economies over the period 1996&#x2013;2023. The aggregate indicators combine information from 35 different existing data sources, capturing subjective perceptions of the quality of various dimensions of governance reported by experts and survey respondents worldwide. The paper briefly discusses how to use reported margins of error when interpreting cross-country and over-time differences in the aggregate indicators. The paper also updates and extends earlier analysis on three key issues relating to the WGI methodology: (a) the effect of correlated perception errors, (b) the robustness of the aggregate indicators to alternative weighting schemes, and (c) the existence on trends in global averages of governance.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS10952",
+    "url": "http://documents.worldbank.org/curated/en/099005210162424110/pdf/IDU17c6f0b9e1f0c214b1d1b30d176c4644af69e.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:06.949764",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

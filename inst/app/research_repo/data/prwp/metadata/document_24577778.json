@@ -1,0 +1,148 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "How much of the labor in African agriculture is provided by women",
+    "idno": "24577778",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "24577778",
+      "title": "How much of the labor in African agriculture is provided by women",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Palacios-Lopez,Amparo"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Christiaensen,Luc"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Kilic,Talip"
+      }
+    ],
+    "date_created": "2015/06/02",
+    "date_available": "2015/06/02",
+    "date_published": "2015/06/02",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "24577778"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b082ee76a7"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b082ee76a7"
+      },
+      {
+        "type": "DOI",
+        "identifier": ""
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "The contribution of women to labor in African agriculture is regularly quoted in the range of 60 to 80 percent. Using individual-disaggregated, plot-level labor input data from nationally representative household surveys across six Sub-Saharan African countries, this study estimates the average female labor share in crop production at 40 percent. It is slightly above 50 percent in Malawi, Tanzania, and Uganda, and substantially lower in Nigeria (37 percent), Ethiopia (29 percent), and Niger (24 percent). There are no systematic differences across crops and activities, but female labor shares tend to be higher in households where women own a larger share of the land and when they are more educated. Controlling for the gender and knowledge profile of the respondents does not meaningfully change the predicted female labor shares. The findings question prevailing assertions regarding substantial gains in aggregate crop output as a result of increasing female agricultural productivity.",
+    "ref_country": [
+      {
+        "name": "Africa",
+        "code": "AFR"
+      },
+      {
+        "name": "Malawi",
+        "code": "MWI"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UGA"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NGA"
+      },
+      {
+        "name": "Niger",
+        "code": "NER"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ETH"
+      }
+    ],
+    "spatial_coverage": "Africa",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS7282",
+    "url": "http://documents.worldbank.org/curated/en/979671468189858347/pdf/How-much-of-the-labor-in-African-agriculture-is-provided-by-women.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:46.120648",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}

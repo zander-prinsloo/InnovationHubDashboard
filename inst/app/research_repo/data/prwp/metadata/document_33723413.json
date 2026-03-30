@@ -1,0 +1,124 @@
+{
+  "type": "document",
+  "metadata_information": {
+    "title": "A Dynamic Model of Fiscal Decentralization and Public Debt Accumulation",
+    "idno": "33723413",
+    "producers": [
+      {
+        "name": "Library",
+        "abbr": "ITSKI",
+        "affiliation": "World Bank",
+        "role": "Curation"
+      }
+    ],
+    "production_date": "2026/03/19",
+    "version": "Python script, from D&R API, generated on 2026-03-19"
+  },
+  "document_description": {
+    "title_statement": {
+      "idno": "33723413",
+      "title": "A Dynamic Model of Fiscal Decentralization and Public Debt Accumulation",
+      "sub_title": "",
+      "alternate_title": "",
+      "translated_title": ""
+    },
+    "authors": [
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Guo,Si"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Pei,Yun"
+      },
+      {
+        "first_name": "",
+        "initial": "",
+        "last_name": "",
+        "affiliation": "",
+        "full_name": "Xie,Leiyu"
+      }
+    ],
+    "date_created": "2022/02/07",
+    "date_available": "2022/02/07",
+    "date_published": "2022/02/07",
+    "identifiers": [
+      {
+        "type": "World Bank D&R",
+        "identifier": "33723413"
+      },
+      {
+        "type": "World Bank ID",
+        "identifier": "090224b088cccf40"
+      },
+      {
+        "type": "World Bank Chronical ID",
+        "identifier": "090224b088cccf40"
+      },
+      {
+        "type": "DOI",
+        "identifier": "10.1596/1813-9450-9927"
+      }
+    ],
+    "type": "Policy Research Working Paper",
+    "abstract": "This paper develops a dynamic infinite-horizon model with two layers of governments to study theoretically and quantitatively how fiscal decentralization affects local and central government debt accumulation and spending. In the model, the central government makes transfers to local governments to offset vertical and horizontal fiscal imbalances. But the anticipation of transfers lowers local governments’ expected cost of borrowing and leads to overborrowing ex ante. Absent commitment, the central government over-transfers to reduce local governments’ future need to borrow, and in the equilibrium both local and central debts are inefficiently high. Consistent with empirical evidence, when fiscal decentralization widens vertical fiscal imbalances, local governments become more reliant on transfers, and both local and central debts rise. Applied to Spain, the model explains 39 percent of the rise in total government debt when the vertical fiscal imbalances widened during 1988–1996, and 18 percent of the fall in debt when the imbalances narrowed during 1996–2006.",
+    "ref_country": [
+      {
+        "name": "World",
+        "code": "WLD"
+      }
+    ],
+    "spatial_coverage": "The World Region",
+    "languages": [
+      {
+        "name": "english",
+        "code": "en"
+      }
+    ],
+    "volume": "1",
+    "number": "WPS9927",
+    "url": "http://documents.worldbank.org/curated/en/734581644250111392/pdf/A-Dynamic-Model-of-Fiscal-Decentralization-and-Public-Debt-Accumulation.pdf",
+    "contacts": [
+      {
+        "name": "Documents and Reports Help Desk",
+        "affiliation": "World Bank",
+        "email": "documents@worldbank.org",
+        "uri": "https://documents.worldbank.org/en/publication/documents-reports/faqs"
+      }
+    ],
+    "usage_terms": "See World Bank Access to Information (https://www.worldbank.org/en/access-to-information)",
+    "disclaimer": "The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They do not necessarily represent the views of the International Bank for Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they represent.",
+    "security_classification": "Public",
+    "keywords": [],
+    "themes": [],
+    "reproducibility": {
+      "statement": "",
+      "links": [
+        {
+          "uri": "",
+          "description": ""
+        }
+      ]
+    },
+    "pricing": "Free"
+  },
+  "provenance": [
+    {
+      "origin_description": {
+        "harvest_date": "2026-03-19",
+        "altered": false,
+        "base_url": "https://documents.worldbank.org/en/publication/documents-reports/api",
+        "identifier": "",
+        "date_stamp": "2026-03-19T00:45:18.131175",
+        "metadata_namespace": "WB_DOCREP"
+      }
+    }
+  ],
+  "schematype": "document"
+}
