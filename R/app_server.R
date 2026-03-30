@@ -27,6 +27,18 @@ app_server <- function(input, output, session) {
   require(glue, quietly = TRUE)
   require(grid, quietly = TRUE)
 
+  # Optional: set INNOVATIONHUB_LOG_RESEARCH_REPO=1 on Connect to confirm manifest path
+  # Note: not `manifest.json` — rsconnect excludes that basename from every bundle (see rsconnect ignoreBundleFiles).
+  if (nzchar(Sys.getenv("INNOVATIONHUB_LOG_RESEARCH_REPO", ""))) {
+    mr <- app_sys("app/research_repo/data/prwp/search_manifest.json")
+    message(
+      "InnovationHubDashboard research_repo manifest: ",
+      mr,
+      " | file.exists=",
+      file.exists(mr)
+    )
+  }
+
   # 1b) preprocess d_sn: remove default method, drop unneeded cols, join country_name
   country_lookup <- data.frame(
     code = c("AGO","BFA","BGD","TCD","CIV","COL","EGY","ETH","GAB",
