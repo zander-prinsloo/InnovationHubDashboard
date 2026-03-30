@@ -1,15 +1,15 @@
-code,year,poverty_line,country_name,region_code,welfare_type,reporting_level,variable,value,method,label,label_not
-COL,2022,$2.15,Colombia,LAC,NA,national,headcount_default,9.300000220537186,consumption_conversion,9.3 (income),9.3
-COL,2022,$2.15,Colombia,LAC,NA,national,headcount_estimate,3.999999910593033,consumption_conversion,4 (consumption),4 (consumption)
-COL,2019,$2.15,Colombia,LAC,2,national,headcount_default,5.284737586975098,hh_allocation,5.28 (per capita allocation),5.28
-COL,2019,$2.15,Colombia,LAC,2,national,headcount_estimate,6.165075778961182,hh_allocation,6.17 (square root allocation),6.17 (square root allocation)
-COL,2015,$2.15,Colombia,LAC,NA,urban,headcount_estimate,2.5125063955783844,dou,2.51 (urban),2.51 (urban)
-COL,2015,$2.15,Colombia,LAC,NA,urban center,headcount_estimate,2.15157363563776,dou,2.15 (urban center),2.15 (urban center)
-COL,2015,$2.15,Colombia,LAC,NA,urban cluster,headcount_estimate,4.056103527545929,dou,4.06 (urban cluster),4.06 (urban cluster)
-COL,2015,$2.15,Colombia,LAC,NA,rural,headcount_estimate,10.743162781000137,dou,10.74 (rural),10.74 (rural)
-COL,2015,$2.15,Colombia,LAC,NA,national,headcount_default,4.925476014614105,db,4.93 (national),4.93
-COL,2015,$2.15,Colombia,LAC,NA,urban,headcount_estimate,2.4744730442762375,db,2.47 (urban),2.47 (urban)
-COL,2015,$2.15,Colombia,LAC,NA,urban core,headcount_estimate,2.2591572254896164,db,2.26 (urban core),2.26 (urban core)
-COL,2015,$2.15,Colombia,LAC,NA,suburb,headcount_estimate,4.163213446736336,db,4.16 (suburb),4.16 (suburb)
-COL,2015,$2.15,Colombia,LAC,NA,town,headcount_estimate,7.056295871734619,db,7.06 (town),7.06 (town)
-COL,2015,$2.15,Colombia,LAC,NA,rural,headcount_estimate,14.142489433288574,db,14.14 (rural),14.14 (rural)
+Economy code,Year,Poverty line,Economy,Region,Welfare type,Reporting level,Method,"Poverty rate ($2.15/day, 2017 PPPs)",Assumption,Label,Label not
+COL,2022,$2.15 ,Colombia,LAC,NA,national,PIP,9.300000221,consumption_conversion,9.3 (income),9.3
+COL,2022,$2.15 ,Colombia,LAC,NA,national,Alternative,3.999999911,consumption_conversion,4 (consumption),4 (consumption)
+COL,2019,$2.15 ,Colombia,LAC,2,national,PIP,5.284737587,hh_allocation,5.28 (per capita allocation),5.28
+COL,2019,$2.15 ,Colombia,LAC,2,national,Alternative,6.165075779,hh_allocation,6.17 (square root allocation),6.17 (square root allocation)
+COL,2015,$2.15 ,Colombia,LAC,NA,urban,Alternative,2.512506396,dou,2.51 (urban),2.51 (urban)
+COL,2015,$2.15 ,Colombia,LAC,NA,urban center,Alternative,2.151573636,dou,2.15 (urban center),2.15 (urban center)
+COL,2015,$2.15 ,Colombia,LAC,NA,urban cluster,Alternative,4.056103528,dou,4.06 (urban cluster),4.06 (urban cluster)
+COL,2015,$2.15 ,Colombia,LAC,NA,rural,Alternative,10.74316278,dou,10.74 (rural),10.74 (rural)
+COL,2015,$2.15 ,Colombia,LAC,NA,national,PIP,4.925476015,db,4.93 (national),4.93
+COL,2015,$2.15 ,Colombia,LAC,NA,urban,Alternative,2.474473044,db,2.47 (urban),2.47 (urban)
+COL,2015,$2.15 ,Colombia,LAC,NA,urban core,Alternative,2.259157225,db,2.26 (urban core),2.26 (urban core)
+COL,2015,$2.15 ,Colombia,LAC,NA,suburb,Alternative,4.163213447,db,4.16 (suburb),4.16 (suburb)
+COL,2015,$2.15 ,Colombia,LAC,NA,town,Alternative,7.056295872,db,7.06 (town),7.06 (town)
+COL,2015,$2.15 ,Colombia,LAC,NA,rural,Alternative,14.14248943,db,14.14 (rural),14.14 (rural)
